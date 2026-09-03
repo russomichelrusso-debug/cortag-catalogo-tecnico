@@ -4041,5 +4041,1904 @@
       "arquivo": "Catálago Livro 2026.pdf",
       "pagina": "33 (impressa 64-65)"
     }
+  },
+  {
+    "id": "acessorios-ventosa-succao-bateria",
+    "categoria": "acessorios-assentamento",
+    "categoriaNome": "Acessórios para Colocação e Assentamento",
+    "linha": "Ventosa de Sucção a Bateria",
+    "tagline": "Solução tecnológica e segura para o transporte e movimentação de peças de grandes formatos.",
+    "descricao": "Desenvolvida para elevação, transporte e movimentação de grandes formatos, oferecendo segurança, desempenho e praticidade. Possui sistema de sucção automática com monitoramento eletrônico de pressão, garantindo aderência contínua e segura durante o uso. Ideal para pisos, porcelanatos, vidros e painéis, contando com bateria recarregável USB-C e opções de base preta ou branca.",
+    "destaques": [
+      "Sistema contínuo de sucção automática.",
+      "Bateria recarregável com conector tipo C.",
+      "Monitoramento eletrônico de pressão."
+    ],
+    "imagem": "images/acessorios-assentamento/ventosa-succao-bateria.jpg",
+    "colunas": [
+      "Descrição",
+      "Capacidade de Carga",
+      "Qtde/Embalagem",
+      "EAN-13",
+      "Código"
+    ],
+    "camposVariante": [
+      "descricao",
+      "capacidadeCarga",
+      "qtdeEmbalagem",
+      "ean13",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Ventosa de sucção 200 mm Cortag a bateria - 150 kg",
+        "capacidadeCarga": "150 kg",
+        "qtdeEmbalagem": "1",
+        "ean13": "7897451430875",
+        "codigo": "63087"
+      },
+      {
+        "descricao": "Ventosa de sucção branca 200 mm Cortag a bateria - 150 kg",
+        "capacidadeCarga": "150 kg",
+        "qtdeEmbalagem": "1",
+        "ean13": "7897451430899",
+        "codigo": "63089"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "35 (impressa 68-69)"
+    }
+  },
+  {
+    "id": "acessorios-ventosa-succao-vacuo",
+    "categoria": "acessorios-assentamento",
+    "categoriaNome": "Acessórios para Colocação e Assentamento",
+    "linha": "Ventosa de Sucção a Vácuo",
+    "tagline": "Transporte facilitado e seguro de grandes formatos, com sistema de sucção eficiente mesmo em movimento.",
+    "descricao": "Projetada para o transporte e manuseio seguro de grandes formatos, oferecendo aderência firme em superfícies planas ou rugosas. Seu sistema de sucção eficiente garante segurança e estabilidade mesmo durante o movimento. Aba de remoção prática e relevos profundos que melhoram a aderência. Acompanha maleta e capa de proteção.",
+    "destaques": [
+      "Ergonomia: menor esforço no acionamento com o polegar ou a palma das mãos.",
+      "Faixa de segurança: marcador vermelho alerta em caso de perda de sucção.",
+      "Aba lateral emborrachada facilita a remoção da ventosa.",
+      "Construção robusta com parafusos hexagonais.",
+      "Acompanha maleta e capa de proteção."
+    ],
+    "imagem": "images/acessorios-assentamento/ventosa-succao-vacuo.jpg",
+    "colunas": [
+      "Descrição",
+      "Capacidade de Carga",
+      "Qtde/Embalagem",
+      "EAN-13",
+      "Código"
+    ],
+    "camposVariante": [
+      "descricao",
+      "capacidadeCarga",
+      "qtdeEmbalagem",
+      "ean13",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Ventosa de sucção 200 mm Cortag - 150 kg",
+        "capacidadeCarga": "150 kg",
+        "qtdeEmbalagem": "1",
+        "ean13": "7897451430851",
+        "codigo": "63085"
+      },
+      {
+        "descricao": "Ventosa de sucção branca 200 mm Cortag - 150 kg",
+        "capacidadeCarga": "150 kg",
+        "qtdeEmbalagem": "1",
+        "ean13": "7897451430882",
+        "codigo": "63088"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "35 (impressa 68-69)"
+    }
+  },
+  {
+    "id": "acessorios-ventosa-succao-manometro",
+    "categoria": "acessorios-assentamento",
+    "categoriaNome": "Acessórios para Colocação e Assentamento",
+    "linha": "Ventosa de Sucção com Manômetro",
+    "tagline": "Segurança e controle preciso para o transporte de grandes formatos.",
+    "descricao": "Desenvolvida para proporcionar segurança e estabilidade no transporte e manuseio de grandes formatos. Possui manômetro integrado, que indica o nível de pressão da sucção, e linha de segurança que alerta em caso de perda de pressão. Garante aderência em superfícies lisas ou levemente rugosas. Acompanha capa protetora e maleta de transporte (embalagem tipo maleta).",
+    "destaques": [
+      "Manômetro indicando o nível de pressão de sucção.",
+      "Linha de segurança indicando perda de pressão.",
+      "Acompanha capa protetora e maleta de transporte."
+    ],
+    "imagem": "images/acessorios-assentamento/ventosa-succao-manometro.jpg",
+    "colunas": [
+      "Descrição",
+      "Capacidade de Carga",
+      "Qtde/Embalagem",
+      "EAN-13",
+      "Código"
+    ],
+    "camposVariante": [
+      "descricao",
+      "capacidadeCarga",
+      "qtdeEmbalagem",
+      "ean13",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Ventosa de sucção 200 mm Cortag com manômetro - 150 kg",
+        "capacidadeCarga": "150 kg",
+        "qtdeEmbalagem": "1",
+        "ean13": "7897451430868",
+        "codigo": "63086"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "35 (impressa 68-69)"
+    }
+  },
+  {
+    "id": "acessorios-ventosa-succao-premium",
+    "categoria": "acessorios-assentamento",
+    "categoriaNome": "Acessórios para Colocação e Assentamento",
+    "linha": "Ventosa de Sucção Premium",
+    "tagline": "Segurança, qualidade e durabilidade para o transporte de peças planas ou rugosas.",
+    "descricao": "Indicadas para o transporte de peças planas e rugosas, como pisos cerâmicos, porcelanatos, vidros, chapas, espelhos e portas. Possuem suporte e alça em ABS de alta resistência e êmbolo em silicone de alto poder de sucção, garantindo aderência segura e estabilidade.",
+    "destaques": [
+      "Suporte e alça de plástico ABS de alta resistência.",
+      "Êmbolo em silicone de alto poder de sucção.",
+      "Estrutura reforçada suporta até 30 kg (simples) e 60 kg (dupla)."
+    ],
+    "imagem": "images/acessorios-assentamento/ventosa-succao-premium.jpg",
+    "colunas": [
+      "Tipo",
+      "Capacidade de Carga",
+      "Qtde/Caixa",
+      "EAN-13",
+      "DUN-14",
+      "Código"
+    ],
+    "camposVariante": [
+      "tipo",
+      "capacidadeCarga",
+      "qtdeCaixa",
+      "ean13",
+      "dun14",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "tipo": "Simples",
+        "capacidadeCarga": "30 kg",
+        "qtdeCaixa": "5",
+        "ean13": "7897451419948",
+        "dun14": "17897451419945",
+        "codigo": "61994"
+      },
+      {
+        "tipo": "Dupla",
+        "capacidadeCarga": "60 kg",
+        "qtdeCaixa": "4",
+        "ean13": "7897451419955",
+        "dun14": "17897451419952",
+        "codigo": "61995"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "36 (impressa 70-71)"
+    }
+  },
+  {
+    "id": "acessorios-ventosa-dupla-articulada",
+    "categoria": "acessorios-assentamento",
+    "categoriaNome": "Acessórios para Colocação e Assentamento",
+    "linha": "Ventosa Dupla Articulada",
+    "tagline": "A solução ideal para nivelamento preciso de pisos e revestimentos, inclusive em ângulos de 45°.",
+    "descricao": "Desenvolvida como uma opção prática e rápida para o nivelamento de pisos e revestimentos, garantindo aderência firme e alinhamento perfeito, especialmente em peças assentadas em ângulo de 45°.",
+    "destaques": [
+      "Estrutura de alumínio.",
+      "Suporte de alumínio e alça de plástico ABS."
+    ],
+    "imagem": "images/acessorios-assentamento/ventosa-dupla-articulada.jpg",
+    "colunas": [
+      "Tipo",
+      "Capacidade de Carga",
+      "Qtde/Embalagem",
+      "EAN-13",
+      "Código"
+    ],
+    "camposVariante": [
+      "tipo",
+      "capacidadeCarga",
+      "qtdeEmbalagem",
+      "ean13",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "tipo": "Dupla Articulada",
+        "capacidadeCarga": "100 kg",
+        "qtdeEmbalagem": "1",
+        "ean13": "7897451428339",
+        "codigo": "62833"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "36 (impressa 70-71)"
+    }
+  },
+  {
+    "id": "acessorios-ventosa-succao",
+    "categoria": "acessorios-assentamento",
+    "categoriaNome": "Acessórios para Colocação e Assentamento",
+    "linha": "Ventosa de Sucção",
+    "tagline": "Facilidade e segurança no transporte de peças planas e lisas.",
+    "descricao": "Desenvolvidas para o transporte seguro e prático de peças planas e lisas, como pisos cerâmicos, porcelanatos, vidros, chapas, espelhos e portas. Fabricadas com suporte e alça em plástico ABS de alta resistência e êmbolo em borracha injetada, garantem aderência firme, conforto e durabilidade no uso profissional.",
+    "destaques": [
+      "Estrutura reforçada em ABS de alta resistência.",
+      "Êmbolo em borracha injetada de alto poder de sucção.",
+      "Capacidade de carga de até 60 kg (dupla)."
+    ],
+    "imagem": "images/acessorios-assentamento/ventosa-succao.jpg",
+    "colunas": [
+      "Tipo",
+      "Capacidade de Carga",
+      "Qtde/Caixa",
+      "EAN-13",
+      "DUN-14",
+      "Código"
+    ],
+    "camposVariante": [
+      "tipo",
+      "capacidadeCarga",
+      "qtdeCaixa",
+      "ean13",
+      "dun14",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "tipo": "Simples",
+        "capacidadeCarga": "30 kg",
+        "qtdeCaixa": "5",
+        "ean13": "7897451466720",
+        "dun14": "17897451466727",
+        "codigo": "60672"
+      },
+      {
+        "tipo": "Dupla",
+        "capacidadeCarga": "60 kg",
+        "qtdeCaixa": "4",
+        "ean13": "7897451466737",
+        "dun14": "17897451466734",
+        "codigo": "60673"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "36 (impressa 70-71)"
+    }
+  },
+  {
+    "id": "acessorios-ventosa-dupla-niveladora",
+    "categoria": "acessorios-assentamento",
+    "categoriaNome": "Acessórios para Colocação e Assentamento",
+    "linha": "Ventosa Dupla Niveladora",
+    "tagline": "Precisão e eficiência no manuseio e nivelamento de pisos e revestimentos.",
+    "descricao": "Projetada para auxiliar no manuseio e nivelamento de pisos e revestimentos, oferecendo segurança, firmeza e estabilidade durante a instalação. Com estrutura em alumínio e alça de plástico ABS, garante leveza, resistência e durabilidade.",
+    "destaques": [
+      "Estrutura de alumínio.",
+      "Suporte de alumínio e alça de plástico ABS."
+    ],
+    "imagem": "images/acessorios-assentamento/ventosa-dupla-niveladora.jpg",
+    "colunas": [
+      "Tipo",
+      "Capacidade de Carga",
+      "Qtde/Embalagem",
+      "EAN-13",
+      "Código"
+    ],
+    "camposVariante": [
+      "tipo",
+      "capacidadeCarga",
+      "qtdeEmbalagem",
+      "ean13",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "tipo": "Dupla Niveladora",
+        "capacidadeCarga": "100 kg",
+        "qtdeEmbalagem": "1",
+        "ean13": "7897451428322",
+        "codigo": "62832"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "36 (impressa 70-71)"
+    }
+  },
+  {
+    "id": "acessorios-martelo-borracha",
+    "categoria": "acessorios-assentamento",
+    "categoriaNome": "Acessórios para Colocação e Assentamento",
+    "linha": "Martelo de Borracha",
+    "tagline": "Precisão e segurança no assentamento de pisos e revestimentos.",
+    "descricao": "Utilizado em assentamento de pisos e revestimentos. Ideal para trabalhos no qual o material a ser trabalhado não pode ser riscado ou danificado. Disponíveis nos modelos Tradicional e Tipo Americano, indicados para trabalhos em porcelanatos, cerâmicas e pedras naturais. Possuem cabo em madeira e cabeça em borracha de alta densidade.",
+    "destaques": [
+      "Recomendação: utilize branco em revestimentos claros e preto em revestimentos escuros.",
+      "Material/composição: martelo de borracha e cabo em madeira."
+    ],
+    "imagem": "images/acessorios-assentamento/martelo-borracha.jpg",
+    "colunas": [
+      "Modelo",
+      "Cor",
+      "Diâmetro (Ø)",
+      "Peso (kg)",
+      "Qtde/Caixa",
+      "EAN-13",
+      "DUN-14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "cor",
+      "diametro",
+      "peso",
+      "qtdeCaixa",
+      "ean13",
+      "dun14",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Tradicional",
+        "cor": "Branco",
+        "diametro": "40 mm",
+        "peso": "0,180",
+        "qtdeCaixa": "6",
+        "ean13": "7897451412772",
+        "dun14": "17897451412779",
+        "codigo": "61277"
+      },
+      {
+        "modelo": "Tradicional",
+        "cor": "Preto",
+        "diametro": "40 mm",
+        "peso": "0,180",
+        "qtdeCaixa": "6",
+        "ean13": "7897451412741",
+        "dun14": "17897451412748",
+        "codigo": "61274"
+      },
+      {
+        "modelo": "Tradicional",
+        "cor": "Branco",
+        "diametro": "60 mm",
+        "peso": "0,325",
+        "qtdeCaixa": "6",
+        "ean13": "7897451412789",
+        "dun14": "17897451412786",
+        "codigo": "61278"
+      },
+      {
+        "modelo": "Tradicional",
+        "cor": "Preto",
+        "diametro": "60 mm",
+        "peso": "0,325",
+        "qtdeCaixa": "6",
+        "ean13": "7897451412758",
+        "dun14": "17897451412755",
+        "codigo": "61275"
+      },
+      {
+        "modelo": "Tradicional",
+        "cor": "Branco",
+        "diametro": "80 mm",
+        "peso": "0,624",
+        "qtdeCaixa": "6",
+        "ean13": "7897451412796",
+        "dun14": "17897451412793",
+        "codigo": "61279"
+      },
+      {
+        "modelo": "Tradicional",
+        "cor": "Preto",
+        "diametro": "80 mm",
+        "peso": "0,624",
+        "qtdeCaixa": "6",
+        "ean13": "7897451412765",
+        "dun14": "17897451412762",
+        "codigo": "61276"
+      },
+      {
+        "modelo": "Americano",
+        "cor": "Branco",
+        "diametro": "50 mm",
+        "peso": "0,261",
+        "qtdeCaixa": "6",
+        "ean13": "7897451466164",
+        "dun14": "17897451466161",
+        "codigo": "60616"
+      },
+      {
+        "modelo": "Americano",
+        "cor": "Preto",
+        "diametro": "50 mm",
+        "peso": "0,261",
+        "qtdeCaixa": "6",
+        "ean13": "7897451466171",
+        "dun14": "17897451466178",
+        "codigo": "60617"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "37 (impressa 72-73)"
+    }
+  },
+  {
+    "id": "acessorios-batedor-argamassa",
+    "categoria": "acessorios-assentamento",
+    "categoriaNome": "Acessórios para Colocação e Assentamento",
+    "linha": "Batedor para Argamassa",
+    "tagline": "Mistura rápida e homogênea de argamassa, tinta e rejunte com praticidade e precisão.",
+    "descricao": "Os Batedores de Argamassa Cortag foram desenvolvidos para mistura eficiente de argamassas, tintas, rejuntes e impermeabilizantes, garantindo rapidez e homogeneidade. Podem ser acoplados a furadeiras profissionais. Disponíveis em modelos com pintura eletrostática anticorrosiva, haste sextavada e versões em alumínio, com formato em \"T\" que melhora a aeração e reduz o esforço durante o uso.",
+    "destaques": [
+      "40 cm pintado com proteção anticorrosão (cód. 62072).",
+      "Haste sextavada, indicado para mistura de alta densidade (cód. 61727).",
+      "Versão de alumínio em formato \"T\" facilita a saída de bolhas de ar (cód. 61974)."
+    ],
+    "imagem": "images/acessorios-assentamento/batedor-argamassa.jpg",
+    "colunas": [
+      "Modelo",
+      "Haste",
+      "Qtde/Caixa",
+      "EAN-13",
+      "DUN-14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "haste",
+      "qtdeCaixa",
+      "ean13",
+      "dun14",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "40 cm Pintado",
+        "haste": "Ø 10 mm",
+        "qtdeCaixa": "6",
+        "ean13": "7897451420722",
+        "dun14": "17897451420729",
+        "codigo": "62072"
+      },
+      {
+        "modelo": "40 cm",
+        "haste": "Ø 10 mm",
+        "qtdeCaixa": "6",
+        "ean13": "7897451468755",
+        "dun14": "17897451468752",
+        "codigo": "60876"
+      },
+      {
+        "modelo": "40 cm com Encaixe SDS Plus",
+        "haste": "Ø 10 mm",
+        "qtdeCaixa": "6",
+        "ean13": "7897451414127",
+        "dun14": "17897451414124",
+        "codigo": "61412"
+      },
+      {
+        "modelo": "60 cm",
+        "haste": "Ø 10 mm",
+        "qtdeCaixa": "6",
+        "ean13": "7897451412888",
+        "dun14": "17897451412885",
+        "codigo": "61288"
+      },
+      {
+        "modelo": "60 cm com Haste Sextavada alta densidade",
+        "haste": "Sextavado 3/8\"",
+        "qtdeCaixa": "6",
+        "ean13": "7897451417272",
+        "dun14": "17897451417279",
+        "codigo": "61727"
+      },
+      {
+        "modelo": "Batedor de argamassa de alumínio 24\" - 60 cm",
+        "haste": "Sextavado 3/8\"",
+        "qtdeCaixa": "6",
+        "ean13": "7897451419740",
+        "dun14": "17897451419747",
+        "codigo": "61974"
+      },
+      {
+        "modelo": "Encaixe SDS Plus - 60 cm",
+        "haste": "Ø 10 mm",
+        "qtdeCaixa": "6",
+        "ean13": "7897451428391",
+        "dun14": "17897451428398",
+        "codigo": "62839"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "37 (impressa 72-73)"
+    }
+  },
+  {
+    "id": "acessorios-raspador-argamassa",
+    "categoria": "acessorios-assentamento",
+    "categoriaNome": "Acessórios para Colocação e Assentamento",
+    "linha": "Raspador de Argamassa",
+    "tagline": "Precisão e eficiência na remoção de argamassa e preparo de juntas.",
+    "descricao": "Desenvolvido para remover o excesso de argamassa entre pisos e revestimentos, preparando o local para a aplicação de rejunte. Permite o acesso às juntas mais estreitas (até 1 mm) sem danificar o piso. Acompanha duas lâminas resistentes de alto poder de corte. Material/composição: cabo em plástico injetado, lâmina em chapa de aço carbono.",
+    "destaques": [
+      "Acompanha duas lâminas resistentes de alto poder de corte.",
+      "Acesso a juntas de até 1 mm sem danificar o piso."
+    ],
+    "imagem": "images/acessorios-assentamento/raspador-argamassa.jpg",
+    "colunas": [
+      "Espessura",
+      "Qtde/Caixa",
+      "EAN-13",
+      "DUN-14",
+      "Código"
+    ],
+    "camposVariante": [
+      "espessura",
+      "qtdeCaixa",
+      "ean13",
+      "dun14",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "espessura": "0,6 mm",
+        "qtdeCaixa": "6",
+        "ean13": "7897451421590",
+        "dun14": "17897451421597",
+        "codigo": "62159"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "38 (impressa 74-75)"
+    }
+  },
+  {
+    "id": "acessorios-kit-lamina-raspador-rejunte",
+    "categoria": "acessorios-assentamento",
+    "categoriaNome": "Acessórios para Colocação e Assentamento",
+    "linha": "Kit Lâmina para Raspador de Rejunte",
+    "tagline": "Lâminas de reposição para remoção precisa de rejunte e argamassa.",
+    "descricao": "Os Kits de Lâminas para Raspadores de Rejunte contêm 3 unidades e são ideais para reposição, garantindo desempenho contínuo dos raspadores Cortag. Disponíveis nas versões para remoção de rejunte e para raspagem de argamassa.",
+    "destaques": [
+      "Kit com 3 unidades por embalagem.",
+      "Disponível para raspador de rejunte Standard e para raspador de argamassa."
+    ],
+    "imagem": "images/acessorios-assentamento/kit-lamina-raspador-rejunte.jpg",
+    "colunas": [
+      "Aplicação",
+      "Espessura da Lâmina",
+      "Qtde/Caixa",
+      "EAN-13",
+      "DUN-14",
+      "Código"
+    ],
+    "camposVariante": [
+      "aplicacao",
+      "espessuraLamina",
+      "qtdeCaixa",
+      "ean13",
+      "dun14",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "aplicacao": "Lâmina raspador de rejunte Standard - Kit com 3 un.",
+        "espessuraLamina": "2,5 mm",
+        "qtdeCaixa": "6",
+        "ean13": "7897451418910",
+        "dun14": "17897451418917",
+        "codigo": "61891"
+      },
+      {
+        "aplicacao": "Lâmina raspador de argamassa - Kit com 3 un.",
+        "espessuraLamina": "0,6 mm",
+        "qtdeCaixa": "6",
+        "ean13": "7897451421606",
+        "dun14": "17897451421603",
+        "codigo": "62160"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "38 (impressa 74-75)"
+    }
+  },
+  {
+    "id": "acessorios-raspador-rejunte",
+    "categoria": "acessorios-assentamento",
+    "categoriaNome": "Acessórios para Colocação e Assentamento",
+    "linha": "Raspador de Rejunte",
+    "tagline": "Precisão e segurança na remoção e substituição de rejuntes.",
+    "descricao": "Desenvolvidos para remover rejuntes entre pisos e revestimentos sem danificar as bordas das peças, permitindo substituir juntas antigas por novas aplicações. Equipados com duas lâminas resistentes, possibilitam ajustar a largura do sulco removendo uma das lâminas. Disponíveis nas versões Standard, Slim e Supra, ideais para diferentes profundidades e tipos de junta. Material/composição: cabo em plástico injetado, lâmina em chapa de aço com borda de tungstênio. Não indicado para rejunte Epóxi.",
+    "destaques": [
+      "Standard: profundidade máxima do sulco até 6,0 mm, lâmina de 2,5 mm.",
+      "Slim: lâminas finas para juntas a partir de 1,5 mm, lâmina de 1,3 mm.",
+      "Supra: profundidade máxima do sulco até 15,0 mm, lâmina de 2,5 mm."
+    ],
+    "imagem": "images/acessorios-assentamento/raspador-rejunte.jpg",
+    "colunas": [
+      "Modelo",
+      "Espessura da Lâmina",
+      "Qtde/Caixa",
+      "EAN-13",
+      "DUN-14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "espessuraLamina",
+      "qtdeCaixa",
+      "ean13",
+      "dun14",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Standard",
+        "espessuraLamina": "2,5 mm",
+        "qtdeCaixa": "6",
+        "ean13": "7897451460667",
+        "dun14": "27897451468506",
+        "codigo": "60850"
+      },
+      {
+        "modelo": "Supra",
+        "espessuraLamina": "2,5 mm",
+        "qtdeCaixa": "6",
+        "ean13": "7897451413496",
+        "dun14": "27897451413490",
+        "codigo": "61349"
+      },
+      {
+        "modelo": "Slim",
+        "espessuraLamina": "1,3 mm",
+        "qtdeCaixa": "6",
+        "ean13": "7897451413649",
+        "dun14": "27897451413643",
+        "codigo": "61364"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "38 (impressa 74-75)"
+    }
+  },
+  {
+    "id": "acessorios-riscadores-azulejo",
+    "categoria": "acessorios-assentamento",
+    "categoriaNome": "Acessórios para Colocação e Assentamento",
+    "linha": "Riscadores de Azulejo",
+    "tagline": "Precisão e durabilidade para riscar azulejos, fórmica e outros materiais com alta eficiência.",
+    "descricao": "Riscador de Azulejo: utilizado para riscar pisos e azulejos, possibilitando que o corte e a separação sejam realizados no local demarcado com precisão e rapidez. Material/Composição: corpo em aço zincado com ponta de carboneto de tungstênio. Riscador Multiuso: projetado para riscar fórmica, azulejos e cerâmicas e também pode ser utilizado para abrir trincas em paredes de alvenaria. Possui pastilha de metal duro com alto poder de corte.",
+    "destaques": [
+      "Pastilha de widia com 4 arestas de corte.",
+      "Riscador multiuso com cabo em plástico injetado e pastilha de metal duro."
+    ],
+    "imagem": "images/acessorios-assentamento/riscadores-azulejo.jpg",
+    "colunas": [
+      "Modelo",
+      "Embalagem",
+      "Qtde/Caixa",
+      "EAN-13",
+      "DUN-14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "embalagem",
+      "qtdeCaixa",
+      "ean13",
+      "dun14",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Riscador de azulejo",
+        "embalagem": "Encartelado",
+        "qtdeCaixa": "20",
+        "ean13": "7897451460650",
+        "dun14": "17897451460657",
+        "codigo": "60900"
+      },
+      {
+        "modelo": "Riscador de azulejo",
+        "embalagem": "Granel",
+        "qtdeCaixa": "12",
+        "ean13": "7897451469028",
+        "dun14": "-",
+        "codigo": "60902"
+      },
+      {
+        "modelo": "Riscador de fórmica",
+        "embalagem": "-",
+        "qtdeCaixa": "12",
+        "ean13": "7897451467260",
+        "dun14": "17897451467267",
+        "codigo": "60726"
+      },
+      {
+        "modelo": "Riscador multiuso",
+        "embalagem": "-",
+        "qtdeCaixa": "12",
+        "ean13": "7897451460032",
+        "dun14": "17897451460039",
+        "codigo": "60003"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "39 (impressa 76-77)"
+    }
+  },
+  {
+    "id": "acessorios-riscadores-formica",
+    "categoria": "acessorios-assentamento",
+    "categoriaNome": "Acessórios para Colocação e Assentamento",
+    "linha": "Riscadores de Fórmica",
+    "tagline": "Precisão, conforto e durabilidade no risco de fórmica, azulejos e paredes.",
+    "descricao": "O Riscador de Fórmica com Cabo Plástico foi desenvolvido para riscar fórmica, azulejos e abrir pequenas trincas em paredes, oferecendo controle, conforto e precisão no manuseio. Sua ponta de carboneto afiada garante cortes firmes e duradouros, enquanto o ângulo otimizado da haste proporciona melhor ergonomia. Com cabo texturizado em plástico leve e resistente a impacto.",
+    "destaques": [
+      "Disponível com cabo de madeira ou cabo plástico.",
+      "Ponta de carboneto afiada para cortes firmes e duradouros."
+    ],
+    "imagem": "images/acessorios-assentamento/riscadores-formica.jpg",
+    "colunas": [
+      "Cabo",
+      "Qtde/Caixa",
+      "EAN-13",
+      "DUN-14",
+      "Código"
+    ],
+    "camposVariante": [
+      "cabo",
+      "qtdeCaixa",
+      "ean13",
+      "dun14",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "cabo": "Com cabo de madeira",
+        "qtdeCaixa": "12",
+        "ean13": "7897451467260",
+        "dun14": "17897451467267",
+        "codigo": "60726"
+      },
+      {
+        "cabo": "Com cabo plástico",
+        "qtdeCaixa": "12",
+        "ean13": "7897451423785",
+        "dun14": "17897451423782",
+        "codigo": "62378"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "39 (impressa 76-77)"
+    }
+  },
+  {
+    "id": "acessorios-aplicadores-silicone",
+    "categoria": "acessorios-assentamento",
+    "categoriaNome": "Acessórios para Colocação e Assentamento",
+    "linha": "Aplicadores de Silicone",
+    "tagline": "Eficiência e precisão na aplicação de silicone, colas e selantes.",
+    "descricao": "Alumínio: indicado para aplicação de cola, silicone, epóxi, massas e juntas em sachê, com sistema de acionamento reforçado para uso profissional. Empunhadura e gatilho injetados em alumínio, corpo em tubo de alumínio. Profissional: projetado para aplicação de silicone em tubos de até 300 g / 305 ml, com sistema de acionamento reforçado e gatilho ergonômico, corpo em chapa de aço com pintura eletrostática. Uso Leve: para aplicação de silicone em tubos de até 300 g / 305 ml, prático para trabalhos ocasionais, corpo em chapa de aço com pintura eletrostática.",
+    "destaques": [
+      "Alumínio: maior facilidade de uso e mínimo desperdício.",
+      "Profissional: conforto e controle em aplicações profissionais.",
+      "Uso Leve: praticidade e eficiência em trabalhos ocasionais."
+    ],
+    "imagem": "images/acessorios-assentamento/aplicadores-silicone.jpg",
+    "colunas": [
+      "Modelo",
+      "Tamanho",
+      "Qtde/Caixa",
+      "EAN-13",
+      "DUN-14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "tamanho",
+      "qtdeCaixa",
+      "ean13",
+      "dun14",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Alumínio",
+        "tamanho": "9\"",
+        "qtdeCaixa": "6",
+        "ean13": "7897451415704",
+        "dun14": "17897451415701",
+        "codigo": "61570"
+      },
+      {
+        "modelo": "Alumínio",
+        "tamanho": "15\"",
+        "qtdeCaixa": "6",
+        "ean13": "7897451415803",
+        "dun14": "17897451415800",
+        "codigo": "61580"
+      },
+      {
+        "modelo": "Uso leve",
+        "tamanho": "9\"",
+        "qtdeCaixa": "6",
+        "ean13": "7897451468700",
+        "dun14": "37897451468701",
+        "codigo": "60870"
+      },
+      {
+        "modelo": "Profissional",
+        "tamanho": "9\"",
+        "qtdeCaixa": "6",
+        "ean13": "7897451415698",
+        "dun14": "17897451415695",
+        "codigo": "61569"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "39 (impressa 76-77)"
+    }
+  },
+  {
+    "id": "acessorios-lima-tugstenio",
+    "categoria": "acessorios-assentamento",
+    "categoriaNome": "Acessórios para Colocação e Assentamento",
+    "linha": "Lima de Tugstênio",
+    "tagline": "Precisão e durabilidade para desbaste e acabamento de pisos cerâmicos e porcelanatos.",
+    "descricao": "A Lima de Tungstênio Meia Cana é indicada para desbaste e acabamento de pisos e revestimentos cerâmicos, garantindo alto poder de corte, precisão e longa vida útil. Possui formato meia cana, que permite trabalhar tanto em superfícies planas quanto curvas. Ideal para ajustes e correções em peças de porcelanato e cerâmica durante o assentamento.",
+    "destaques": [
+      "Formato meia cana para superfícies planas e curvas.",
+      "Alto poder de corte, precisão e longa vida útil."
+    ],
+    "imagem": "images/acessorios-assentamento/lima-tugstenio.jpg",
+    "colunas": [
+      "Tamanho",
+      "Qtde/Caixa",
+      "EAN-13",
+      "DUN-14",
+      "Código"
+    ],
+    "camposVariante": [
+      "tamanho",
+      "qtdeCaixa",
+      "ean13",
+      "dun14",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "tamanho": "8\" - 200 mm",
+        "qtdeCaixa": "6",
+        "ean13": "7897451417463",
+        "dun14": "17897451417460",
+        "codigo": "61746"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "39 (impressa 76-77)"
+    }
+  },
+  {
+    "id": "acessorios-aplicador-argamassa",
+    "categoria": "acessorios-assentamento",
+    "categoriaNome": "Acessórios para Colocação e Assentamento",
+    "linha": "Aplicador de Argamassa",
+    "tagline": "Eficiência e rapidez na aplicação de argamassa em grandes áreas.",
+    "descricao": "O Aplicador para Argamassa foi projetado para aplicação de argamassa em grandes áreas, garantindo alta produtividade, praticidade e uniformidade na execução.",
+    "destaques": [
+      "Alta produtividade em grandes áreas.",
+      "Uniformidade na execução da aplicação."
+    ],
+    "imagem": "images/acessorios-assentamento/aplicador-argamassa.jpg",
+    "colunas": [
+      "Qtde/Embalagem",
+      "EAN-13",
+      "Código"
+    ],
+    "camposVariante": [
+      "qtdeEmbalagem",
+      "ean13",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "qtdeEmbalagem": "1",
+        "ean13": "7897451418583",
+        "codigo": "61858"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "40 (impressa 78-79)"
+    }
+  },
+  {
+    "id": "acessorios-suportes-niveladores-regua",
+    "categoria": "acessorios-assentamento",
+    "categoriaNome": "Acessórios para Colocação e Assentamento",
+    "linha": "Suportes Niveladores de Régua",
+    "tagline": "Precisão e praticidade no nivelamento de réguas para revestimentos em paredes.",
+    "descricao": "Os Suportes Niveladores de Régua foram desenvolvidos para ajustar e nivelar réguas no assentamento de revestimentos em paredes, proporcionando agilidade, precisão e estabilidade durante a instalação.",
+    "destaques": [
+      "Agilidade e precisão na instalação.",
+      "Disponível em 30 cm e 50 cm."
+    ],
+    "imagem": "images/acessorios-assentamento/suportes-niveladores-regua.jpg",
+    "colunas": [
+      "Altura",
+      "Qtde/Embalagem",
+      "EAN-13",
+      "Código"
+    ],
+    "camposVariante": [
+      "altura",
+      "qtdeEmbalagem",
+      "ean13",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "altura": "30 cm",
+        "qtdeEmbalagem": "1",
+        "ean13": "7897451415889",
+        "codigo": "61588"
+      },
+      {
+        "altura": "50 cm",
+        "qtdeEmbalagem": "1",
+        "ean13": "7897451415896",
+        "codigo": "61589"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "40 (impressa 78-79)"
+    }
+  },
+  {
+    "id": "acessorios-suporte-nivelador-regua-premium",
+    "categoria": "acessorios-assentamento",
+    "categoriaNome": "Acessórios para Colocação e Assentamento",
+    "linha": "Suporte Nivelador de Régua Premium",
+    "tagline": "Máxima precisão e estabilidade na nivelação de réguas para revestimentos.",
+    "descricao": "O Suporte Nivelador de Régua Premium Cortag oferece precisão e praticidade para profissionais. Com um design robusto e mecanismo de acionamento eficiente, garante nivelamento perfeito de superfícies, facilitando a aplicação de cerâmicas e revestimentos em paredes.",
+    "selo": "NOVO",
+    "destaques": [
+      "Design robusto e mecanismo de acionamento eficiente.",
+      "Disponível em 10, 20 e 30 cm."
+    ],
+    "imagem": "images/acessorios-assentamento/suporte-nivelador-regua-premium.jpg",
+    "colunas": [
+      "Altura",
+      "Qtde/Embalagem",
+      "EAN-13",
+      "Código"
+    ],
+    "camposVariante": [
+      "altura",
+      "qtdeEmbalagem",
+      "ean13",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "altura": "10 cm",
+        "qtdeEmbalagem": "1",
+        "ean13": "7897451426045",
+        "codigo": "62904"
+      },
+      {
+        "altura": "20 cm",
+        "qtdeEmbalagem": "1",
+        "ean13": "7897451426052",
+        "codigo": "62905"
+      },
+      {
+        "altura": "30 cm",
+        "qtdeEmbalagem": "1",
+        "ean13": "7897451426069",
+        "codigo": "62906"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "40 (impressa 78-79)"
+    }
+  },
+  {
+    "id": "acessorios-regulador-altura",
+    "categoria": "acessorios-assentamento",
+    "categoriaNome": "Acessórios para Colocação e Assentamento",
+    "linha": "Regulador de Altura",
+    "tagline": "Ajuste de altura preciso e fácil para nivelamento em obra.",
+    "descricao": "O Regulador de Altura oferece praticidade e precisão ao ajustar o nível de pisos e revestimentos. Seu manípulo de 6 pontas facilita o manuseio, garantindo maior controle durante o processo de nivelamento.",
+    "selo": "NOVO",
+    "destaques": [
+      "Manípulo de 6 pontas facilita o manuseio.",
+      "Maior controle durante o nivelamento."
+    ],
+    "imagem": "images/acessorios-assentamento/regulador-altura.jpg",
+    "colunas": [
+      "Tipo",
+      "Qtde/Embalagem",
+      "EAN-13",
+      "Código"
+    ],
+    "camposVariante": [
+      "tipo",
+      "qtdeEmbalagem",
+      "ean13",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "tipo": "5,5 cm",
+        "qtdeEmbalagem": "1",
+        "ean13": "7897451429077",
+        "codigo": "62907"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "40 (impressa 78-79)"
+    }
+  },
+  {
+    "id": "acessorios-bloco-espuma",
+    "categoria": "acessorios-assentamento",
+    "categoriaNome": "Acessórios para Colocação e Assentamento",
+    "linha": "Bloco de Espuma",
+    "tagline": "Versatilidade e desempenho para acabamento e limpeza profissional.",
+    "descricao": "O Bloco de Espuma Cortag é indicado para acabamento em reboco e rejunte, além de ser ideal para lavagem de pisos, vidraças, automóveis e limpeza em geral. Produzido em espuma de poliuretano expandido, oferece alta absorção, durabilidade e excelente desempenho.",
+    "destaques": [
+      "Alta absorção e durabilidade.",
+      "Ideal para acabamento em reboco e rejunte."
+    ],
+    "imagem": "images/acessorios-assentamento/bloco-espuma.jpg",
+    "colunas": [
+      "Descrição",
+      "Qtde/Caixa",
+      "EAN-13",
+      "DUN-14",
+      "Código"
+    ],
+    "camposVariante": [
+      "descricao",
+      "qtdeCaixa",
+      "ean13",
+      "dun14",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Bloco de espuma",
+        "qtdeCaixa": "25",
+        "ean13": "7897451467406",
+        "dun14": "17897451467403",
+        "codigo": "60950"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "40 (impressa 78-79)"
+    }
+  },
+  {
+    "id": "acessorios-joelheiras",
+    "categoria": "acessorios-assentamento",
+    "categoriaNome": "Acessórios para Colocação e Assentamento",
+    "linha": "Joelheiras",
+    "tagline": "Conforto e proteção para assentamento de pisos e serviços gerais.",
+    "descricao": "As Joelheiras Cortag são indicadas para assentamento de pisos, preparação de contrapiso e rejuntamento, além de serviços de jardinagem, pintura e manutenção doméstica. Fabricadas em EVA ou borracha de alta resistência, oferecem proteção aos joelhos em contato com superfícies abrasivas.",
+    "destaques": [
+      "Joelheira EVA (cód. 60538).",
+      "Joelheira de Borracha (cód. 60289).",
+      "Joelheira GEL, mais conforto e ergonomia (cód. 63267 — NOVO)."
+    ],
+    "imagem": "images/acessorios-assentamento/joelheiras.jpg",
+    "colunas": [
+      "Material",
+      "Qtde/Embalagem",
+      "Qtde/Caixa",
+      "EAN-13",
+      "DUN-14",
+      "Código"
+    ],
+    "camposVariante": [
+      "material",
+      "qtdeEmbalagem",
+      "qtdeCaixa",
+      "ean13",
+      "dun14",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "material": "EVA",
+        "qtdeEmbalagem": "Par",
+        "qtdeCaixa": "6 pares",
+        "ean13": "7897451465389",
+        "dun14": "17897451465386",
+        "codigo": "60538"
+      },
+      {
+        "material": "Borracha",
+        "qtdeEmbalagem": "Par",
+        "qtdeCaixa": "6 pares",
+        "ean13": "7897451462890",
+        "dun14": "17897451462897",
+        "codigo": "60289"
+      },
+      {
+        "material": "Gel",
+        "qtdeEmbalagem": "Par",
+        "qtdeCaixa": "10 pares",
+        "ean13": "7897451432671",
+        "dun14": "-",
+        "codigo": "63267"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "40 (impressa 78-79)"
+    }
+  },
+  {
+    "id": "acessorios-espatulas",
+    "categoria": "acessorios-assentamento",
+    "categoriaNome": "Acessórios para Colocação e Assentamento",
+    "linha": "Espátulas",
+    "tagline": "Ferramentas versáteis para raspagem, acabamento e uso geral na construção civil.",
+    "descricao": "Cabo de Plástico: indicada para raspagem e remoção de resíduos como tinta, cimento, massa corrida, rejunte, gesso, resinas e similares. Cabo de Madeira: utilizada para remoção de resíduos e nivelamento de superfícies, com ótimo controle e conforto. Multiuso - Cabo Emborrachado: ferramenta multiuso e ergonômica para raspar superfícies, abrir tampas de latas de tinta, raspar tintas e limpar rolos de pintura, retirar pregos e realizar pequenos reparos.",
+    "destaques": [
+      "Cabo de plástico: chapa de aço temperado.",
+      "Cabo de madeira: chapa de aço inoxidável.",
+      "Multiuso: aço inoxidável com cabo em PVC e borracha termoplástica."
+    ],
+    "imagem": "images/acessorios-assentamento/espatulas.jpg",
+    "colunas": [
+      "Modelo",
+      "Largura",
+      "Qtde/Caixa",
+      "EAN-13",
+      "DUN-14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "largura",
+      "qtdeCaixa",
+      "ean13",
+      "dun14",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Cabo de plástico",
+        "largura": "5 cm",
+        "qtdeCaixa": "12",
+        "ean13": "7897451463200",
+        "dun14": "17897451463207",
+        "codigo": "60320"
+      },
+      {
+        "modelo": "Cabo de plástico",
+        "largura": "8 cm",
+        "qtdeCaixa": "12",
+        "ean13": "7897451463255",
+        "dun14": "17897451463252",
+        "codigo": "60325"
+      },
+      {
+        "modelo": "Cabo de plástico",
+        "largura": "12 cm",
+        "qtdeCaixa": "12",
+        "ean13": "7897451463309",
+        "dun14": "17897451463306",
+        "codigo": "60330"
+      },
+      {
+        "modelo": "Cabo de madeira",
+        "largura": "6 cm",
+        "qtdeCaixa": "12",
+        "ean13": "7897451463262",
+        "dun14": "17897451463269",
+        "codigo": "60326"
+      },
+      {
+        "modelo": "Cabo de madeira",
+        "largura": "8 cm",
+        "qtdeCaixa": "12",
+        "ean13": "7897451463279",
+        "dun14": "17897451463276",
+        "codigo": "60327"
+      },
+      {
+        "modelo": "Cabo de madeira",
+        "largura": "10 cm",
+        "qtdeCaixa": "12",
+        "ean13": "7897451463286",
+        "dun14": "17897451463283",
+        "codigo": "60328"
+      },
+      {
+        "modelo": "Cabo de madeira",
+        "largura": "12 cm",
+        "qtdeCaixa": "12",
+        "ean13": "7897451463293",
+        "dun14": "17897451463290",
+        "codigo": "60329"
+      },
+      {
+        "modelo": "Multiuso - Cabo emborrachado",
+        "largura": "13,5 cm",
+        "qtdeCaixa": "6",
+        "ean13": "7897451415513",
+        "dun14": "17897451415510",
+        "codigo": "61551"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "41 (impressa 80-81)"
+    }
+  },
+  {
+    "id": "acessorios-espatula-desempenadeira",
+    "categoria": "acessorios-assentamento",
+    "categoriaNome": "Acessórios para Colocação e Assentamento",
+    "linha": "Espátula Desempenadeira",
+    "tagline": "Acabamento perfeito com conforto, precisão e durabilidade.",
+    "descricao": "As Espátulas Desempenadeiras Cortag foram desenvolvidas para facilitar a aplicação de argamassa, especialmente em locais de difícil acesso. Com lâminas resistentes e cabo ergonômico, garantem eficiência, controle e excelente resultado no assentamento de pisos e revestimentos.",
+    "selo": "NOVO",
+    "destaques": [
+      "Disponível em aço e aço inox.",
+      "Larguras de 3x3 mm a 10x10 mm."
+    ],
+    "imagem": "images/acessorios-assentamento/espatula-desempenadeira.jpg",
+    "colunas": [
+      "Largura",
+      "Modelo",
+      "Qtde/Caixa",
+      "EAN-13",
+      "DUN-14",
+      "Código"
+    ],
+    "camposVariante": [
+      "largura",
+      "modelo",
+      "qtdeCaixa",
+      "ean13",
+      "dun14",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "largura": "10 X 10 mm",
+        "modelo": "Aço",
+        "qtdeCaixa": "10",
+        "ean13": "7897451429091",
+        "dun14": "17897451429098",
+        "codigo": "62909"
+      },
+      {
+        "largura": "8 X 8 mm",
+        "modelo": "Aço",
+        "qtdeCaixa": "10",
+        "ean13": "7897451429107",
+        "dun14": "17897451429104",
+        "codigo": "62910"
+      },
+      {
+        "largura": "6 X 6 mm",
+        "modelo": "Aço",
+        "qtdeCaixa": "10",
+        "ean13": "7897451429114",
+        "dun14": "17897451429111",
+        "codigo": "62911"
+      },
+      {
+        "largura": "3 X 3 mm",
+        "modelo": "Aço",
+        "qtdeCaixa": "10",
+        "ean13": "7897451429121",
+        "dun14": "17897451429128",
+        "codigo": "62912"
+      },
+      {
+        "largura": "10 X 10 mm",
+        "modelo": "Aço Inox",
+        "qtdeCaixa": "10",
+        "ean13": "7897451431469",
+        "dun14": "17897451431466",
+        "codigo": "63146"
+      },
+      {
+        "largura": "8 X 8 mm",
+        "modelo": "Aço Inox",
+        "qtdeCaixa": "10",
+        "ean13": "7897451431476",
+        "dun14": "17897451431473",
+        "codigo": "63147"
+      },
+      {
+        "largura": "6 X 6 mm",
+        "modelo": "Aço Inox",
+        "qtdeCaixa": "10",
+        "ean13": "7897451431483",
+        "dun14": "17897451431480",
+        "codigo": "63148"
+      },
+      {
+        "largura": "3 X 3 mm",
+        "modelo": "Aço Inox",
+        "qtdeCaixa": "10",
+        "ean13": "7897451431490",
+        "dun14": "17897451431497",
+        "codigo": "63149"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "41 (impressa 80-81)"
+    }
+  },
+  {
+    "id": "acessorios-espatula-profissional",
+    "categoria": "acessorios-assentamento",
+    "categoriaNome": "Acessórios para Colocação e Assentamento",
+    "linha": "Espátula Profissional",
+    "tagline": "Versatilidade e praticidade para todas as etapas do seu projeto.",
+    "descricao": "A Espátula Profissional Cortag foi desenvolvida para entregar acabamento superior em qualquer tipo de superfície, do gesso à argamassa. Sua lâmina em aço inox e cabo ergonômico garantem durabilidade, firmeza e precisão, atendendo às exigências de uso profissional.",
+    "selo": "NOVO",
+    "destaques": [
+      "Lâmina em aço inox.",
+      "Cabo ergonômico para uso profissional."
+    ],
+    "imagem": "images/acessorios-assentamento/espatula-profissional.jpg",
+    "colunas": [
+      "Modelo",
+      "Largura",
+      "Qtde/Caixa",
+      "EAN-13",
+      "DUN-14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "largura",
+      "qtdeCaixa",
+      "ean13",
+      "dun14",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Aço Inox",
+        "largura": "4 cm",
+        "qtdeCaixa": "12",
+        "ean13": "7897451431568",
+        "dun14": "17897451431565",
+        "codigo": "63156"
+      },
+      {
+        "modelo": "Aço Inox",
+        "largura": "5 cm",
+        "qtdeCaixa": "12",
+        "ean13": "7897451431575",
+        "dun14": "17897451431572",
+        "codigo": "63157"
+      },
+      {
+        "modelo": "Aço Inox",
+        "largura": "6 cm",
+        "qtdeCaixa": "12",
+        "ean13": "7897451431582",
+        "dun14": "17897451431589",
+        "codigo": "63158"
+      },
+      {
+        "modelo": "Aço Inox",
+        "largura": "8 cm",
+        "qtdeCaixa": "12",
+        "ean13": "7897451431599",
+        "dun14": "17897451431596",
+        "codigo": "63159"
+      },
+      {
+        "modelo": "Aço Inox",
+        "largura": "10 cm",
+        "qtdeCaixa": "12",
+        "ean13": "7897451431605",
+        "dun14": "17897451431602",
+        "codigo": "63160"
+      },
+      {
+        "modelo": "Aço Inox",
+        "largura": "12 cm",
+        "qtdeCaixa": "12",
+        "ean13": "7897451431612",
+        "dun14": "17897451431619",
+        "codigo": "63161"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "41 (impressa 80-81)"
+    }
+  },
+  {
+    "id": "acessorios-espatulas-lisas-basic",
+    "categoria": "acessorios-assentamento",
+    "categoriaNome": "Acessórios para Colocação e Assentamento",
+    "linha": "Espátulas Lisas Basic",
+    "tagline": "Versatilidade e praticidade para todas as etapas do seu projeto.",
+    "descricao": "As Espátulas de Aço Lisas com Cabo Plástico Cortag Basic foram desenvolvidas para aplicar, alisar e nivelar diversos materiais, como gesso, massa corrida, argamassa e cimento, oferecendo acabamento preciso e uniforme em diferentes tipos de superfície.",
+    "selo": "NOVO",
+    "destaques": [
+      "Aço zincado com cabo plástico.",
+      "Larguras de 4 cm a 12 cm."
+    ],
+    "imagem": "images/acessorios-assentamento/espatulas-lisas-basic.jpg",
+    "colunas": [
+      "Modelo",
+      "Largura",
+      "Qtde/Caixa",
+      "EAN-13",
+      "DUN-14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "largura",
+      "qtdeCaixa",
+      "ean13",
+      "dun14",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Aço Zincado",
+        "largura": "4 cm",
+        "qtdeCaixa": "12",
+        "ean13": "7897451431506",
+        "dun14": "17897451431503",
+        "codigo": "63150"
+      },
+      {
+        "modelo": "Aço Zincado",
+        "largura": "5 cm",
+        "qtdeCaixa": "12",
+        "ean13": "7897451431513",
+        "dun14": "17897451431510",
+        "codigo": "63151"
+      },
+      {
+        "modelo": "Aço Zincado",
+        "largura": "6 cm",
+        "qtdeCaixa": "12",
+        "ean13": "7897451431520",
+        "dun14": "17897451431527",
+        "codigo": "63152"
+      },
+      {
+        "modelo": "Aço Zincado",
+        "largura": "8 cm",
+        "qtdeCaixa": "12",
+        "ean13": "7897451431537",
+        "dun14": "17897451431534",
+        "codigo": "63153"
+      },
+      {
+        "modelo": "Aço Zincado",
+        "largura": "10 cm",
+        "qtdeCaixa": "12",
+        "ean13": "7897451431544",
+        "dun14": "17897451431541",
+        "codigo": "63154"
+      },
+      {
+        "modelo": "Aço Zincado",
+        "largura": "12 cm",
+        "qtdeCaixa": "12",
+        "ean13": "7897451431551",
+        "dun14": "17897451431558",
+        "codigo": "63155"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "42 (impressa 82-83)"
+    }
+  },
+  {
+    "id": "acessorios-gabaritos-angulares",
+    "categoria": "acessorios-assentamento",
+    "categoriaNome": "Acessórios para Colocação e Assentamento",
+    "linha": "Gabaritos Angulares",
+    "tagline": "Precisão e agilidade na marcação de ângulos e formatos irregulares.",
+    "descricao": "Metálico: ideal para marcação de pisos e revestimentos, permitindo alinhamento e posicionamento precisos em superfícies com ângulos ou formatos irregulares. Possui estrutura metálica resistente e gabarito plástico adicional para transferência de pontos hidráulicos. Plástico: auxilia na marcação de pisos e revestimentos em ângulos e superfícies irregulares, leve e fácil de manusear.",
+    "destaques": [
+      "Metálico: estrutura resistente e gabarito plástico adicional.",
+      "Plástico: leve e fácil de manusear, ideal para instalações rápidas."
+    ],
+    "imagem": "images/acessorios-assentamento/gabaritos-angulares.jpg",
+    "colunas": [
+      "Modelo",
+      "Qtde/Caixa",
+      "EAN-13",
+      "DUN-14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "qtdeCaixa",
+      "ean13",
+      "dun14",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Metálico",
+        "qtdeCaixa": "6",
+        "ean13": "7897451418798",
+        "dun14": "17897451418795",
+        "codigo": "61879"
+      },
+      {
+        "modelo": "Plástico",
+        "qtdeCaixa": "6",
+        "ean13": "7897451418781",
+        "dun14": "17897451418788",
+        "codigo": "61878"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "42 (impressa 82-83)"
+    }
+  },
+  {
+    "id": "acessorios-medidor-contorno",
+    "categoria": "acessorios-assentamento",
+    "categoriaNome": "Acessórios para Colocação e Assentamento",
+    "linha": "Medidor de Contorno",
+    "tagline": "Precisão e praticidade na marcação e transferência de contornos.",
+    "descricao": "Os Medidores de Contornos Cortag são indicados para marcação e transferência de contornos em superfícies irregulares, garantindo precisão e agilidade na reprodução de formatos complexos. Ideais para pisos, revestimentos, encanamentos, molduras e rodapés.",
+    "destaques": [
+      "Disponível em 6\" (150 mm) e 10\" (250 mm).",
+      "Otimiza o tempo de trabalho e evita desperdício de material."
+    ],
+    "imagem": "images/acessorios-assentamento/medidor-contorno.jpg",
+    "colunas": [
+      "Modelo",
+      "Qtde/Caixa",
+      "EAN-13",
+      "DUN-14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "qtdeCaixa",
+      "ean13",
+      "dun14",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "6\" - 150 mm",
+        "qtdeCaixa": "6",
+        "ean13": "7897451462333",
+        "dun14": "17897451462330",
+        "codigo": "60233"
+      },
+      {
+        "modelo": "10\" - 250 mm",
+        "qtdeCaixa": "6",
+        "ean13": "7897451462364",
+        "dun14": "17897451462361",
+        "codigo": "60236"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "42 (impressa 82-83)"
+    }
+  },
+  {
+    "id": "acessorios-medidor-contorno-pro",
+    "categoria": "acessorios-assentamento",
+    "categoriaNome": "Acessórios para Colocação e Assentamento",
+    "linha": "Medidor de Contorno PRÓ",
+    "tagline": "Agilidade e precisão na marcação de contornos curvos e irregulares.",
+    "descricao": "O Medidor de Contorno Pró possui um perfil de 250 mm, ideal para marcar e transferir contornos circulares e irregulares com rapidez e exatidão. Permite copiar formas e criar modelos para perfis curvos, facilitando o trabalho em pisos laminados, vinil e outros tipos de revestimentos.",
+    "destaques": [
+      "Perfil de 250 mm.",
+      "Design robusto com precisão e estabilidade."
+    ],
+    "imagem": "images/acessorios-assentamento/medidor-contorno-pro.jpg",
+    "colunas": [
+      "Modelo",
+      "Qtde/Caixa",
+      "EAN-13",
+      "DUN-14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "qtdeCaixa",
+      "ean13",
+      "dun14",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "10\" - 250mm",
+        "qtdeCaixa": "6",
+        "ean13": "7897451427981",
+        "dun14": "17897451427988",
+        "codigo": "62798"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "42 (impressa 82-83)"
+    }
+  },
+  {
+    "id": "acessorios-transferidor-perfil",
+    "categoria": "acessorios-assentamento",
+    "categoriaNome": "Acessórios para Colocação e Assentamento",
+    "linha": "Transferidor de Perfil",
+    "tagline": "Agilidade e precisão na marcação de perfis e contornos em diversos materiais.",
+    "descricao": "O Transferidor de Perfil Cortag foi projetado para facilitar e agilizar a marcação de perfis e formas em diferentes materiais, garantindo alta precisão e rapidez em medições e cortes. Ideal para revestimentos, pisos, azulejos, madeiras e metais.",
+    "destaques": [
+      "Reproduz ângulos e contornos com exatidão.",
+      "Reduz o tempo de trabalho e aumenta a produtividade."
+    ],
+    "imagem": "images/acessorios-assentamento/transferidor-perfil.jpg",
+    "colunas": [
+      "Qtde/Caixa",
+      "EAN-13",
+      "DUN-14",
+      "Código"
+    ],
+    "camposVariante": [
+      "qtdeCaixa",
+      "ean13",
+      "dun14",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "qtdeCaixa": "6",
+        "ean13": "7897451427998",
+        "dun14": "17897451427995",
+        "codigo": "62799"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "42 (impressa 82-83)"
+    }
+  },
+  {
+    "id": "acessorios-balde-plastico",
+    "categoria": "acessorios-assentamento",
+    "categoriaNome": "Acessórios para Colocação e Assentamento",
+    "linha": "Balde Plástico",
+    "tagline": "Resistência e praticidade para transporte de água, argamassa e materiais em geral.",
+    "descricao": "O Balde Plástico Cortag é ideal para o transporte de água, argamassa e diversos materiais de obra, oferecendo resistência, durabilidade e fácil manuseio. Possui pegador no fundo para facilitar o esvaziamento e graduação interna para medição precisa de volumes. Com alça ergonômica e apoio de mão, permite o levantamento com ambas as mãos.",
+    "destaques": [
+      "Graduação interna para medição precisa de volumes.",
+      "Pegador no fundo para facilitar o esvaziamento."
+    ],
+    "imagem": "images/acessorios-assentamento/balde-plastico.jpg",
+    "colunas": [
+      "Capacidade",
+      "Qtde/Caixa",
+      "EAN-13",
+      "DUN-14",
+      "Código"
+    ],
+    "camposVariante": [
+      "capacidade",
+      "qtdeCaixa",
+      "ean13",
+      "dun14",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "capacidade": "12 L",
+        "qtdeCaixa": "12",
+        "ean13": "7897451467918",
+        "dun14": "17897451467915",
+        "codigo": "60791"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "43 (impressa 84-85)"
+    }
+  },
+  {
+    "id": "acessorios-balde-maleavel",
+    "categoria": "acessorios-assentamento",
+    "categoriaNome": "Acessórios para Colocação e Assentamento",
+    "linha": "Balde Maleável",
+    "tagline": "Resistência, flexibilidade e praticidade para o dia a dia do azulejista.",
+    "descricao": "O Balde Maleável Cortag foi projetado para suportar as condições mais exigentes em obras, oferecendo alta flexibilidade e resistência. Ideal para transportar argamassa, massas em geral, concreto, entulho e muito mais, adapta-se ao uso intenso sem perder sua durabilidade.",
+    "destaques": [
+      "Alta flexibilidade e resistência.",
+      "Disponível em 26 L e 42 L."
+    ],
+    "imagem": "images/acessorios-assentamento/balde-maleavel.jpg",
+    "colunas": [
+      "Capacidade",
+      "Qtde/Embalagem",
+      "EAN-13",
+      "Código"
+    ],
+    "camposVariante": [
+      "capacidade",
+      "qtdeEmbalagem",
+      "ean13",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "capacidade": "26 L",
+        "qtdeEmbalagem": "1",
+        "ean13": "7897451428049",
+        "codigo": "62804"
+      },
+      {
+        "capacidade": "42 L",
+        "qtdeEmbalagem": "1",
+        "ean13": "7897451428056",
+        "codigo": "62805"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "43 (impressa 84-85)"
+    }
+  },
+  {
+    "id": "acessorios-masseira-plastica",
+    "categoria": "acessorios-assentamento",
+    "categoriaNome": "Acessórios para Colocação e Assentamento",
+    "linha": "Masseira Plástica",
+    "tagline": "Resistência e praticidade para mistura, transporte e armazenamento de argamassa e concreto.",
+    "descricao": "A Masseira Plástica Cortag é indicada para trabalhos com argamassa, concreto e reboco, podendo ser utilizada para armazenagem, transporte e homogeneização das mais diversas misturas utilizadas na construção civil. Seu corpo em plástico injetado de alta resistência garante durabilidade, leveza e fácil limpeza.",
+    "destaques": [
+      "Corpo em plástico injetado de alta resistência.",
+      "Fácil limpeza, ideal para obras e reformas."
+    ],
+    "imagem": "images/acessorios-assentamento/masseira-plastica.jpg",
+    "colunas": [
+      "Capacidade",
+      "Qtde/Caixa",
+      "EAN-13",
+      "DUN-14",
+      "Código"
+    ],
+    "camposVariante": [
+      "capacidade",
+      "qtdeCaixa",
+      "ean13",
+      "dun14",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "capacidade": "20 L",
+        "qtdeCaixa": "6",
+        "ean13": "7897451467901",
+        "dun14": "17897451467908",
+        "codigo": "60790"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "43 (impressa 84-85)"
+    }
+  },
+  {
+    "id": "acessorios-protetor-piso",
+    "categoria": "acessorios-assentamento",
+    "categoriaNome": "Acessórios para Colocação e Assentamento",
+    "linha": "Protetor de Piso",
+    "tagline": "Proteção imediata e reutilizável para pisos polidos e cerâmicos.",
+    "descricao": "O Protetor de Piso Cortag é indicado para pisos porcelanatos polidos, de alto brilho e pisos cerâmicos, oferecendo proteção impermeável, durabilidade e reaproveitamento. Produzido com papel kraft laminado e plástico bolha de alta resistência (até 5x mais do que o comum), que protege o piso contra impactos, riscos e infiltrações durante a obra. Impermeável e reutilizável, pode durar a obra inteira, reduzindo custos com retrabalhos e manutenção pós-obra.",
+    "destaques": [
+      "Plástico bolha de alta resistência (até 5x mais que o comum).",
+      "Papel kraft laminado impermeável, não rasga nem mancha o piso.",
+      "Reutilizável — pode durar a obra inteira."
+    ],
+    "imagem": "images/acessorios-assentamento/protetor-piso.jpg",
+    "colunas": [
+      "Modelo",
+      "Largura",
+      "Metro Linear",
+      "Cobertura (m²)",
+      "Qtde/Embalagem",
+      "EAN-13",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "largura",
+      "metroLinear",
+      "cobertura",
+      "qtdeEmbalagem",
+      "ean13",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "12m",
+        "largura": "1,2",
+        "metroLinear": "10",
+        "cobertura": "12",
+        "qtdeEmbalagem": "1",
+        "ean13": "7897451427363",
+        "codigo": "63238"
+      },
+      {
+        "modelo": "15m",
+        "largura": "1,2",
+        "metroLinear": "12,5",
+        "cobertura": "15",
+        "qtdeEmbalagem": "1",
+        "ean13": "7897451427370",
+        "codigo": "63239"
+      },
+      {
+        "modelo": "25m",
+        "largura": "1,2",
+        "metroLinear": "21",
+        "cobertura": "25",
+        "qtdeEmbalagem": "1",
+        "ean13": "-",
+        "codigo": "63240"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "43 (impressa 84-85)"
+    }
   }
 ]
