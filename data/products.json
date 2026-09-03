@@ -3254,5 +3254,792 @@
       "arquivo": "Catálago Livro 2026.pdf",
       "pagina": "31 (impressa 60)"
     }
+  },
+  {
+    "id": "espacadores-mini-cunha",
+    "categoria": "espacadores",
+    "categoriaNome": "Espaçadores",
+    "linha": "Mini Cunha",
+    "tagline": "Ajuste prático e preciso para rodapés e revestimentos.",
+    "descricao": "Indicada para ajustes finos em rodapés, porcelanatos e azulejos, proporcionando facilidade e precisão durante o assentamento. Produto reutilizável, ideal para espaçamentos de 0,5 mm a 5 mm, garantindo nivelamento uniforme e acabamento de qualidade.",
+    "destaques": [
+      "Reutilizável, ideal para espaçamentos de 0,5 mm a 5 mm.",
+      "Facilidade e precisão durante o assentamento."
+    ],
+    "imagem": "images/espacadores/mini-cunha.jpg",
+    "colunas": [
+      "Tipo",
+      "Qtde/Embalagem",
+      "EAN-13",
+      "DUN-14",
+      "Código"
+    ],
+    "camposVariante": [
+      "tipo",
+      "qtdeEmbalagem",
+      "ean13",
+      "dun14",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "tipo": "Pacote",
+        "qtdeEmbalagem": "200 (50 un/pct)",
+        "ean13": "7897451426380",
+        "dun14": "17897451426387",
+        "codigo": "62638"
+      },
+      {
+        "tipo": "Pote",
+        "qtdeEmbalagem": "500 (12 un/pote)",
+        "ean13": "7897451426397",
+        "dun14": "17897451426394",
+        "codigo": "62639"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "32 (impressa 62-63)"
+    }
+  },
+  {
+    "id": "espacadores-tipo-u",
+    "categoria": "espacadores",
+    "categoriaNome": "Espaçadores",
+    "linha": "Espaçadores Tipo \"U\"",
+    "tagline": "Proporcionam agilidade e praticidade no assentamento, facilitando o alinhamento e resultando em uma junta uniforme.",
+    "descricao": "Desenvolvidos para assegurar alinhamento preciso e juntas uniformes em revestimentos cerâmicos, porcelanatos e pedras. Seu design em \"U\" possibilita o uso em junções cruzadas ou em \"T\", garantindo agilidade, praticidade e excelente acabamento no assentamento. Disponíveis nas espessuras de 1,5 mm, 3 mm e 10 mm, são reutilizáveis e de fácil remoção.",
+    "destaques": [
+      "Design em \"U\" permite uso em junções cruzadas ou em \"T\".",
+      "Reutilizáveis e de fácil remoção."
+    ],
+    "imagem": "images/espacadores/espacadores-tipo-u.jpg",
+    "colunas": [
+      "Tipo",
+      "Material",
+      "Cor",
+      "Espessura",
+      "Qtde/Embalagem",
+      "EAN-13",
+      "DUN-14",
+      "Código"
+    ],
+    "camposVariante": [
+      "tipo",
+      "material",
+      "cor",
+      "espessura",
+      "qtdeEmbalagem",
+      "ean13",
+      "dun14",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "tipo": "Pote",
+        "material": "Reciclado",
+        "cor": "Vermelho",
+        "espessura": "1,5 mm - 1/16\"",
+        "qtdeEmbalagem": "200 (12/emb)",
+        "ean13": "7897451420654",
+        "dun14": "17897451420651",
+        "codigo": "62065"
+      },
+      {
+        "tipo": "Pote",
+        "material": "Reciclado",
+        "cor": "Prata",
+        "espessura": "3 mm - 1/8\"",
+        "qtdeEmbalagem": "100 (12/emb)",
+        "ean13": "7897451420661",
+        "dun14": "17897451420668",
+        "codigo": "62066"
+      },
+      {
+        "tipo": "Pote",
+        "material": "Reciclado",
+        "cor": "Preto",
+        "espessura": "10 mm - 3/8\"",
+        "qtdeEmbalagem": "50 (12/emb)",
+        "ean13": "7897451420678",
+        "dun14": "17897451420675",
+        "codigo": "62067"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "32 (impressa 62-63)"
+    }
+  },
+  {
+    "id": "espacadores-bloco-vidro",
+    "categoria": "espacadores",
+    "categoriaNome": "Espaçadores",
+    "linha": "Espaçador para Bloco de Vidro",
+    "tagline": "Garantem alinhamento preciso e espaçamento uniforme entre os blocos.",
+    "descricao": "Permitem o alinhamento perfeito e o distanciamento uniforme entre blocos ou tijolos de vidro de 19 cm x 19 cm x 8 cm, com espaçamento de 10 mm. Fabricados em poliestireno de alto impacto, proporcionam facilidade de aplicação e acabamento uniforme nas paredes de blocos de vidro.",
+    "destaques": [
+      "Espaçamento de 10 mm entre blocos de 19 x 19 x 8 cm.",
+      "Fabricado em poliestireno de alto impacto."
+    ],
+    "imagem": "images/espacadores/espacador-bloco-vidro.jpg",
+    "colunas": [
+      "Cor",
+      "Material",
+      "Qtde/Embalagem",
+      "EAN-13",
+      "DUN-14",
+      "Código"
+    ],
+    "camposVariante": [
+      "cor",
+      "material",
+      "qtdeEmbalagem",
+      "ean13",
+      "dun14",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "cor": "Cinza",
+        "material": "Poliestireno alto impacto",
+        "qtdeEmbalagem": "10 (12/emb)",
+        "ean13": "7897451465358",
+        "dun14": "17897451465355",
+        "codigo": "60535"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "32 (impressa 62-63)"
+    }
+  },
+  {
+    "id": "espacadores-duplos",
+    "categoria": "espacadores",
+    "categoriaNome": "Espaçadores",
+    "linha": "Espaçadores Duplos",
+    "tagline": "Facilitam o assentamento e podem ser reutilizados, garantindo precisão e praticidade.",
+    "descricao": "Desenvolvidos para proporcionar praticidade e agilidade no assentamento de pisos e revestimentos, mantendo alinhamento uniforme e juntas precisas. Possuem duas faces com medidas diferentes, permitindo a utilização em peças de espessuras variadas. Fabricados em material reciclado de alta resistência, são reutilizáveis e de fácil remoção.",
+    "destaques": [
+      "Duas faces com medidas diferentes na mesma peça.",
+      "Pode ser utilizado para dois tamanhos de juntas diferentes."
+    ],
+    "imagem": "images/espacadores/espacadores-duplos.jpg",
+    "colunas": [
+      "Tipo",
+      "Material",
+      "Cor",
+      "Espessura",
+      "Qtde/Embalagem",
+      "Qtde/Caixa",
+      "EAN-13",
+      "DUN-14",
+      "Código"
+    ],
+    "camposVariante": [
+      "tipo",
+      "material",
+      "cor",
+      "espessura",
+      "qtdeEmbalagem",
+      "qtdeCaixa",
+      "ean13",
+      "dun14",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "tipo": "Pote",
+        "material": "Reciclado",
+        "cor": "Cinza",
+        "espessura": "5 mm + 1,5 mm",
+        "qtdeEmbalagem": "200",
+        "qtdeCaixa": "12",
+        "ean13": "7897451420685",
+        "dun14": "17897451420682",
+        "codigo": "62068"
+      },
+      {
+        "tipo": "Pote",
+        "material": "Reciclado",
+        "cor": "Cinza",
+        "espessura": "3 mm + 6 mm",
+        "qtdeEmbalagem": "200",
+        "qtdeCaixa": "12",
+        "ean13": "7897451420692",
+        "dun14": "17897451420699",
+        "codigo": "62069"
+      },
+      {
+        "tipo": "Pote",
+        "material": "Reciclado",
+        "cor": "Cinza",
+        "espessura": "T 5 mm + 1,5 mm",
+        "qtdeEmbalagem": "400",
+        "qtdeCaixa": "12",
+        "ean13": "7897451420708",
+        "dun14": "17897451420705",
+        "codigo": "62070"
+      },
+      {
+        "tipo": "Pote",
+        "material": "Reciclado",
+        "cor": "Cinza",
+        "espessura": "T 3 mm + 6 mm",
+        "qtdeEmbalagem": "400",
+        "qtdeCaixa": "12",
+        "ean13": "7897451420715",
+        "dun14": "17897451420712",
+        "codigo": "62071"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "32 (impressa 62-63)"
+    }
+  },
+  {
+    "id": "espacadores-juntapiso",
+    "categoria": "espacadores",
+    "categoriaNome": "Espaçadores",
+    "linha": "Espaçadores Juntapiso",
+    "tagline": "Proporciona alinhamento preciso e evita o deslocamento das peças cerâmicas.",
+    "descricao": "Desenvolvidos para assegurar o alinhamento exato entre as peças, reduzindo o tempo de aplicação e evitando o deslocamento durante o assentamento. Com função antideslizante, garantem acabamento uniforme e juntas perfeitas em diferentes tipos de revestimentos. Disponíveis nas espessuras de 1, 1,5, 2, 3, 4, 5 e 6 mm, além da versão em \"T\".",
+    "destaques": [
+      "Função antideslizante para evitar deslocamento durante o assentamento.",
+      "Disponível em formato cruzeta (X) e em \"T\"."
+    ],
+    "imagem": "images/espacadores/espacadores-juntapiso.jpg",
+    "colunas": [
+      "Tamanho",
+      "Qtde/Embalagem",
+      "Qtde/Caixa",
+      "EAN-13",
+      "DUN-14",
+      "Código"
+    ],
+    "camposVariante": [
+      "tamanho",
+      "qtdeEmbalagem",
+      "qtdeCaixa",
+      "ean13",
+      "dun14",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "tamanho": "1 mm",
+        "qtdeEmbalagem": "100",
+        "qtdeCaixa": "50",
+        "ean13": "7897451465051",
+        "dun14": "27897451465055",
+        "codigo": "60505"
+      },
+      {
+        "tamanho": "1,5 mm",
+        "qtdeEmbalagem": "100",
+        "qtdeCaixa": "50",
+        "ean13": "7897451465556",
+        "dun14": "27897451465550",
+        "codigo": "60555"
+      },
+      {
+        "tamanho": "2 mm",
+        "qtdeEmbalagem": "100",
+        "qtdeCaixa": "50",
+        "ean13": "7897451460506",
+        "dun14": "27897451460500",
+        "codigo": "60500"
+      },
+      {
+        "tamanho": "3 mm",
+        "qtdeEmbalagem": "100",
+        "qtdeCaixa": "50",
+        "ean13": "7897451460513",
+        "dun14": "17897451460510",
+        "codigo": "60510"
+      },
+      {
+        "tamanho": "4 mm",
+        "qtdeEmbalagem": "100",
+        "qtdeCaixa": "50",
+        "ean13": "7897451465563",
+        "dun14": "37897451465564",
+        "codigo": "60557"
+      },
+      {
+        "tamanho": "5 mm",
+        "qtdeEmbalagem": "100",
+        "qtdeCaixa": "50",
+        "ean13": "7897451460520",
+        "dun14": "17897451460527",
+        "codigo": "60520"
+      },
+      {
+        "tamanho": "6 mm",
+        "qtdeEmbalagem": "100",
+        "qtdeCaixa": "50",
+        "ean13": "7897451416664",
+        "dun14": "17897451416661",
+        "codigo": "61666"
+      },
+      {
+        "tamanho": "T - 1 mm",
+        "qtdeEmbalagem": "100",
+        "qtdeCaixa": "50",
+        "ean13": "7897451415810",
+        "dun14": "17897451415817",
+        "codigo": "61581"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "32 (impressa 62-63)"
+    }
+  },
+  {
+    "id": "espacadores-junta-dilatacao",
+    "categoria": "espacadores",
+    "categoriaNome": "Espaçadores",
+    "linha": "Junta de Dilatação",
+    "tagline": "Evitam trincas e infiltrações causadas pela dilatação térmica dos pisos.",
+    "descricao": "Ideais para pisos residenciais, industriais, calçadas e quadras poliesportivas. Fabricadas em PVC flexível e resistente, permitem a dilatação e contração do piso conforme a variação de temperatura, evitando rachaduras e infiltrações. Disponíveis em diversos tamanhos e cores, com barras de 2 m de comprimento.",
+    "destaques": [
+      "Indicado para piso ou contrapiso residencial, calçada, piso industrial e quadras poliesportivas.",
+      "Barras com 2 m de comprimento.",
+      "Evita trincas, rachaduras e infiltrações por oscilação de temperatura."
+    ],
+    "imagem": "images/espacadores/junta-dilatacao.jpg",
+    "colunas": [
+      "Tamanho",
+      "Cor",
+      "Embalagem",
+      "EAN-13",
+      "DUN-14",
+      "Código"
+    ],
+    "camposVariante": [
+      "tamanho",
+      "cor",
+      "embalagem",
+      "ean13",
+      "dun14",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "tamanho": "10 x 4,5 mm",
+        "cor": "Preta",
+        "embalagem": "50 barras",
+        "ean13": "7897451423969",
+        "dun14": "17897451423966",
+        "codigo": "62396"
+      },
+      {
+        "tamanho": "17 x 3 mm",
+        "cor": "Preta",
+        "embalagem": "50 barras",
+        "ean13": "7897451423976",
+        "dun14": "17897451423973",
+        "codigo": "62397"
+      },
+      {
+        "tamanho": "20 x 4 mm",
+        "cor": "Preta",
+        "embalagem": "50 barras",
+        "ean13": "7897451423983",
+        "dun14": "17897451423980",
+        "codigo": "62398"
+      },
+      {
+        "tamanho": "27 x 3 mm",
+        "cor": "Preta",
+        "embalagem": "50 barras",
+        "ean13": "7897451423990",
+        "dun14": "17897451423997",
+        "codigo": "62399"
+      },
+      {
+        "tamanho": "30 x 4 mm",
+        "cor": "Preta",
+        "embalagem": "50 barras",
+        "ean13": "7897451424003",
+        "dun14": "17897451424000",
+        "codigo": "62400"
+      },
+      {
+        "tamanho": "40 x 4 mm",
+        "cor": "Preta",
+        "embalagem": "25 barras",
+        "ean13": "7897451424010",
+        "dun14": "17897451424017",
+        "codigo": "62401"
+      },
+      {
+        "tamanho": "50 x 4 mm",
+        "cor": "Preta",
+        "embalagem": "25 barras",
+        "ean13": "7897451424027",
+        "dun14": "17897451424024",
+        "codigo": "62402"
+      },
+      {
+        "tamanho": "10 x 4,5 mm",
+        "cor": "Cinza",
+        "embalagem": "50 barras",
+        "ean13": "7897451423914",
+        "dun14": "17897451423911",
+        "codigo": "62391"
+      },
+      {
+        "tamanho": "17 x 3 mm",
+        "cor": "Cinza",
+        "embalagem": "50 barras",
+        "ean13": "7897451423921",
+        "dun14": "17897451423928",
+        "codigo": "62392"
+      },
+      {
+        "tamanho": "20 x 4 mm",
+        "cor": "Cinza",
+        "embalagem": "50 barras",
+        "ean13": "7897451423938",
+        "dun14": "17897451423935",
+        "codigo": "62393"
+      },
+      {
+        "tamanho": "27 x 3 mm",
+        "cor": "Cinza",
+        "embalagem": "50 barras",
+        "ean13": "7897451423945",
+        "dun14": "17897451423942",
+        "codigo": "62394"
+      },
+      {
+        "tamanho": "30 x 4 mm",
+        "cor": "Cinza",
+        "embalagem": "50 barras",
+        "ean13": "7897451423952",
+        "dun14": "17897451423959",
+        "codigo": "62395"
+      },
+      {
+        "tamanho": "10 x 4,5 mm",
+        "cor": "Bronze",
+        "embalagem": "50 barras",
+        "ean13": "7897451423860",
+        "dun14": "17897451423867",
+        "codigo": "62386"
+      },
+      {
+        "tamanho": "17 x 3 mm",
+        "cor": "Bronze",
+        "embalagem": "50 barras",
+        "ean13": "7897451423877",
+        "dun14": "17897451423874",
+        "codigo": "62387"
+      },
+      {
+        "tamanho": "20 x 4 mm",
+        "cor": "Bronze",
+        "embalagem": "50 barras",
+        "ean13": "7897451423884",
+        "dun14": "17897451423881",
+        "codigo": "62388"
+      },
+      {
+        "tamanho": "27 x 3 mm",
+        "cor": "Bronze",
+        "embalagem": "50 barras",
+        "ean13": "7897451423891",
+        "dun14": "17897451423898",
+        "codigo": "62389"
+      },
+      {
+        "tamanho": "30 x 4 mm",
+        "cor": "Bronze",
+        "embalagem": "50 barras",
+        "ean13": "7897451423907",
+        "dun14": "17897451423904",
+        "codigo": "62390"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "33 (impressa 64-65)"
+    }
+  },
+  {
+    "id": "espacadores-protetores-vergalhao",
+    "categoria": "espacadores",
+    "categoriaNome": "Espaçadores",
+    "linha": "Protetores para Vergalhão",
+    "tagline": "Proteção eficiente e segura para vergalhões expostos.",
+    "descricao": "Fabricado em material reciclado resistente e atende aos critérios da NR-18. Disponível para diâmetros de ø 4,2 mm a ø 25,4 mm, garante segurança e visibilidade no canteiro de obras, prevenindo acidentes e oferecendo instalação prática e reutilizável.",
+    "destaques": [
+      "Atende aos critérios da NR-18 (Condições e Meio Ambiente de Trabalho na Indústria da Construção).",
+      "Formato exclusivo para facilitar manuseio e aplicação.",
+      "Disponível para ø 4,2 mm a ø 25,4 mm."
+    ],
+    "imagem": "images/espacadores/protetores-vergalhao.jpg",
+    "colunas": [
+      "Material",
+      "Cor",
+      "Qtde/Embalagem",
+      "Embalagem",
+      "EAN-13",
+      "DUN-14",
+      "Código"
+    ],
+    "camposVariante": [
+      "material",
+      "cor",
+      "qtdeEmbalagem",
+      "embalagem",
+      "ean13",
+      "dun14",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "material": "Reciclado",
+        "cor": "Vermelho",
+        "qtdeEmbalagem": "24",
+        "embalagem": "Pacote",
+        "ean13": "7897451426342",
+        "dun14": "17897451426349",
+        "codigo": "62634"
+      },
+      {
+        "material": "Reciclado",
+        "cor": "Vermelho",
+        "qtdeEmbalagem": "300",
+        "embalagem": "Caixa",
+        "ean13": "7897451426335",
+        "dun14": "17897451426349",
+        "codigo": "62633"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "33 (impressa 64-65)"
+    }
+  },
+  {
+    "id": "espacadores-circular-ferragens",
+    "categoria": "espacadores",
+    "categoriaNome": "Espaçadores",
+    "linha": "Espaçador Circular para Ferragens",
+    "tagline": "Maior precisão no posicionamento das ferragens, com resistência e segurança.",
+    "descricao": "Indicado para vergalhões de ø 4,2 mm a ø 12,5 mm e garante posicionamento preciso das ferragens em estruturas de concreto armado. Produzido em material reciclado de alta resistência, proporciona maior estabilidade, resistência e precisão dimensional, atendendo aos critérios da ABNT NBR 6118 – Estrutura de Concreto.",
+    "destaques": [
+      "Atende aos critérios da ABNT NBR 6118 – Estrutura de Concreto.",
+      "Indicado para vergalhões de ø 4,2 mm a ø 12,5 mm.",
+      "Disponível nos tamanhos de 15, 20, 25 e 30 mm."
+    ],
+    "imagem": "images/espacadores/espacador-circular-ferragens.jpg",
+    "colunas": [
+      "Embalagem",
+      "Material",
+      "Cor",
+      "Tamanho",
+      "Qtde/Embalagem",
+      "Qtde/Caixa",
+      "EAN-13",
+      "DUN-14",
+      "Código"
+    ],
+    "camposVariante": [
+      "embalagem",
+      "material",
+      "cor",
+      "tamanho",
+      "qtdeEmbalagem",
+      "qtdeCaixa",
+      "ean13",
+      "dun14",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "embalagem": "Pacote",
+        "material": "Reciclado",
+        "cor": "Cinza",
+        "tamanho": "15 mm",
+        "qtdeEmbalagem": "24",
+        "qtdeCaixa": "12",
+        "ean13": "7897451426229",
+        "dun14": "17897451426226",
+        "codigo": "62622"
+      },
+      {
+        "embalagem": "Pacote",
+        "material": "Reciclado",
+        "cor": "Cinza",
+        "tamanho": "20 mm",
+        "qtdeEmbalagem": "24",
+        "qtdeCaixa": "12",
+        "ean13": "7897451426243",
+        "dun14": "17897451426240",
+        "codigo": "62624"
+      },
+      {
+        "embalagem": "Pacote",
+        "material": "Reciclado",
+        "cor": "Cinza",
+        "tamanho": "25 mm",
+        "qtdeEmbalagem": "24",
+        "qtdeCaixa": "12",
+        "ean13": "7897451426267",
+        "dun14": "17897451426264",
+        "codigo": "62626"
+      },
+      {
+        "embalagem": "Pacote",
+        "material": "Reciclado",
+        "cor": "Cinza",
+        "tamanho": "30 mm",
+        "qtdeEmbalagem": "24",
+        "qtdeCaixa": "12",
+        "ean13": "7897451426281",
+        "dun14": "17897451426288",
+        "codigo": "62628"
+      },
+      {
+        "embalagem": "Caixa",
+        "material": "Reciclado",
+        "cor": "Cinza",
+        "tamanho": "15 mm",
+        "qtdeEmbalagem": "300",
+        "qtdeCaixa": "1",
+        "ean13": "7897451426212",
+        "dun14": "-",
+        "codigo": "62621"
+      },
+      {
+        "embalagem": "Caixa",
+        "material": "Reciclado",
+        "cor": "Cinza",
+        "tamanho": "20 mm",
+        "qtdeEmbalagem": "300",
+        "qtdeCaixa": "1",
+        "ean13": "7897451426236",
+        "dun14": "-",
+        "codigo": "62623"
+      },
+      {
+        "embalagem": "Caixa",
+        "material": "Reciclado",
+        "cor": "Cinza",
+        "tamanho": "25 mm",
+        "qtdeEmbalagem": "300",
+        "qtdeCaixa": "1",
+        "ean13": "7897451426250",
+        "dun14": "-",
+        "codigo": "62625"
+      },
+      {
+        "embalagem": "Caixa",
+        "material": "Reciclado",
+        "cor": "Cinza",
+        "tamanho": "30 mm",
+        "qtdeEmbalagem": "300",
+        "qtdeCaixa": "1",
+        "ean13": "7897451426274",
+        "dun14": "-",
+        "codigo": "62627"
+      }
+    ],
+    "observacao": "Disponível também nos tamanhos (B): 15, 20, 25 e 30 mm, indicado para vergalhões de 4,2 a 12,5 mm.",
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "33 (impressa 64-65)"
+    }
+  },
+  {
+    "id": "espacadores-cadeirinha-ferragens",
+    "categoria": "espacadores",
+    "categoriaNome": "Espaçadores",
+    "linha": "Espaçador Cadeirinha para Ferragens",
+    "tagline": "Suporte seguro e preciso para malhas e telas de reforço.",
+    "descricao": "Desenvolvido para diminuir o contato entre a malha de ferro e o chão, garantindo melhor cobertura de concreto e resistência estrutural. Indicado para pisos, fundações, lajes e telas soldadas, é fabricado em material reciclado de alta resistência e cumpre as normas da ABNT NBR 6118 – Estrutura de Concreto Armado.",
+    "destaques": [
+      "Cumpre as normas da ABNT NBR 6118 – Estrutura de Concreto Armado.",
+      "Tamanho 15/20 mm para vergalhão até 15 mm; 25/30 mm para vergalhão até 25 mm."
+    ],
+    "imagem": "images/espacadores/espacador-cadeirinha-ferragens.jpg",
+    "colunas": [
+      "Embalagem",
+      "Modelo",
+      "Material",
+      "Cor",
+      "Qtde/Embalagem",
+      "Qtde/Caixa",
+      "EAN-13",
+      "DUN-14",
+      "Código"
+    ],
+    "camposVariante": [
+      "embalagem",
+      "modelo",
+      "material",
+      "cor",
+      "qtdeEmbalagem",
+      "qtdeCaixa",
+      "ean13",
+      "dun14",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "embalagem": "Pacote",
+        "modelo": "15/20",
+        "material": "Reciclado",
+        "cor": "Cinza",
+        "qtdeEmbalagem": "24",
+        "qtdeCaixa": "12",
+        "ean13": "7897451426304",
+        "dun14": "17897451426301",
+        "codigo": "62630"
+      },
+      {
+        "embalagem": "Pacote",
+        "modelo": "25/30",
+        "material": "Reciclado",
+        "cor": "Cinza",
+        "qtdeEmbalagem": "24",
+        "qtdeCaixa": "12",
+        "ean13": "7897451426328",
+        "dun14": "17897451426325",
+        "codigo": "62632"
+      },
+      {
+        "embalagem": "Caixa",
+        "modelo": "15/20",
+        "material": "Reciclado",
+        "cor": "Cinza",
+        "qtdeEmbalagem": "300",
+        "qtdeCaixa": "1",
+        "ean13": "7897451426298",
+        "dun14": "-",
+        "codigo": "62629"
+      },
+      {
+        "embalagem": "Caixa",
+        "modelo": "25/30",
+        "material": "Reciclado",
+        "cor": "Cinza",
+        "qtdeEmbalagem": "300",
+        "qtdeCaixa": "1",
+        "ean13": "7897451426311",
+        "dun14": "-",
+        "codigo": "62631"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "33 (impressa 64-65)"
+    }
   }
 ]
