@@ -79,7 +79,16 @@
     "fonte": {
       "arquivo": "Catálago Livro 2026.pdf",
       "pagina": 8
-    }
+    },
+    "camposVariante": [
+      "modelo",
+      "comprimento",
+      "areaMax",
+      "espessuraMax",
+      "embalagem",
+      "ean",
+      "codigo"
+    ]
   },
   {
     "id": "cortadores-manuais-linha-prime",
@@ -193,7 +202,16 @@
     "fonte": {
       "arquivo": "Catálago Livro 2026.pdf",
       "pagina": 8
-    }
+    },
+    "camposVariante": [
+      "modelo",
+      "comprimento",
+      "areaMax",
+      "espessuraMax",
+      "embalagem",
+      "ean",
+      "codigo"
+    ]
   },
   {
     "id": "cortadores-manuais-new-master-125",
@@ -235,7 +253,16 @@
     "fonte": {
       "arquivo": "Catálago Livro 2026.pdf",
       "pagina": 9
-    }
+    },
+    "camposVariante": [
+      "modelo",
+      "comprimento",
+      "areaMax",
+      "espessuraMax",
+      "embalagem",
+      "ean",
+      "codigo"
+    ]
   },
   {
     "id": "cortadores-manuais-linha-new-master",
@@ -286,7 +313,16 @@
     "fonte": {
       "arquivo": "Catálago Livro 2026.pdf",
       "pagina": 9
-    }
+    },
+    "camposVariante": [
+      "modelo",
+      "comprimento",
+      "areaMax",
+      "espessuraMax",
+      "embalagem",
+      "ean",
+      "codigo"
+    ]
   },
   {
     "id": "cortadores-manuais-linha-super",
@@ -357,7 +393,16 @@
     "fonte": {
       "arquivo": "Catálago Livro 2026.pdf",
       "pagina": 10
-    }
+    },
+    "camposVariante": [
+      "modelo",
+      "comprimento",
+      "areaMax",
+      "espessuraMax",
+      "embalagem",
+      "ean",
+      "codigo"
+    ]
   },
   {
     "id": "cortadores-manuais-linha-master",
@@ -417,7 +462,16 @@
     "fonte": {
       "arquivo": "Catálago Livro 2026.pdf",
       "pagina": 10
-    }
+    },
+    "camposVariante": [
+      "modelo",
+      "comprimento",
+      "areaMax",
+      "espessuraMax",
+      "embalagem",
+      "ean",
+      "codigo"
+    ]
   },
   {
     "id": "cortadores-manuais-top-62",
@@ -457,7 +511,16 @@
     "fonte": {
       "arquivo": "Catálago Livro 2026.pdf",
       "pagina": 11
-    }
+    },
+    "camposVariante": [
+      "modelo",
+      "comprimento",
+      "areaMax",
+      "espessuraMax",
+      "embalagem",
+      "ean",
+      "codigo"
+    ]
   },
   {
     "id": "cortadores-manuais-linha-pec",
@@ -508,7 +571,16 @@
     "fonte": {
       "arquivo": "Catálago Livro 2026.pdf",
       "pagina": 11
-    }
+    },
+    "camposVariante": [
+      "modelo",
+      "comprimento",
+      "areaMax",
+      "espessuraMax",
+      "embalagem",
+      "ean",
+      "codigo"
+    ]
   },
   {
     "id": "cortadores-manuais-linha-hd-g2",
@@ -579,7 +651,16 @@
     "fonte": {
       "arquivo": "Catálago Livro 2026.pdf",
       "pagina": 12
-    }
+    },
+    "camposVariante": [
+      "modelo",
+      "comprimento",
+      "areaMax",
+      "espessuraMax",
+      "embalagem",
+      "ean",
+      "codigo"
+    ]
   },
   {
     "id": "cortadores-manuais-cortador-hd-150",
@@ -618,7 +699,15 @@
     "fonte": {
       "arquivo": "Catálago Livro 2026.pdf",
       "pagina": 12
-    }
+    },
+    "camposVariante": [
+      "modelo",
+      "comprimento",
+      "areaMax",
+      "espessuraMax",
+      "embalagem",
+      "codigo"
+    ]
   },
   {
     "id": "cortadores-manuais-kit-mosaico",
@@ -656,7 +745,15 @@
     "fonte": {
       "arquivo": "Catálago Livro 2026.pdf",
       "pagina": 12
-    }
+    },
+    "camposVariante": [
+      "modelo",
+      "comprimento",
+      "areaMax",
+      "espessuraMax",
+      "embalagem",
+      "codigo"
+    ]
   },
   {
     "id": "cortadores-manuais-cortador-blocos-pavtek",
@@ -693,7 +790,14 @@
     "fonte": {
       "arquivo": "Catálago Livro 2026.pdf",
       "pagina": 13
-    }
+    },
+    "camposVariante": [
+      "modelo",
+      "comprimento",
+      "areaMax",
+      "embalagem",
+      "codigo"
+    ]
   },
   {
     "id": "cortadores-manuais-conjunto-facas-pavtek",
@@ -738,7 +842,15 @@
     "fonte": {
       "arquivo": "Catálago Livro 2026.pdf",
       "pagina": 13
-    }
+    },
+    "camposVariante": [
+      "modelo",
+      "comprimento",
+      "areaMax",
+      "espessuraMax",
+      "embalagem",
+      "codigo"
+    ]
   },
   {
     "id": "cortadores-manuais-cortador-laminados-pl",
@@ -777,7 +889,13 @@
     "fonte": {
       "arquivo": "Catálago Livro 2026.pdf",
       "pagina": 13
-    }
+    },
+    "camposVariante": [
+      "modelo",
+      "comprimento",
+      "embalagem",
+      "codigo"
+    ]
   },
   {
     "id": "cortadores-manuais-cortador-de-telhas",
@@ -809,6 +927,425 @@
     "fonte": {
       "arquivo": "Catálago Livro 2026.pdf",
       "pagina": 13
-    }
+    },
+    "camposVariante": [
+      "modelo",
+      "embalagem",
+      "codigo"
+    ]
+  },
+  {
+    "id": "cortadores-eletricos-zapp-titan",
+    "categoria": "cortadores-eletricos",
+    "categoriaNome": "Cortadores Elétricos",
+    "linha": "Linha Zapp Titan",
+    "tagline": "Sistema articulado para executar frisos, nichos e alojamentos para caixas de tomada, com cortes retos a 90° e em ângulos de 5° a 45°.",
+    "descricao": "Indicada para revestimentos cerâmicos, porcelanatos, mármores, granitos e pedras naturais, com espessuras de até 70 mm. Equipada com sistema articulado de carro e motor de 1.500 W, permite a execução de frisos e cortes retos ou em ângulo com precisão e acabamento profissional. Conta com bandeja removível, sistema de refrigeração com reservatório de água e estrutura robusta para maior estabilidade durante o uso.",
+    "destaques": [
+      "Sistema de trilho mais robusto – maior estabilidade e precisão.",
+      "Sistema de conjunto do motor guiado por rolamentos blindados – estabilidade e leveza no corte.",
+      "Sistema de refrigeração do disco de corte com reservatório de água e bomba d'água de alta vazão.",
+      "Sistema articulado que permite o corte de frisos, nichos e alojamento para caixa de tomada.",
+      "Proteção dianteira do disco ajustável.",
+      "Mesa de apoio adicional para cortes em peças de grandes formatos.",
+      "Reservatório removível em aço carbono com pintura eletrostática.",
+      "Bandeja removível em aço galvanizado com revestimento emborrachado.",
+      "Pés de apoio dobráveis com ajuste individual de altura.",
+      "Rodas e alça para transporte."
+    ],
+    "imagem": "images/cortadores-eletricos/zapp-titan.jpg",
+    "colunas": [
+      "Modelo",
+      "Comprimento",
+      "Área máx.",
+      "Espessura máx.",
+      "Voltagem",
+      "Potência",
+      "Disco",
+      "Embalagem (un)",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "modelo": "ZAPP Titan 1550",
+        "comprimento": "155 cm",
+        "areaMax": "110 cm x 110 cm",
+        "espessuraMax": "70 mm",
+        "voltagem": "220 V",
+        "potencia": "1500 W",
+        "disco": "254 mm",
+        "embalagem": "1",
+        "codigo": "62007"
+      },
+      {
+        "modelo": "ZAPP Titan 1250",
+        "comprimento": "125 cm",
+        "areaMax": "88 cm x 88 cm",
+        "espessuraMax": "70 mm",
+        "voltagem": "220 V",
+        "potencia": "1500 W",
+        "disco": "254 mm",
+        "embalagem": "1",
+        "codigo": "62164"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": 17
+    },
+    "camposVariante": [
+      "modelo",
+      "comprimento",
+      "areaMax",
+      "espessuraMax",
+      "voltagem",
+      "potencia",
+      "disco",
+      "embalagem",
+      "codigo"
+    ]
+  },
+  {
+    "id": "cortadores-eletricos-zapp-g2",
+    "categoria": "cortadores-eletricos",
+    "categoriaNome": "Cortadores Elétricos",
+    "linha": "Linha Zapp G2",
+    "tagline": "Projetada para cortes em ângulos de 90° e 45° e para realizar chanfros com precisão.",
+    "descricao": "Indicada para revestimentos cerâmicos, porcelanatos, mármores, granitos e pedras naturais, com superfícies lisas, ásperas ou em relevo, e espessuras de até 3,5 cm. Equipada com motor de 1.100 W, realiza cortes retos e em ângulo de 45°, garantindo alto desempenho, precisão e excelente acabamento. Possui reservatório removível, trilho reforçado, bandeja com pintura eletrostática e sistema de refrigeração com bomba d'água que prolonga a vida útil do disco.",
+    "destaques": [
+      "Inovador sistema do conjunto do motor guiado por rolamentos blindados – estabilidade e leveza no corte.",
+      "Sistema de trilho mais robusto – maior estabilidade e precisão.",
+      "Mesa de apoio adicional para cortes em peças de grandes formatos.",
+      "Bandeja móvel de aço com suporte de borracha para cerâmica.",
+      "Reservatório removível em aço carbono com pintura eletrostática.",
+      "Pés de apoio com novo sistema de fixação.",
+      "Rodas e alça para transporte."
+    ],
+    "imagem": "images/cortadores-eletricos/zapp-g2.jpg",
+    "colunas": [
+      "Modelo",
+      "Comprimento",
+      "Área máx.",
+      "Espessura máx.",
+      "Voltagem",
+      "Potência",
+      "Disco",
+      "Embalagem (un)",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "modelo": "ZAPP 1550 G2",
+        "comprimento": "155 cm",
+        "areaMax": "110 cm x 110 cm",
+        "espessuraMax": "35 mm",
+        "voltagem": "220 V",
+        "potencia": "1100 W",
+        "disco": "200 mm",
+        "embalagem": "1",
+        "codigo": "61725"
+      },
+      {
+        "modelo": "ZAPP 1250 G2",
+        "comprimento": "125 cm",
+        "areaMax": "87 cm x 87 cm",
+        "espessuraMax": "35 mm",
+        "voltagem": "220 V",
+        "potencia": "1100 W",
+        "disco": "200 mm",
+        "embalagem": "1",
+        "codigo": "61591"
+      },
+      {
+        "modelo": "ZAPP 200 G2",
+        "comprimento": "90 cm",
+        "areaMax": "64 cm x 64 cm",
+        "espessuraMax": "35 mm",
+        "voltagem": "220 V",
+        "potencia": "900 W",
+        "disco": "200 mm",
+        "embalagem": "1",
+        "codigo": "61590"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": 17
+    },
+    "camposVariante": [
+      "modelo",
+      "comprimento",
+      "areaMax",
+      "espessuraMax",
+      "voltagem",
+      "potencia",
+      "disco",
+      "embalagem",
+      "codigo"
+    ]
+  },
+  {
+    "id": "cortadores-eletricos-zapp-fit",
+    "categoria": "cortadores-eletricos",
+    "categoriaNome": "Cortadores Elétricos",
+    "linha": "Linha Zapp Fit",
+    "tagline": "O cortador na medida certa!",
+    "descricao": "Indicada para revestimentos cerâmicos, porcelanatos, mármores, granitos e pedras naturais, com superfícies lisas, ásperas ou em relevo, e espessuras de até 3,5 cm. Com estrutura reforçada, motor de 900 W e disco diamantado de 200 mm, proporciona cortes precisos, estáveis e com acabamento profissional. Possui sistema de trilho robusto, motor guiado por rolamentos blindados e reservatório removível com pintura eletrostática, garantindo durabilidade e facilidade de limpeza.",
+    "destaques": [
+      "Sistema de trilho mais robusto – maior estabilidade e precisão.",
+      "Inovador sistema do conjunto do motor guiado por rolamentos blindados – estabilidade e leveza no corte.",
+      "Alça para transporte.",
+      "Reservatório removível em aço carbono com pintura eletrostática.",
+      "Pés de apoio dobráveis com ajuste individual de altura e manípulo de travamento.",
+      "Rodas de transporte."
+    ],
+    "imagem": "images/cortadores-eletricos/zapp-fit.jpg",
+    "colunas": [
+      "Modelo",
+      "Comprimento",
+      "Área máx.",
+      "Espessura máx.",
+      "Voltagem",
+      "Potência",
+      "Disco",
+      "Embalagem (un)",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "modelo": "ZAPP 900 FIT",
+        "comprimento": "90 cm",
+        "areaMax": "64 cm x 64 cm",
+        "espessuraMax": "35 mm",
+        "voltagem": "220 V",
+        "potencia": "900 W",
+        "disco": "200 mm",
+        "embalagem": "1",
+        "codigo": "61886"
+      },
+      {
+        "modelo": "ZAPP 650 FIT",
+        "comprimento": "65 cm",
+        "areaMax": "46 cm x 46 cm",
+        "espessuraMax": "35 mm",
+        "voltagem": "220 V",
+        "potencia": "900 W",
+        "disco": "200 mm",
+        "embalagem": "1",
+        "codigo": "61884"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": 18
+    },
+    "camposVariante": [
+      "modelo",
+      "comprimento",
+      "areaMax",
+      "espessuraMax",
+      "voltagem",
+      "potencia",
+      "disco",
+      "embalagem",
+      "codigo"
+    ]
+  },
+  {
+    "id": "cortadores-eletricos-zapp-600",
+    "categoria": "cortadores-eletricos",
+    "categoriaNome": "Cortadores Elétricos",
+    "linha": "Zapp 600",
+    "tagline": "Equipamento robusto com motor, estrutura em alumínio reforçada e sistema de refrigeração do disco diamantado.",
+    "descricao": "Desenvolvida para corte de pisos e revestimentos cerâmicos, pedras, mármores, granitos, pavers (bloquetes) e tijolos. Equipada com motor de 1650 W e disco diamantado de 254 mm, possui cabeçote com ajuste angular de 0°, 22,5° e 45°, proporcionando cortes retos e chanfrados com precisão. Conta ainda com reservatório de água com bomba de refrigeração e estrutura em alumínio reforçado, garantindo durabilidade, estabilidade e praticidade no uso profissional.",
+    "destaques": [
+      "Mesa deslizante com ajuste angular: 0° a 45° para a direita e para a esquerda.",
+      "Cabeçote com ajuste de ângulo: 0° - 22,5° e 45°.",
+      "Reservatório d'água acompanhado da bomba d'água para refrigeração do disco. Capacidade de 15 L.",
+      "Estrutura em alumínio reforçado.",
+      "Pé de apoio em peça única articulável para compactabilidade no transporte."
+    ],
+    "imagem": "images/cortadores-eletricos/zapp-600.jpg",
+    "colunas": [
+      "Modelo",
+      "Comprimento",
+      "Área máx.",
+      "Ângulo de corte",
+      "Voltagem",
+      "Potência",
+      "Disco",
+      "Embalagem (un)",
+      "EAN-13",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "modelo": "ZAPP 600",
+        "comprimento": "60 cm",
+        "areaMax": "43 cm x 43 cm",
+        "espessuraMax": "0°=9 cm / 22,5°=6 cm / 45°=4 cm",
+        "voltagem": "220 V",
+        "potencia": "1650 W",
+        "disco": "254 mm",
+        "embalagem": "1",
+        "ean": "7897451415520",
+        "codigo": "61552"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": 18
+    },
+    "camposVariante": [
+      "modelo",
+      "comprimento",
+      "areaMax",
+      "espessuraMax",
+      "voltagem",
+      "potencia",
+      "disco",
+      "embalagem",
+      "ean",
+      "codigo"
+    ]
+  },
+  {
+    "id": "cortadores-eletricos-zapp-180-br",
+    "categoria": "cortadores-eletricos",
+    "categoriaNome": "Cortadores Elétricos",
+    "linha": "Linha Zapp 180 BR",
+    "tagline": "A única do segmento fabricada no Brasil!",
+    "descricao": "Equipamento elétrico portátil, indicado para cortes em ângulo de 90° e 45°, além de permitir o chanfro em 45°. Ideal para revestimentos cerâmicos, porcelanatos, mármores, granitos e pedras naturais, com superfície lisa, áspera ou em relevo, e espessuras de até 3,2 cm. Oferece mesa de corte de 51 cm de comprimento e motor de 550 W, garantindo precisão e eficiência no corte profissional.",
+    "destaques": [
+      "Conjunto de guia e transferidor para maior precisão em cortes retos e em ângulos.",
+      "Protetor do disco de corte diamantado com ajuste de posicionamento.",
+      "Rápido sistema de posicionamento da mesa a 45° para cortes chanfrados.",
+      "Possui reservatório de água para refrigeração do disco de corte."
+    ],
+    "imagem": "images/cortadores-eletricos/zapp-180-br.jpg",
+    "colunas": [
+      "Modelo",
+      "Comprimento",
+      "Área máx.",
+      "Espessura máx.",
+      "Voltagem",
+      "Potência",
+      "Disco",
+      "Embalagem (un)",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "modelo": "ZAPP 180 BR",
+        "comprimento": "51 cm",
+        "areaMax": "36 cm x 36 cm",
+        "espessuraMax": "0°=3,2 cm / 45°=2 cm",
+        "voltagem": "127 V",
+        "potencia": "550 W",
+        "disco": "180 mm",
+        "embalagem": "1",
+        "codigo": "62057"
+      },
+      {
+        "modelo": "ZAPP 180 BR",
+        "comprimento": "51 cm",
+        "areaMax": "36 cm x 36 cm",
+        "espessuraMax": "0°=3,2 cm / 45°=2 cm",
+        "voltagem": "220 V",
+        "potencia": "550 W",
+        "disco": "180 mm",
+        "embalagem": "1",
+        "codigo": "61965"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": 19
+    },
+    "camposVariante": [
+      "modelo",
+      "comprimento",
+      "areaMax",
+      "espessuraMax",
+      "voltagem",
+      "potencia",
+      "disco",
+      "embalagem",
+      "codigo"
+    ]
+  },
+  {
+    "id": "cortadores-eletricos-apoio-lateral-zapp-fit",
+    "categoria": "cortadores-eletricos",
+    "categoriaNome": "Cortadores Elétricos",
+    "linha": "Apoio Lateral Zapp Fit",
+    "tagline": "Amplia a área de apoio para cortes em grandes formatos.",
+    "descricao": "Projetado para aumentar a área de apoio dos cortadores elétricos da linha Zapp Fit, oferecendo maior estabilidade e segurança durante o corte de revestimentos de grandes dimensões.",
+    "imagem": "images/cortadores-eletricos/apoio-lateral-zapp-fit.jpg",
+    "colunas": [
+      "Aplicação",
+      "Embalagem (un)",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "modelo": "ZAPP 900 FIT",
+        "embalagem": "1",
+        "codigo": "61889"
+      },
+      {
+        "modelo": "ZAPP 650 FIT",
+        "embalagem": "1",
+        "codigo": "61888"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": 19
+    },
+    "camposVariante": [
+      "modelo",
+      "embalagem",
+      "codigo"
+    ]
+  },
+  {
+    "id": "cortadores-eletricos-kit-trava-pisos",
+    "categoria": "cortadores-eletricos",
+    "categoriaNome": "Cortadores Elétricos",
+    "linha": "Kit Trava Pisos Linha Zapp",
+    "tagline": "Maior liberdade, precisão e segurança no corte.",
+    "descricao": "Desenvolvido para facilitar a operação com os cortadores elétricos das linhas Zapp Titan, Zapp G2 e Zapp Fit, proporcionando melhor ergonomia, segurança e precisão. Composto por duas peças, o sistema mantém o piso fixo durante o corte e pode ser removido facilmente para cortes em ângulo.",
+    "imagem": "images/cortadores-eletricos/kit-trava-pisos.jpg",
+    "colunas": [
+      "Modelo",
+      "Aplicação",
+      "Embalagem (un)",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "modelo": "Kit Trava Pisos",
+        "comprimento": "ZAPP G2 e ZAPP Titan",
+        "embalagem": "1",
+        "codigo": "62073"
+      },
+      {
+        "modelo": "Kit Trava Pisos",
+        "comprimento": "ZAPP FIT",
+        "embalagem": "1",
+        "codigo": "62074"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": 19
+    },
+    "camposVariante": [
+      "modelo",
+      "comprimento",
+      "embalagem",
+      "codigo"
+    ]
   }
 ]

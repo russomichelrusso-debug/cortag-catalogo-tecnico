@@ -100,7 +100,7 @@ async function initCategoria() {
   const container = document.getElementById("product-list");
 
   if (!list.length) {
-    container.innerHTML = `<div class="empty-state">Ainda não extraímos os produtos dessa categoria.<br>(Protótipo cobre por enquanto: Cortadores Manuais → Linha Mega / Linha Prime)</div>`;
+    container.innerHTML = `<div class="empty-state">Ainda não extraímos os produtos dessa categoria.<br>Volte em breve.</div>`;
     return;
   }
 
@@ -173,6 +173,10 @@ async function initProduto() {
   }
 
   if (p.variantes && p.variantes.length) {
+    // camposVariante define, na mesma ordem de "colunas", qual propriedade
+    // de cada variante entra em cada coluna — cada categoria tem specs diferentes
+    // (voltagem, potência, disco...), então a tabela é montada de forma genérica.
+    const campos = p.camposVariante || ["modelo", "comprimento", "areaMax", "espessuraMax", "embalagem", "ean", "codigo"];
     html += `<div class="section-title">Modelos e códigos</div>`;
     html += `<div class="table-scroll"><table class="specs"><thead><tr>${p.colunas
       .map((c) => `<th>${c}</th>`)
@@ -180,15 +184,8 @@ async function initProduto() {
     html += p.variantes
       .map((v) => {
         const highlight = codigoAlvo && v.codigo === codigoAlvo ? " highlight" : "";
-        return `<tr class="${highlight.trim()}">
-          <td>${v.modelo}</td>
-          <td>${v.comprimento}</td>
-          <td>${v.areaMax}</td>
-          <td>${v.espessuraMax}</td>
-          <td>${v.embalagem}</td>
-          <td>${v.ean}</td>
-          <td>${v.codigo}</td>
-        </tr>`;
+        const cells = campos.map((campo) => `<td>${v[campo] ?? ""}</td>`).join("");
+        return `<tr class="${highlight.trim()}">${cells}</tr>`;
       })
       .join("");
     html += `</tbody></table></div>`;
