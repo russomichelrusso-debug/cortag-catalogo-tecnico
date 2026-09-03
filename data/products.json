@@ -1,0 +1,74 @@
+[
+  {
+    "id": "cortadores-manuais-linha-mega",
+    "categoria": "cortadores-manuais",
+    "categoriaNome": "Cortadores Manuais",
+    "linha": "Linha Mega",
+    "tagline": "Força de 1 tonelada, retorno automático e cortes precisos em pisos cerâmicos e porcelanatos.",
+    "descricao": "A Linha Mega foi projetada para entregar desempenho profissional no corte de pisos cerâmicos e porcelanatos de até 15 mm de espessura. Equipada com força de separação de 1 tonelada e sistema de retorno automático, garante rapidez, precisão e conforto, com estrutura reforçada e estabilidade para cortes retos e diagonais.",
+    "destaques": [
+      "Retorno automático para riscar – mais produtividade.",
+      "Força de 1 tonelada – conforto e menos esforço.",
+      "Guias robustas parafusadas – cortes precisos.",
+      "Rodel com disco de tungstênio – corte limpo.",
+      "Limitador lateral – cortes exatos.",
+      "Apoio lateral em alumínio – estabilidade.",
+      "Apoio do piso com sistema de amortecimento – qualidade.",
+      "Suporte em alumínio injetado – robustez.",
+      "Alça para transporte.",
+      "Rodas para movimentação fácil."
+    ],
+    "rodelPadrao": "Ø 7 x 100 mm Universal / Titânio | Ø 18 x 90 mm Universal",
+    "imagem": "images/cortadores-manuais/linha-mega-hero.jpg",
+    "colunas": ["Modelo", "Comprimento", "Área máx.", "Espessura máx.", "Embalagem (un)", "EAN-13", "Código"],
+    "variantes": [
+      { "modelo": "Mega 75",  "comprimento": "75 cm",  "areaMax": "53 cm x 53 cm",   "espessuraMax": "15 mm", "embalagem": "1", "ean": "7897451420913", "codigo": "62091" },
+      { "modelo": "Mega 90",  "comprimento": "90 cm",  "areaMax": "64 cm x 64 cm",   "espessuraMax": "15 mm", "embalagem": "1", "ean": "7897451420906", "codigo": "62090" },
+      { "modelo": "Mega 125", "comprimento": "125 cm", "areaMax": "88 cm x 88 cm",   "espessuraMax": "15 mm", "embalagem": "1", "ean": "7897451419788", "codigo": "61978" },
+      { "modelo": "Mega 155", "comprimento": "155 cm", "areaMax": "110 cm x 110 cm", "espessuraMax": "15 mm", "embalagem": "1", "ean": "7897451420876", "codigo": "62087" },
+      { "modelo": "Mega 180", "comprimento": "180 cm", "areaMax": "127 cm x 127 cm", "espessuraMax": "15 mm", "embalagem": "1", "ean": "7897451421637", "codigo": "62163" }
+    ],
+    "fonte": { "arquivo": "Catálago Livro 2026.pdf", "pagina": 8 }
+  },
+  {
+    "id": "cortadores-manuais-linha-prime",
+    "categoria": "cortadores-manuais",
+    "categoriaNome": "Cortadores Manuais",
+    "linha": "Linha Prime",
+    "tagline": "Leveza e precisão em cortes de até 130 cm, com estrutura robusta e base amortecida.",
+    "descricao": "A Linha Prime foi criada para unir leveza e resistência em cortes de pisos cerâmicos e porcelanatos de até 130 cm. Sua estrutura em alumínio extrusado e base amortecida proporcionam estabilidade, praticidade e qualidade de acabamento, tornando-a ideal para cortes retos e diagonais no uso profissional.",
+    "selo": "Mais leve da categoria",
+    "destaques": [
+      "Estrutura em alumínio extrusado – leveza com robustez.",
+      "Base amortecida – estabilidade e qualidade na separação.",
+      "Apoio lateral e limitador – cortes mais precisos em qualquer ângulo.",
+      "Bolsa prática – transporte e organização facilitados.",
+      "Alavanca de ajuste robusta, com empunhadura plástica texturizada.",
+      "Guias mais robustas e parafusadas ao suporte.",
+      "Roda cortante com disco de tungstênio e haste em liga galvanizada.",
+      "Corte e separação na própria base, com multiplicação de força de 13 vezes.",
+      "Apoio de piso em espuma resistente e texturizada.",
+      "Alça para transporte (incluso nos modelos Prime 105 e Prime 130)."
+    ],
+    "rodelPadrao": "Ø 7 x 100 mm Universal / Titânio | Ø 18 x 90 mm Universal",
+    "imagem": "images/cortadores-manuais/linha-prime-hero.jpg",
+    "comparativo": {
+      "colunas": ["Modelo", "Rodas", "Alça p/ transporte", "Ajuste lateral", "Apoio lateral (un)"],
+      "linhas": [
+        { "modelo": "Prime 85",  "rodas": false, "alca": false, "ajusteLateral": true, "apoioLateral": "2" },
+        { "modelo": "Prime 92",  "rodas": false, "alca": false, "ajusteLateral": true, "apoioLateral": "2" },
+        { "modelo": "Prime 120*","rodas": false, "alca": false, "ajusteLateral": true, "apoioLateral": "2" },
+        { "modelo": "Prime 130", "rodas": true,  "alca": true,  "ajusteLateral": true, "apoioLateral": "4" }
+      ]
+    },
+    "colunas": ["Modelo", "Comprimento", "Área máx.", "Espessura máx.", "Embalagem (un)", "EAN-13", "Código"],
+    "variantes": [
+      { "modelo": "Prime 85",   "comprimento": "85 cm",  "areaMax": "60 cm x 60 cm", "espessuraMax": "15 mm", "embalagem": "1", "ean": "7897451430103", "codigo": "63010" },
+      { "modelo": "Prime 92",   "comprimento": "92 cm",  "areaMax": "65 cm x 65 cm", "espessuraMax": "15 mm", "embalagem": "1", "ean": "7897451430097", "codigo": "63009" },
+      { "modelo": "Prime 120*", "comprimento": "120 cm", "areaMax": "85 cm x 85 cm", "espessuraMax": "15 mm", "embalagem": "1", "ean": "7897451432787", "codigo": "63278" },
+      { "modelo": "Prime 130",  "comprimento": "130 cm", "areaMax": "90 cm x 90 cm", "espessuraMax": "15 mm", "embalagem": "1", "ean": "7897451426496", "codigo": "62649" }
+    ],
+    "observacao": "*Prime 120: bolsa de transporte não inclusa.",
+    "fonte": { "arquivo": "Catálago Livro 2026.pdf", "pagina": 8 }
+  }
+]

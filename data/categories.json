@@ -1,0 +1,19 @@
+[
+  { "id": "cortadores-manuais", "nome": "Cortadores Manuais", "paginaOrigem": "13-30" },
+  { "id": "cortadores-eletricos", "nome": "Cortadores Elétricos", "paginaOrigem": "31-38" },
+  { "id": "grandes-formatos", "nome": "Grandes Formatos", "paginaOrigem": "39-50" },
+  { "id": "sistema-nivelamento", "nome": "Sistema de Nivelamento", "paginaOrigem": "51-60" },
+  { "id": "espacadores", "nome": "Espaçadores", "paginaOrigem": "61-66" },
+  { "id": "acessorios-assentamento", "nome": "Acessórios para Colocação e Assentamento", "paginaOrigem": "67-86" },
+  { "id": "diamantados", "nome": "Diamantados", "paginaOrigem": "87-120" },
+  { "id": "perfuracao", "nome": "Perfuração (Brocas)", "paginaOrigem": "121-144" },
+  { "id": "abrasivos", "nome": "Abrasivos (Discos)", "paginaOrigem": "145-154" },
+  { "id": "ferramentas-manuais", "nome": "Ferramentas Manuais", "paginaOrigem": "155-184" },
+  { "id": "desempenadeiras", "nome": "Desempenadeiras", "paginaOrigem": "185-198" },
+  { "id": "colheres-pedreiro", "nome": "Colheres de Pedreiro", "paginaOrigem": "199-204" },
+  { "id": "maquinas-eletricas", "nome": "Máquinas Elétricas e Acessórios", "paginaOrigem": "205-212" },
+  { "id": "medicao", "nome": "Medição", "paginaOrigem": "213-228" },
+  { "id": "utilidades", "nome": "Utilidades", "paginaOrigem": "229-250" },
+  { "id": "limpeza-selantes", "nome": "Limpeza e Selantes", "paginaOrigem": "251-262" },
+  { "id": "drywall", "nome": "Drywall", "paginaOrigem": "263-270" }
+]
