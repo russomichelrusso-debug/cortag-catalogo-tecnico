@@ -1851,5 +1851,1408 @@
       "arquivo": "Catálago Livro 2026.pdf",
       "pagina": "25 (impressa 48-49)"
     }
+  },
+  {
+    "id": "sistema-nivelamento-easy-spin-espacadores",
+    "categoria": "sistema-nivelamento",
+    "categoriaNome": "Sistema de Nivelamento",
+    "linha": "Easy Spin — Espaçadores",
+    "tagline": "Indicado para pisos e revestimentos cerâmicos, especialmente porcelanatos com até 15 mm de espessura.",
+    "descricao": "Sistema desenvolvido para nivelar pisos e revestimentos cerâmicos e porcelanatos de até 15 mm de espessura, oferecendo agilidade e praticidade na instalação. Permite aplicação sem a necessidade de alicates, com uso possível apenas com uma mão.",
+    "destaques": [
+      "Design Cortag permite agilidade, trabalhando apenas com uma mão.",
+      "Elimina a necessidade de ajustes e utilização do alicate.",
+      "Separação de eixo e nivelador com design exclusivo: rompimento abaixo da superfície do piso.",
+      "3 pontos de ancoragem com a base, eliminando o risco de quebra durante o nivelamento.",
+      "Disponível em espessuras de 1,0, 1,5, 2,0 e 3,0 mm."
+    ],
+    "imagem": "images/sistema-nivelamento/easy-spin-espacadores.jpg",
+    "colunas": [
+      "Material",
+      "Cor",
+      "Espessura",
+      "Qtde/Embalagem",
+      "Tipo Embalagem",
+      "Qtde/Caixa",
+      "EAN-13",
+      "DUN-14",
+      "Código"
+    ],
+    "camposVariante": [
+      "material",
+      "cor",
+      "espessura",
+      "qtdeEmbalagem",
+      "tipoEmbalagem",
+      "qtdeCaixa",
+      "ean13",
+      "dun14",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "1,0 mm",
+        "qtdeEmbalagem": "50",
+        "tipoEmbalagem": "Pacote",
+        "qtdeCaixa": "12",
+        "ean13": "7897451425925",
+        "dun14": "17897451425922",
+        "codigo": "62592"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "1,5 mm",
+        "qtdeEmbalagem": "50",
+        "tipoEmbalagem": "Pacote",
+        "qtdeCaixa": "12",
+        "ean13": "7897451425987",
+        "dun14": "17897451425984",
+        "codigo": "62598"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "2,0 mm",
+        "qtdeEmbalagem": "50",
+        "tipoEmbalagem": "Pacote",
+        "qtdeCaixa": "12",
+        "ean13": "7897451426045",
+        "dun14": "17897451426042",
+        "codigo": "62604"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "3,0 mm",
+        "qtdeEmbalagem": "50",
+        "tipoEmbalagem": "Pacote",
+        "qtdeCaixa": "12",
+        "ean13": "7897451426106",
+        "dun14": "17897451426103",
+        "codigo": "62610"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "1,0 mm",
+        "qtdeEmbalagem": "500",
+        "tipoEmbalagem": "Caixa",
+        "qtdeCaixa": "1",
+        "ean13": "7897451425932",
+        "dun14": "-",
+        "codigo": "62593"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "1,5 mm",
+        "qtdeEmbalagem": "500",
+        "tipoEmbalagem": "Caixa",
+        "qtdeCaixa": "1",
+        "ean13": "7897451425994",
+        "dun14": "-",
+        "codigo": "62599"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "2,0 mm",
+        "qtdeEmbalagem": "500",
+        "tipoEmbalagem": "Caixa",
+        "qtdeCaixa": "1",
+        "ean13": "7897451426052",
+        "dun14": "-",
+        "codigo": "62605"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "3,0 mm",
+        "qtdeEmbalagem": "500",
+        "tipoEmbalagem": "Caixa",
+        "qtdeCaixa": "1",
+        "ean13": "7897451426113",
+        "dun14": "-",
+        "codigo": "62611"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "27 (impressa 52-53)"
+    }
+  },
+  {
+    "id": "sistema-nivelamento-easy-spin-porcas",
+    "categoria": "sistema-nivelamento",
+    "categoriaNome": "Sistema de Nivelamento",
+    "linha": "Easy Spin — Porcas Niveladoras",
+    "tagline": "Fácil de remover e reutilizável.",
+    "descricao": "Porcas niveladoras do sistema Easy Spin, que proporcionam ajuste preciso e acabamento uniforme, permitindo a aplicação sem a necessidade de alicates.",
+    "destaques": [
+      "Fácil de remover e reutilizável.",
+      "Design Cortag permite agilidade, trabalhando apenas com uma mão."
+    ],
+    "imagem": "images/sistema-nivelamento/easy-spin-porcas.jpg",
+    "colunas": [
+      "Material",
+      "Cor",
+      "Qtde/Embalagem",
+      "Tipo Embalagem",
+      "Qtde/Caixa",
+      "EAN-13",
+      "DUN-14",
+      "Código"
+    ],
+    "camposVariante": [
+      "material",
+      "cor",
+      "qtdeEmbalagem",
+      "tipoEmbalagem",
+      "qtdeCaixa",
+      "ean13",
+      "dun14",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "material": "Virgem",
+        "cor": "Vermelho",
+        "qtdeEmbalagem": "50",
+        "tipoEmbalagem": "Pacote",
+        "qtdeCaixa": "12",
+        "ean13": "7897451426168",
+        "dun14": "17897451426165",
+        "codigo": "62616"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Vermelho",
+        "qtdeEmbalagem": "500",
+        "tipoEmbalagem": "Caixa",
+        "qtdeCaixa": "1",
+        "ean13": "7897451426175",
+        "dun14": "-",
+        "codigo": "62617"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "27 (impressa 52-53)"
+    }
+  },
+  {
+    "id": "sistema-nivelamento-smart-espacadores",
+    "categoria": "sistema-nivelamento",
+    "categoriaNome": "Sistema de Nivelamento",
+    "linha": "Smart — Espaçadores",
+    "tagline": "Espaçadores reforçados para o nivelamento de pisos e revestimentos.",
+    "descricao": "Sistema desenvolvido para o assentamento de revestimentos cerâmicos e porcelanatos, garantindo alinhamento preciso e acabamento uniforme. Fabricados em material virgem de alta qualidade, disponíveis nas espessuras de 1, 1,5, 2 e 3 mm.",
+    "destaques": [
+      "Espaçadores reforçados para nivelamento de pisos e revestimentos.",
+      "Resistência e flexibilidade, facilitando o nivelamento durante a instalação."
+    ],
+    "imagem": "images/sistema-nivelamento/smart-espacadores.jpg",
+    "colunas": [
+      "Material",
+      "Cor",
+      "Espessura",
+      "Qtde/Embalagem",
+      "Embalagem",
+      "Qtde/Caixa",
+      "EAN-13",
+      "DUN-14",
+      "Código"
+    ],
+    "camposVariante": [
+      "material",
+      "cor",
+      "espessura",
+      "qtdeEmbalagem",
+      "embalagem",
+      "qtdeCaixa",
+      "ean13",
+      "dun14",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "1,0 mm",
+        "qtdeEmbalagem": "50",
+        "embalagem": "Pacote",
+        "qtdeCaixa": "12",
+        "ean13": "7897451418927",
+        "dun14": "17897451418924",
+        "codigo": "61892"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "1,5 mm",
+        "qtdeEmbalagem": "50",
+        "embalagem": "Pacote",
+        "qtdeCaixa": "12",
+        "ean13": "7897451418934",
+        "dun14": "17897451418931",
+        "codigo": "61893"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "2,0 mm",
+        "qtdeEmbalagem": "50",
+        "embalagem": "Pacote",
+        "qtdeCaixa": "12",
+        "ean13": "7897451418941",
+        "dun14": "17897451418948",
+        "codigo": "61894"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "3,0 mm",
+        "qtdeEmbalagem": "50",
+        "embalagem": "Pacote",
+        "qtdeCaixa": "12",
+        "ean13": "7897451418958",
+        "dun14": "17897451418955",
+        "codigo": "61895"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "1,0 mm",
+        "qtdeEmbalagem": "100",
+        "embalagem": "Pacote",
+        "qtdeCaixa": "12",
+        "ean13": "7897451421057",
+        "dun14": "27897451421051",
+        "codigo": "62105"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "1,5 mm",
+        "qtdeEmbalagem": "100",
+        "embalagem": "Pacote",
+        "qtdeCaixa": "12",
+        "ean13": "7897451421064",
+        "dun14": "27897451421068",
+        "codigo": "62106"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "2,0 mm",
+        "qtdeEmbalagem": "100",
+        "embalagem": "Pacote",
+        "qtdeCaixa": "12",
+        "ean13": "7897451421071",
+        "dun14": "27897451421075",
+        "codigo": "62107"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "3,0 mm",
+        "qtdeEmbalagem": "100",
+        "embalagem": "Pacote",
+        "qtdeCaixa": "12",
+        "ean13": "7897451421088",
+        "dun14": "27897451421082",
+        "codigo": "62108"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "1,0 mm",
+        "qtdeEmbalagem": "300",
+        "embalagem": "Pacote",
+        "qtdeCaixa": "6",
+        "ean13": "7897451419795",
+        "dun14": "27897451419799",
+        "codigo": "61979"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "1,5 mm",
+        "qtdeEmbalagem": "300",
+        "embalagem": "Pacote",
+        "qtdeCaixa": "6",
+        "ean13": "7897451419801",
+        "dun14": "27897451419805",
+        "codigo": "61980"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "2,0 mm",
+        "qtdeEmbalagem": "300",
+        "embalagem": "Pacote",
+        "qtdeCaixa": "6",
+        "ean13": "7897451419818",
+        "dun14": "27897451419812",
+        "codigo": "61981"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "1,0 mm",
+        "qtdeEmbalagem": "1000",
+        "embalagem": "Balde",
+        "qtdeCaixa": "1",
+        "ean13": "7897451428865",
+        "dun14": "-",
+        "codigo": "62886"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "1,5 mm",
+        "qtdeEmbalagem": "1000",
+        "embalagem": "Balde",
+        "qtdeCaixa": "1",
+        "ean13": "7897451428872",
+        "dun14": "-",
+        "codigo": "62887"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "2,0 mm",
+        "qtdeEmbalagem": "1000",
+        "embalagem": "Balde",
+        "qtdeCaixa": "1",
+        "ean13": "7897451428889",
+        "dun14": "-",
+        "codigo": "62888"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "3,0 mm",
+        "qtdeEmbalagem": "1000",
+        "embalagem": "Balde",
+        "qtdeCaixa": "1",
+        "ean13": "7897451428896",
+        "dun14": "-",
+        "codigo": "62889"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "27 (impressa 52-53)"
+    }
+  },
+  {
+    "id": "sistema-nivelamento-tradicional-espacadores",
+    "categoria": "sistema-nivelamento",
+    "categoriaNome": "Sistema de Nivelamento",
+    "linha": "Tradicional — Espaçadores",
+    "tagline": "Maior resistência e firmeza no nivelamento de revestimentos.",
+    "descricao": "Espaçadores fabricados em material virgem de alta qualidade, oferecendo rigidez e excelente desempenho no nivelamento de pisos e revestimentos. Possuem base reforçada e abas laterais que garantem melhor fixação e quebra controlada após o uso.",
+    "selo": "MAIS REFORÇADO",
+    "destaques": [
+      "Adição da aba para maior firmeza no manuseio.",
+      "Base mais alta, garantindo a quebra no local correto, sem deixar rebarbas fora do piso.",
+      "Disponível nas espessuras de 0,5, 1,0, 1,5, 2,0, 3,0, 4,0 e 5,0 mm."
+    ],
+    "imagem": "images/sistema-nivelamento/tradicional-espacadores.jpg",
+    "colunas": [
+      "Material",
+      "Cor",
+      "Espessura",
+      "Qtde/Embalagem",
+      "Embalagem",
+      "Qtde/Caixa",
+      "EAN-13",
+      "DUN-14",
+      "Código"
+    ],
+    "camposVariante": [
+      "material",
+      "cor",
+      "espessura",
+      "qtdeEmbalagem",
+      "embalagem",
+      "qtdeCaixa",
+      "ean13",
+      "dun14",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "0,5 mm",
+        "qtdeEmbalagem": "50",
+        "embalagem": "Pacote",
+        "qtdeCaixa": "12",
+        "ean13": "7897451426489",
+        "dun14": "17897451426486",
+        "codigo": "62648"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "1,0 mm",
+        "qtdeEmbalagem": "50",
+        "embalagem": "Pacote",
+        "qtdeCaixa": "12",
+        "ean13": "7897451466935",
+        "dun14": "17897451466932",
+        "codigo": "60693"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "1,5 mm",
+        "qtdeEmbalagem": "50",
+        "embalagem": "Pacote",
+        "qtdeCaixa": "12",
+        "ean13": "7897451466928",
+        "dun14": "17897451466925",
+        "codigo": "60692"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "2,0 mm",
+        "qtdeEmbalagem": "50",
+        "embalagem": "Pacote",
+        "qtdeCaixa": "12",
+        "ean13": "7897451412963",
+        "dun14": "17897451412960",
+        "codigo": "61296"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "3,0 mm",
+        "qtdeEmbalagem": "50",
+        "embalagem": "Pacote",
+        "qtdeCaixa": "12",
+        "ean13": "7897451416923",
+        "dun14": "17897451416920",
+        "codigo": "61692"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "4,0 mm",
+        "qtdeEmbalagem": "50",
+        "embalagem": "Pacote",
+        "qtdeCaixa": "12",
+        "ean13": "7897451425642",
+        "dun14": "17897451425649",
+        "codigo": "62564"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "5,0 mm",
+        "qtdeEmbalagem": "50",
+        "embalagem": "Pacote",
+        "qtdeCaixa": "12",
+        "ean13": "7897451425659",
+        "dun14": "17897451425656",
+        "codigo": "62565"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "0,5 mm",
+        "qtdeEmbalagem": "500",
+        "embalagem": "Granel",
+        "qtdeCaixa": "1",
+        "ean13": "7897451426472",
+        "dun14": "-",
+        "codigo": "62647"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "1,0 mm",
+        "qtdeEmbalagem": "500",
+        "embalagem": "Granel",
+        "qtdeCaixa": "1",
+        "ean13": "7897451424034",
+        "dun14": "-",
+        "codigo": "62403"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "1,5 mm",
+        "qtdeEmbalagem": "500",
+        "embalagem": "Granel",
+        "qtdeCaixa": "1",
+        "ean13": "7897451424065",
+        "dun14": "-",
+        "codigo": "62406"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "2,0 mm",
+        "qtdeEmbalagem": "500",
+        "embalagem": "Granel",
+        "qtdeCaixa": "1",
+        "ean13": "7897451424102",
+        "dun14": "-",
+        "codigo": "62410"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "3,0 mm",
+        "qtdeEmbalagem": "500",
+        "embalagem": "Granel",
+        "qtdeCaixa": "1",
+        "ean13": "7897451424133",
+        "dun14": "-",
+        "codigo": "62413"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "4,0 mm",
+        "qtdeEmbalagem": "500",
+        "embalagem": "Granel",
+        "qtdeCaixa": "1",
+        "ean13": "7897451425666",
+        "dun14": "-",
+        "codigo": "62566"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "5,0 mm",
+        "qtdeEmbalagem": "500",
+        "embalagem": "Granel",
+        "qtdeCaixa": "1",
+        "ean13": "7897451425673",
+        "dun14": "-",
+        "codigo": "62567"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "0,5 mm",
+        "qtdeEmbalagem": "900",
+        "embalagem": "Balde",
+        "qtdeCaixa": "1",
+        "ean13": "7897451431926",
+        "dun14": "-",
+        "codigo": "63192"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "1,0 mm",
+        "qtdeEmbalagem": "900",
+        "embalagem": "Balde",
+        "qtdeCaixa": "1",
+        "ean13": "7897451427004",
+        "dun14": "-",
+        "codigo": "62700"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "1,5 mm",
+        "qtdeEmbalagem": "900",
+        "embalagem": "Balde",
+        "qtdeCaixa": "1",
+        "ean13": "7897451427011",
+        "dun14": "-",
+        "codigo": "62701"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "2,0 mm",
+        "qtdeEmbalagem": "900",
+        "embalagem": "Balde",
+        "qtdeCaixa": "1",
+        "ean13": "7897451427028",
+        "dun14": "-",
+        "codigo": "62702"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "3,0 mm",
+        "qtdeEmbalagem": "900",
+        "embalagem": "Balde",
+        "qtdeCaixa": "1",
+        "ean13": "7897451427035",
+        "dun14": "-",
+        "codigo": "62703"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "28 (impressa 54-55)"
+    }
+  },
+  {
+    "id": "sistema-nivelamento-tradicional-cunhas",
+    "categoria": "sistema-nivelamento",
+    "categoriaNome": "Sistema de Nivelamento",
+    "linha": "Tradicional — Cunhas",
+    "tagline": "Precisão, ajuste e facilidade no nivelamento de pisos e revestimentos.",
+    "descricao": "Indicada para o assentamento de pisos e revestimentos cerâmicos e porcelanatos, proporcionando ajuste preciso, firmeza e reutilização prática. Seu formato anatômico garante melhor encaixe e ergonomia.",
+    "destaques": [
+      "Ajuste preciso, firmeza e reutilização prática.",
+      "Formato anatômico garante melhor encaixe e ergonomia."
+    ],
+    "imagem": "images/sistema-nivelamento/tradicional-cunhas.jpg",
+    "colunas": [
+      "Material",
+      "Cor",
+      "Qtde/Embalagem",
+      "Embalagem",
+      "Qtde/Caixa",
+      "EAN-13",
+      "DUN-14",
+      "Código"
+    ],
+    "camposVariante": [
+      "material",
+      "cor",
+      "qtdeEmbalagem",
+      "embalagem",
+      "qtdeCaixa",
+      "ean13",
+      "dun14",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "material": "Virgem",
+        "cor": "Vermelha",
+        "qtdeEmbalagem": "50",
+        "embalagem": "Pacote",
+        "qtdeCaixa": "12",
+        "ean13": "7897451466942",
+        "dun14": "37897451466943",
+        "codigo": "60694"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Vermelha",
+        "qtdeEmbalagem": "500",
+        "embalagem": "Granel",
+        "qtdeCaixa": "1",
+        "ean13": "7897451424201",
+        "dun14": "-",
+        "codigo": "62420"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "28 (impressa 54-55)"
+    }
+  },
+  {
+    "id": "sistema-nivelamento-eco-espacadores",
+    "categoria": "sistema-nivelamento",
+    "categoriaNome": "Sistema de Nivelamento",
+    "linha": "ECO — Espaçadores",
+    "tagline": "Sustentabilidade e desempenho no nivelamento de pisos e revestimentos.",
+    "descricao": "Sistema desenvolvido com materiais reciclados de alta resistência, oferecendo sustentabilidade e eficiência no nivelamento de pisos e revestimentos cerâmicos ou porcelanatos. Disponível nas espessuras de 1,0, 1,5, 2,0, 3,0, 4,0 e 5,0 mm, em cores diferentes por espessura (azul, vermelho, verde, prata, creme e preto).",
+    "destaques": [
+      "Fabricado com materiais reciclados de alta resistência.",
+      "Alinhamento preciso e acabamento uniforme.",
+      "Cada espessura tem uma cor identificadora."
+    ],
+    "imagem": "images/sistema-nivelamento/eco-espacadores.jpg",
+    "colunas": [
+      "Material",
+      "Cor",
+      "Espessura",
+      "Qtde/Embalagem",
+      "Embalagem",
+      "Qtde/Caixa",
+      "EAN-13",
+      "DUN-14",
+      "Código"
+    ],
+    "camposVariante": [
+      "material",
+      "cor",
+      "espessura",
+      "qtdeEmbalagem",
+      "embalagem",
+      "qtdeCaixa",
+      "ean13",
+      "dun14",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "material": "Reciclado",
+        "cor": "Azul",
+        "espessura": "1,0 mm",
+        "qtdeEmbalagem": "50",
+        "embalagem": "Pacote",
+        "qtdeCaixa": "12",
+        "ean13": "7897451413342",
+        "dun14": "17897451413349",
+        "codigo": "61334"
+      },
+      {
+        "material": "Reciclado",
+        "cor": "Vermelho",
+        "espessura": "1,5 mm",
+        "qtdeEmbalagem": "50",
+        "embalagem": "Pacote",
+        "qtdeCaixa": "12",
+        "ean13": "7897451413366",
+        "dun14": "17897451413363",
+        "codigo": "61336"
+      },
+      {
+        "material": "Reciclado",
+        "cor": "Verde",
+        "espessura": "2,0 mm",
+        "qtdeEmbalagem": "50",
+        "embalagem": "Pacote",
+        "qtdeCaixa": "12",
+        "ean13": "7897451413380",
+        "dun14": "17897451413387",
+        "codigo": "61338"
+      },
+      {
+        "material": "Reciclado",
+        "cor": "Prata",
+        "espessura": "3,0 mm",
+        "qtdeEmbalagem": "50",
+        "embalagem": "Pacote",
+        "qtdeCaixa": "12",
+        "ean13": "7897451416954",
+        "dun14": "17897451416951",
+        "codigo": "61695"
+      },
+      {
+        "material": "Reciclado",
+        "cor": "Creme",
+        "espessura": "4,0 mm",
+        "qtdeEmbalagem": "50",
+        "embalagem": "Pacote",
+        "qtdeCaixa": "12",
+        "ean13": "7897451426410",
+        "dun14": "17897451426417",
+        "codigo": "62641"
+      },
+      {
+        "material": "Reciclado",
+        "cor": "Preto",
+        "espessura": "5,0 mm",
+        "qtdeEmbalagem": "50",
+        "embalagem": "Pacote",
+        "qtdeCaixa": "12",
+        "ean13": "7897451426427",
+        "dun14": "17897451426424",
+        "codigo": "62642"
+      },
+      {
+        "material": "Reciclado",
+        "cor": "Azul",
+        "espessura": "1,0 mm",
+        "qtdeEmbalagem": "500",
+        "embalagem": "Granel",
+        "qtdeCaixa": "1",
+        "ean13": "7897451424041",
+        "dun14": "-",
+        "codigo": "62404"
+      },
+      {
+        "material": "Reciclado",
+        "cor": "Vermelho",
+        "espessura": "1,5 mm",
+        "qtdeEmbalagem": "500",
+        "embalagem": "Granel",
+        "qtdeCaixa": "1",
+        "ean13": "7897451424072",
+        "dun14": "-",
+        "codigo": "62407"
+      },
+      {
+        "material": "Reciclado",
+        "cor": "Verde",
+        "espessura": "2,0 mm",
+        "qtdeEmbalagem": "500",
+        "embalagem": "Granel",
+        "qtdeCaixa": "1",
+        "ean13": "897451424119",
+        "dun14": "-",
+        "codigo": "62411"
+      },
+      {
+        "material": "Reciclado",
+        "cor": "Prata",
+        "espessura": "3,0 mm",
+        "qtdeEmbalagem": "500",
+        "embalagem": "Granel",
+        "qtdeCaixa": "1",
+        "ean13": "7897451424140",
+        "dun14": "-",
+        "codigo": "62414"
+      },
+      {
+        "material": "Reciclado",
+        "cor": "Creme",
+        "espessura": "4,0 mm",
+        "qtdeEmbalagem": "500",
+        "embalagem": "Granel",
+        "qtdeCaixa": "1",
+        "ean13": "7897451426434",
+        "dun14": "-",
+        "codigo": "62643"
+      },
+      {
+        "material": "Reciclado",
+        "cor": "Preto",
+        "espessura": "5,0 mm",
+        "qtdeEmbalagem": "500",
+        "embalagem": "Granel",
+        "qtdeCaixa": "1",
+        "ean13": "7897451426441",
+        "dun14": "-",
+        "codigo": "62644"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "29 (impressa 56-57)"
+    }
+  },
+  {
+    "id": "sistema-nivelamento-eco-cunhas",
+    "categoria": "sistema-nivelamento",
+    "categoriaNome": "Sistema de Nivelamento",
+    "linha": "ECO — Cunhas",
+    "tagline": "Sustentabilidade e desempenho no nivelamento de pisos e revestimentos.",
+    "descricao": "Cunha do sistema ECO, fabricada com materiais reciclados de alta resistência, ideal para aplicações profissionais.",
+    "destaques": [
+      "Fabricada com materiais reciclados de alta resistência.",
+      "Alinhamento preciso e acabamento uniforme."
+    ],
+    "imagem": "images/sistema-nivelamento/eco-cunhas.jpg",
+    "colunas": [
+      "Material",
+      "Cor",
+      "Qtde/Embalagem",
+      "Embalagem",
+      "Qtde/Caixa",
+      "EAN-13",
+      "DUN-14",
+      "Código"
+    ],
+    "camposVariante": [
+      "material",
+      "cor",
+      "qtdeEmbalagem",
+      "embalagem",
+      "qtdeCaixa",
+      "ean13",
+      "dun14",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "material": "Reciclado",
+        "cor": "Cinza",
+        "qtdeEmbalagem": "50",
+        "embalagem": "Pacote",
+        "qtdeCaixa": "12",
+        "ean13": "7897451414103",
+        "dun14": "37897451414104",
+        "codigo": "61410"
+      },
+      {
+        "material": "Reciclado",
+        "cor": "Cinza",
+        "qtdeEmbalagem": "500",
+        "embalagem": "Granel",
+        "qtdeCaixa": "1",
+        "ean13": "7897451424195",
+        "dun14": "-",
+        "codigo": "62419"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "29 (impressa 56-57)"
+    }
+  },
+  {
+    "id": "sistema-nivelamento-slim-espacadores",
+    "categoria": "sistema-nivelamento",
+    "categoriaNome": "Sistema de Nivelamento",
+    "linha": "Slim — Espaçadores",
+    "tagline": "Nivelamento preciso e discreto para cerâmicas e porcelanatos.",
+    "descricao": "Indicado para o assentamento de pisos e revestimentos cerâmicos, especialmente porcelanatos, oferecendo alinhamento uniforme e acabamento profissional. Design mais compacto proporciona maior precisão e menor interferência visual durante a instalação.",
+    "destaques": [
+      "Design mais compacto que reduz a interferência visual na junta.",
+      "Disponível nas espessuras de 1,0, 1,5, 2,0 e 3,0 mm."
+    ],
+    "imagem": "images/sistema-nivelamento/slim-espacadores.jpg",
+    "colunas": [
+      "Material",
+      "Cor",
+      "Espessura",
+      "Qtde/Embalagem",
+      "Embalagem",
+      "Qtde/Caixa",
+      "EAN-13",
+      "DUN-14",
+      "Código"
+    ],
+    "camposVariante": [
+      "material",
+      "cor",
+      "espessura",
+      "qtdeEmbalagem",
+      "embalagem",
+      "qtdeCaixa",
+      "ean13",
+      "dun14",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "1,0 mm",
+        "qtdeEmbalagem": "100",
+        "embalagem": "Pacote",
+        "qtdeCaixa": "12",
+        "ean13": "7897451415346",
+        "dun14": "17897451415343",
+        "codigo": "61534"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "1,5 mm",
+        "qtdeEmbalagem": "100",
+        "embalagem": "Pacote",
+        "qtdeCaixa": "12",
+        "ean13": "7897451415353",
+        "dun14": "17897451415350",
+        "codigo": "61535"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "2,0 mm",
+        "qtdeEmbalagem": "100",
+        "embalagem": "Pacote",
+        "qtdeCaixa": "12",
+        "ean13": "7897451415360",
+        "dun14": "17897451415367",
+        "codigo": "61536"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "3,0 mm",
+        "qtdeEmbalagem": "100",
+        "embalagem": "Pacote",
+        "qtdeCaixa": "12",
+        "ean13": "7897451428599",
+        "dun14": "17897451428596",
+        "codigo": "62859"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "1,0 mm",
+        "qtdeEmbalagem": "1000",
+        "embalagem": "Granel",
+        "qtdeCaixa": "1",
+        "ean13": "7897451424164",
+        "dun14": "-",
+        "codigo": "62416"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "1,5 mm",
+        "qtdeEmbalagem": "1000",
+        "embalagem": "Granel",
+        "qtdeCaixa": "1",
+        "ean13": "7897451424171",
+        "dun14": "-",
+        "codigo": "62417"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "2,0 mm",
+        "qtdeEmbalagem": "1000",
+        "embalagem": "Granel",
+        "qtdeCaixa": "1",
+        "ean13": "7897451424188",
+        "dun14": "-",
+        "codigo": "62418"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Transparente",
+        "espessura": "3,0 mm",
+        "qtdeEmbalagem": "1000",
+        "embalagem": "Granel",
+        "qtdeCaixa": "1",
+        "ean13": "7897451428605",
+        "dun14": "-",
+        "codigo": "62860"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "29 (impressa 56-57)"
+    }
+  },
+  {
+    "id": "sistema-nivelamento-slim-cunhas",
+    "categoria": "sistema-nivelamento",
+    "categoriaNome": "Sistema de Nivelamento",
+    "linha": "Slim — Cunhas",
+    "tagline": "Nivelamento preciso e discreto para cerâmicas e porcelanatos.",
+    "descricao": "Cunha do Sistema Slim, indicada para o assentamento de revestimentos cerâmicos, especialmente porcelanatos, oferecendo alinhamento uniforme e acabamento profissional.",
+    "destaques": [
+      "Design mais compacto proporciona maior precisão.",
+      "Menor interferência visual durante a instalação."
+    ],
+    "imagem": "images/sistema-nivelamento/slim-cunhas.jpg",
+    "colunas": [
+      "Material",
+      "Cor",
+      "Qtde/Embalagem",
+      "Embalagem",
+      "Qtde/Caixa",
+      "EAN-13",
+      "DUN-14",
+      "Código"
+    ],
+    "camposVariante": [
+      "material",
+      "cor",
+      "qtdeEmbalagem",
+      "embalagem",
+      "qtdeCaixa",
+      "ean13",
+      "dun14",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "material": "Virgem",
+        "cor": "Vermelha",
+        "qtdeEmbalagem": "100",
+        "embalagem": "Pacote",
+        "qtdeCaixa": "12",
+        "ean13": "7897451415384",
+        "dun14": "17897451415381",
+        "codigo": "61538"
+      },
+      {
+        "material": "Virgem",
+        "cor": "Vermelha",
+        "qtdeEmbalagem": "1000",
+        "embalagem": "Granel",
+        "qtdeCaixa": "1",
+        "ean13": "7897451424218",
+        "dun14": "-",
+        "codigo": "62421"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "29 (impressa 56-57)"
+    }
+  },
+  {
+    "id": "sistema-nivelamento-supra-espacadores",
+    "categoria": "sistema-nivelamento",
+    "categoriaNome": "Sistema de Nivelamento",
+    "linha": "Supra — Espaçadores",
+    "tagline": "Espaçadores Supra para granitos, mármores e pedras naturais.",
+    "descricao": "Desenvolvidos para assentamento de granitos, mármores e pedras naturais, garantindo alinhamento preciso e acabamento uniforme em peças com espessuras de 15 mm a 20 mm e 25 mm a 35 mm. Fabricados em material reciclado de alta resistência.",
+    "destaques": [
+      "Nivelamento estável e durabilidade superior.",
+      "Ideais para aplicações profissionais em grandes formatos."
+    ],
+    "imagem": "images/sistema-nivelamento/supra-espacadores.jpg",
+    "colunas": [
+      "Material",
+      "Cor",
+      "Faixa de Espessura",
+      "Espessura do Espaçador",
+      "Qtde/Embalagem",
+      "Embalagem",
+      "Qtde/Caixa",
+      "EAN-13",
+      "DUN-14",
+      "Código"
+    ],
+    "camposVariante": [
+      "material",
+      "cor",
+      "faixaEspessura",
+      "espessuraEspacador",
+      "qtdeEmbalagem",
+      "embalagem",
+      "qtdeCaixa",
+      "ean13",
+      "dun14",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "material": "Reciclado",
+        "cor": "Cinza",
+        "faixaEspessura": "15 - 20 mm",
+        "espessuraEspacador": "1,5 mm",
+        "qtdeEmbalagem": "50",
+        "embalagem": "Pacote",
+        "qtdeCaixa": "12",
+        "ean13": "7897451413298",
+        "dun14": "17897451413295",
+        "codigo": "61329"
+      },
+      {
+        "material": "Reciclado",
+        "cor": "Cinza",
+        "faixaEspessura": "25 - 35 mm",
+        "espessuraEspacador": "1,5 mm",
+        "qtdeEmbalagem": "50",
+        "embalagem": "Pacote",
+        "qtdeCaixa": "12",
+        "ean13": "7897451428575",
+        "dun14": "27897451428579",
+        "codigo": "62857"
+      },
+      {
+        "material": "Reciclado",
+        "cor": "Cinza",
+        "faixaEspessura": "15 - 20 mm",
+        "espessuraEspacador": "1,5 mm",
+        "qtdeEmbalagem": "500",
+        "embalagem": "Granel",
+        "qtdeCaixa": "1",
+        "ean13": "7897451424096",
+        "dun14": "-",
+        "codigo": "62409"
+      },
+      {
+        "material": "Reciclado",
+        "cor": "Cinza",
+        "faixaEspessura": "25 - 35 mm",
+        "espessuraEspacador": "1,5 mm",
+        "qtdeEmbalagem": "500",
+        "embalagem": "Granel",
+        "qtdeCaixa": "1",
+        "ean13": "7897451428582",
+        "dun14": "-",
+        "codigo": "62858"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "30 (impressa 58-59)"
+    }
+  },
+  {
+    "id": "sistema-nivelamento-alicates-revestimento",
+    "categoria": "sistema-nivelamento",
+    "categoriaNome": "Sistema de Nivelamento",
+    "linha": "Alicates para Nivelamento de Revestimento",
+    "tagline": "Precisão e ergonomia na aplicação do sistema de nivelamento.",
+    "descricao": "Alicates de aplicação projetados para ajustar espaçadores e cunhas com precisão e conforto, otimizando o processo de nivelamento em pisos e revestimentos. Estrutura metálica reforçada e empunhadura ergonômica. Acompanha adaptador para o Sistema Slim.",
+    "destaques": [
+      "Estrutura metálica reforçada e empunhadura ergonômica.",
+      "Acompanha adaptador para o Sistema Slim.",
+      "Disponível em versão para piso e para parede."
+    ],
+    "imagem": "images/sistema-nivelamento/alicate-piso-nivelamento.jpg",
+    "colunas": [
+      "Tipo",
+      "Qtde/Caixa",
+      "EAN-13",
+      "DUN-14",
+      "Código"
+    ],
+    "camposVariante": [
+      "tipo",
+      "qtdeCaixa",
+      "ean13",
+      "dun14",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "tipo": "Alicate Piso",
+        "qtdeCaixa": "3",
+        "ean13": "7897451466959",
+        "dun14": "27897451466953",
+        "codigo": "60695"
+      },
+      {
+        "tipo": "Alicate Parede",
+        "qtdeCaixa": "3",
+        "ean13": "7897451469691",
+        "dun14": "27897451469695",
+        "codigo": "60969"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "30 (impressa 58-59)"
+    }
+  },
+  {
+    "id": "sistema-nivelamento-alicate-basic-piso",
+    "categoria": "sistema-nivelamento",
+    "categoriaNome": "Sistema de Nivelamento",
+    "linha": "Alicate Basic p/ Nivelamento de Revestimento - Piso",
+    "tagline": "Mais leve, ergonômico e versátil para nivelamento profissional.",
+    "descricao": "Alicate para nivelamento de pisos com cabo plástico, desenvolvido para facilitar a instalação de todos os sistemas de nivelamento, incluindo uso integrado com o sistema Slim. Fabricado em plástico resistente, é mais leve, ergonômico e confortável de utilizar.",
+    "selo": "NOVO",
+    "destaques": [
+      "Possui ajustes que se adaptam a diferentes espessuras de revestimentos.",
+      "Compatível com uso integrado ao sistema Slim.",
+      "Mais leve que os alicates metálicos tradicionais."
+    ],
+    "imagem": "images/sistema-nivelamento/alicate-basic-nivelamento-piso.jpg",
+    "colunas": [
+      "Qtde/Caixa",
+      "EAN-13",
+      "DUN-14",
+      "Código"
+    ],
+    "camposVariante": [
+      "qtdeCaixa",
+      "ean13",
+      "dun14",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "qtdeCaixa": "3",
+        "ean13": "7897451430530",
+        "dun14": "17897451430537",
+        "codigo": "63053"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "30 (impressa 58-59)"
+    }
+  },
+  {
+    "id": "sistema-nivelamento-base-protecao-espacador",
+    "categoria": "sistema-nivelamento",
+    "categoriaNome": "Sistema de Nivelamento",
+    "linha": "Base de Proteção para Espaçador Nivelador",
+    "tagline": "Proteção eficiente para revestimentos com esmalte sensível.",
+    "descricao": "Desenvolvida para proteger a superfície de pisos e revestimentos com esmalte sensível durante a instalação. Também auxilia no nivelamento de revestimentos de menor espessura, compensando a altura necessária para um assentamento uniforme. Possui base reforçada e abertura central que permite o encaixe de diversos tipos de espaçadores niveladores.",
+    "selo": "Especial para superfícies delicadas",
+    "destaques": [
+      "Base reforçada que auxilia no nivelamento de revestimentos de menor espessura.",
+      "Abertura central compatível com variadas espessuras e modelos de espaçadores niveladores."
+    ],
+    "imagem": "images/sistema-nivelamento/base-protecao-espacador.jpg",
+    "colunas": [
+      "Tipo",
+      "Qtde/Embalagem",
+      "Qtde/Caixa",
+      "EAN-13",
+      "DUN-14",
+      "Código"
+    ],
+    "camposVariante": [
+      "tipo",
+      "qtdeEmbalagem",
+      "qtdeCaixa",
+      "ean13",
+      "dun14",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "tipo": "Pacote",
+        "qtdeEmbalagem": "50",
+        "qtdeCaixa": "24",
+        "ean13": "7897451425833",
+        "dun14": "17897451425830",
+        "codigo": "62583"
+      },
+      {
+        "tipo": "Granel",
+        "qtdeEmbalagem": "500",
+        "qtdeCaixa": "1",
+        "ean13": "7897451425826",
+        "dun14": "-",
+        "codigo": "62582"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "30 (impressa 58-59)"
+    }
+  },
+  {
+    "id": "sistema-nivelamento-cantoneira-niveladora",
+    "categoria": "sistema-nivelamento",
+    "categoriaNome": "Sistema de Nivelamento",
+    "linha": "Cantoneira Niveladora",
+    "tagline": "Nivelamento preciso em cantos e acabamentos.",
+    "descricao": "Ideal para nivelar cantos de 90°, principalmente em escadas, colunas, nichos e bancadas. Possui design ergonômico e ângulo reforçado, garantindo ajuste firme e acabamento perfeito. Pode ser usada em conjunto com sistemas de cunhas e espaçadores, como o Easy Spin.",
+    "destaques": [
+      "Canto em 90° para tornar o nivelamento de encaixes em 45° mais fácil e prático.",
+      "Design que permite a utilização de diferentes modelos de niveladores em conjunto.",
+      "Desenvolvido para evitar riscos ou quebra durante o uso."
+    ],
+    "imagem": "images/sistema-nivelamento/cantoneira-niveladora.jpg",
+    "colunas": [
+      "Tipo",
+      "Qtde/Embalagem",
+      "Qtde/Caixa",
+      "EAN-13",
+      "DUN-14",
+      "Código"
+    ],
+    "camposVariante": [
+      "tipo",
+      "qtdeEmbalagem",
+      "qtdeCaixa",
+      "ean13",
+      "dun14",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "tipo": "Pacote",
+        "qtdeEmbalagem": "25",
+        "qtdeCaixa": "12",
+        "ean13": "7897451425628",
+        "dun14": "17897451425625",
+        "codigo": "62562"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "31 (impressa 60)"
+    }
   }
 ]
