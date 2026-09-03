@@ -20,15 +20,66 @@
     ],
     "rodelPadrao": "Ø 7 x 100 mm Universal / Titânio | Ø 18 x 90 mm Universal",
     "imagem": "images/cortadores-manuais/linha-mega-hero.jpg",
-    "colunas": ["Modelo", "Comprimento", "Área máx.", "Espessura máx.", "Embalagem (un)", "EAN-13", "Código"],
-    "variantes": [
-      { "modelo": "Mega 75",  "comprimento": "75 cm",  "areaMax": "53 cm x 53 cm",   "espessuraMax": "15 mm", "embalagem": "1", "ean": "7897451420913", "codigo": "62091" },
-      { "modelo": "Mega 90",  "comprimento": "90 cm",  "areaMax": "64 cm x 64 cm",   "espessuraMax": "15 mm", "embalagem": "1", "ean": "7897451420906", "codigo": "62090" },
-      { "modelo": "Mega 125", "comprimento": "125 cm", "areaMax": "88 cm x 88 cm",   "espessuraMax": "15 mm", "embalagem": "1", "ean": "7897451419788", "codigo": "61978" },
-      { "modelo": "Mega 155", "comprimento": "155 cm", "areaMax": "110 cm x 110 cm", "espessuraMax": "15 mm", "embalagem": "1", "ean": "7897451420876", "codigo": "62087" },
-      { "modelo": "Mega 180", "comprimento": "180 cm", "areaMax": "127 cm x 127 cm", "espessuraMax": "15 mm", "embalagem": "1", "ean": "7897451421637", "codigo": "62163" }
+    "colunas": [
+      "Modelo",
+      "Comprimento",
+      "Área máx.",
+      "Espessura máx.",
+      "Embalagem (un)",
+      "EAN-13",
+      "Código"
     ],
-    "fonte": { "arquivo": "Catálago Livro 2026.pdf", "pagina": 8 }
+    "variantes": [
+      {
+        "modelo": "Mega 75",
+        "comprimento": "75 cm",
+        "areaMax": "53 cm x 53 cm",
+        "espessuraMax": "15 mm",
+        "embalagem": "1",
+        "ean": "7897451420913",
+        "codigo": "62091"
+      },
+      {
+        "modelo": "Mega 90",
+        "comprimento": "90 cm",
+        "areaMax": "64 cm x 64 cm",
+        "espessuraMax": "15 mm",
+        "embalagem": "1",
+        "ean": "7897451420906",
+        "codigo": "62090"
+      },
+      {
+        "modelo": "Mega 125",
+        "comprimento": "125 cm",
+        "areaMax": "88 cm x 88 cm",
+        "espessuraMax": "15 mm",
+        "embalagem": "1",
+        "ean": "7897451419788",
+        "codigo": "61978"
+      },
+      {
+        "modelo": "Mega 155",
+        "comprimento": "155 cm",
+        "areaMax": "110 cm x 110 cm",
+        "espessuraMax": "15 mm",
+        "embalagem": "1",
+        "ean": "7897451420876",
+        "codigo": "62087"
+      },
+      {
+        "modelo": "Mega 180",
+        "comprimento": "180 cm",
+        "areaMax": "127 cm x 127 cm",
+        "espessuraMax": "15 mm",
+        "embalagem": "1",
+        "ean": "7897451421637",
+        "codigo": "62163"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": 8
+    }
   },
   {
     "id": "cortadores-manuais-linha-prime",
@@ -53,22 +104,711 @@
     "rodelPadrao": "Ø 7 x 100 mm Universal / Titânio | Ø 18 x 90 mm Universal",
     "imagem": "images/cortadores-manuais/linha-prime-hero.jpg",
     "comparativo": {
-      "colunas": ["Modelo", "Rodas", "Alça p/ transporte", "Ajuste lateral", "Apoio lateral (un)"],
+      "colunas": [
+        "Modelo",
+        "Rodas",
+        "Alça p/ transporte",
+        "Ajuste lateral",
+        "Apoio lateral (un)"
+      ],
       "linhas": [
-        { "modelo": "Prime 85",  "rodas": false, "alca": false, "ajusteLateral": true, "apoioLateral": "2" },
-        { "modelo": "Prime 92",  "rodas": false, "alca": false, "ajusteLateral": true, "apoioLateral": "2" },
-        { "modelo": "Prime 120*","rodas": false, "alca": false, "ajusteLateral": true, "apoioLateral": "2" },
-        { "modelo": "Prime 130", "rodas": true,  "alca": true,  "ajusteLateral": true, "apoioLateral": "4" }
+        {
+          "modelo": "Prime 85",
+          "rodas": false,
+          "alca": false,
+          "ajusteLateral": true,
+          "apoioLateral": "2"
+        },
+        {
+          "modelo": "Prime 92",
+          "rodas": false,
+          "alca": false,
+          "ajusteLateral": true,
+          "apoioLateral": "2"
+        },
+        {
+          "modelo": "Prime 120*",
+          "rodas": false,
+          "alca": false,
+          "ajusteLateral": true,
+          "apoioLateral": "2"
+        },
+        {
+          "modelo": "Prime 130",
+          "rodas": true,
+          "alca": true,
+          "ajusteLateral": true,
+          "apoioLateral": "4"
+        }
       ]
     },
-    "colunas": ["Modelo", "Comprimento", "Área máx.", "Espessura máx.", "Embalagem (un)", "EAN-13", "Código"],
+    "colunas": [
+      "Modelo",
+      "Comprimento",
+      "Área máx.",
+      "Espessura máx.",
+      "Embalagem (un)",
+      "EAN-13",
+      "Código"
+    ],
     "variantes": [
-      { "modelo": "Prime 85",   "comprimento": "85 cm",  "areaMax": "60 cm x 60 cm", "espessuraMax": "15 mm", "embalagem": "1", "ean": "7897451430103", "codigo": "63010" },
-      { "modelo": "Prime 92",   "comprimento": "92 cm",  "areaMax": "65 cm x 65 cm", "espessuraMax": "15 mm", "embalagem": "1", "ean": "7897451430097", "codigo": "63009" },
-      { "modelo": "Prime 120*", "comprimento": "120 cm", "areaMax": "85 cm x 85 cm", "espessuraMax": "15 mm", "embalagem": "1", "ean": "7897451432787", "codigo": "63278" },
-      { "modelo": "Prime 130",  "comprimento": "130 cm", "areaMax": "90 cm x 90 cm", "espessuraMax": "15 mm", "embalagem": "1", "ean": "7897451426496", "codigo": "62649" }
+      {
+        "modelo": "Prime 85",
+        "comprimento": "85 cm",
+        "areaMax": "60 cm x 60 cm",
+        "espessuraMax": "15 mm",
+        "embalagem": "1",
+        "ean": "7897451430103",
+        "codigo": "63010"
+      },
+      {
+        "modelo": "Prime 92",
+        "comprimento": "92 cm",
+        "areaMax": "65 cm x 65 cm",
+        "espessuraMax": "15 mm",
+        "embalagem": "1",
+        "ean": "7897451430097",
+        "codigo": "63009"
+      },
+      {
+        "modelo": "Prime 120*",
+        "comprimento": "120 cm",
+        "areaMax": "85 cm x 85 cm",
+        "espessuraMax": "15 mm",
+        "embalagem": "1",
+        "ean": "7897451432787",
+        "codigo": "63278"
+      },
+      {
+        "modelo": "Prime 130",
+        "comprimento": "130 cm",
+        "areaMax": "90 cm x 90 cm",
+        "espessuraMax": "15 mm",
+        "embalagem": "1",
+        "ean": "7897451426496",
+        "codigo": "62649"
+      }
     ],
     "observacao": "*Prime 120: bolsa de transporte não inclusa.",
-    "fonte": { "arquivo": "Catálago Livro 2026.pdf", "pagina": 8 }
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": 8
+    }
+  },
+  {
+    "id": "cortadores-manuais-new-master-125",
+    "categoria": "cortadores-manuais",
+    "categoriaNome": "Cortadores Manuais",
+    "linha": "New Master 125",
+    "tagline": "Produtividade máxima em cortes de até 1,25 m, com guias reforçadas e retorno automático.",
+    "descricao": "Desenvolvida para pisos cerâmicos e porcelanatos de até 1,25 m e 15 mm de espessura, a New Master 125 combina praticidade, precisão e robustez. Seu sistema de retorno automático e guias reforçadas garantem cortes ágeis, duráveis e com excelente acabamento.",
+    "destaques": [
+      "Retorno automático para riscar com um toque – mais rapidez no uso.",
+      "Apoio com amortecimento – separação estável e confortável.",
+      "Corte e separação na base – eficiência em cada operação.",
+      "Guias reforçadas – maior durabilidade e precisão.",
+      "Suporte redesenhado e rodas – transporte facilitado.",
+      "Alça ergonômica emborrachada – conforto no manuseio."
+    ],
+    "rodelPadrao": "Ø 7 x 100 mm Universal / Titânio | Ø 18 x 90 mm Universal",
+    "imagem": "images/cortadores-manuais/new-master-125.jpg",
+    "colunas": [
+      "Modelo",
+      "Comprimento",
+      "Área máx.",
+      "Espessura máx.",
+      "Embalagem (un)",
+      "EAN-13",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "modelo": "New Master 125",
+        "comprimento": "125 cm",
+        "areaMax": "88 cm x 88 cm",
+        "espessuraMax": "15 mm",
+        "embalagem": "1",
+        "ean": "7897451423181",
+        "codigo": "62318"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": 9
+    }
+  },
+  {
+    "id": "cortadores-manuais-linha-new-master",
+    "categoria": "cortadores-manuais",
+    "categoriaNome": "Cortadores Manuais",
+    "linha": "Linha New Master",
+    "tagline": "Corte e separação direto na base, com guias duplas e alta resistência.",
+    "descricao": "A Linha New Master 75/90 foi desenvolvida para cortes de pisos cerâmicos e porcelanatos de até 12 mm de espessura. Com guias duplas e estrutura reforçada, garante precisão, durabilidade e facilidade de operação em cortes retos e diagonais.",
+    "destaques": [
+      "Sino autoposicionável – agilidade no uso.",
+      "Bandejas niqueladas – apoio estável.",
+      "Guias em aço niquelado – maior resistência.",
+      "Limitador lateral – cortes precisos.",
+      "Barra de encosto em alumínio – robustez.",
+      "Base em aço com pintura eletrostática – durabilidade."
+    ],
+    "rodelPadrao": "Ø 7 x 80 mm Universal",
+    "imagem": "images/cortadores-manuais/linha-new-master.jpg",
+    "colunas": [
+      "Modelo",
+      "Comprimento",
+      "Área máx.",
+      "Espessura máx.",
+      "Embalagem (un)",
+      "EAN-13",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "modelo": "New Master-75",
+        "comprimento": "75 cm",
+        "areaMax": "53 cm x 53 cm",
+        "espessuraMax": "12 mm",
+        "embalagem": "2",
+        "ean": "7897451415391",
+        "codigo": "61539"
+      },
+      {
+        "modelo": "New Master-90",
+        "comprimento": "90 cm",
+        "areaMax": "64 cm x 64 cm",
+        "espessuraMax": "12 mm",
+        "embalagem": "2",
+        "ean": "7897451413663",
+        "codigo": "61366"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": 9
+    }
+  },
+  {
+    "id": "cortadores-manuais-linha-super",
+    "categoria": "cortadores-manuais",
+    "categoriaNome": "Cortadores Manuais",
+    "linha": "Linha Super",
+    "tagline": "Cortes precisos e separação eficiente, com apoio para pisos e pastilhas.",
+    "descricao": "A Linha Super foi criada para cortes de pisos cerâmicos, porcelanatos e pastilhas de vidro de até 12 mm de espessura. Com sistema de separação em alumínio injetado e apoio lateral reforçado, oferece praticidade, robustez e qualidade no acabamento.",
+    "destaques": [
+      "Sino autoposicionável – operação rápida e prática.",
+      "Separação em alumínio injetado – maior durabilidade.",
+      "Guias em aço cromado – vida útil prolongada.",
+      "Bandejas niqueladas – apoio estável.",
+      "Limitador lateral – cortes retos e diagonais mais precisos.",
+      "Apoio lateral em alumínio – estabilidade em peças maiores.",
+      "Base em aço com pintura eletrostática – robustez.",
+      "Tapete de borracha – ideal para cortes em vidro."
+    ],
+    "rodelPadrao": "Ø 7 x 80 mm Universal / Titânio | Ø 18 x 90 mm Universal",
+    "imagem": "images/cortadores-manuais/linha-super.jpg",
+    "colunas": [
+      "Modelo",
+      "Comprimento",
+      "Área máx.",
+      "Espessura máx.",
+      "Embalagem (un)",
+      "EAN-13",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "modelo": "Super-600",
+        "comprimento": "60 cm",
+        "areaMax": "42 cm x 42 cm",
+        "espessuraMax": "12 mm",
+        "embalagem": "1",
+        "ean": "7897451412918",
+        "codigo": "61291"
+      },
+      {
+        "modelo": "Super-750",
+        "comprimento": "75 cm",
+        "areaMax": "53 cm x 53 cm",
+        "espessuraMax": "12 mm",
+        "embalagem": "1",
+        "ean": "7897451412901",
+        "codigo": "61290"
+      },
+      {
+        "modelo": "Super-900",
+        "comprimento": "90 cm",
+        "areaMax": "64 cm x 64 cm",
+        "espessuraMax": "12 mm",
+        "embalagem": "1",
+        "ean": "7897451412895",
+        "codigo": "61289"
+      },
+      {
+        "modelo": "Super-1150",
+        "comprimento": "115 cm",
+        "areaMax": "81 cm x 81 cm",
+        "espessuraMax": "12 mm",
+        "embalagem": "1",
+        "ean": "7897451412864",
+        "codigo": "61286"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": 10
+    }
+  },
+  {
+    "id": "cortadores-manuais-linha-master",
+    "categoria": "cortadores-manuais",
+    "categoriaNome": "Cortadores Manuais",
+    "linha": "Linha Master",
+    "tagline": "Tradição e eficiência em cortes de pisos cerâmicos e porcelanatos.",
+    "descricao": "A Linha Master combina praticidade e confiança para cortes de pisos cerâmicos e porcelanatos de até 12 mm. Com apoio em espuma técnica e guias reforçadas, garante precisão, estabilidade e durabilidade em cada trabalho.",
+    "destaques": [
+      "Sino autoposicionável – rapidez no uso.",
+      "Limitador lateral – cortes retos e diagonais com exatidão.",
+      "Guias em aço niquelado – durabilidade prolongada.",
+      "Apoio em espuma técnica – maior estabilidade da peça.",
+      "Barra de encosto em alumínio injetado – resistência.",
+      "Base em aço com pintura eletrostática – robustez."
+    ],
+    "rodelPadrao": "Ø 7 x 80 mm Universal.",
+    "imagem": "images/cortadores-manuais/linha-master.jpg",
+    "colunas": [
+      "Modelo",
+      "Comprimento",
+      "Área máx.",
+      "Espessura máx.",
+      "Embalagem (un)",
+      "EAN-13",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "modelo": "Master-75",
+        "comprimento": "75 cm",
+        "areaMax": "53 cm x 53 cm",
+        "espessuraMax": "12 mm",
+        "embalagem": "2",
+        "ean": "7897451461725",
+        "codigo": "60172"
+      },
+      {
+        "modelo": "Master-90",
+        "comprimento": "90 cm",
+        "areaMax": "64 cm x 64 cm",
+        "espessuraMax": "12 mm",
+        "embalagem": "2",
+        "ean": "7897451461732",
+        "codigo": "60173"
+      },
+      {
+        "modelo": "Master-115",
+        "comprimento": "115 cm",
+        "areaMax": "81 cm x 81 cm",
+        "espessuraMax": "12 mm",
+        "embalagem": "1",
+        "ean": "7897451416008",
+        "codigo": "61600"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": 10
+    }
+  },
+  {
+    "id": "cortadores-manuais-top-62",
+    "categoria": "cortadores-manuais",
+    "categoriaNome": "Cortadores Manuais",
+    "linha": "Top 62",
+    "tagline": "Leve, prático e preciso, com base em alumínio injetado.",
+    "descricao": "O Top-62 foi desenvolvido para cortes rápidos e confiáveis em pisos cerâmicos e porcelanatos de até 12 mm. Compacto e resistente, garante cortes bem feitos e fácil de usar em vários tipos de trabalho.",
+    "destaques": [
+      "Separação em alumínio injetado – maior resistência.",
+      "Apoio lateral em aço – estabilidade extra.",
+      "Guias em aço cromado – longa vida útil.",
+      "Limitador lateral – cortes mais precisos."
+    ],
+    "rodelPadrao": "Ø 7 x 80 mm Universal.",
+    "imagem": "images/cortadores-manuais/top-62.jpg",
+    "colunas": [
+      "Modelo",
+      "Comprimento",
+      "Área máx.",
+      "Espessura máx.",
+      "Embalagem (un)",
+      "EAN-13",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "modelo": "Top-62",
+        "comprimento": "62 cm",
+        "areaMax": "44 cm x 44 cm",
+        "espessuraMax": "12 mm",
+        "embalagem": "4",
+        "ean": "7897451413656",
+        "codigo": "61365"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": 11
+    }
+  },
+  {
+    "id": "cortadores-manuais-linha-pec",
+    "categoria": "cortadores-manuais",
+    "categoriaNome": "Cortadores Manuais",
+    "linha": "Linha PEC",
+    "tagline": "Cortes retos ou em diagonal, com facilidade e resistência.",
+    "descricao": "A Linha PEC oferece versatilidade para cortes de pisos cerâmicos e porcelanatos de até 10 mm. Com sistema de separação em alumínio injetado e base reforçada, garante robustez, precisão e praticidade no dia a dia profissional.",
+    "destaques": [
+      "Separação direta na base – operação rápida.",
+      "Sistema em alumínio injetado – maior resistência.",
+      "Base em aço com pintura eletrostática – robustez.",
+      "Limitador lateral – cortes retos e diagonais precisos.",
+      "Barra de apoio em plástico – estabilidade.",
+      "Estrutura leve – fácil transporte."
+    ],
+    "rodelPadrao": "Ø 7 x 80 mm Universal.",
+    "imagem": "images/cortadores-manuais/linha-pec.jpg",
+    "colunas": [
+      "Modelo",
+      "Comprimento",
+      "Área máx.",
+      "Espessura máx.",
+      "Embalagem (un)",
+      "EAN-13",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "modelo": "PEC-53",
+        "comprimento": "53 cm",
+        "areaMax": "36 cm x 36 cm",
+        "espessuraMax": "10 mm",
+        "embalagem": "2",
+        "ean": "7897451468946",
+        "codigo": "60894"
+      },
+      {
+        "modelo": "PEC-65",
+        "comprimento": "65 cm",
+        "areaMax": "46 cm x 46 cm",
+        "espessuraMax": "10 mm",
+        "embalagem": "2",
+        "ean": "7897451418590",
+        "codigo": "61859"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": 11
+    }
+  },
+  {
+    "id": "cortadores-manuais-linha-hd-g2",
+    "categoria": "cortadores-manuais",
+    "categoriaNome": "Cortadores Manuais",
+    "linha": "Linha HD G2",
+    "selo": "Novo",
+    "tagline": "Robustez e precisão em cortes de até 100 cm, com estrutura reforçada.",
+    "descricao": "A Linha HD foi projetada para cortes profissionais em pisos cerâmicos e porcelanatos de até 10 mm. Com separação superior no carro guia e guias em aço reforçado, entrega estabilidade, eficiência e precisão, atendendo às exigências do uso intensivo.",
+    "destaques": [
+      "Separação superior em alumínio injetado – mais eficiência.",
+      "Guias em aço carbono niquelado – longa durabilidade.",
+      "Limitador lateral – cortes retos e diagonais uniformes.",
+      "Alça para transporte – mobilidade prática.",
+      "Pés antiderrapantes – segurança no uso.",
+      "Base em aço pintado – robustez.",
+      "Barra de apoio em alumínio – resistência extra."
+    ],
+    "rodelPadrao": "Ø 7 x 80 mm Universal.",
+    "imagem": "images/cortadores-manuais/linha-hd-g2.jpg",
+    "colunas": [
+      "Modelo",
+      "Comprimento",
+      "Área máx.",
+      "Espessura máx.",
+      "Embalagem (un)",
+      "EAN-13",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "modelo": "500",
+        "comprimento": "51 cm",
+        "areaMax": "36 cm x 36 cm",
+        "espessuraMax": "10 mm",
+        "embalagem": "1",
+        "ean": "7897451431865",
+        "codigo": "63186"
+      },
+      {
+        "modelo": "750",
+        "comprimento": "75 cm",
+        "areaMax": "53 cm x 53 cm",
+        "espessuraMax": "10 mm",
+        "embalagem": "1",
+        "ean": "7897451431872",
+        "codigo": "63187"
+      },
+      {
+        "modelo": "900",
+        "comprimento": "90 cm",
+        "areaMax": "64 cm x 64 cm",
+        "espessuraMax": "10 mm",
+        "embalagem": "1",
+        "ean": "7897451431889",
+        "codigo": "63188"
+      },
+      {
+        "modelo": "1000",
+        "comprimento": "100 cm",
+        "areaMax": "71 cm x 71 cm",
+        "espessuraMax": "10 mm",
+        "embalagem": "1",
+        "ean": "7897451431896",
+        "codigo": "63189"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": 12
+    }
+  },
+  {
+    "id": "cortadores-manuais-cortador-hd-150",
+    "categoria": "cortadores-manuais",
+    "categoriaNome": "Cortadores Manuais",
+    "linha": "Cortador HD 150",
+    "tagline": "Cortes precisos em pastilhas e revestimentos finos, com base reforçada.",
+    "descricao": "O HD-150 foi desenvolvido para cortes em pastilhas de vidro, cerâmicas e porcelanatos de até 6 mm. Compacto e resistente, oferece precisão e praticidade, sendo ideal para acabamentos finos e mosaicos.",
+    "destaques": [
+      "Separação superior em aço – cortes exatos.",
+      "Guias em aço cromado – longa vida útil.",
+      "Limitador lateral – medidas uniformes.",
+      "Barra em alumínio – resistência adicional.",
+      "Base em aço reforçado – robustez."
+    ],
+    "rodelPadrao": "HD-150 Ø 7 x 70 mm",
+    "imagem": "images/cortadores-manuais/cortador-hd-150.jpg",
+    "colunas": [
+      "Modelo",
+      "Comprimento",
+      "Área máx.",
+      "Espessura máx.",
+      "Embalagem (un)",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "modelo": "HD-150",
+        "comprimento": "15 cm",
+        "areaMax": "11 cm x 11 cm",
+        "espessuraMax": "6 mm",
+        "embalagem": "1",
+        "codigo": "61362"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": 12
+    }
+  },
+  {
+    "id": "cortadores-manuais-kit-mosaico",
+    "categoria": "cortadores-manuais",
+    "categoriaNome": "Cortadores Manuais",
+    "linha": "KIT Mosaico",
+    "tagline": "Kit completo para corte e acabamento de pastilhas e revestimentos finos.",
+    "descricao": "O Kit Mosaico reúne as ferramentas essenciais para trabalhos em pastilhas de vidro, cerâmicas e porcelanatos finos. Compacto e prático, oferece versatilidade, precisão e organização para o uso profissional.",
+    "destaques": [
+      "Inclui cortador HD-150 para cortes precisos.",
+      "Torquês versátil para cortes retos e curvos.",
+      "Espátula em EVA e espátula plástica para acabamentos limpos.",
+      "Bloco de espuma para refino final.",
+      "Bolsa prática para transporte e organização de todas as peças."
+    ],
+    "imagem": "images/cortadores-manuais/kit-mosaico.jpg",
+    "colunas": [
+      "Modelo",
+      "Comprimento",
+      "Área máx.",
+      "Espessura máx.",
+      "Embalagem (un)",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "modelo": "KIT Mosaico",
+        "comprimento": "15 cm",
+        "areaMax": "11 cm x 11 cm",
+        "espessuraMax": "6 mm",
+        "embalagem": "1",
+        "codigo": "61363"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": 12
+    }
+  },
+  {
+    "id": "cortadores-manuais-cortador-blocos-pavtek",
+    "categoria": "cortadores-manuais",
+    "categoriaNome": "Cortadores Manuais",
+    "linha": "Cortador de Blocos Pavtek",
+    "tagline": "Corte tipo guilhotina, rápido e limpo para bloquetes, mármore e granito.",
+    "descricao": "O Pavtek foi projetado para cortes precisos, ergonômicos e sem poeira em blocos/bloquetes, mármore e granito. Com capacidade de até 10 cm de altura e 31 cm de comprimento, entrega produtividade e ótimo acabamento.",
+    "destaques": [
+      "Alavanca com prolongador – menos esforço no corte.",
+      "Parafuso com ajuste de altura – posicionamento perfeito da peça.",
+      "Lâminas em aço especial tratadas termicamente – maior durabilidade (substituíveis).",
+      "Rodízios resistentes – fácil transporte em diferentes terrenos.",
+      "Bandeja autoajustável – manuseio ágil do material.",
+      "Apoio de estabilidade e trava de movimentação – segurança no uso."
+    ],
+    "imagem": "images/cortadores-manuais/cortador-blocos-pavtek.jpg",
+    "colunas": [
+      "Modelo",
+      "Comprimento",
+      "Altura",
+      "Embalagem (un)",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "modelo": "Pavtek",
+        "comprimento": "31 cm",
+        "areaMax": "10 cm",
+        "embalagem": "1",
+        "codigo": "62529"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": 13
+    }
+  },
+  {
+    "id": "cortadores-manuais-conjunto-facas-pavtek",
+    "categoria": "cortadores-manuais",
+    "categoriaNome": "Cortadores Manuais",
+    "linha": "Conjunto de Facas para Cortador Bloquete",
+    "tagline": "Facas de reposição tratadas termicamente para corte consistente.",
+    "descricao": "Jogo de facas de aço reforçado para reposição no cortador de bloquete Pavtek. Mantém o corte como novo e facilita a manutenção na obra.",
+    "destaques": [
+      "Aço especial tratado – resistência e vida útil estendida.",
+      "Medidas exatas (superior e inferior) – encaixe perfeito no Pavtek.",
+      "Troca simples – manutenção rápida em obra."
+    ],
+    "imagem": "images/cortadores-manuais/conjunto-facas-pavtek.jpg",
+    "colunas": [
+      "Modelo",
+      "Comprimento",
+      "Largura",
+      "Espessura",
+      "Embalagem (un)",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "modelo": "Faca Superior",
+        "comprimento": "333 mm",
+        "areaMax": "69 mm",
+        "espessuraMax": "15 mm",
+        "embalagem": "1",
+        "codigo": "60401"
+      },
+      {
+        "modelo": "Faca Inferior",
+        "comprimento": "402 mm",
+        "areaMax": "69 mm",
+        "espessuraMax": "15 mm",
+        "embalagem": "1",
+        "codigo": "60401"
+      }
+    ],
+    "observacao": "Superior e inferior vendidas juntas sob o mesmo código (7897451464016 / 60401).",
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": 13
+    }
+  },
+  {
+    "id": "cortadores-manuais-cortador-laminados-pl",
+    "categoria": "cortadores-manuais",
+    "categoriaNome": "Cortadores Manuais",
+    "linha": "Cortador de Laminados PL",
+    "tagline": "Corte rápido e limpo em laminados de 200 e 300 mm.",
+    "descricao": "Desenvolvido para cortar pisos laminados de 200 e 300 mm, com corte rápido, limpo e sem sujeira. A estrutura em aço carbono e a faca niquelada oferecem robustez e acabamento limpo no uso profissional.",
+    "destaques": [
+      "Corpo em aço carbono com pintura eletrostática – durabilidade.",
+      "Faca em aço niquelado – corte limpo e consistente.",
+      "Alavanca com punho de borracha – conforto e controle.",
+      "Sistema de freio – impede a descida da faca sem acionamento (segurança)."
+    ],
+    "imagem": "images/cortadores-manuais/cortador-laminados-pl.jpg",
+    "colunas": [
+      "Modelo",
+      "Comprimento máx.",
+      "Embalagem (un)",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "modelo": "PL-200",
+        "comprimento": "200 mm",
+        "embalagem": "1",
+        "codigo": "61185"
+      },
+      {
+        "modelo": "PL-300",
+        "comprimento": "300 mm",
+        "embalagem": "1",
+        "codigo": "61186"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": 13
+    }
+  },
+  {
+    "id": "cortadores-manuais-cortador-de-telhas",
+    "categoria": "cortadores-manuais",
+    "categoriaNome": "Cortadores Manuais",
+    "linha": "Cortador de Telhas",
+    "tagline": "Cortes rápidos em qualquer ângulo, com limpeza e economia de material.",
+    "descricao": "O cortador de telhas executa cortes em qualquer ângulo e tamanho em telhas cerâmicas, com manejo simples, trabalho limpo e mínimo desperdício. A base emborrachada e a bandeja de rápido encaixe dão agilidade e segurança na operação.",
+    "destaques": [
+      "Base emborrachada – aderência e segurança.",
+      "Bandeja de rápido encaixe – descarte fácil dos resíduos.",
+      "Corpo, base e bandeja em aço carbono – robustez com pintura eletrostática.",
+      "Punções em aço temperado – durabilidade.",
+      "Punho de borracha – conforto no uso."
+    ],
+    "imagem": "images/cortadores-manuais/cortador-de-telhas.jpg",
+    "colunas": [
+      "Modelo",
+      "Embalagem (un)",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "modelo": "Cortador de telhas",
+        "embalagem": "1",
+        "codigo": "60131"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": 13
+    }
   }
 ]
