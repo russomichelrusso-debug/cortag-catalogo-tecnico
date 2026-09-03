@@ -5,7 +5,9 @@
 const DATA_BASE = "data/";
 
 async function loadJSON(path) {
-  const res = await fetch(path);
+  // cache: "no-store" evita que o navegador sirva uma versão antiga do
+  // catálogo (products.json/categories.json são atualizados com frequência).
+  const res = await fetch(path, { cache: "no-store" });
   if (!res.ok) throw new Error("Falha ao carregar " + path);
   return res.json();
 }
