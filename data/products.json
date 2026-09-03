@@ -1347,5 +1347,509 @@
       "embalagem",
       "codigo"
     ]
+  },
+  {
+    "id": "grandes-formatos-cortador-infinity-plus",
+    "categoria": "grandes-formatos",
+    "categoriaNome": "Grandes Formatos",
+    "linha": "Cortador Infinity Plus",
+    "tagline": "Indicado para grandes formatos de pisos e revestimentos.",
+    "descricao": "Cortador manual composto por 4 trilhos, carro guia, 8 ventosas e 2 alicates separadores, para cortes de precisão em peças de grandes formatos.",
+    "selo": "NOVO",
+    "destaques": [
+      "Kit com 4 trilhos, 1 carro guia e 8 ventosas de fixação.",
+      "Acompanha 2 alicates separadores para peças de até 8 mm.",
+      "Guarda-se em bolsa própria para transporte."
+    ],
+    "imagem": "images/grandes-formatos/cortador-infinity-plus.jpg",
+    "colunas": [
+      "Modelo",
+      "Comprimento",
+      "Área Máx.",
+      "Espessura Máx.",
+      "Embalagem",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "comprimento",
+      "areaMax",
+      "espessuraMax",
+      "embalagem",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Infinity Plus",
+        "comprimento": "3,20 m",
+        "areaMax": "2,20 x 2,20 m",
+        "espessuraMax": "8 mm",
+        "embalagem": "1 un",
+        "codigo": "63069"
+      },
+      {
+        "modelo": "Infinity Plus com Alicate Morsa",
+        "comprimento": "3,20 m",
+        "areaMax": "2,20 x 2,20 m",
+        "espessuraMax": "15 mm",
+        "embalagem": "1 un",
+        "codigo": "63198"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "21 (impressa 40-41)"
+    }
+  },
+  {
+    "id": "grandes-formatos-cortador-infinity",
+    "categoria": "grandes-formatos",
+    "categoriaNome": "Grandes Formatos",
+    "linha": "Cortador Infinity",
+    "tagline": "Indicado para grandes formatos de pisos e revestimentos.",
+    "descricao": "Cortador manual composto por 3 trilhos, carro guia, 3 ventosas e 2 alicates separadores, acompanha bolsa para transporte.",
+    "destaques": [
+      "Kit com 3 trilhos, 1 carro guia e 3 ventosas de fixação.",
+      "Acompanha 2 alicates separadores para peças de até 8 mm.",
+      "Comprimento máximo de corte de 3,40 m com os trilhos da embalagem padrão."
+    ],
+    "imagem": "images/grandes-formatos/cortador-infinity.jpg",
+    "colunas": [
+      "Modelo",
+      "Comprimento",
+      "Área Máx.",
+      "Espessura Máx.",
+      "Embalagem",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "comprimento",
+      "areaMax",
+      "espessuraMax",
+      "embalagem",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Infinity",
+        "comprimento": "3,40 m*",
+        "areaMax": "2,40 x 2,40 m",
+        "espessuraMax": "8 mm",
+        "embalagem": "1 un",
+        "codigo": "61643"
+      }
+    ],
+    "observacao": "*Comprimento máximo de corte com os trilhos disponíveis na embalagem padrão.",
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "21 (impressa 40-41)"
+    }
+  },
+  {
+    "id": "grandes-formatos-sistema-movimentacao-c320",
+    "categoria": "grandes-formatos",
+    "categoriaNome": "Grandes Formatos",
+    "linha": "Sistema de Movimentação Infinity C-320",
+    "tagline": "Mobilidade, segurança e eficiência para transportar grandes formatos.",
+    "descricao": "Sistema com trilhos modulares de 3,20 m e pega dupla manopla, permitindo o manuseio por até 6 pessoas com suporte de cargas de até 200 kg.",
+    "destaques": [
+      "Suporta cargas de até 200 kg.",
+      "Pega dupla manopla para operação por até 6 pessoas."
+    ],
+    "imagem": "images/grandes-formatos/sistema-movimentacao-c320.jpg",
+    "colunas": [
+      "Modelo",
+      "Capacidade de Carga",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "capacidadeCarga",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "3,20 m",
+        "capacidadeCarga": "200 kg",
+        "codigo": "60949"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "22 (impressa 42-43)"
+    }
+  },
+  {
+    "id": "grandes-formatos-sistema-movimentacao-c250",
+    "categoria": "grandes-formatos",
+    "categoriaNome": "Grandes Formatos",
+    "linha": "Sistema de Movimentação Infinity C-250",
+    "tagline": "Mobilidade, segurança e eficiência para transportar grandes formatos.",
+    "descricao": "Sistema com 6 ventosas de sucção e trilhos modulares de 2,50 m, suportando cargas de até 150 kg.",
+    "destaques": [
+      "Suporta cargas de até 150 kg.",
+      "6 ventosas de sucção para fixação segura."
+    ],
+    "imagem": "images/grandes-formatos/sistema-movimentacao-c250.jpg",
+    "colunas": [
+      "Modelo",
+      "Capacidade de Carga",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "capacidadeCarga",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "2,50 m",
+        "capacidadeCarga": "150 kg",
+        "codigo": "62576"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "22 (impressa 42-43)"
+    }
+  },
+  {
+    "id": "grandes-formatos-sistema-movimentacao-c180",
+    "categoria": "grandes-formatos",
+    "categoriaNome": "Grandes Formatos",
+    "linha": "Sistema de Movimentação Infinity C-180",
+    "tagline": "Mobilidade, segurança e eficiência para transportar grandes formatos.",
+    "descricao": "Sistema com trilhos modulares de 1,80 m e 4 ventosas de sucção, suportando cargas de até 100 kg.",
+    "destaques": [
+      "Suporta cargas de até 100 kg.",
+      "4 ventosas de sucção para fixação segura."
+    ],
+    "imagem": "images/grandes-formatos/sistema-movimentacao-c180.jpg",
+    "colunas": [
+      "Modelo",
+      "Capacidade de Carga",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "capacidadeCarga",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "1,80 m",
+        "capacidadeCarga": "100 kg",
+        "codigo": "62524"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "23 (impressa 44-45)"
+    }
+  },
+  {
+    "id": "grandes-formatos-sistema-movimento-single-bar",
+    "categoria": "grandes-formatos",
+    "categoriaNome": "Grandes Formatos",
+    "linha": "Sistema de Movimento Infinity – Single Bar",
+    "tagline": "Mobilidade, segurança e eficiência para transportar grandes formatos.",
+    "descricao": "Barra única com 2 ventosas, ideal para peças de até 1,20 m e cargas de até 50 kg.",
+    "selo": "NOVO",
+    "destaques": [
+      "Capacidade ideal para peças de até 1,20 m.",
+      "2 ventosas, carga de até 50 kg."
+    ],
+    "imagem": "images/grandes-formatos/sistema-movimento-single-bar.jpg",
+    "colunas": [
+      "Modelo",
+      "Comprimento",
+      "Capacidade de Carga",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "comprimento",
+      "capacidadeCarga",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Infinity Single Bar",
+        "comprimento": "1,2 m",
+        "capacidadeCarga": "50 kg",
+        "codigo": "63300"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "23 (impressa 44-45)"
+    }
+  },
+  {
+    "id": "grandes-formatos-sistema-transporte-infinity",
+    "categoria": "grandes-formatos",
+    "categoriaNome": "Grandes Formatos",
+    "linha": "Sistema de Transporte Infinity",
+    "tagline": "Indicado para grandes formatos de pisos e revestimentos.",
+    "descricao": "Sistema de transporte fabricado em alumínio extrusado, com capacidade de carga de até 300 kg, travessas reforçadas e rodízios com trava.",
+    "destaques": [
+      "Estrutura robusta com travessas reforçadas.",
+      "Rodízios com trava para agilidade e proteção no manuseio.",
+      "Pode ser utilizado em conjunto com o Sistema de Movimentação Infinity."
+    ],
+    "imagem": "images/grandes-formatos/sistema-transporte-infinity.jpg",
+    "colunas": [
+      "Modelo",
+      "Capacidade de Carga",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "capacidadeCarga",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Infinity",
+        "capacidadeCarga": "300 kg",
+        "codigo": "60802"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "24 (impressa 46-47)"
+    }
+  },
+  {
+    "id": "grandes-formatos-carrinho-transporte-infinity",
+    "categoria": "grandes-formatos",
+    "categoriaNome": "Grandes Formatos",
+    "linha": "Carrinho de Transporte Infinity",
+    "tagline": "Mobilidade, segurança e eficiência para transportar grandes formatos.",
+    "descricao": "Carrinho desenvolvido para facilitar o transporte de pisos, revestimentos e pedras, garantindo estabilidade e proteção da peça.",
+    "selo": "NOVO",
+    "destaques": [
+      "Alça de apoio para maior segurança e estabilidade.",
+      "2 rodízios fixos de 5\" e 2 rodízios giratórios de 5\" com trava.",
+      "Dimensão máxima recomendada da peça: 3,2 x 1,5 m.",
+      "Capacidade máxima de carga: 320 kg."
+    ],
+    "imagem": "images/grandes-formatos/carrinho-transporte-infinity.jpg",
+    "colunas": [
+      "Modelo",
+      "Capacidade de Carga",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "capacidadeCarga",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Infinity",
+        "capacidadeCarga": "320 kg",
+        "codigo": "62954"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "24 (impressa 46-47)"
+    }
+  },
+  {
+    "id": "grandes-formatos-bancada-infinity-c180",
+    "categoria": "grandes-formatos",
+    "categoriaNome": "Grandes Formatos",
+    "linha": "Bancada Infinity C-180",
+    "tagline": "A bancada ideal para trabalhos de grandes formatos, com trilhos especiais reforçados que suportam até 200 kg.",
+    "descricao": "Bancada com 1,80 m de comprimento, permitindo unir duas bancadas para atingir 3,60 m, com 1,20 m de largura e 0,80 m de altura.",
+    "destaques": [
+      "6 trilhos especiais em alumínio para variações na montagem.",
+      "Colunas anguladas para melhor estabilidade e ergonomia.",
+      "Manípulo em formato de alavanca para facilitar montagem e desmontagem.",
+      "Pés ajustáveis para nivelamento em ambientes irregulares.",
+      "Acompanha trava para união de 2 bancadas."
+    ],
+    "imagem": "images/grandes-formatos/bancada-infinity-c180.jpg",
+    "colunas": [
+      "Modelo",
+      "Comprimento",
+      "Capacidade de Carga",
+      "Embalagem",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "comprimento",
+      "capacidadeCarga",
+      "embalagem",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Bancada Grandes Formatos Infinity S/ Bolsa - C180",
+        "comprimento": "1,80 m",
+        "capacidadeCarga": "200 kg",
+        "embalagem": "1 un",
+        "codigo": "62793"
+      },
+      {
+        "modelo": "Bancada Grandes Formatos Infinity C/ Bolsa - C180",
+        "comprimento": "1,80 m",
+        "capacidadeCarga": "300 kg",
+        "embalagem": "1 un",
+        "codigo": "62579"
+      },
+      {
+        "modelo": "Bancada Grandes Formatos Infinity C/ Bolsa - C180 (Cx 2 Un)",
+        "comprimento": "3,60 m",
+        "capacidadeCarga": "300 kg",
+        "embalagem": "1 un",
+        "codigo": "62699"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "25 (impressa 48-49)"
+    }
+  },
+  {
+    "id": "grandes-formatos-ventosa-cortador-infinity",
+    "categoria": "grandes-formatos",
+    "categoriaNome": "Grandes Formatos",
+    "linha": "Ventosa para Cortador Infinity",
+    "tagline": "Fixação segura para os trilhos do Cortador Infinity.",
+    "descricao": "Garante fixação firme e estável dos trilhos sobre o revestimento, permitindo cortes precisos e contínuos. Corpo resistente e empunhadura ergonômica.",
+    "selo": "NOVO",
+    "destaques": [
+      "Proporciona aderência segura e operação confiável.",
+      "Fabricada com corpo resistente e empunhadura ergonômica."
+    ],
+    "imagem": "images/grandes-formatos/ventosa-cortador-infinity.jpg",
+    "colunas": [
+      "Modelo",
+      "Embalagem",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "embalagem",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Ventosa Cortador Infinity",
+        "embalagem": "1 un",
+        "codigo": "60782"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "25 (impressa 48-49)"
+    }
+  },
+  {
+    "id": "grandes-formatos-trilho-cortador-infinity",
+    "categoria": "grandes-formatos",
+    "categoriaNome": "Grandes Formatos",
+    "linha": "Trilho para Cortador Infinity",
+    "tagline": "Amplia a capacidade de corte do Cortador Infinity.",
+    "descricao": "Trilho modular fabricado em alumínio anodizado, possibilitando a extensão ou substituição dos trilhos originais para cortes de grandes dimensões.",
+    "destaques": [
+      "Garante rigidez, precisão e leveza.",
+      "Mantém o desempenho profissional do equipamento."
+    ],
+    "imagem": "images/grandes-formatos/trilho-cortador-infinity.jpg",
+    "colunas": [
+      "Modelo",
+      "Embalagem",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "embalagem",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Trilho Cortador Infinity",
+        "embalagem": "1 un",
+        "codigo": "60789"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "25 (impressa 48-49)"
+    }
+  },
+  {
+    "id": "grandes-formatos-alicate-15mm-cortador-infinity",
+    "categoria": "grandes-formatos",
+    "categoriaNome": "Grandes Formatos",
+    "linha": "Alicate Separador Infinity 15 mm",
+    "tagline": "Precisão e controle na separação de revestimentos de até 15 mm.",
+    "descricao": "Desenvolvido para realizar a separação firme, segura e precisa de peças com espessura de até 15 mm, garantindo acabamento limpo e uniforme. Projetado para uso com o Cortador Infinity.",
+    "destaques": [
+      "Separação de revestimentos de até 15 mm.",
+      "Ergonomia aprimorada e maior eficiência durante a instalação."
+    ],
+    "imagem": "images/grandes-formatos/alicate-15mm-cortador-infinity.jpg",
+    "colunas": [
+      "Espessura",
+      "Embalagem",
+      "Código"
+    ],
+    "camposVariante": [
+      "espessura",
+      "embalagem",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "espessura": "15 mm",
+        "embalagem": "1 un",
+        "codigo": "62546"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "25 (impressa 48-49)"
+    }
+  },
+  {
+    "id": "grandes-formatos-alicate-8mm-cortador-infinity",
+    "categoria": "grandes-formatos",
+    "categoriaNome": "Grandes Formatos",
+    "linha": "Alicate Cortador Infinity 8 mm",
+    "tagline": "Precisão e controle na separação de revestimentos.",
+    "descricao": "Projetado para separar revestimentos cerâmicos e porcelanatos com precisão e mínimo esforço, oferecendo controle, segurança e desempenho superior no uso profissional.",
+    "destaques": [
+      "Separação de revestimentos cerâmicos e porcelanatos.",
+      "Controle, segurança e desempenho profissional."
+    ],
+    "imagem": "images/grandes-formatos/alicate-8mm-cortador-infinity.jpg",
+    "colunas": [
+      "Espessura",
+      "Embalagem",
+      "Código"
+    ],
+    "camposVariante": [
+      "espessura",
+      "embalagem",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "espessura": "8 mm",
+        "embalagem": "1 un",
+        "codigo": "60783"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "25 (impressa 48-49)"
+    }
   }
 ]
