@@ -27478,5 +27478,174 @@
       "arquivo": "Catálago Livro 2026.pdf",
       "pagina": "131 (impressa 260-261)"
     }
+  },
+  {
+    "id": "drywall-alicate-puncionador-drywall",
+    "categoria": "drywall",
+    "categoriaNome": "Drywall",
+    "linha": "Alicate Puncionador para Drywall",
+    "tagline": "Precisão e força para fixação segura de estruturas em drywall",
+    "descricao": "O Alicate Puncionador Cortag foi projetado para instalação de paredes divisórias e forros em drywall, permitindo puncionar e unir perfis metálicos com rapidez, precisão e segurança. Seu sistema de alavanca reforçado garante menor esforço na operação e melhor alinhamento durante o uso, proporcionando acabamentos firmes e duradouros. Construído em aço de alta resistência e com cabos emborrachados, oferece ergonomia, durabilidade e alto desempenho em trabalhos contínuos.",
+    "destaques": [
+      "Sistema de alavanca reforçado que reduz o esforço na operação",
+      "Construído em aço de alta resistência",
+      "Cabos emborrachados para ergonomia e durabilidade"
+    ],
+    "imagem": "images/drywall/alicate-puncionador-drywall.jpg",
+    "colunas": [
+      "Emb. (cx)",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "qtdeCaixa",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "qtdeCaixa": "3",
+        "ean": "7897451417890",
+        "dun": "27897451417894",
+        "codigo": "61789"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "133 (impressa 264-265)"
+    }
+  },
+  {
+    "id": "drywall-espatulas-aco-inox",
+    "categoria": "drywall",
+    "categoriaNome": "Drywall",
+    "linha": "Espátulas - Aço Inox",
+    "tagline": "Acabamento limpo e preciso para massa, gesso e drywall",
+    "descricao": "As Espátulas em Aço Inox Cortag são indicadas para aplicação e acabamento de massa corrida e gesso em forros de gesso e sistemas de drywall. Possuem lâmina em aço inoxidável, que não enferruja, garante maior durabilidade e facilita a limpeza após o uso. O cabo ergonômico oferece firmeza e conforto durante o trabalho, proporcionando mais controle e melhor resultado no acabamento. Disponíveis em diversos tamanhos para atender diferentes etapas da aplicação.",
+    "destaques": [
+      "Lâmina em aço inoxidável que não enferruja",
+      "Cabo ergonômico para firmeza e conforto",
+      "Disponível em 8 tamanhos, de 150 mm a 600 mm"
+    ],
+    "imagem": "images/drywall/espatulas-aco-inox.jpg",
+    "colunas": [
+      "Modelo",
+      "Emb. (cx)",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "qtdeCaixa",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "150 mm",
+        "qtdeCaixa": "6",
+        "ean": "7897451417906",
+        "dun": "37897451417907",
+        "codigo": "61790"
+      },
+      {
+        "modelo": "200 mm",
+        "qtdeCaixa": "6",
+        "ean": "7897451417913",
+        "dun": "37897451417914",
+        "codigo": "61791"
+      },
+      {
+        "modelo": "250 mm",
+        "qtdeCaixa": "6",
+        "ean": "7897451417920",
+        "dun": "37897451417921",
+        "codigo": "61792"
+      },
+      {
+        "modelo": "300 mm",
+        "qtdeCaixa": "6",
+        "ean": "7897451417937",
+        "dun": "37897451417938",
+        "codigo": "61793"
+      },
+      {
+        "modelo": "350 mm",
+        "qtdeCaixa": "6",
+        "ean": "7897451417944",
+        "dun": "37897451417945",
+        "codigo": "61794"
+      },
+      {
+        "modelo": "400 mm",
+        "qtdeCaixa": "6",
+        "ean": "7897451417951",
+        "dun": "37897451417952",
+        "codigo": "61795"
+      },
+      {
+        "modelo": "450 mm",
+        "qtdeCaixa": "6",
+        "ean": "7897451417968",
+        "dun": "37897451417969",
+        "codigo": "61796"
+      },
+      {
+        "modelo": "600 mm",
+        "qtdeCaixa": "6",
+        "ean": "7897451417975",
+        "dun": "37897451417976",
+        "codigo": "61797"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "133 (impressa 264-265)"
+    }
+  },
+  {
+    "id": "drywall-raspadores-tipo-plaina",
+    "categoria": "drywall",
+    "categoriaNome": "Drywall",
+    "linha": "Raspadores",
+    "tagline": "Precisão e ergonomia para raspagem e acabamento profissional em gesso e drywall",
+    "descricao": "O Raspador Tipo Plaina Cortag foi desenvolvido para raspar e desbastar superfícies de gesso, drywall e reboco com eficiência e conforto. Seu design ergonômico permite um apoio firme e controle preciso durante o trabalho, enquanto a lâmina de aço afiada e removível proporciona acabamento limpo e uniforme. Fabricado em plástico resistente, é leve, durável e ideal para uso contínuo em obras e acabamentos.",
+    "destaques": [
+      "Lâmina de aço afiada e removível",
+      "Design ergonômico com apoio firme e controle preciso",
+      "Corpo em plástico resistente, leve e durável"
+    ],
+    "imagem": "images/drywall/raspadores-tipo-plaina.jpg",
+    "colunas": [
+      "Modelo",
+      "Emb. (cx)",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "qtdeCaixa",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Raspador Plaina",
+        "qtdeCaixa": "6",
+        "ean": "7897451418088",
+        "dun": "37897451418089",
+        "codigo": "61808"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "133 (impressa 264-265)"
+    }
   }
 ]
