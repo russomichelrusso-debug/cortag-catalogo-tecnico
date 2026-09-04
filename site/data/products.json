@@ -24193,5 +24193,2340 @@
       "arquivo": "Catálago Livro 2026.pdf",
       "pagina": "114 (impressa 226-227)"
     }
+  },
+  {
+    "id": "utilidades-carrinho-mao-vermelho-45l",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Utilidades",
+    "tagline": "Carrinho de mão vermelho para transporte de materiais na obra",
+    "descricao": "O Carrinho de Mão 45 L Cortag é a solução ideal para quem busca eficiência, robustez e facilidade no transporte de materiais em ambientes de construção e reforma. Com estrutura reforçada, caçamba resistente e roda pneumática, oferece excelente estabilidade, capacidade de carga e conforto no manuseio.",
+    "destaques": [
+      "Estrutura reforçada e caçamba resistente",
+      "Aro plástico e pneu pneumático",
+      "Capacidade de 45 litros"
+    ],
+    "imagem": "images/utilidades/carrinho-mao-vermelho-45l.jpg",
+    "colunas": [
+      "Modelo",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "45 l",
+        "embalagem": "3",
+        "ean": "7897451429817",
+        "dun": "17897451429814",
+        "codigo": "62981"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "116 (impressa 230-231)"
+    }
+  },
+  {
+    "id": "utilidades-carrinho-mao-cacamba-quadrada-50l",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Utilidades",
+    "tagline": "Carrinho de mão com caçamba quadrada para maiores volumes",
+    "descricao": "O Carrinho de Mão Cortag 50 L é ideal para obras mais exigentes, oferecendo transporte seguro, prático e resistente de materiais. Possui caçamba quadrada reforçada, aro plástico, pneu pneumático e pés estruturados, garantindo durabilidade superior, excelente estabilidade e desempenho em diferentes tipos de terreno.",
+    "destaques": [
+      "Caçamba quadrada reforçada",
+      "Aro plástico, pneu pneumático e pés estruturados",
+      "Capacidade de 50 litros"
+    ],
+    "imagem": "images/utilidades/carrinho-mao-cacamba-quadrada-50l.jpg",
+    "colunas": [
+      "Modelo",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "50 L",
+        "embalagem": "3",
+        "ean": "7897451430547",
+        "dun": "17897451430544",
+        "codigo": "63054"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "116 (impressa 230-231)"
+    }
+  },
+  {
+    "id": "utilidades-carrinho-mao-galvanizado-45l",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Utilidades",
+    "tagline": "Carrinho de mão galvanizado com proteção contra corrosão",
+    "descricao": "O Carrinho de Mão Galvanizado Cortag 45 L destaca-se por sua estrutura resistente e totalmente galvanizada, garantindo maior proteção contra corrosão e longa vida útil. Equipado com aro plástico, pneu pneumático e pés reforçados, oferece excelente estabilidade e praticidade no transporte de materiais em obras e reformas.",
+    "destaques": [
+      "Estrutura totalmente galvanizada",
+      "Proteção contra corrosão e longa vida útil",
+      "Aro plástico, pneu pneumático e pés reforçados"
+    ],
+    "imagem": "images/utilidades/carrinho-mao-galvanizado-45l.jpg",
+    "colunas": [
+      "Modelo",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "45 l",
+        "embalagem": "3",
+        "ean": "7897451429824",
+        "dun": "17897451429821",
+        "codigo": "62982"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "116 (impressa 230-231)"
+    }
+  },
+  {
+    "id": "utilidades-carrinho-mao-forte-65l",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Utilidades",
+    "tagline": "Carrinho de mão de alta capacidade para trabalhos pesados",
+    "descricao": "Projetado para operações intensas, o Carrinho de Mão Forte Cortag 65 L oferece alta durabilidade, estabilidade e grande capacidade de carga. Sua estrutura reforçada, caçamba espessa e opções de pneus garantem versatilidade para diferentes tipos de obra, proporcionando segurança e eficiência no transporte de materiais.",
+    "destaques": [
+      "Estrutura reforçada com caçamba espessa",
+      "Grande capacidade de carga - 65 litros",
+      "Opções de pneus disponíveis"
+    ],
+    "imagem": "images/utilidades/carrinho-mao-forte-65l.jpg",
+    "colunas": [
+      "Modelo",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "65 L",
+        "embalagem": "3",
+        "ean": "7897451430554",
+        "dun": "17897451430551",
+        "codigo": "63055"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "116 (impressa 230-231)"
+    }
+  },
+  {
+    "id": "utilidades-carrinho-mao-forte-rolamento-65l",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Utilidades",
+    "tagline": "Carrinho de mão forte com roda de rolamento para maior durabilidade",
+    "descricao": "Projetado para operações intensas, o Carrinho de Mão Forte Cortag 65 L com roda de rolamento oferece alta durabilidade, estabilidade e grande capacidade de carga. Sua estrutura reforçada, caçamba espessa e opções de pneus garantem versatilidade para diferentes tipos de obra, proporcionando segurança e eficiência no transporte de materiais.",
+    "destaques": [
+      "Roda com rolamento para maior durabilidade",
+      "Estrutura reforçada com caçamba espessa",
+      "Opções de pneus disponíveis"
+    ],
+    "imagem": "images/utilidades/carrinho-mao-forte-rolamento-65l.jpg",
+    "colunas": [
+      "Modelo",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "65 l",
+        "embalagem": "3",
+        "ean": "7897451430561",
+        "dun": "17897451430568",
+        "codigo": "63056"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "117 (impressa 232-233)"
+    }
+  },
+  {
+    "id": "utilidades-aro-pneu-camara-universal",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Utilidades",
+    "tagline": "Aro universal compatível com os principais carrinhos de mão",
+    "descricao": "O Aro Universal Cortag foi desenvolvido para oferecer compatibilidade com os principais modelos de carrinhos de mão do mercado. Produzido em plástico de altíssima qualidade, proporciona excelente resistência a impactos, desgaste e deformações. Possui aro de 8\" com três eixos (1\", 3/4\" e 5/8\") e acompanha dois espaçadores que centralizam a roda, garantindo encaixe estável e seguro. Ideal para uso profissional em obras, jardinagem e transporte de materiais.",
+    "destaques": [
+      "Aro de 8\" com três eixos: 1\", 3/4\" e 5/8\"",
+      "Acompanha dois espaçadores para centralizar a roda",
+      "Plástico de altíssima qualidade resistente a impactos"
+    ],
+    "imagem": "images/utilidades/aro-pneu-camara-universal.jpg",
+    "colunas": [
+      "Descrição",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "descricao",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Aro p/ Pneu e Câmara Carrinho de Mão Cortag - Universal",
+        "embalagem": "1",
+        "ean": "7897451429466",
+        "codigo": "62946"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "117 (impressa 232-233)"
+    }
+  },
+  {
+    "id": "utilidades-carrinho-mao-forte-pneu-macico-65l",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Utilidades",
+    "tagline": "Carrinho de mão forte com pneu maciço que não fura",
+    "descricao": "Projetado para operações intensas, o Carrinho de Mão Forte Cortag 65 L oferece alta durabilidade, estabilidade e grande capacidade de carga. Sua estrutura reforçada, caçamba espessa e opções de pneus garantem versatilidade para diferentes tipos de obra, proporcionando segurança e eficiência no transporte de materiais.",
+    "destaques": [
+      "Pneu maciço que não fura",
+      "Estrutura reforçada com caçamba espessa",
+      "Zero manutenção de calibragem"
+    ],
+    "imagem": "images/utilidades/carrinho-mao-forte-pneu-macico-65l.jpg",
+    "colunas": [
+      "Modelo",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "65 l",
+        "embalagem": "3",
+        "ean": "7897451430578",
+        "dun": "17897451430575",
+        "codigo": "63057"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "117 (impressa 232-233)"
+    }
+  },
+  {
+    "id": "utilidades-blindagem-antifuros-pneus",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Utilidades",
+    "tagline": "Blindagem antifuros para maior durabilidade de pneus de carrinho de mão",
+    "descricao": "A Blindagem Antifuros Cortag foi desenvolvida para aumentar a durabilidade e reduzir a necessidade de manutenção de pneus e câmaras de ar de carrinhos de mão. Produzida em plástico altamente resistente, é instalada em toda a extensão interna do pneu, formando uma camada protetora contra perfurações e cortes. Posicionada entre o pneu e a câmara, protege a região mais sensível e prolonga a vida útil do conjunto, reduzindo paradas e trocas frequentes.",
+    "destaques": [
+      "Plástico altamente resistente contra perfurações",
+      "Menos furos significam menos paradas para concertos",
+      "Posicionada entre o pneu e a câmara de ar"
+    ],
+    "imagem": "images/utilidades/blindagem-antifuros-pneus.jpg",
+    "colunas": [
+      "Descrição",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "descricao",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Blindagem Antifuros Cortag para Pneus Carrinho de Mão",
+        "embalagem": "1",
+        "ean": "7897451429442",
+        "codigo": "62944"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "117 (impressa 232-233)"
+    }
+  },
+  {
+    "id": "utilidades-pneu-macico-flex-eixo-universal",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Utilidades",
+    "tagline": "Pneu maciço que não fura para carrinho de mão",
+    "descricao": "O Pneu Maciço Flex Cortag foi desenvolvido para substituir pneus convencionais de carrinho de mão, eliminando a necessidade de calibragem e os riscos de furos. Produzido em material de alta resistência com tecnologia de absorção de impactos, oferece maior conforto durante o manuseio e excelente durabilidade. Possui eixo universal e acompanha 3 adaptadores (1\", 3/4\" e 5/8\"), compatíveis com os principais modelos do mercado. Suporta cargas de até 100 kg, ideal para uso em obras e transporte de materiais.",
+    "destaques": [
+      "Pneu maciço que não fura - zero manutenção",
+      "Acompanha 3 adaptadores: 1\", 3/4\" e 5/8\"",
+      "Suporta cargas de até 100 kg"
+    ],
+    "imagem": "images/utilidades/pneu-macico-flex-eixo-universal.jpg",
+    "colunas": [
+      "Descrição",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "descricao",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Pneu Maciço Flex. Cortag P/ Carrinho de Mão - Eixo Universal",
+        "embalagem": "1",
+        "ean": "7897451429459",
+        "codigo": "62945"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "118 (impressa 234-235)"
+    }
+  },
+  {
+    "id": "utilidades-roda-macica-betoneira-universal",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Utilidades",
+    "tagline": "Roda maciça universal para betoneiras de até 600 litros",
+    "descricao": "A Roda Maciça Cortag para Betoneira foi desenvolvida para oferecer máxima durabilidade e praticidade no uso profissional. Sua estrutura sólida dispensa câmara de ar, eliminando riscos de furos e perda de pressão. Com eixo de 43 mm e redutores para 39 mm e 27 mm, adapta-se à maioria dos modelos de betoneiras disponíveis no mercado. Suporta cargas de até 600 L, garantindo movimentação estável e segura mesmo em terrenos irregulares.",
+    "destaques": [
+      "Estrutura sólida dispensa câmara de ar",
+      "Eixo de 43 mm com redutores para 39 mm e 27 mm",
+      "Suporta betoneiras com cargas de até 600 litros"
+    ],
+    "imagem": "images/utilidades/roda-macica-betoneira-universal.jpg",
+    "colunas": [
+      "Descrição",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "descricao",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Roda Maciça P/ Betoneira Cortag - Universal",
+        "embalagem": "1",
+        "ean": "7897451429473",
+        "codigo": "62947"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "118 (impressa 234-235)"
+    }
+  },
+  {
+    "id": "utilidades-pneu-e-camara-de-ar",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Utilidades",
+    "tagline": "Pneu e câmara de ar para carrinho de mão com aro 8\"",
+    "descricao": "A Câmara de Ar Cortag é indicada para pneus de carrinho de mão com aro 8\". Fabricada em borracha de alta resistência e flexibilidade, garante excelente vedação e durabilidade mesmo sob carga e pressão contínuas. Projetada para operar com pressão máxima de 35 PSI, oferece desempenho seguro e confiável em atividades de construção, jardinagem e transporte de materiais.",
+    "destaques": [
+      "Borracha de alta resistência e flexibilidade",
+      "Pressão máxima de 35 PSI",
+      "Compatível com os principais modelos de carrinho de mão"
+    ],
+    "imagem": "images/utilidades/pneu-e-camara-de-ar.jpg",
+    "colunas": [
+      "Descrição",
+      "Câmara de Ar",
+      "Capacidade de Carga",
+      "Embalagem",
+      "EAN",
+      "Código"
+    ],
+    "camposVariante": [
+      "descricao",
+      "camara",
+      "capacidade",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Pneu Carrinho de Mão Cortag 325 - 8 2PR",
+        "camara": "Pressão Máxima - 35 PSI",
+        "capacidade": "Até 120 Kg",
+        "embalagem": "1",
+        "ean": "7897451428971",
+        "codigo": "62897"
+      },
+      {
+        "descricao": "Pneu Carrinho de Mão Cortag 325 - 8 4PR",
+        "camara": "Pressão Máxima - 35 PSI",
+        "capacidade": "Até 150 Kg",
+        "embalagem": "1",
+        "ean": "7897451428988",
+        "codigo": "62898"
+      },
+      {
+        "descricao": "Pneu Carrinho de Mão Cortag 350 - 8 2PR",
+        "camara": "Pressão Máxima - 35 PSI",
+        "capacidade": "Até 130 Kg",
+        "embalagem": "1",
+        "ean": "7897451428995",
+        "codigo": "62899"
+      },
+      {
+        "descricao": "Pneu Carrinho de Mão Cortag 325 - 8",
+        "camara": "Pressão Máxima - 35 PSI",
+        "capacidade": "-",
+        "embalagem": "1",
+        "ean": "7897451429008",
+        "codigo": "62900"
+      },
+      {
+        "descricao": "Câmara de Ar Pneu Carrinho de Mão Cortag 350 - 8",
+        "camara": "Pressão Máxima - 35 PSI",
+        "capacidade": "-",
+        "embalagem": "1",
+        "ean": "7897451429015",
+        "codigo": "62901"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "118 (impressa 234-235)"
+    }
+  },
+  {
+    "id": "utilidades-fibras-anti-trinca-concreto",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Utilidades",
+    "tagline": "Fibras aditivas para reforço e prevenção de trincas no concreto",
+    "descricao": "A Fibra Anti-Trinca Cortag é um aditivo sustentável e eficiente que reforça a estrutura do concreto e do reboco, reduzindo a formação de trincas e fissuras. Fácil de aplicar, melhora significativamente a resistência mecânica, diminui retrações e aumenta a vida útil das estruturas, sendo ideal para pisos, lajes, colunas e reboco.",
+    "destaques": [
+      "Reduz a formação de trincas e fissuras",
+      "Melhora a resistência mecânica do concreto",
+      "Ideal para pisos, lajes, colunas e reboco"
+    ],
+    "imagem": "images/utilidades/fibras-anti-trinca-concreto.jpg",
+    "colunas": [
+      "Modelo",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "200 g",
+        "embalagem": "6",
+        "ean": "7897451432763",
+        "dun": "17897451432760",
+        "codigo": "63276"
+      },
+      {
+        "modelo": "600 g",
+        "embalagem": "3",
+        "ean": "7897451432770",
+        "dun": "17897451432777",
+        "codigo": "63277"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "118 (impressa 234-235)"
+    }
+  },
+  {
+    "id": "utilidades-extensores-elasticos",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Utilidades",
+    "tagline": "Extensores elásticos com ganchos plásticos reforçados",
+    "descricao": "Os Extensores Elásticos Cortag são indicados para amarração e fixação de cargas em bagageiros de bicicletas, motos, automóveis e uso geral. Fabricados com elástico de alta resistência e revestimento trançado em material sintético, proporcionam firmeza e durabilidade mesmo sob tração contínua. Os ganchos plásticos reforçados garantem encaixe seguro e evitam danos nas superfícies de contato. Cada embalagem contém 2 unidades.",
+    "destaques": [
+      "Elástico de alta resistência com revestimento trançado",
+      "Ganchos plásticos reforçados",
+      "Cada embalagem contém 2 unidades"
+    ],
+    "imagem": "images/utilidades/extensores-elasticos.jpg",
+    "colunas": [
+      "Ø",
+      "Comprimento",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "diametro",
+      "comprimento",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "diametro": "6 mm",
+        "comprimento": "1 m",
+        "embalagem": "12",
+        "ean": "7897451416398",
+        "dun": "17897451416395",
+        "codigo": "61639"
+      },
+      {
+        "diametro": "6 mm",
+        "comprimento": "1,5 m",
+        "embalagem": "12",
+        "ean": "7897451416404",
+        "dun": "17897451416401",
+        "codigo": "61640"
+      },
+      {
+        "diametro": "6 mm",
+        "comprimento": "2 m",
+        "embalagem": "12",
+        "ean": "7897451416411",
+        "dun": "17897451416418",
+        "codigo": "61641"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "119 (impressa 236-237)"
+    }
+  },
+  {
+    "id": "utilidades-cordas-trancadas",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Utilidades",
+    "tagline": "Cordas trançadas multifilamento para uso geral em obras",
+    "descricao": "As Cordas Trançadas Cortag são indicadas para uso geral em residências, obras e atividades externas. Produzidas em material sintético de alta durabilidade, oferecem excelente resistência à tração, baixo alongamento e longa vida útil. Disponíveis em versões com suporte plástico, com clip plástico e em carretel, adaptam-se a diferentes necessidades de armazenamento e transporte.",
+    "destaques": [
+      "Alta resistência à tração e baixo alongamento",
+      "Disponível com clip plástico, suporte plástico ou em carretel",
+      "Diversos diâmetros e comprimentos"
+    ],
+    "imagem": "images/utilidades/cordas-trancadas.jpg",
+    "colunas": [
+      "Modelo",
+      "Abertura",
+      "Comprimento",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "abertura",
+      "comprimento",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Com clip plástico",
+        "abertura": "3,5 mm",
+        "comprimento": "15 m",
+        "embalagem": "6",
+        "ean": "7897451466768",
+        "dun": "17897451466765",
+        "codigo": "60676"
+      },
+      {
+        "modelo": "Com clip plástico",
+        "abertura": "6 mm",
+        "comprimento": "10 m",
+        "embalagem": "6",
+        "ean": "7897451466775",
+        "dun": "17897451466772",
+        "codigo": "60677"
+      },
+      {
+        "modelo": "Com clip plástico",
+        "abertura": "6 mm",
+        "comprimento": "15 m",
+        "embalagem": "6",
+        "ean": "7897451466782",
+        "dun": "17897451466789",
+        "codigo": "60678"
+      },
+      {
+        "modelo": "Com clip plástico",
+        "abertura": "6 mm",
+        "comprimento": "20 m",
+        "embalagem": "6",
+        "ean": "7897451466799",
+        "dun": "17897451466796",
+        "codigo": "60679"
+      },
+      {
+        "modelo": "Com clip plástico",
+        "abertura": "8 mm",
+        "comprimento": "10 m",
+        "embalagem": "6",
+        "ean": "7897451466805",
+        "dun": "17897451466802",
+        "codigo": "60680"
+      },
+      {
+        "modelo": "Com clip plástico",
+        "abertura": "8 mm",
+        "comprimento": "15 m",
+        "embalagem": "6",
+        "ean": "7897451466812",
+        "dun": "17897451466819",
+        "codigo": "60681"
+      },
+      {
+        "modelo": "Com clip plástico",
+        "abertura": "8 mm",
+        "comprimento": "20 m",
+        "embalagem": "6",
+        "ean": "7897451466829",
+        "dun": "17897451466826",
+        "codigo": "60682"
+      },
+      {
+        "modelo": "Com clip plástico",
+        "abertura": "10 mm",
+        "comprimento": "30 m",
+        "embalagem": "6",
+        "ean": "7897451416329",
+        "dun": "17897451416326",
+        "codigo": "61632"
+      },
+      {
+        "modelo": "Com suporte plástico",
+        "abertura": "6 mm",
+        "comprimento": "20 m",
+        "embalagem": "6",
+        "ean": "7897451416336",
+        "dun": "17897451416333",
+        "codigo": "61633"
+      },
+      {
+        "modelo": "Com suporte plástico",
+        "abertura": "8 mm",
+        "comprimento": "15 m",
+        "embalagem": "6",
+        "ean": "7897451416343",
+        "dun": "17897451416340",
+        "codigo": "61634"
+      },
+      {
+        "modelo": "Carretel",
+        "abertura": "3,5 mm",
+        "comprimento": "900 m",
+        "embalagem": "1",
+        "ean": "7897451416350",
+        "dun": "-",
+        "codigo": "61635"
+      },
+      {
+        "modelo": "Carretel",
+        "abertura": "6 mm",
+        "comprimento": "290 m",
+        "embalagem": "1",
+        "ean": "7897451416367",
+        "dun": "-",
+        "codigo": "61636"
+      },
+      {
+        "modelo": "Carretel",
+        "abertura": "8 mm",
+        "comprimento": "160 m",
+        "embalagem": "1",
+        "ean": "7897451416374",
+        "dun": "-",
+        "codigo": "61637"
+      },
+      {
+        "modelo": "Carretel",
+        "abertura": "10 mm",
+        "comprimento": "100 m",
+        "embalagem": "1",
+        "ean": "7897451416381",
+        "dun": "-",
+        "codigo": "61638"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "119 (impressa 236-237)"
+    }
+  },
+  {
+    "id": "utilidades-cordas-multiuso-coloridas-pet",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Utilidades",
+    "tagline": "Cordas multiuso em PET colorido de alta resistência",
+    "descricao": "A Corda Colorida Cortag é produzida em PET trançado de alta qualidade, unindo resistência, leveza e excelente acabamento visual. Ideal para uso náutico, atividades ao ar livre, artesanato, agricultura e construção civil, apresenta alta resistência à tração e à abrasão, além de excelente durabilidade mesmo sob exposição ao sol e à umidade. Disponível em diferentes diâmetros de 6 mm a 10 mm e comprimentos variados até 217 m, pode ser fornecida em meadas ou carretéis, facilitando o manuseio e a armazenagem conforme a aplicação.",
+    "destaques": [
+      "PET trançado de alta qualidade e leveza",
+      "Alta resistência à tração e à abrasão",
+      "Disponível em meadas (Hang Tag) ou carretéis"
+    ],
+    "imagem": "images/utilidades/cordas-multiuso-coloridas-pet.jpg",
+    "colunas": [
+      "Diâmetro (Ø)",
+      "Comprimento (mm)",
+      "Tipo de Emb.",
+      "Cor",
+      "Material",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "diametro",
+      "comprimento",
+      "tipoemb",
+      "cor",
+      "material",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "diametro": "6 mm",
+        "comprimento": "15 m",
+        "tipoemb": "Hang Tag",
+        "cor": "Colorida",
+        "material": "PET",
+        "embalagem": "36",
+        "ean": "7897451430110",
+        "dun": "17897451430117",
+        "codigo": "63011"
+      },
+      {
+        "diametro": "6 mm",
+        "comprimento": "20 m",
+        "tipoemb": "Hang Tag",
+        "cor": "Colorida",
+        "material": "PET",
+        "embalagem": "30",
+        "ean": "7897451430127",
+        "dun": "17897451430124",
+        "codigo": "63012"
+      },
+      {
+        "diametro": "8 mm",
+        "comprimento": "10 m",
+        "tipoemb": "Hang Tag",
+        "cor": "Colorida",
+        "material": "PET",
+        "embalagem": "30",
+        "ean": "7897451430134",
+        "dun": "17897451430131",
+        "codigo": "63013"
+      },
+      {
+        "diametro": "8 mm",
+        "comprimento": "15 m",
+        "tipoemb": "Hang Tag",
+        "cor": "Colorida",
+        "material": "PET",
+        "embalagem": "20",
+        "ean": "7897451430141",
+        "dun": "17897451430148",
+        "codigo": "63014"
+      },
+      {
+        "diametro": "8 mm",
+        "comprimento": "20 m",
+        "tipoemb": "Hang Tag",
+        "cor": "Colorida",
+        "material": "PET",
+        "embalagem": "16",
+        "ean": "7897451430158",
+        "dun": "17897451430155",
+        "codigo": "63015"
+      },
+      {
+        "diametro": "10 mm",
+        "comprimento": "30 m",
+        "tipoemb": "Hang Tag",
+        "cor": "Colorida",
+        "material": "PET",
+        "embalagem": "6",
+        "ean": "7897451430165",
+        "dun": "17897451430162",
+        "codigo": "63016"
+      },
+      {
+        "diametro": "3 mm",
+        "comprimento": "297 m",
+        "tipoemb": "Carretel",
+        "cor": "Colorida",
+        "material": "PET",
+        "embalagem": "1",
+        "ean": "7897451430172",
+        "dun": "-",
+        "codigo": "63017"
+      },
+      {
+        "diametro": "4 mm",
+        "comprimento": "217 m",
+        "tipoemb": "Carretel",
+        "cor": "Colorida",
+        "material": "PET",
+        "embalagem": "1",
+        "ean": "7897451430189",
+        "dun": "-",
+        "codigo": "63018"
+      },
+      {
+        "diametro": "5 mm",
+        "comprimento": "133 m",
+        "tipoemb": "Carretel",
+        "cor": "Colorida",
+        "material": "PET",
+        "embalagem": "1",
+        "ean": "7897451430196",
+        "dun": "-",
+        "codigo": "63019"
+      },
+      {
+        "diametro": "6 mm",
+        "comprimento": "97 m",
+        "tipoemb": "Carretel",
+        "cor": "Colorida",
+        "material": "PET",
+        "embalagem": "1",
+        "ean": "7897451430202",
+        "dun": "-",
+        "codigo": "63020"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "119 (impressa 236-237)"
+    }
+  },
+  {
+    "id": "utilidades-cordas-trancada-preta",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Utilidades",
+    "tagline": "Corda trançada preta em PET de alta durabilidade",
+    "descricao": "A Corda Preta Cortag, fabricada em PET de alta durabilidade, é ideal para diferentes aplicações na construção civil, agricultura, transporte e uso doméstico. Disponível em diversos diâmetros e metragens, oferece excelente resistência à tração, leveza e praticidade no manuseio.",
+    "destaques": [
+      "PET de alta durabilidade",
+      "Excelente resistência à tração",
+      "Disponível em diversos diâmetros, fornecida em carretel"
+    ],
+    "imagem": "images/utilidades/cordas-trancada-preta.jpg",
+    "colunas": [
+      "Diâmetro (Ø)",
+      "Comprimento (mm)",
+      "Tipo de Emb.",
+      "Cor",
+      "Material",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "diametro",
+      "comprimento",
+      "tipoemb",
+      "cor",
+      "material",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "diametro": "3 mm",
+        "comprimento": "400 m",
+        "tipoemb": "Carretel",
+        "cor": "Preta",
+        "material": "PET",
+        "embalagem": "1",
+        "ean": "7897451430257",
+        "codigo": "63025"
+      },
+      {
+        "diametro": "4 mm",
+        "comprimento": "220 m",
+        "tipoemb": "Carretel",
+        "cor": "Preta",
+        "material": "PET",
+        "embalagem": "1",
+        "ean": "7897451430264",
+        "codigo": "63026"
+      },
+      {
+        "diametro": "5 mm",
+        "comprimento": "190 m",
+        "tipoemb": "Carretel",
+        "cor": "Preta",
+        "material": "PET",
+        "embalagem": "1",
+        "ean": "7897451430271",
+        "codigo": "63027"
+      },
+      {
+        "diametro": "6 mm",
+        "comprimento": "150 m",
+        "tipoemb": "Carretel",
+        "cor": "Preta",
+        "material": "PET",
+        "embalagem": "1",
+        "ean": "7897451430288",
+        "codigo": "63028"
+      },
+      {
+        "diametro": "8 mm",
+        "comprimento": "240 m",
+        "tipoemb": "Carretel",
+        "cor": "Preta",
+        "material": "PET",
+        "embalagem": "1",
+        "ean": "7897451430295",
+        "codigo": "63029"
+      },
+      {
+        "diametro": "10 mm",
+        "comprimento": "165 m",
+        "tipoemb": "Carretel",
+        "cor": "Preta",
+        "material": "PET",
+        "embalagem": "1",
+        "ean": "7897451430301",
+        "codigo": "63030"
+      },
+      {
+        "diametro": "12 mm",
+        "comprimento": "15 m",
+        "tipoemb": "Carretel",
+        "cor": "Preta",
+        "material": "PET",
+        "embalagem": "1",
+        "ean": "7897451430318",
+        "codigo": "63031"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "119 (impressa 236-237)"
+    }
+  },
+  {
+    "id": "utilidades-cordas-trancada-vermelha",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Utilidades",
+    "tagline": "Corda trançada vermelha em PET de alta visibilidade",
+    "descricao": "A Corda Vermelha Cortag é indicada para uso em construção civil, transporte, agricultura e manutenção, oferecendo alta resistência à tração e excelente durabilidade. Produzida em PET trançado de alta qualidade, é leve, flexível e resistente à abrasão, mantendo o desempenho mesmo sob exposição ao sol, à umidade e ao desgaste diário. Disponível em diâmetros de 3 mm a 12 mm e comprimentos de até 400 m, é fornecida em carretel prático, que facilita o manuseio e o armazenamento.",
+    "destaques": [
+      "PET trançado de alta qualidade e alta visibilidade",
+      "Resistente à abrasão e à exposição ao sol e umidade",
+      "Fornecida em carretel prático"
+    ],
+    "imagem": "images/utilidades/cordas-trancada-vermelha.jpg",
+    "colunas": [
+      "Diâmetro (Ø)",
+      "Comprimento (mm)",
+      "Tipo de Emb.",
+      "Cor",
+      "Material",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "diametro",
+      "comprimento",
+      "tipoemb",
+      "cor",
+      "material",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "diametro": "3 mm",
+        "comprimento": "400 m",
+        "tipoemb": "Carretel",
+        "cor": "Vermelha",
+        "material": "PET",
+        "embalagem": "1",
+        "ean": "7897451430325",
+        "codigo": "63032"
+      },
+      {
+        "diametro": "4 mm",
+        "comprimento": "220 m",
+        "tipoemb": "Carretel",
+        "cor": "Vermelha",
+        "material": "PET",
+        "embalagem": "1",
+        "ean": "7897451430332",
+        "codigo": "63033"
+      },
+      {
+        "diametro": "5 mm",
+        "comprimento": "190 m",
+        "tipoemb": "Carretel",
+        "cor": "Vermelha",
+        "material": "PET",
+        "embalagem": "1",
+        "ean": "7897451430349",
+        "codigo": "63034"
+      },
+      {
+        "diametro": "6 mm",
+        "comprimento": "150 m",
+        "tipoemb": "Carretel",
+        "cor": "Vermelha",
+        "material": "PET",
+        "embalagem": "1",
+        "ean": "7897451430356",
+        "codigo": "63035"
+      },
+      {
+        "diametro": "8 mm",
+        "comprimento": "240 m",
+        "tipoemb": "Carretel",
+        "cor": "Vermelha",
+        "material": "PET",
+        "embalagem": "1",
+        "ean": "7897451430363",
+        "codigo": "63036"
+      },
+      {
+        "diametro": "10 mm",
+        "comprimento": "165 m",
+        "tipoemb": "Carretel",
+        "cor": "Vermelha",
+        "material": "PET",
+        "embalagem": "1",
+        "ean": "7897451430370",
+        "codigo": "63037"
+      },
+      {
+        "diametro": "12 mm",
+        "comprimento": "15 m",
+        "tipoemb": "Carretel",
+        "cor": "Vermelha",
+        "material": "PET",
+        "embalagem": "1",
+        "ean": "7897451430387",
+        "codigo": "63038"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "120 (impressa 238-239)"
+    }
+  },
+  {
+    "id": "utilidades-cordas-para-sinalizacao",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Utilidades",
+    "tagline": "Corda para sinalização e isolamento de áreas de segurança",
+    "descricao": "A Corda para Sinalização Cortag é ideal para delimitação e isolamento de áreas de segurança, canteiros de obras, estacionamentos, eventos e zonas de acesso restrito. Fabricada em PET trançado de alta resistência, oferece excelente durabilidade e ótima visibilidade com sua coloração amarela e preta, destacando-se mesmo em longas distâncias. Sua leveza e flexibilidade permitem fácil manuseio, transporte e armazenamento em carretel, tornando-a prática e durável para uso contínuo em ambientes internos e externos.",
+    "destaques": [
+      "Coloração amarela e preta de alta visibilidade",
+      "PET trançado de alta resistência",
+      "Ideal para delimitação de áreas de segurança"
+    ],
+    "imagem": "images/utilidades/cordas-para-sinalizacao.jpg",
+    "colunas": [
+      "Diâmetro (Ø)",
+      "Comprimento (mm)",
+      "Tipo de Emb.",
+      "Cor",
+      "Material",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "diametro",
+      "comprimento",
+      "tipoemb",
+      "cor",
+      "material",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "diametro": "10 mm",
+        "comprimento": "165 m",
+        "tipoemb": "Carretel",
+        "cor": "Amarelo e preto",
+        "material": "PET",
+        "embalagem": "1",
+        "ean": "7897451430479",
+        "codigo": "63047"
+      },
+      {
+        "diametro": "12 mm",
+        "comprimento": "105 m",
+        "tipoemb": "Carretel",
+        "cor": "Amarelo e preto",
+        "material": "PET",
+        "embalagem": "1",
+        "ean": "7897451430486",
+        "codigo": "63048"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "120 (impressa 238-239)"
+    }
+  },
+  {
+    "id": "utilidades-cordas-trancada-branca",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Utilidades",
+    "tagline": "Corda trançada branca em PET para uso geral e profissional",
+    "descricao": "As Cordas Brancas Cortag são ideais para uso geral em obras, transporte, agricultura e manutenção, garantindo alta resistência à tração, leveza e flexibilidade. Fabricadas em PET trançado de alta qualidade, apresentam excelente durabilidade e resistência à abrasão, suportando condições de uso intenso em ambientes internos e externos. Disponíveis em diversos diâmetros, de 3 mm a 14 mm, com comprimentos de até 400 m, são fornecidas em carretéis práticos, que facilitam o manuseio, o transporte e o armazenamento.",
+    "destaques": [
+      "PET trançado de alta qualidade",
+      "Resistente à abrasão para uso intenso",
+      "Diâmetros de 3 mm a 14 mm, fornecida em carretel"
+    ],
+    "imagem": "images/utilidades/cordas-trancada-branca.jpg",
+    "colunas": [
+      "Diâmetro (Ø)",
+      "Comprimento (mm)",
+      "Tipo de Emb.",
+      "Cor",
+      "Material",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "diametro",
+      "comprimento",
+      "tipoemb",
+      "cor",
+      "material",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "diametro": "3 mm",
+        "comprimento": "400 m",
+        "tipoemb": "Carretel",
+        "cor": "Branca",
+        "material": "PET",
+        "embalagem": "1",
+        "ean": "7897451430394",
+        "codigo": "63039"
+      },
+      {
+        "diametro": "4 mm",
+        "comprimento": "220 m",
+        "tipoemb": "Carretel",
+        "cor": "Branca",
+        "material": "PET",
+        "embalagem": "1",
+        "ean": "7897451430400",
+        "codigo": "63040"
+      },
+      {
+        "diametro": "5 mm",
+        "comprimento": "190 m",
+        "tipoemb": "Carretel",
+        "cor": "Branca",
+        "material": "PET",
+        "embalagem": "1",
+        "ean": "7897451430417",
+        "codigo": "63041"
+      },
+      {
+        "diametro": "6 mm",
+        "comprimento": "150 m",
+        "tipoemb": "Carretel",
+        "cor": "Branca",
+        "material": "PET",
+        "embalagem": "1",
+        "ean": "7897451430424",
+        "codigo": "63042"
+      },
+      {
+        "diametro": "8 mm",
+        "comprimento": "240 m",
+        "tipoemb": "Carretel",
+        "cor": "Branca",
+        "material": "PET",
+        "embalagem": "1",
+        "ean": "7897451430431",
+        "codigo": "63043"
+      },
+      {
+        "diametro": "10 mm",
+        "comprimento": "165 m",
+        "tipoemb": "Carretel",
+        "cor": "Branca",
+        "material": "PET",
+        "embalagem": "1",
+        "ean": "7897451430448",
+        "codigo": "63044"
+      },
+      {
+        "diametro": "12 mm",
+        "comprimento": "15 m",
+        "tipoemb": "Carretel",
+        "cor": "Branca",
+        "material": "PET",
+        "embalagem": "1",
+        "ean": "7897451430455",
+        "codigo": "63045"
+      },
+      {
+        "diametro": "14 mm",
+        "comprimento": "68 m",
+        "tipoemb": "Carretel",
+        "cor": "Branca",
+        "material": "PET",
+        "embalagem": "1",
+        "ean": "7897451430462",
+        "codigo": "63046"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "120 (impressa 238-239)"
+    }
+  },
+  {
+    "id": "utilidades-caixas-plasticas-ferramentas",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Utilidades",
+    "tagline": "Caixa plástica tradicional para organizar e transportar ferramentas",
+    "descricao": "A Caixa Plástica Cortag Tradicional é ideal para organizar, armazenar e transportar ferramentas e acessórios com segurança e praticidade. Com construção robusta e design tradicional, é fabricada em plástico de alta resistência, com eixos metálicos reforçados nas dobradiças e fechos plásticos de alta durabilidade. Possui alça articulada ergonômica, bandeja interna removível para pequenos objetos e sistema de fechamento com opção para cadeado, garantindo maior proteção e organização.",
+    "destaques": [
+      "Eixos metálicos reforçados nas dobradiças",
+      "Bandeja interna removível para pequenos objetos",
+      "Fechos plásticos com opção para cadeado"
+    ],
+    "imagem": "images/utilidades/caixas-plasticas-ferramentas.jpg",
+    "colunas": [
+      "Modelo",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "13\"",
+        "embalagem": "6",
+        "ean": "7897451425413",
+        "dun": "27897451425417",
+        "codigo": "62541"
+      },
+      {
+        "modelo": "17\"",
+        "embalagem": "3",
+        "ean": "7897451425420",
+        "dun": "27897451425424",
+        "codigo": "62542"
+      },
+      {
+        "modelo": "20\"",
+        "embalagem": "3",
+        "ean": "7897451425437",
+        "dun": "27897451425431",
+        "codigo": "62543"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "120 (impressa 238-239)"
+    }
+  },
+  {
+    "id": "utilidades-caixa-plastica-ferramentas-20pro",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Utilidades",
+    "tagline": "Caixa plástica profissional de 20 polegadas com travas metálicas",
+    "descricao": "A Caixa Plástica Cortag 20” PRO foi desenvolvida para profissionais que exigem alta resistência, desempenho e organização no transporte de ferramentas e acessórios. Sua estrutura é fabricada em plástico de alta resistência com reforços metálicos, garantindo durabilidade e proteção em ambientes de uso intenso. Possui alça articulável ergonômica, travas metálicas reforçadas, dobradiças com eixo em metal e bandeja interna removível, que otimiza o armazenamento de pequenas peças e acessórios. Com design robusto e tampa reforçada, é ideal para aplicações profissionais e uso contínuo em obra, oficina ou manutenção.",
+    "destaques": [
+      "Travas metálicas reforçadas e dobradiças com eixo em metal",
+      "Bandeja interna removível",
+      "Tampa reforçada para uso profissional contínuo"
+    ],
+    "imagem": "images/utilidades/caixa-plastica-ferramentas-20pro.jpg",
+    "colunas": [
+      "Modelo",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "20\" PRO",
+        "embalagem": "1",
+        "ean": "7897451425451",
+        "codigo": "62545"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "121 (impressa 240-241)"
+    }
+  },
+  {
+    "id": "utilidades-caixa-plastica-bau-rodas-24",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Utilidades",
+    "tagline": "Caixa plástica baú com rodas para transporte de ferramentas",
+    "descricao": "A Caixa Plástica Cortag 24” Baú foi projetada para armazenar e transportar ferramentas e equipamentos com segurança, conforto e praticidade. Fabricada em plástico de alta resistência, possui rodízios emborrachados de 5,5”, alça telescópica em alumínio e eixo em aço, garantindo maior durabilidade e mobilidade em diversos tipos de terreno. Conta ainda com travas metálicas reforçadas, passadores para cadeado e escala métrica e imperial integrada à tampa, ideal para medições rápidas em campo.",
+    "destaques": [
+      "Rodízios emborrachados de 5,5\" e alça telescópica em alumínio",
+      "Travas metálicas reforçadas e passadores para cadeado",
+      "Escala métrica e imperial integrada à tampa"
+    ],
+    "imagem": "images/utilidades/caixa-plastica-bau-rodas-24.jpg",
+    "colunas": [
+      "Modelo",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "24\" Baú",
+        "embalagem": "1",
+        "ean": "7897451425444",
+        "codigo": "62544"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "121 (impressa 240-241)"
+    }
+  },
+  {
+    "id": "utilidades-organizadores-plasticos",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Utilidades",
+    "tagline": "Organizadores empilháveis para pequenas peças e ferramentas",
+    "descricao": "O Estojo Organizador com 5 Divisórias Empilháveis é ideal para quem precisa separar e transportar peças pequenas como parafusos, buchas, conectores e acessórios. Seu sistema empilhável permite organizar os itens por tipo ou tamanho, facilitando o acesso e evitando misturas durante o transporte e o uso na obra. A Maleta Organizadora 15” foi desenvolvida para armazenar e transportar ferramentas manuais, acessórios e pequenos materiais com segurança, possuindo compartimentos internos bem distribuídos, travas de segurança e alça ergonômica. O Organizador Multiuso 13” é a solução prática para guardar ferramentas, acessórios e materiais diversos em um único lugar, com espaço interno amplo e divisórias que acomodam itens de diferentes tamanhos.",
+    "destaques": [
+      "Sistema empilhável para organização por tipo ou tamanho",
+      "Compartimentos internos bem distribuídos com travas de segurança",
+      "Disponível em 13\", 15\" e modelo estojo"
+    ],
+    "imagem": "images/utilidades/organizadores-plasticos.jpg",
+    "colunas": [
+      "Modelo",
+      "Comprimento (mm)",
+      "Largura (mm)",
+      "Altura (mm)",
+      "Peso",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "comprimento",
+      "largura",
+      "altura",
+      "peso",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "15\"",
+        "comprimento": "320",
+        "largura": "225",
+        "altura": "47",
+        "peso": "0.37",
+        "embalagem": "1",
+        "ean": "7897451428773",
+        "codigo": "62877"
+      },
+      {
+        "modelo": "13\"",
+        "comprimento": "300",
+        "largura": "195",
+        "altura": "50",
+        "peso": "0.27",
+        "embalagem": "1",
+        "ean": "7897451428780",
+        "codigo": "62878"
+      },
+      {
+        "modelo": "Estojo",
+        "comprimento": "90",
+        "largura": "90",
+        "altura": "210",
+        "peso": "0.17",
+        "embalagem": "1",
+        "ean": "7897451428797",
+        "codigo": "62879"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "121 (impressa 240-241)"
+    }
+  },
+  {
+    "id": "utilidades-maletas-estojo-bandeja-removivel-20",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Utilidades",
+    "tagline": "Maleta plástica de 20 polegadas com estojo interno removível",
+    "descricao": "A Maleta Cortag 20” com Estojo para Ferramentas foi desenvolvida para profissionais que buscam organização, praticidade e resistência no transporte de ferramentas e acessórios. Fabricada em plástico de alta durabilidade, possui travas frontais reforçadas, alça ergonômica e estojo interno removível, ideal para peças menores. Seu design robusto e leve garante proteção contra impactos, armazenamento eficiente e uso prolongado em ambientes de obra ou manutenção.",
+    "destaques": [
+      "Estojo interno removível para peças menores",
+      "Travas frontais reforçadas e alça ergonômica",
+      "Design robusto e leve contra impactos"
+    ],
+    "imagem": "images/utilidades/maletas-estojo-bandeja-removivel-20.jpg",
+    "colunas": [
+      "Modelo",
+      "Comprimento (mm)",
+      "Largura (mm)",
+      "Altura (mm)",
+      "Peso",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "comprimento",
+      "largura",
+      "altura",
+      "peso",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "20\"",
+        "comprimento": "510",
+        "largura": "265",
+        "altura": "225",
+        "peso": "1.54",
+        "embalagem": "1",
+        "ean": "7897451428803",
+        "codigo": "62880"
+      },
+      {
+        "modelo": "20\"",
+        "comprimento": "510",
+        "largura": "265",
+        "altura": "235",
+        "peso": "1.7",
+        "embalagem": "1",
+        "ean": "7897451428810",
+        "codigo": "62881"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "122 (impressa 242-243)"
+    }
+  },
+  {
+    "id": "utilidades-maletas-bandeja-removivel-14-16",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Utilidades",
+    "tagline": "Maleta plástica compacta com bandeja removível",
+    "descricao": "As Maletas Plásticas Cortag 14” e 16” foram desenvolvidas para armazenar e transportar ferramentas manuais, acessórios e pequenos materiais com praticidade e segurança. Fabricadas em plástico de alta durabilidade, possuem travas reforçadas, alça ergonômica e compartimento interno removível, ideal para organizar peças menores. Seu design leve e resistente garante proteção contra impactos e facilita o transporte no dia a dia de profissionais e entusiastas da construção.",
+    "destaques": [
+      "Compartimento interno removível",
+      "Travas reforçadas e alça ergonômica",
+      "Disponível em 14\" e 16\""
+    ],
+    "imagem": "images/utilidades/maletas-bandeja-removivel-14-16.jpg",
+    "colunas": [
+      "Modelo",
+      "Comprimento (mm)",
+      "Largura (mm)",
+      "Altura (mm)",
+      "Peso",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "comprimento",
+      "largura",
+      "altura",
+      "peso",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "16\"",
+        "comprimento": "420",
+        "largura": "210",
+        "altura": "160",
+        "peso": "0.78",
+        "embalagem": "1",
+        "ean": "7897451428827",
+        "codigo": "62882"
+      },
+      {
+        "modelo": "14\"",
+        "comprimento": "360",
+        "largura": "230",
+        "altura": "150",
+        "peso": "0.63",
+        "embalagem": "1",
+        "ean": "7897451428834",
+        "codigo": "62883"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "122 (impressa 242-243)"
+    }
+  },
+  {
+    "id": "utilidades-maletas-serra-marmore-13-estojo-16",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Utilidades",
+    "tagline": "Maleta plástica para serra mármore e ferramentas elétricas",
+    "descricao": "A Maleta Plástica Cortag 13” foi projetada para armazenar e transportar serras mármore e ferramentas elétricas de forma prática e segura. Fabricada em plástico de alta resistência, possui estrutura reforçada, travas firmes e alça ergonômica para maior conforto no transporte. Seu design interno é ideal para acomodar a ferramenta e seus acessórios, garantindo proteção contra impactos e fácil organização durante o uso profissional.",
+    "destaques": [
+      "Estrutura reforçada e travas firmes",
+      "Design interno ideal para serra mármore e acessórios",
+      "Alça ergonômica para maior conforto"
+    ],
+    "imagem": "images/utilidades/maletas-serra-marmore-13-estojo-16.jpg",
+    "colunas": [
+      "Modelo",
+      "Comprimento (mm)",
+      "Largura (mm)",
+      "Altura (mm)",
+      "Peso",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "comprimento",
+      "largura",
+      "altura",
+      "peso",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "13\"",
+        "comprimento": "340",
+        "largura": "340",
+        "altura": "130",
+        "peso": "0.53",
+        "embalagem": "1",
+        "ean": "7897451428841",
+        "codigo": "62884"
+      },
+      {
+        "modelo": "13\"",
+        "comprimento": "330",
+        "largura": "275",
+        "altura": "220",
+        "peso": "0.62",
+        "embalagem": "1",
+        "ean": "7897451428858",
+        "codigo": "62885"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "123 (impressa 244-245)"
+    }
+  },
+  {
+    "id": "utilidades-bolsa-lona-roda-blr-410",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Utilidades",
+    "tagline": "Bolsa profissional em lona com roda para mobilidade em obra",
+    "descricao": "A BLR - 410 com Roda é uma bolsa reforçada para transporte e organização de ferramentas, ideal para quem precisa de mobilidade na obra. Conta com rodas resistentes e alça telescópica com três estágios de ajuste, facilitando o deslocamento mesmo com carga pesada. Possui ampla capacidade interna, diversos bolsos externos e internos, além de zíper reforçado com abertura total, garantindo fácil acesso às ferramentas e acessórios. Não acompanha ferramentas.",
+    "destaques": [
+      "Rodas resistentes e alça telescópica de três estágios",
+      "Ampla capacidade interna com diversos bolsos",
+      "Zíper reforçado com abertura total"
+    ],
+    "imagem": "images/utilidades/bolsa-lona-roda-blr-410.jpg",
+    "colunas": [
+      "Modelo",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "BLR - 410",
+        "embalagem": "1",
+        "ean": "7897451414073",
+        "codigo": "61407"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "123 (impressa 244-245)"
+    }
+  },
+  {
+    "id": "utilidades-bolsa-lona-alca-bla-400",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Utilidades",
+    "tagline": "Bolsa profissional em lona reforçada com alça telescópica",
+    "descricao": "A Bolsa Profissional Cortag BLA - 400 foi projetada para oferecer máxima praticidade e durabilidade no transporte e armazenamento de ferramentas. Fabricada em lona reforçada, possui 2 rodas resistentes, alça telescópica com 3 estágios e 2 alças fixas em nylon para diferentes formas de transporte. Com 11 bolsos externos, 7 internos e porta-cartão, oferece ampla capacidade de organização. O zíper reforçado com barra metálica garante maior segurança e resistência ao uso intenso. Não acompanha ferramentas.",
+    "destaques": [
+      "2 rodas resistentes e alça telescópica de 3 estágios",
+      "11 bolsos externos, 7 internos e porta-cartão",
+      "Zíper reforçado com barra metálica"
+    ],
+    "imagem": "images/utilidades/bolsa-lona-alca-bla-400.jpg",
+    "colunas": [
+      "Modelo",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "BLA - 400",
+        "embalagem": "1",
+        "ean": "7897451414066",
+        "codigo": "61406"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "123 (impressa 244-245)"
+    }
+  },
+  {
+    "id": "utilidades-cinto-lona-multiuso-clm-150",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Utilidades",
+    "tagline": "Cinto profissional multiuso em lona com pochete e clip para trena",
+    "descricao": "O Cinto Profissional em Lona Multiuso CLM - 150 Cortag foi desenvolvido para oferecer organização e mobilidade durante trabalhos em obras, instalações e manutenções. Fabricado em nylon ajustável de 1,5 m de comprimento, conta com clip plástico de fixação e pochete em lona reforçada para máxima durabilidade. Possui clip metálico para trena e 6 bolsos externos, ideais para armazenar ferramentas e acessórios com praticidade e segurança. Não acompanha ferramentas.",
+    "destaques": [
+      "Nylon ajustável de 1,5 m com clip plástico de fixação",
+      "Clip metálico para trena",
+      "6 bolsos externos em lona reforçada"
+    ],
+    "imagem": "images/utilidades/cinto-lona-multiuso-clm-150.jpg",
+    "colunas": [
+      "Modelo",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "CLM - 150",
+        "embalagem": "1",
+        "ean": "7897451414080",
+        "codigo": "61408"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "123 (impressa 244-245)"
+    }
+  },
+  {
+    "id": "utilidades-fitas-isolante",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Utilidades",
+    "tagline": "Fita isolante em PVC para cabos, fios e instalações elétricas",
+    "descricao": "A Fita Isolante Cortag é indicada para isolamento de cabos, fios e conexões elétricas, oferecendo excelente resistência mecânica e dielétrica. Produzida em PVC de alta qualidade, suporta temperaturas de até 90°C e tensões de até 750V, sendo ideal para ambientes adversos. Seu material é autoextinguível, garantindo maior segurança em aplicações residenciais, comerciais e industriais.",
+    "destaques": [
+      "PVC de alta qualidade, autoextinguível",
+      "Suporta temperaturas de até 90°C e tensões de até 750V",
+      "Excelente resistência mecânica e dielétrica"
+    ],
+    "imagem": "images/utilidades/fitas-isolante.jpg",
+    "colunas": [
+      "Descrição",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "descricao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Fita Isolante Cortag 18mm x 5 m",
+        "embalagem": "10",
+        "ean": "7897451427455",
+        "dun": "17897451427452",
+        "codigo": "62745"
+      },
+      {
+        "descricao": "Fita Isolante Cortag 18mm x 10 m",
+        "embalagem": "10",
+        "ean": "7897451427462",
+        "dun": "17897451427469",
+        "codigo": "62746"
+      },
+      {
+        "descricao": "Fita Isolante Cortag 18mm x 20 m",
+        "embalagem": "10",
+        "ean": "7897451427479",
+        "dun": "17897451427476",
+        "codigo": "62747"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "124 (impressa 246-247)"
+    }
+  },
+  {
+    "id": "utilidades-fitas-crepe",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Utilidades",
+    "tagline": "Fita crepe para fechamento de embalagens e mascaramento",
+    "descricao": "A Fita Crepe Cortag é ideal para fechamento de embalagens, emendas de laminados de madeira e mascaramento de pintura imobiliária. Pode ser utilizada em ambientes domésticos, escolares ou profissionais, oferecendo excelente equilíbrio entre adesão e remoção limpa. Além da aplicação manual, é compatível com dispensadores manuais, semiautomáticos e automáticos, garantindo produtividade e precisão.",
+    "destaques": [
+      "Equilíbrio entre adesão e remoção limpa",
+      "Compatível com dispensadores manuais e automáticos",
+      "Ideal para mascaramento de pintura imobiliária"
+    ],
+    "imagem": "images/utilidades/fitas-crepe.jpg",
+    "colunas": [
+      "Dimensões",
+      "Cor",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "dimensoes",
+      "cor",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "dimensoes": "18 mm x 50 m",
+        "cor": "Branco",
+        "embalagem": "1",
+        "ean": "7897451427486",
+        "codigo": "62748"
+      },
+      {
+        "dimensoes": "24 mm x 50 m",
+        "cor": "Branco",
+        "embalagem": "1",
+        "ean": "7897451427493",
+        "codigo": "62749"
+      },
+      {
+        "dimensoes": "48 mm x 50 m",
+        "cor": "Branco",
+        "embalagem": "1",
+        "ean": "7897451427509",
+        "codigo": "62750"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "124 (impressa 246-247)"
+    }
+  },
+  {
+    "id": "utilidades-fitas-acrilicas",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Utilidades",
+    "tagline": "Fita acrílica transparente para fechamento de embalagens",
+    "descricao": "A Fita Acrílica Cortag é ideal para o fechamento de embalagens de papel, caixas de papelão e plásticos em geral. Oferece adesão forte e acabamento transparente, mantendo a estética da embalagem sem comprometer a resistência. Além da aplicação manual, pode ser utilizada em dispensadores automáticos e semiautomáticos, otimizando processos de empacotamento em ambientes industriais e comerciais.",
+    "destaques": [
+      "Adesão forte com acabamento transparente",
+      "Compatível com dispensadores automáticos e semiautomáticos",
+      "Ideal para embalagens de papel, papelão e plásticos"
+    ],
+    "imagem": "images/utilidades/fitas-acrilicas.jpg",
+    "colunas": [
+      "Dimensões",
+      "Cor",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "dimensoes",
+      "cor",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "dimensoes": "12 mm x 50 m",
+        "cor": "Transparente",
+        "embalagem": "10",
+        "ean": "7897451427578",
+        "dun": "17897451427575",
+        "codigo": "62757"
+      },
+      {
+        "dimensoes": "45 mm x 40 m",
+        "cor": "Transparente",
+        "embalagem": "6",
+        "ean": "7897451427585",
+        "dun": "17897451427582",
+        "codigo": "62758"
+      },
+      {
+        "dimensoes": "45 mm x 50 m",
+        "cor": "Transparente",
+        "embalagem": "6",
+        "ean": "7897451427592",
+        "dun": "17897451427599",
+        "codigo": "62759"
+      },
+      {
+        "dimensoes": "48 mm x 50 m",
+        "cor": "Transparente",
+        "embalagem": "6",
+        "ean": "7897451427608",
+        "dun": "17897451427605",
+        "codigo": "62760"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "124 (impressa 246-247)"
+    }
+  },
+  {
+    "id": "utilidades-fitas-veda-rosca",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Utilidades",
+    "tagline": "Fita veda rosca em PTFE para conexões hidráulicas",
+    "descricao": "A Fita Veda Rosca Cortag é indicada para vedação de roscas e conexões em tubulações de água fria, água quente, vapor, gases e combustíveis. Fabricada em PTFE de alta densidade, garante vedação perfeita, evitando vazamentos e reduzindo o atrito entre as roscas metálicas. É fácil de aplicar, altamente resistente a temperaturas elevadas e compatível com uma ampla variedade de fluidos e materiais.",
+    "destaques": [
+      "PTFE de alta densidade para vedação perfeita",
+      "Resistente a temperaturas elevadas",
+      "Compatível com água, vapor, gases e combustíveis"
+    ],
+    "imagem": "images/utilidades/fitas-veda-rosca.jpg",
+    "colunas": [
+      "Dimensões",
+      "Cor",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "dimensoes",
+      "cor",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "dimensoes": "18 mm x 10 m",
+        "cor": "Branco",
+        "embalagem": "1",
+        "ean": "7897451427424",
+        "codigo": "62742"
+      },
+      {
+        "dimensoes": "18 mm x 25 m",
+        "cor": "Branco",
+        "embalagem": "1",
+        "ean": "7897451427431",
+        "codigo": "62743"
+      },
+      {
+        "dimensoes": "18 mm x 50 m",
+        "cor": "Branco",
+        "embalagem": "1",
+        "ean": "7897451427448",
+        "codigo": "62744"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "124 (impressa 246-247)"
+    }
+  },
+  {
+    "id": "utilidades-fitas-crepe-azulejista",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Utilidades",
+    "tagline": "Fita crepe verde para assentamento de pisos e mascaramento",
+    "descricao": "A Fita Crepe Azulejista Cortag é indicada para uso na construção civil e em processos industriais, oferecendo excelente aderência e remoção sem resíduos. Ideal para assentamento de pisos cerâmicos e porcelanatos, mascaramento de pintura, pintura automotiva e aplicações em ambientes com temperaturas de até 90°C por até 30 minutos. Seu adesivo especial garante fixação firme e aplicação uniforme, podendo ser facilmente removida sem danificar a superfície.",
+    "destaques": [
+      "Remoção sem resíduos - adesão segura",
+      "Resistente a temperaturas de até 90°C por até 30 minutos",
+      "Ideal para assentamento de pisos cerâmicos e porcelanatos"
+    ],
+    "imagem": "images/utilidades/fitas-crepe-azulejista.jpg",
+    "colunas": [
+      "Dimensões",
+      "Cor",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "dimensoes",
+      "cor",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "dimensoes": "18 mm x 40 m",
+        "cor": "Verde",
+        "embalagem": "1",
+        "ean": "7897451427516",
+        "codigo": "62751"
+      },
+      {
+        "dimensoes": "24 mm x 40 m",
+        "cor": "Verde",
+        "embalagem": "1",
+        "ean": "7897451427523",
+        "codigo": "62752"
+      },
+      {
+        "dimensoes": "48 mm x 40 m",
+        "cor": "Verde",
+        "embalagem": "1",
+        "ean": "7897451427530",
+        "codigo": "62753"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "125 (impressa 248-249)"
+    }
+  },
+  {
+    "id": "utilidades-macarico-lanca-chamas",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Utilidades",
+    "tagline": "Maçarico lança-chamas para aplicação de mantas asfálticas",
+    "descricao": "O Maçarico Lança-Chamas Cortag foi desenvolvido para operações que exigem calor intenso e precisão, sendo amplamente utilizado na aplicação de mantas asfálticas, secagem de superfícies e uso rural. Sua haste em aço carbono zincado garante resistência e durabilidade, enquanto a empunhadura em plástico injetado proporciona conforto e segurança no manuseio. Disponível em versões curta e longa, adapta-se às necessidades do usuário, oferecendo controle eficiente da chama e alto desempenho em campo.",
+    "destaques": [
+      "Haste em aço carbono zincado",
+      "Empunhadura em plástico injetado para conforto e segurança",
+      "Disponível em versões curta e longa"
+    ],
+    "imagem": "images/utilidades/macarico-lanca-chamas.jpg",
+    "colunas": [
+      "Modelo",
+      "Número de Registros",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "registros",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Curto",
+        "registros": "1",
+        "embalagem": "6",
+        "ean": "7897451466188",
+        "dun": "17897451466185",
+        "codigo": "60618"
+      },
+      {
+        "modelo": "Longo",
+        "registros": "2",
+        "embalagem": "6",
+        "ean": "7897451466195",
+        "dun": "17897451466192",
+        "codigo": "60619"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "125 (impressa 248-249)"
+    }
+  },
+  {
+    "id": "utilidades-bancada-de-trabalho",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Utilidades",
+    "tagline": "Bancada de trabalho dobrável com estrutura reforçada em aço",
+    "descricao": "A Bancada de Trabalho Cortag foi desenvolvida para proporcionar segurança, praticidade e durabilidade em atividades profissionais. Seu design conta com pés articuláveis, que facilitam a montagem e desmontagem, além de uma estrutura reforçada em aço que garante alta sustentação. A tampa em madeira fixada nos apoios oferece estabilidade e resistência para diversas aplicações, tornando-se ideal para canteiros de obra, oficinas e montagens em geral.",
+    "destaques": [
+      "Pés articuláveis para montagem e desmontagem rápida",
+      "Estrutura reforçada em aço com alta sustentação",
+      "Tampa em madeira fixada nos apoios"
+    ],
+    "imagem": "images/utilidades/bancada-de-trabalho.jpg",
+    "colunas": [
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "embalagem": "1",
+        "ean": "7897451463644",
+        "codigo": "60364"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "125 (impressa 248-249)"
+    }
+  },
+  {
+    "id": "utilidades-saco-de-rafia-multiuso",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Utilidades",
+    "tagline": "Saco de ráfia multiuso resistente para entulho e materiais de obra",
+    "descricao": "O Saco de Ráfia Multiuso Cortag - 50 x 80 cm é ideal para transporte, armazenamento e organização de materiais em obras, indústrias, comércios e uso geral. Fabricado em ráfia resistente, suporta até 25 kg com segurança, garantindo durabilidade mesmo em uso intenso. Com tamanho de 50 x 80 cm, oferece amplo espaço interno, sendo indicado para acondicionamento de entulho, resíduos de obra, areia, argamassa, ferramentas e diversos outros materiais. Leve, prático e reutilizável, é indispensável para quem precisa de resistência e versatilidade no trabalho. Fornecido em embalagem padrão com 5 unidades, facilita o armazenamento e a reposição.",
+    "destaques": [
+      "Ráfia resistente, suporta até 25 kg",
+      "Tamanho 50 x 80 cm com amplo espaço interno",
+      "Fornecido em embalagem com 5 unidades"
+    ],
+    "imagem": "images/utilidades/saco-de-rafia-multiuso.jpg",
+    "colunas": [
+      "Modelo",
+      "Capacidade",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "capacidade",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "50 x 80 cm",
+        "capacidade": "25 kg",
+        "embalagem": "5",
+        "ean": "7897451432800",
+        "dun": "17897451432807",
+        "codigo": "63280"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "125 (impressa 248-249)"
+    }
+  },
+  {
+    "id": "utilidades-mangueira-multiuso",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Utilidades",
+    "tagline": "Mangueira multiuso em PVC transparente de alta resistência",
+    "descricao": "A Mangueira Multiuso Cortag foi projetada para oferecer alta resistência à pressão, excelente flexibilidade e total segurança no uso profissional. Fabricada em PVC de alta qualidade, proporciona manuseio leve e instalação rápida, enquanto sua transparência permite monitorar facilmente o fluxo interno de líquidos e ar. Ideal para uso em oficinas, residências, indústrias leves e aplicações diversas que exijam durabilidade e desempenho confiável.",
+    "destaques": [
+      "PVC de alta qualidade com alta resistência à pressão",
+      "Transparência permite monitorar o fluxo interno",
+      "Manuseio leve e instalação rápida"
+    ],
+    "imagem": "images/utilidades/mangueira-multiuso.jpg",
+    "colunas": [
+      "Modelo",
+      "Comprimento",
+      "Diâmetro (Ø)",
+      "Material",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "comprimento",
+      "diametro",
+      "material",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "11 K",
+        "comprimento": "50 m",
+        "diametro": "3/8\"",
+        "material": "PVC",
+        "embalagem": "1",
+        "ean": "7897451429084",
+        "codigo": "62908"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "126 (impressa 250)"
+    }
+  },
+  {
+    "id": "utilidades-mangueira-jardim-verde",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Utilidades",
+    "tagline": "Mangueira de jardim verde com sistema antitorção e proteção UV",
+    "descricao": "A Mangueira de Jardim Verde Cortag foi desenvolvida para oferecer alta resistência e excelente flexibilidade, garantindo desempenho superior em aplicações residenciais e profissionais. Produzida em PVC com 3 camadas, possui sistema antitorção, que evita dobras e nós durante o uso. Conta com proteção UV, suportando exposição ao sol e temperaturas de até 50°C, proporcionando maior durabilidade e segurança. Ideal para irrigação, limpeza e uso constante em ambientes externos. Mangueiras de 10, 20 e 30 m acompanham o kit de esguicho engate rápido.",
+    "destaques": [
+      "PVC com 3 camadas e sistema antitorção",
+      "Proteção UV, resistente a temperaturas de até 50°C",
+      "Mangueiras de 10, 20 e 30 m acompanham kit de esguicho engate rápido"
+    ],
+    "imagem": "images/utilidades/mangueira-jardim-verde.jpg",
+    "colunas": [
+      "Comprimento",
+      "Diâmetro (Ø)",
+      "Material",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "comprimento",
+      "diametro",
+      "material",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "comprimento": "10 m",
+        "diametro": "1/2\"",
+        "material": "PVC",
+        "embalagem": "1",
+        "ean": "7897451433463",
+        "codigo": "63346"
+      },
+      {
+        "comprimento": "20 m",
+        "diametro": "1/2\"",
+        "material": "PVC",
+        "embalagem": "1",
+        "ean": "7897451433470",
+        "codigo": "63347"
+      },
+      {
+        "comprimento": "30 m",
+        "diametro": "1/2\"",
+        "material": "PVC",
+        "embalagem": "1",
+        "ean": "7897451433166",
+        "codigo": "63316"
+      },
+      {
+        "comprimento": "100 m",
+        "diametro": "1/2\"",
+        "material": "PVC",
+        "embalagem": "1",
+        "ean": "7897451433036",
+        "codigo": "63303"
+      },
+      {
+        "comprimento": "200 m",
+        "diametro": "1/2\"",
+        "material": "PVC",
+        "embalagem": "1",
+        "ean": "7897451433043",
+        "codigo": "63304"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "126 (impressa 250)"
+    }
   }
 ]
