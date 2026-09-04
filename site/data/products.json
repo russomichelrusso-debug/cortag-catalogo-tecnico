@@ -22693,5 +22693,1505 @@
       "arquivo": "Catálago Livro 2026.pdf",
       "pagina": "106 (impressa 210-211)"
     }
+  },
+  {
+    "id": "medicao-nivel-laser-verde-3d-standard",
+    "categoria": "medicao",
+    "categoriaNome": "Medição",
+    "linha": "Medição",
+    "tagline": "Nível a laser verde 3D para alinhamento em 360°",
+    "descricao": "Nível a Laser 3D Standard Cortag, desenvolvido para profissionais da construção, gesseiros, marceneiros e instaladores que necessitam de medições rápidas, precisas e confiáveis. Projeta linhas horizontais e verticais em 360°, permitindo marcações completas no ambiente e alinhamento perfeito de estruturas. Com corpo robusto em ABS e proteção IP54, garante resistência contra água, poeira e impactos do dia a dia, oferecendo maior durabilidade no uso profissional. Acompanha maleta.",
+    "destaques": [
+      "Linhas verde de alta visibilidade em 360°",
+      "Corpo robusto em ABS com proteção IP54",
+      "Acompanha base magnética, bateria, controle remoto, plataforma de elevação, base de fixação e carregador"
+    ],
+    "imagem": "images/medicao/nivel-laser-verde-3d-standard.jpg",
+    "colunas": [
+      "Modelo",
+      "Cor",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "cor",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "NLC846",
+        "cor": "Verde",
+        "embalagem": "1",
+        "ean": "7897451428469",
+        "codigo": "62846"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "108 (impressa 214-215)"
+    }
+  },
+  {
+    "id": "medicao-trenas-a-laser",
+    "categoria": "medicao",
+    "categoriaNome": "Medição",
+    "linha": "Medição",
+    "tagline": "Trenas a laser digitais para medições rápidas e precisas",
+    "descricao": "As Trenas a Laser Cortag são instrumentos modernos e altamente funcionais, ideais para profissionais que exigem rapidez, precisão e praticidade nas medições do dia a dia. Permitem medições diretas, cálculos automáticos e diversas funções adicionais que ampliam as possibilidades de utilização em obras, instalações e ambientes industriais. Acompanha bolsa em lona com alça para transporte.",
+    "destaques": [
+      "Medição direta com cálculos automáticos",
+      "Display digital de fácil leitura",
+      "Acompanha bolsa em lona com alça para transporte"
+    ],
+    "imagem": "images/medicao/trenas-a-laser.jpg",
+    "colunas": [
+      "Modelo",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "MLC836 - 20 m",
+        "embalagem": "1",
+        "ean": "7897451428360",
+        "codigo": "62836"
+      },
+      {
+        "modelo": "MLC837 - 50 m",
+        "embalagem": "1",
+        "ean": "7897451428377",
+        "codigo": "62837"
+      },
+      {
+        "modelo": "MLC838 - 70 m",
+        "embalagem": "1",
+        "ean": "7897451428384",
+        "codigo": "62838"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "108 (impressa 214-215)"
+    }
+  },
+  {
+    "id": "medicao-nivel-laser-pendular-giratorio",
+    "categoria": "medicao",
+    "categoriaNome": "Medição",
+    "linha": "Medição",
+    "tagline": "Nível a laser pendular giratório verde com 5 linhas",
+    "descricao": "Nível a Laser Pendular Giratório Cortag, desenvolvido para facilitar o alinhamento e o nivelamento durante a obra, trazendo mais rapidez e precisão ao trabalho. Projeta 5 linhas (linha cruzada + ponto de prumo) e conta com sistema de autonivelamento, que ajusta automaticamente quando o equipamento está fora de nível. Possui alcance de até 15 metros, base giratória de 360° e pés com ajuste de altura, garantindo versatilidade em diferentes aplicações, como construção civil, marcenaria, drywall, encanamentos e instalações elétricas. Funciona com bateria e acompanha maleta para transporte e proteção.",
+    "destaques": [
+      "5 linhas de laser: cruzada + ponto de prumo",
+      "Base giratória de 360° com autonivelamento",
+      "Acompanha maleta, bateria e carregador"
+    ],
+    "imagem": "images/medicao/nivel-laser-pendular-giratorio.jpg",
+    "colunas": [
+      "Modelo",
+      "Cor",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "cor",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "NLC817",
+        "cor": "Verde",
+        "embalagem": "1",
+        "ean": "7897451428179",
+        "codigo": "62817"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "108 (impressa 214-215)"
+    }
+  },
+  {
+    "id": "medicao-nivel-laser-pendular-giratorio-linhas-vermelhas",
+    "categoria": "medicao",
+    "categoriaNome": "Medição",
+    "linha": "Medição",
+    "tagline": "Nível a laser pendular giratório vermelho com 5 linhas",
+    "descricao": "Nível a Laser Pendular Giratório Cortag, desenvolvido para aplicações que exigem alta precisão e amplitude de marcação. Projeta 5 linhas de laser - 4 verticais, 1 horizontal e ponto de prumo - formando cruzamentos que facilitam o nivelamento e o alinhamento em qualquer direção. Conta com sistema de autonivelamento ±3°, alerta sonoro e linha pulsante quando fora de nível, além de base rotativa com graduação 360° e botão de ajuste fino. Possui pés ajustáveis para nivelamento do equipamento e acompanha maleta rígida e adaptador para energia elétrica.",
+    "destaques": [
+      "5 linhas de laser: 4 verticais, 1 horizontal e ponto de prumo",
+      "Autonivelamento ±3° com alerta sonoro",
+      "Acompanha maleta rígida e adaptador para energia elétrica"
+    ],
+    "imagem": "images/medicao/nivel-laser-pendular-giratorio-linhas-vermelhas.jpg",
+    "colunas": [
+      "Modelo",
+      "Cor",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "cor",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "NLGT",
+        "cor": "Vermelho",
+        "embalagem": "1",
+        "ean": "7897451414455",
+        "codigo": "61445"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "109 (impressa 216-217)"
+    }
+  },
+  {
+    "id": "medicao-nivel-laser-verde-pendular",
+    "categoria": "medicao",
+    "categoriaNome": "Medição",
+    "linha": "Medição",
+    "tagline": "Nível a laser pendular verde com alcance de 20 metros",
+    "descricao": "Nível a Laser Pendular Cortag - Linha Verde, projetado para garantir máxima precisão e praticidade em nivelamentos e alinhamentos horizontais e verticais. Possui duas linhas de laser (1 vertical e 1 horizontal) com cruzamento central, sistema de autonivelamento ±3° e aviso pulsante fora de nível. Conta com indicador de carga da bateria e nível de centro para posicionamento rápido e exato. Com alcance de até 20 m e precisão de ±0,2 mm/m, é ideal para obras e instalações profissionais. Acompanha maleta rígida, bateria de íons de lítio e carregador com conector tipo C.",
+    "destaques": [
+      "Duas linhas de laser verde com cruzamento central",
+      "Autonivelamento ±3° com aviso pulsante fora de nível",
+      "Acompanha maleta rígida, bateria de íons de lítio e carregador USB-C"
+    ],
+    "imagem": "images/medicao/nivel-laser-verde-pendular.jpg",
+    "colunas": [
+      "Modelo",
+      "Cor",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "cor",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "NLC818",
+        "cor": "Verde",
+        "embalagem": "1",
+        "ean": "7897451428186",
+        "codigo": "62818"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "109 (impressa 216-217)"
+    }
+  },
+  {
+    "id": "medicao-nivel-laser-pendular-linhas-vermelhas",
+    "categoria": "medicao",
+    "categoriaNome": "Medição",
+    "linha": "Medição",
+    "tagline": "Nível a laser pendular vermelho com alcance de 15 metros",
+    "descricao": "Nível a Laser Pendular Cortag - Linha Vermelha, projetado para medições de alta precisão em nivelamentos e alinhamentos verticais e horizontais. Possui duas linhas de laser (1 vertical e 1 horizontal) com cruzamento central e sistema de autonivelamento de ±3°, que emite linha pulsante quando fora de nível. O equipamento inclui nível de centro, indicador de carga das pilhas e alcance aproximado de 15 m, dependendo da luminosidade do ambiente. Ideal para obras, instalações e acabamentos com precisão e eficiência.",
+    "destaques": [
+      "Duas linhas de laser vermelho com cruzamento central",
+      "Autonivelamento ±3° com linha pulsante fora de nível",
+      "Alcance aproximado de até 15 metros"
+    ],
+    "imagem": "images/medicao/nivel-laser-pendular-linhas-vermelhas.jpg",
+    "colunas": [
+      "Modelo",
+      "Cor",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "cor",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "NLFX",
+        "cor": "Vermelho",
+        "embalagem": "1",
+        "ean": "7897451414448",
+        "codigo": "61444"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "109 (impressa 216-217)"
+    }
+  },
+  {
+    "id": "medicao-nivel-laser-compacto-com-tripe-e-maleta",
+    "categoria": "medicao",
+    "categoriaNome": "Medição",
+    "linha": "Medição",
+    "tagline": "Nível a laser verde compacto com tripé e maleta reforçada",
+    "descricao": "Nível Laser Verde Compacto com Tripé e Maleta Cortag, desenvolvido para proporcionar precisão e praticidade em aplicações diárias. Com feixes de alta visibilidade, alinhamento rápido e tripé ajustável, garante eficiência em diversos tipos de obra e facilidade no transporte, graças à maleta reforçada.",
+    "destaques": [
+      "Feixes de laser verde de alta visibilidade",
+      "Tripé ajustável incluso",
+      "Maleta reforçada para transporte"
+    ],
+    "imagem": "images/medicao/nivel-laser-compacto-com-tripe-e-maleta.jpg",
+    "colunas": [
+      "Descrição",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "descricao",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Nível laser verde compacto com tripé e maleta",
+        "embalagem": "1",
+        "ean": "7897451430738",
+        "codigo": "63073"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "109 (impressa 216-217)"
+    }
+  },
+  {
+    "id": "medicao-nivel-laser-compacto",
+    "categoria": "medicao",
+    "categoriaNome": "Medição",
+    "linha": "Medição",
+    "tagline": "Nível a laser verde compacto para nivelamentos e alinhamentos",
+    "descricao": "Nível a Laser Cortag - Linha Verde, desenvolvido para oferecer precisão e praticidade em nivelamentos e alinhamentos verticais e horizontais. Possui duas linhas de laser (1 vertical e 1 horizontal), formando cruzamento central para medições rápidas e eficientes. O sistema de autonivelamento de ±4° indica com linha pulsante quando está fora de nível, garantindo maior segurança e confiabilidade. Compacto, leve e com alcance de até 15 m, é ideal para obras, instalações e acabamentos.",
+    "destaques": [
+      "Duas linhas de laser verde com cruzamento central",
+      "Autonivelamento ±4° com linha pulsante fora de nível",
+      "Compacto e leve, alcance de até 15 metros"
+    ],
+    "imagem": "images/medicao/nivel-laser-compacto.jpg",
+    "colunas": [
+      "Modelo",
+      "Cor",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "cor",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "NLC816",
+        "cor": "Verde",
+        "embalagem": "1",
+        "ean": "7897451428162",
+        "codigo": "62816"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "110 (impressa 218-219)"
+    }
+  },
+  {
+    "id": "medicao-nivel-laser-compacto-linhas-vermelhas",
+    "categoria": "medicao",
+    "categoriaNome": "Medição",
+    "linha": "Medição",
+    "tagline": "Nível a laser vermelho compacto para uso em alinhamento",
+    "descricao": "Nível a Laser Cortag - Linha Vermelha, desenvolvido para oferecer praticidade e precisão em nivelamentos e alinhamentos verticais e horizontais. Compacto e leve, é ideal para uso em obras, instalações e acabamentos. Possui sistema de autonivelamento de ±4°, alcance de até 15 m (dependendo das condições de luminosidade) e precisão de ±1 mm a cada 5 m. Alimentado por 2 pilhas AA (não inclusas), é a ferramenta ideal para medições rápidas, seguras e eficientes.",
+    "destaques": [
+      "Duas linhas de laser vermelho com cruzamento central",
+      "Compacto, preciso e fácil de usar",
+      "Autonivelamento ±4°, alimentado por 2 pilhas AA (não inclusas)"
+    ],
+    "imagem": "images/medicao/nivel-laser-compacto-linhas-vermelhas.jpg",
+    "colunas": [
+      "Modelo",
+      "Cor",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "cor",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "NLCP",
+        "cor": "Vermelho",
+        "embalagem": "1",
+        "ean": "7897451417470",
+        "codigo": "61747"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "110 (impressa 218-219)"
+    }
+  },
+  {
+    "id": "medicao-receptor-para-nivel-laser",
+    "categoria": "medicao",
+    "categoriaNome": "Medição",
+    "linha": "Medição",
+    "tagline": "Receptor para nível a laser em grandes áreas",
+    "descricao": "Receptor para Nível Laser Cortag, desenvolvido para oferecer medições precisas e facilitar o nivelamento em superfícies amplas. Possui corpo em alumínio leve e resistente, com escala de medidas presente em ambos os lados para melhor visibilidade durante o uso. Ideal para obras, instalações e medições em campo, garante eficiência e praticidade em conjunto com níveis a laser da linha Cortag.",
+    "destaques": [
+      "Corpo em alumínio leve e resistente",
+      "Escala de medidas em ambos os lados",
+      "Ideal para nivelamento de grandes áreas"
+    ],
+    "imagem": "images/medicao/receptor-para-nivel-laser.jpg",
+    "colunas": [
+      "Modelo",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "RLC845",
+        "embalagem": "10",
+        "ean": "7897451428452",
+        "dun": "17897451428459",
+        "codigo": "62845"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "110 (impressa 218-219)"
+    }
+  },
+  {
+    "id": "medicao-tripe-tra-500",
+    "categoria": "medicao",
+    "categoriaNome": "Medição",
+    "linha": "Medição",
+    "tagline": "Tripé em alumínio para níveis a laser",
+    "descricao": "Tripé para Nível a Laser Cortag TRA-500, desenvolvido para proporcionar estabilidade e praticidade durante medições e nivelamentos com equipamentos a laser. Fabricado em alumínio, possui pés ajustáveis com trava e regulagem telescópica, permitindo adaptação a diferentes alturas e superfícies. A base com rosca de 5/8\" garante encaixe seguro e compatibilidade com a maioria dos níveis do mercado. Acompanha bolsa para transporte e adaptador de redução de rosca de 5/8\" para 1/4\".",
+    "destaques": [
+      "Pés ajustáveis com trava e regulagem telescópica",
+      "Base com rosca de 5/8\" compatível com a maioria dos níveis",
+      "Acompanha bolsa para transporte e adaptador de rosca 5/8\" para 1/4\""
+    ],
+    "imagem": "images/medicao/tripe-tra-500.jpg",
+    "colunas": [
+      "Descrição",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "descricao",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Tripé TRA-500",
+        "embalagem": "1",
+        "ean": "7897451414462",
+        "codigo": "61446"
+      },
+      {
+        "descricao": "Adaptador para redução da rosca de 5/8\" para 1/4\"",
+        "embalagem": "1",
+        "ean": "-",
+        "codigo": "60647"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "110 (impressa 218-219)"
+    }
+  },
+  {
+    "id": "medicao-trenas-corpo-em-abs",
+    "categoria": "medicao",
+    "categoriaNome": "Medição",
+    "linha": "Medição",
+    "tagline": "Trenas com corpo em ABS para medições rápidas no dia a dia",
+    "descricao": "A Trena com Corpo em ABS Cortag é ideal para medições rápidas e precisas em obras, reformas e instalações. Possui corpo em ABS resistente a impactos e fita de aço com revestimento protetor, garantindo maior durabilidade. Conta com trava deslizante para fixação da fita durante a medição, clip para cinto e alça de nylon para transporte seguro. Disponível em versões de 3 m e 5 m, com fitas de 16 mm e 25 mm de largura, oferece excelente manuseio e desempenho no uso profissional.",
+    "destaques": [
+      "Corpo em ABS resistente a impactos",
+      "Trava deslizante, clip para cinto e alça de nylon",
+      "Disponível em 3 m, 5 m e 8 m, com fitas de 16 mm ou 25 mm"
+    ],
+    "imagem": "images/medicao/trenas-corpo-em-abs.jpg",
+    "colunas": [
+      "Modelo",
+      "Largura da Fita",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "largura",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "ABS 3 m",
+        "largura": "16 mm",
+        "embalagem": "Blister",
+        "ean": "7897451422412",
+        "dun": "17897451422419",
+        "codigo": "62241"
+      },
+      {
+        "modelo": "ABS 5 m",
+        "largura": "19 mm",
+        "embalagem": "Blister",
+        "ean": "7897451422429",
+        "dun": "17897451422426",
+        "codigo": "62242"
+      },
+      {
+        "modelo": "ABS 5 m",
+        "largura": "25 mm",
+        "embalagem": "Blister",
+        "ean": "7897451428759",
+        "dun": "17897451428756",
+        "codigo": "62875"
+      },
+      {
+        "modelo": "ABS 8 m",
+        "largura": "25 mm",
+        "embalagem": "Blister",
+        "ean": "7897451422436",
+        "dun": "17897451422433",
+        "codigo": "62243"
+      },
+      {
+        "modelo": "ABS 3 m - Caixa display com 6",
+        "largura": "16 mm",
+        "embalagem": "Caixa display",
+        "ean": "7897451422443",
+        "dun": "17897451422440",
+        "codigo": "62244"
+      },
+      {
+        "modelo": "ABS 5 m - Caixa display com 6",
+        "largura": "19 mm",
+        "embalagem": "Caixa display",
+        "ean": "7897451422450",
+        "dun": "17897451422457",
+        "codigo": "62245"
+      },
+      {
+        "modelo": "ABS 5 m - Caixa display com 6",
+        "largura": "25 mm",
+        "embalagem": "Caixa display",
+        "ean": "7897451428766",
+        "dun": "17897451428763",
+        "codigo": "62876"
+      },
+      {
+        "modelo": "ABS 8 m - Caixa display com 6",
+        "largura": "25 mm",
+        "embalagem": "Caixa display",
+        "ean": "7897451422467",
+        "dun": "17897451422464",
+        "codigo": "62246"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "111 (impressa 220-221)"
+    }
+  },
+  {
+    "id": "medicao-trenas-corpo-em-abs-com-borracha",
+    "categoria": "medicao",
+    "categoriaNome": "Medição",
+    "linha": "Medição",
+    "tagline": "Trenas emborrachadas com revestimento de proteção contra impactos",
+    "descricao": "A Trena em ABS Emborrachada Cortag foi desenvolvida para oferecer durabilidade e conforto durante o uso. Possui corpo em ABS com revestimento em borracha, que garante maior resistência a impactos e melhor pegada. A fita com pintura fosca antirreflexo, com medidas em centímetros e polegadas, facilita a leitura mesmo em ambientes externos. Conta ainda com gancho autoajustável para medições internas e externas mais precisas, ponto de dobra da fita para maior alcance e botão deslizante de travamento, que torna o uso mais rápido e seguro.",
+    "destaques": [
+      "Corpo em ABS com revestimento em borracha",
+      "Fita com pintura fosca antirreflexo",
+      "Gancho autoajustável e botão deslizante de travamento"
+    ],
+    "imagem": "images/medicao/trenas-corpo-em-abs-com-borracha.jpg",
+    "colunas": [
+      "Modelo",
+      "Largura da Fita",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "largura",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Emborrachada 3 m",
+        "largura": "16 mm",
+        "embalagem": "Blister",
+        "ean": "7897451462647",
+        "dun": "17897451462644",
+        "codigo": "60264"
+      },
+      {
+        "modelo": "Emborrachada 5 m",
+        "largura": "19 mm",
+        "embalagem": "Blister",
+        "ean": "7897451462654",
+        "dun": "17897451462651",
+        "codigo": "60265"
+      },
+      {
+        "modelo": "Emborrachada 8 m",
+        "largura": "25 mm",
+        "embalagem": "Blister",
+        "ean": "7897451423815",
+        "dun": "17897451423812",
+        "codigo": "62381"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "111 (impressa 220-221)"
+    }
+  },
+  {
+    "id": "medicao-fitas-em-fibra-de-vidro",
+    "categoria": "medicao",
+    "categoriaNome": "Medição",
+    "linha": "Medição",
+    "tagline": "Fitas em fibra de vidro para medições de longa distância",
+    "descricao": "A Fita em Fibra de Vidro Cortag é indicada para medições em obras, topografia, jardinagem e manutenção. Fabricada em fibra de vidro, não conduz eletricidade, garantindo maior segurança ao usuário. Possui empunhadura emborrachada e anatômica que facilita o transporte e o manuseio prolongado. A manivela articulada permite rebobinamento rápido, e o gancho tipo anel assegura medições precisas. A fita é graduada em centímetros e polegadas, com excelente visibilidade e fácil leitura.",
+    "destaques": [
+      "Não conduz eletricidade - maior segurança",
+      "Empunhadura emborrachada e anatômica",
+      "Manivela articulada para rebobinamento rápido"
+    ],
+    "imagem": "images/medicao/fitas-em-fibra-de-vidro.jpg",
+    "colunas": [
+      "Modelo",
+      "Largura da Fita",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "largura",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Fita em fibra de vidro - 20 m",
+        "largura": "13 mm",
+        "embalagem": "Caixa",
+        "ean": "7897451411829",
+        "codigo": "61182"
+      },
+      {
+        "modelo": "Fita em fibra de vidro - 30 m",
+        "largura": "13 mm",
+        "embalagem": "Caixa",
+        "ean": "7897451411836",
+        "codigo": "61183"
+      },
+      {
+        "modelo": "Fita em fibra de vidro - 50 m",
+        "largura": "13 mm",
+        "embalagem": "Caixa",
+        "ean": "7897451411843",
+        "codigo": "61184"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "111 (impressa 220-221)"
+    }
+  },
+  {
+    "id": "medicao-fitas-de-aco",
+    "categoria": "medicao",
+    "categoriaNome": "Medição",
+    "linha": "Medição",
+    "tagline": "Fitas de aço para medições precisas de longa distância",
+    "descricao": "A Fita de Aço Cortag é ideal para medições em obras, topografia, manutenção e outras aplicações que exigem precisão e durabilidade. Seu corpo compacto e anatômico proporciona conforto no manuseio, enquanto a manivela articulada permite rebobinamento rápido e prático. A fita em aço com marcações em centímetros garante alta visibilidade e resistência ao desgaste. O gancho metálico oferece medições precisas e seguras, e o formato ergonômico facilita o uso contínuo em campo.",
+    "destaques": [
+      "Fita em aço com marcações em centímetros",
+      "Manivela articulada para rebobinamento rápido",
+      "Gancho metálico para medições precisas e seguras"
+    ],
+    "imagem": "images/medicao/fitas-de-aco.jpg",
+    "colunas": [
+      "Modelo",
+      "Largura da Fita",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "largura",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Fita de aço - 20 m",
+        "largura": "13 mm",
+        "embalagem": "Caixa",
+        "ean": "7897451411799",
+        "codigo": "61179"
+      },
+      {
+        "modelo": "Fita de aço - 30 m",
+        "largura": "13 mm",
+        "embalagem": "Caixa",
+        "ean": "7897451411805",
+        "codigo": "61180"
+      },
+      {
+        "modelo": "Fita de aço - 50 m",
+        "largura": "13 mm",
+        "embalagem": "Caixa",
+        "ean": "7897451411812",
+        "codigo": "61181"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "111 (impressa 220-221)"
+    }
+  },
+  {
+    "id": "medicao-paquimetro-de-metal-digital",
+    "categoria": "medicao",
+    "categoriaNome": "Medição",
+    "linha": "Medição",
+    "tagline": "Paquímetro digital com leitura instantânea em painel LCD",
+    "descricao": "O Paquímetro Digital Cortag é a solução ideal para quem busca rapidez e exatidão na medição de diâmetros, profundidades e diferenças dimensionais. Com leitura instantânea em painel LCD e estrutura em aço inox, oferece alta durabilidade, confiabilidade e facilidade de uso. Indicado para indústria, mecânica, marcenaria e serviços de manutenção. Acompanha estojo para transporte.",
+    "destaques": [
+      "Leitura instantânea em painel LCD",
+      "Estrutura em aço inox de alta durabilidade",
+      "Acompanha estojo para transporte"
+    ],
+    "imagem": "images/medicao/paquimetro-de-metal-digital.jpg",
+    "colunas": [
+      "Modelo",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Paquímetro Metal Digital 150mm/6\" com Estojo Cortag - PD948",
+        "ean": "7897451429480",
+        "codigo": "62948"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "112 (impressa 222-223)"
+    }
+  },
+  {
+    "id": "medicao-paquimetro-de-metal-analogico",
+    "categoria": "medicao",
+    "categoriaNome": "Medição",
+    "linha": "Medição",
+    "tagline": "Paquímetro analógico em aço carbono de alta precisão",
+    "descricao": "O Paquímetro Metálico Analógico Cortag é indicado para medições externas, internas, de ressaltos e profundidade em aplicações de alta precisão. Fabricado em aço carbono, oferece resistência superior e longa vida útil. Possui graduação em desnível, que evita o desgaste da escala por atrito, garantindo maior confiabilidade nas leituras. Mede de 0 mm a 150 mm, com precisão de 0,02 mm. Acompanha estojo para melhor proteção e transporte.",
+    "destaques": [
+      "Fabricado em aço carbono resistente",
+      "Graduação em desnível evita o desgaste da escala",
+      "Acompanha estojo para proteção e transporte"
+    ],
+    "imagem": "images/medicao/paquimetro-de-metal-analogico.jpg",
+    "colunas": [
+      "Modelo",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Paquímetro Metal Analógico 150mm/6\" com Estojo Cortag - PAC94",
+        "embalagem": "10",
+        "ean": "7897451429497",
+        "codigo": "62949"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "112 (impressa 222-223)"
+    }
+  },
+  {
+    "id": "medicao-paquimetro-plastico",
+    "categoria": "medicao",
+    "categoriaNome": "Medição",
+    "linha": "Medição",
+    "tagline": "Paquímetro plástico leve para medições simples do dia a dia",
+    "descricao": "O Paquímetro Plástico Cortag é indicado para medições externas, internas, de ressalto e de profundidade em atividades de marcenaria, eletrônica, hobby e manutenção. Fabricado em plástico de alta resistência, é leve, fácil de manusear e ideal para medições simples e cotidianas. Possui escala de 0 mm a 150 mm, com precisão de 0,05 mm, oferecendo boa leitura e confiabilidade nas medições.",
+    "destaques": [
+      "Plástico de alta resistência, leve e fácil de manusear",
+      "Escala de 0 mm a 150 mm com precisão de 0,05 mm",
+      "Ideal para marcenaria, eletrônica, hobby e manutenção"
+    ],
+    "imagem": "images/medicao/paquimetro-plastico.jpg",
+    "colunas": [
+      "Modelo",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Paquímetro Plástico 150mm / 6\" Cortag - PPC950",
+        "embalagem": "12",
+        "ean": "7897451429503",
+        "dun": "17897451429500",
+        "codigo": "62950"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "112 (impressa 222-223)"
+    }
+  },
+  {
+    "id": "medicao-esquadros",
+    "categoria": "medicao",
+    "categoriaNome": "Medição",
+    "linha": "Medição",
+    "tagline": "Esquadros em aço inox para marcação de ângulos retos e meias-esquadrias",
+    "descricao": "O Esquadro Cortag é indicado para marcação e verificação de ângulos retos (90°) e meias-esquadrias (45°) em etapas de construção, montagem e acabamento. Fabricado com cabo em alumínio e lâmina em aço inox, garante medições precisas, alta durabilidade e resistência à oxidação. Com graduação milimétrica gravada, está disponível nos tamanhos de 250 mm, 300 mm e 350 mm, atendendo às principais necessidades de profissionais da construção e marcenaria.",
+    "destaques": [
+      "Cabo em alumínio e lâmina em aço inox",
+      "Graduação milimétrica gravada",
+      "Disponível em 250 mm, 300 mm e 350 mm"
+    ],
+    "imagem": "images/medicao/esquadros.jpg",
+    "colunas": [
+      "Tipo",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "tipo",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "tipo": "Esquadro 10\" - 250 mm",
+        "embalagem": "6",
+        "ean": "7897451461664",
+        "dun": "17897451461661",
+        "codigo": "60166"
+      },
+      {
+        "tipo": "Esquadro 12\" - 300 mm",
+        "embalagem": "6",
+        "ean": "7897451461671",
+        "dun": "17897451461678",
+        "codigo": "60167"
+      },
+      {
+        "tipo": "Esquadro 14\" - 350 mm",
+        "embalagem": "6",
+        "ean": "7897451461688",
+        "dun": "17897451461685",
+        "codigo": "60168"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "112 (impressa 222-223)"
+    }
+  },
+  {
+    "id": "medicao-esquadro-combinado",
+    "categoria": "medicao",
+    "categoriaNome": "Medição",
+    "linha": "Medição",
+    "tagline": "Esquadro combinado multifuncional com régua em aço inox",
+    "descricao": "O Esquadro Combinado Cortag é indicado para marcação de ângulos retos (90°), meias-esquadrias (45°) e medições de profundidade e altura. Também pode ser utilizado como calibrador, régua e instrumento de traçagem. Possui corpo em alumínio com nível embutido e régua em aço inox de 300 mm, com graduação dupla - milímetro e polegada - garantindo alta precisão em qualquer aplicação. Ideal para carpintaria, marcenaria e uso em obras.",
+    "destaques": [
+      "Corpo em alumínio com nível embutido",
+      "Régua em aço inox de 300 mm com graduação dupla",
+      "Também funciona como calibrador, régua e instrumento de traçagem"
+    ],
+    "imagem": "images/medicao/esquadro-combinado.jpg",
+    "colunas": [
+      "Modelo",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Referência"
+    ],
+    "camposVariante": [
+      "modelo",
+      "embalagem",
+      "ean",
+      "dun",
+      "referencia"
+    ],
+    "variantes": [
+      {
+        "modelo": "Esquadro combinado 12\" - 300 mm",
+        "embalagem": "6",
+        "ean": "7897451461695",
+        "dun": "17897451461692",
+        "referencia": "60169"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "112 (impressa 222-223)"
+    }
+  },
+  {
+    "id": "medicao-nivel-torpedo-base-magnetica",
+    "categoria": "medicao",
+    "categoriaNome": "Medição",
+    "linha": "Medição",
+    "tagline": "Nível torpedo compacto com base magnética",
+    "descricao": "O Nível Torpedo com Base Magnética Cortag é ideal para verificar o nivelamento de paredes, pisos, superfícies e estruturas diversas. Sua base magnética permite fixação em áreas metálicas, facilitando o uso com as mãos livres. Compacto, leve e resistente, é perfeito para obras, manutenção e instalações em geral.",
+    "destaques": [
+      "Base magnética para fixação em áreas metálicas",
+      "Compacto, leve e resistente",
+      "Uso com as mãos livres"
+    ],
+    "imagem": "images/medicao/nivel-torpedo-base-magnetica.jpg",
+    "colunas": [
+      "Tamanho",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "tamanho",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "tamanho": "9\" - 230",
+        "embalagem": "6",
+        "ean": "7897451469233",
+        "dun": "17897451469230",
+        "codigo": "60923"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "113 (impressa 224-225)"
+    }
+  },
+  {
+    "id": "medicao-nivel-de-canto",
+    "categoria": "medicao",
+    "categoriaNome": "Medição",
+    "linha": "Medição",
+    "tagline": "Nível para nivelamento em cantos e áreas de difícil acesso",
+    "descricao": "O Nível de Canto Cortag é indicado para o nivelamento de paredes, pisos e superfícies em locais onde o acesso é limitado. Possui corpo em ABS resistente e fita magnética para fixação em áreas metálicas, proporcionando praticidade no uso. Conta com três bolhas de alta precisão - duas para nivelamento horizontal e uma vertical - garantindo medições exatas em diversos tipos de aplicação. Compacto, leve e funcional, é ideal para acabamentos e instalações detalhadas.",
+    "destaques": [
+      "Corpo em ABS resistente com fita magnética",
+      "Três bolhas de alta precisão",
+      "Ideal para cantos e áreas de difícil acesso"
+    ],
+    "imagem": "images/medicao/nivel-de-canto.jpg",
+    "colunas": [
+      "Tamanho",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "tamanho",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "tamanho": "De canto",
+        "embalagem": "6",
+        "ean": "7897451469226",
+        "dun": "17897451469223",
+        "codigo": "60922"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "113 (impressa 224-225)"
+    }
+  },
+  {
+    "id": "medicao-nivel-aluminio-com-base-magnetica",
+    "categoria": "medicao",
+    "categoriaNome": "Medição",
+    "linha": "Medição",
+    "tagline": "Nível de alumínio com base magnética em diversos tamanhos",
+    "descricao": "O Nível de Alumínio com Base Magnética Cortag é indicado para o nivelamento de paredes, pisos e superfícies diversas na construção civil. Sua estrutura em alumínio com pintura eletrostática oferece leveza, alta durabilidade e resistência ao desgaste. A base magnética permite fixação prática em superfícies metálicas, facilitando o uso com as mãos livres. Possui três bolhas de alta precisão para medições horizontais, verticais e a 45°, garantindo resultados confiáveis em diferentes aplicações.",
+    "destaques": [
+      "Estrutura em alumínio com pintura eletrostática",
+      "Base magnética para fixação em superfícies metálicas",
+      "Três bolhas de precisão: horizontal, vertical e 45°"
+    ],
+    "imagem": "images/medicao/nivel-aluminio-com-base-magnetica.jpg",
+    "colunas": [
+      "Tamanho",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "tamanho",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "tamanho": "Base magnética - 16\"",
+        "embalagem": "6",
+        "ean": "7897451469158",
+        "dun": "17897451469155",
+        "codigo": "60915"
+      },
+      {
+        "tamanho": "Base magnética - 18\"",
+        "embalagem": "6",
+        "ean": "7897451469165",
+        "dun": "17897451469162",
+        "codigo": "60916"
+      },
+      {
+        "tamanho": "Base magnética - 20\"",
+        "embalagem": "6",
+        "ean": "7897451469240",
+        "dun": "17897451469247",
+        "codigo": "60924"
+      },
+      {
+        "tamanho": "Base magnética - 24\"",
+        "embalagem": "6",
+        "ean": "7897451469172",
+        "dun": "17897451469179",
+        "codigo": "60917"
+      },
+      {
+        "tamanho": "Base magnética - 30\"",
+        "embalagem": "6",
+        "ean": "7897451469189",
+        "dun": "17897451469186",
+        "codigo": "60918"
+      },
+      {
+        "tamanho": "Base magnética - 35\"",
+        "embalagem": "6",
+        "ean": "7897451469196",
+        "dun": "17897451469193",
+        "codigo": "60919"
+      },
+      {
+        "tamanho": "Base magnética - 40\"",
+        "embalagem": "6",
+        "ean": "7897451469202",
+        "dun": "17897451469209",
+        "codigo": "60920"
+      },
+      {
+        "tamanho": "Base magnética - 47\"",
+        "embalagem": "6",
+        "ean": "7897451469219",
+        "dun": "17897451469216",
+        "codigo": "60921"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "113 (impressa 224-225)"
+    }
+  },
+  {
+    "id": "medicao-nivel-de-aluminio",
+    "categoria": "medicao",
+    "categoriaNome": "Medição",
+    "linha": "Medição",
+    "tagline": "Nível de alumínio para nivelamento em qualquer superfície",
+    "descricao": "O Nível de Alumínio Cortag é indicado para verificar o nivelamento de paredes, pisos e superfícies em geral. Possui estrutura em alumínio com pintura eletrostática, garantindo leveza, durabilidade e resistência ao uso diário. Conta com 3 bolhas de nível para medições horizontal, vertical e em 45°, oferecendo mais precisão e versatilidade durante o trabalho.",
+    "destaques": [
+      "Estrutura em alumínio com pintura eletrostática",
+      "3 bolhas de nível: horizontal, vertical e 45°",
+      "Disponível em diversos tamanhos, de 14\" a 47\""
+    ],
+    "imagem": "images/medicao/nivel-de-aluminio.jpg",
+    "colunas": [
+      "Tamanho",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "tamanho",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "tamanho": "Alumínio - 14\" - 350 mm",
+        "embalagem": "6",
+        "ean": "7897451462388",
+        "dun": "17897451462385",
+        "codigo": "60238"
+      },
+      {
+        "tamanho": "Alumínio - 16\" - 400 mm",
+        "embalagem": "6",
+        "ean": "7897451462395",
+        "dun": "17897451462392",
+        "codigo": "60239"
+      },
+      {
+        "tamanho": "Alumínio - 18\" - 460 mm",
+        "embalagem": "6",
+        "ean": "7897451462401",
+        "dun": "17897451462408",
+        "codigo": "60240"
+      },
+      {
+        "tamanho": "Alumínio - 20\" - 500 mm",
+        "embalagem": "6",
+        "ean": "7897451462418",
+        "dun": "17897451462415",
+        "codigo": "60241"
+      },
+      {
+        "tamanho": "Alumínio - 24\" - 600 mm",
+        "embalagem": "6",
+        "ean": "7897451462425",
+        "dun": "17897451462422",
+        "codigo": "60242"
+      },
+      {
+        "tamanho": "Alumínio - 30\" - 760 mm",
+        "embalagem": "6",
+        "ean": "7897451462432",
+        "dun": "17897451462439",
+        "codigo": "60243"
+      },
+      {
+        "tamanho": "Alumínio - 40\" - 1000 mm",
+        "embalagem": "6",
+        "ean": "7897451469134",
+        "dun": "17897451469131",
+        "codigo": "60913"
+      },
+      {
+        "tamanho": "Alumínio - 47\" - 1200 mm",
+        "embalagem": "6",
+        "ean": "7897451469141",
+        "dun": "17897451469148",
+        "codigo": "60914"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "113 (impressa 224-225)"
+    }
+  },
+  {
+    "id": "medicao-prumos-de-centro",
+    "categoria": "medicao",
+    "categoriaNome": "Medição",
+    "linha": "Medição",
+    "tagline": "Prumo de centro para determinar o centro de pilares",
+    "descricao": "O Prumo de Centro Cortag é utilizado para determinar o centro de pilares e indicar a linha vertical de referência em construções. Fabricado com corpo metálico usinado e base de madeira polida, garante alta precisão e estabilidade durante o uso. Disponível em modelos de 200 g, 300 g, 400 g e 500 g, oferece diferentes opções de peso conforme a aplicação. Ideal para profissionais que exigem exatidão no alinhamento estrutural e na marcação de eixos verticais.",
+    "destaques": [
+      "Corpo metálico usinado e base de madeira polida",
+      "Alta precisão e estabilidade",
+      "Disponível em 200 g, 300 g, 400 g e 500 g"
+    ],
+    "imagem": "images/medicao/prumos-de-centro.jpg",
+    "colunas": [
+      "Tipo",
+      "Modelo",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "tipo",
+      "modelo",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "tipo": "Centro",
+        "modelo": "200 g",
+        "embalagem": "6",
+        "ean": "7897451415933",
+        "dun": "17897451415930",
+        "codigo": "61593"
+      },
+      {
+        "tipo": "Centro",
+        "modelo": "300 g",
+        "embalagem": "6",
+        "ean": "7897451415940",
+        "dun": "17897451415947",
+        "codigo": "61594"
+      },
+      {
+        "tipo": "Centro",
+        "modelo": "400 g",
+        "embalagem": "6",
+        "ean": "7897451415957",
+        "dun": "17897451415954",
+        "codigo": "61595"
+      },
+      {
+        "tipo": "Centro",
+        "modelo": "500 g",
+        "embalagem": "6",
+        "ean": "7897451415964",
+        "dun": "17897451415961",
+        "codigo": "61596"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "114 (impressa 226-227)"
+    }
+  },
+  {
+    "id": "medicao-prumos-de-parede",
+    "categoria": "medicao",
+    "categoriaNome": "Medição",
+    "linha": "Medição",
+    "tagline": "Prumo de parede para verificação do alinhamento vertical",
+    "descricao": "O Prumo de Parede Cortag é indicado para verificação do alinhamento vertical de paredes durante a construção e o acabamento. Fabricado com corpo metálico de alta durabilidade e base de madeira polida, oferece estabilidade e precisão nas medições. Disponível em modelos de 500 g, 750 g e 1000 g, o prumo garante desempenho confiável e fácil manuseio em diferentes etapas da obra, do alicerce ao revestimento. Material/composição: corpo em aço carbono zincado e base de apoio em madeira.",
+    "destaques": [
+      "Corpo em aço carbono zincado",
+      "Base de apoio em madeira polida",
+      "Disponível em 500 g, 750 g e 1000 g"
+    ],
+    "imagem": "images/medicao/prumos-de-parede.jpg",
+    "colunas": [
+      "Tipo",
+      "Modelo",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "tipo",
+      "modelo",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "tipo": "Parede",
+        "modelo": "500 g",
+        "embalagem": "6",
+        "ean": "7897451415681",
+        "dun": "17897451415688",
+        "codigo": "61568"
+      },
+      {
+        "tipo": "Parede",
+        "modelo": "750 g",
+        "embalagem": "6",
+        "ean": "7897451462494",
+        "dun": "17897451462491",
+        "codigo": "60249"
+      },
+      {
+        "tipo": "Parede",
+        "modelo": "1000 g",
+        "embalagem": "6",
+        "ean": "7897451415339",
+        "dun": "17897451415336",
+        "codigo": "61533"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "114 (impressa 226-227)"
+    }
+  },
+  {
+    "id": "medicao-carreteis-de-linha-com-giz",
+    "categoria": "medicao",
+    "categoriaNome": "Medição",
+    "linha": "Medição",
+    "tagline": "Carretel de linha com giz para marcações em paredes e drywall",
+    "descricao": "O Carretel de Linha com Giz Cortag foi desenvolvido para demarcações rápidas e precisas em paredes, gesso e drywall, auxiliando em trabalhos de nivelamento, pintura e aplicação de revestimentos. Com 30 m de linha resistente e giz colorido de alta aderência, o carretel garante marcação uniforme e duradoura, mesmo em superfícies porosas. Disponível nas versões com giz azul e com giz vermelho, oferece excelente visibilidade conforme o tipo de superfície.",
+    "destaques": [
+      "30 m de linha resistente",
+      "Giz colorido de alta aderência",
+      "Disponível em giz azul e giz vermelho"
+    ],
+    "imagem": "images/medicao/carreteis-de-linha-com-giz.jpg",
+    "colunas": [
+      "Descrição",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "descricao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Carretel de linha 30m com giz azul",
+        "embalagem": "6",
+        "ean": "7897451418095",
+        "dun": "17897451418092",
+        "codigo": "61809"
+      },
+      {
+        "descricao": "Carretel de linha 30m com giz vermelho",
+        "embalagem": "6",
+        "ean": "7897451418101",
+        "dun": "17897451418108",
+        "codigo": "61810"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "114 (impressa 226-227)"
+    }
+  },
+  {
+    "id": "medicao-nivel-de-agua",
+    "categoria": "medicao",
+    "categoriaNome": "Medição",
+    "linha": "Medição",
+    "tagline": "Mangueira de nível em PVC cristal para medições em obras",
+    "descricao": "O Nível de Água Cortag é indicado para medições e nivelamentos em obras de construção civil. Fabricado em PVC cristal de alta transparência, permite visualização clara da coluna d'água, garantindo medições precisas mesmo em longas distâncias. Flexível e resistente, adapta-se facilmente ao manuseio no canteiro de obras, oferecendo durabilidade e desempenho em diferentes condições de uso.",
+    "destaques": [
+      "PVC cristal de alta transparência",
+      "Flexível e resistente para uso no canteiro de obras",
+      "Disponível em comprimentos de 10 m a 50 m"
+    ],
+    "imagem": "images/medicao/nivel-de-agua.jpg",
+    "colunas": [
+      "Comprimento",
+      "Espessura da Parede",
+      "Diâmetro Interno",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "comprimento",
+      "espessura",
+      "diametro",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "comprimento": "10 m",
+        "espessura": "1,3 mm",
+        "diametro": "5/16\" - 8 mm",
+        "embalagem": "6",
+        "ean": "7897451468106",
+        "dun": "17897451468103",
+        "codigo": "60810"
+      },
+      {
+        "comprimento": "15 m",
+        "espessura": "1,3 mm",
+        "diametro": "5/16\" - 8 mm",
+        "embalagem": "6",
+        "ean": "7897451468205",
+        "dun": "17897451468202",
+        "codigo": "60820"
+      },
+      {
+        "comprimento": "20 m",
+        "espessura": "1,3 mm",
+        "diametro": "5/16\" - 8 mm",
+        "embalagem": "6",
+        "ean": "7897451468304",
+        "dun": "17897451468301",
+        "codigo": "60830"
+      },
+      {
+        "comprimento": "50 m",
+        "espessura": "1,3 mm",
+        "diametro": "5/16\" - 8 mm",
+        "embalagem": "6",
+        "ean": "7897451468298",
+        "dun": "17897451468295",
+        "codigo": "60829"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "114 (impressa 226-227)"
+    }
+  },
+  {
+    "id": "medicao-linha-de-pedreiro",
+    "categoria": "medicao",
+    "categoriaNome": "Medição",
+    "linha": "Medição",
+    "tagline": "Linha de polietileno para nivelamento e alinhamento de alvenaria",
+    "descricao": "A Linha para Pedreiro Cortag é indicada para nivelamento e alinhamento de paredes, pisos e revestimentos na construção civil. Fabricada em polietileno trançado de alta resistência, mantém a tensão e estabilidade durante o uso, garantindo precisão no controle das fiadas de tijolos e nas medições entre pontos distintos. Disponível em rolos de 50 m e 100 m, é ideal para uso profissional e oferece excelente durabilidade mesmo sob exposição e tração contínua.",
+    "destaques": [
+      "Polietileno trançado de alta resistência",
+      "Mantém tensão e estabilidade durante o uso",
+      "Disponível em rolos de 50 m e 100 m"
+    ],
+    "imagem": "images/medicao/linha-de-pedreiro.jpg",
+    "colunas": [
+      "Metros",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "metros",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "metros": "50 m",
+        "embalagem": "12",
+        "ean": "7897451466119",
+        "dun": "17897451466116",
+        "codigo": "60611"
+      },
+      {
+        "metros": "100 m",
+        "embalagem": "12",
+        "ean": "7897451466126",
+        "dun": "17897451466123",
+        "codigo": "60612"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "114 (impressa 226-227)"
+    }
   }
 ]
