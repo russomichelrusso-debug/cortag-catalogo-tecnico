@@ -21437,5 +21437,466 @@
       "arquivo": "Catálago Livro 2026.pdf",
       "pagina": "99 (impressa 196-197)"
     }
+  },
+  {
+    "id": "colheres-cabo-emborrachado-soldada-envernizada",
+    "categoria": "colheres-pedreiro",
+    "categoriaNome": "Colheres de Pedreiro",
+    "linha": "Colheres de Pedreiro",
+    "tagline": "Colher de pedreiro com cabo emborrachado para uso profissional contínuo",
+    "descricao": "Colher para Pedreiro Cortag projetada para assentamento de tijolos, aplicação de argamassa, chapisco e reboco em serviços de alvenaria. Disponível nos formatos Oval e Reto, oferece excelente equilíbrio, precisão e conforto durante o uso.",
+    "destaques": [
+      "Lâmina em aço carbono soldada e envernizada",
+      "Cabo em dupla injeção de polipropileno e borracha",
+      "Alta durabilidade e resistência à corrosão"
+    ],
+    "imagem": "images/colheres-pedreiro/colher-cabo-emborrachado-soldada-envernizada.jpg",
+    "colunas": [
+      "Tamanho",
+      "Formato",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "tamanho",
+      "formato",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "tamanho": "7\" - 180 mm",
+        "formato": "Oval",
+        "embalagem": "6",
+        "ean": "7897451401608",
+        "dun": "17897451401605",
+        "codigo": "60160"
+      },
+      {
+        "tamanho": "8\" - 200 mm",
+        "formato": "Oval",
+        "embalagem": "6",
+        "ean": "7897451401622",
+        "dun": "17897451401629",
+        "codigo": "60162"
+      },
+      {
+        "tamanho": "9\" - 230 mm",
+        "formato": "Oval",
+        "embalagem": "6",
+        "ean": "7897451401639",
+        "dun": "17897451401636",
+        "codigo": "60163"
+      },
+      {
+        "tamanho": "10\" - 250 mm",
+        "formato": "Oval",
+        "embalagem": "6",
+        "ean": "7897451402568",
+        "dun": "17897451402565",
+        "codigo": "60256"
+      },
+      {
+        "tamanho": "7\" - 180 mm",
+        "formato": "Reta",
+        "embalagem": "6",
+        "ean": "7897451406511",
+        "dun": "17897451406518",
+        "codigo": "60651"
+      },
+      {
+        "tamanho": "8\" - 200 mm",
+        "formato": "Reta",
+        "embalagem": "6",
+        "ean": "7897451406719",
+        "dun": "17897451406716",
+        "codigo": "60671"
+      },
+      {
+        "tamanho": "9\" - 230 mm",
+        "formato": "Reta",
+        "embalagem": "6",
+        "ean": "7897451407020",
+        "dun": "17897451407027",
+        "codigo": "60702"
+      },
+      {
+        "tamanho": "10\" - 250 mm",
+        "formato": "Reta",
+        "embalagem": "6",
+        "ean": "7897451407075",
+        "dun": "17897451407072",
+        "codigo": "60707"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "101 (impressa 200-201)"
+    }
+  },
+  {
+    "id": "colheres-cabo-madeira-soldada-pintada",
+    "categoria": "colheres-pedreiro",
+    "categoriaNome": "Colheres de Pedreiro",
+    "linha": "Colheres de Pedreiro",
+    "tagline": "Colher de pedreiro com cabo de madeira para serviços de alvenaria profissional",
+    "descricao": "Colher para Pedreiro Cortag – Cabo de Madeira Soldada Pintada, ideal para o assentamento de tijolos, aplicação de argamassa, chapisco e reboco em obras de alvenaria. Fabricada com lâmina em aço carbono especial, com acabamento em pintura eletrostática que confere resistência à corrosão e durabilidade superior.",
+    "destaques": [
+      "Lâmina em aço carbono com pintura eletrostática",
+      "Cabo de madeira envernizada para empunhadura firme",
+      "Tradição e precisão para uso profissional"
+    ],
+    "imagem": "images/colheres-pedreiro/colher-cabo-madeira-soldada-pintada.jpg",
+    "colunas": [
+      "Tamanho",
+      "Formato",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "tamanho",
+      "formato",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "tamanho": "7\" - 180 mm",
+        "formato": "Oval",
+        "embalagem": "6",
+        "ean": "7897451407457",
+        "dun": "17897451407454",
+        "codigo": "60745"
+      },
+      {
+        "tamanho": "8\" - 200 mm",
+        "formato": "Oval",
+        "embalagem": "6",
+        "ean": "7897451407464",
+        "dun": "17897451407461",
+        "codigo": "60746"
+      },
+      {
+        "tamanho": "9\" - 230 mm",
+        "formato": "Oval",
+        "embalagem": "6",
+        "ean": "7897451407501",
+        "dun": "17897451407508",
+        "codigo": "60750"
+      },
+      {
+        "tamanho": "10\" - 250 mm",
+        "formato": "Oval",
+        "embalagem": "6",
+        "ean": "7897451407778",
+        "dun": "17897451407775",
+        "codigo": "60777"
+      },
+      {
+        "tamanho": "7\" - 180 mm",
+        "formato": "Reta",
+        "embalagem": "6",
+        "ean": "7897451407167",
+        "dun": "17897451407164",
+        "codigo": "60716"
+      },
+      {
+        "tamanho": "8\" - 200 mm",
+        "formato": "Reta",
+        "embalagem": "6",
+        "ean": "7897451418606",
+        "dun": "17897451418603",
+        "codigo": "61860"
+      },
+      {
+        "tamanho": "9\" - 230 mm",
+        "formato": "Reta",
+        "embalagem": "6",
+        "ean": "7897451407204",
+        "dun": "17897451407201",
+        "codigo": "60720"
+      },
+      {
+        "tamanho": "10\" - 250 mm",
+        "formato": "Reta",
+        "embalagem": "6",
+        "ean": "7897451407211",
+        "dun": "17897451407218",
+        "codigo": "60721"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "101 (impressa 200-201)"
+    }
+  },
+  {
+    "id": "colheres-cabo-plastico-soldada-pintada",
+    "categoria": "colheres-pedreiro",
+    "categoriaNome": "Colheres de Pedreiro",
+    "linha": "Colheres de Pedreiro",
+    "tagline": "Colher de pedreiro leve com cabo plástico reforçado",
+    "descricao": "Colher para Pedreiro Cortag – Cabo Plástico Soldada Pintada, indicada para o assentamento de tijolos, preparo e aplicação de argamassas, chapisco e reboco em serviços de alvenaria. Cabo plástico leve com reforço na ponta oferece maior resistência e durabilidade, enquanto o corpo mais leve melhora a ergonomia e reduz o esforço durante o uso prolongado.",
+    "destaques": [
+      "Cabo plástico leve com reforço na ponta",
+      "Disponível nos formatos Oval e Reto",
+      "Ferramenta versátil e prática para o canteiro de obras"
+    ],
+    "imagem": "images/colheres-pedreiro/colher-cabo-plastico-soldada-pintada.jpg",
+    "colunas": [
+      "Tamanho",
+      "Formato",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "tamanho",
+      "formato",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "tamanho": "7\" - 180 mm",
+        "formato": "Oval",
+        "embalagem": "6",
+        "ean": "7897451425352",
+        "dun": "17897451425359",
+        "codigo": "62535"
+      },
+      {
+        "tamanho": "8\" - 200 mm",
+        "formato": "Oval",
+        "embalagem": "6",
+        "ean": "7897451425369",
+        "dun": "17897451425366",
+        "codigo": "62536"
+      },
+      {
+        "tamanho": "9\" - 230 mm",
+        "formato": "Oval",
+        "embalagem": "6",
+        "ean": "7897451425376",
+        "dun": "17897451425373",
+        "codigo": "62537"
+      },
+      {
+        "tamanho": "10\" - 250 mm",
+        "formato": "Oval",
+        "embalagem": "6",
+        "ean": "7897451426458",
+        "dun": "17897451426455",
+        "codigo": "62645"
+      },
+      {
+        "tamanho": "7\" - 180 mm",
+        "formato": "Reta",
+        "embalagem": "6",
+        "ean": "7897451425383",
+        "dun": "17897451425380",
+        "codigo": "62538"
+      },
+      {
+        "tamanho": "8\" - 200 mm",
+        "formato": "Reta",
+        "embalagem": "6",
+        "ean": "7897451425390",
+        "dun": "17897451425397",
+        "codigo": "62539"
+      },
+      {
+        "tamanho": "9\" - 230 mm",
+        "formato": "Reta",
+        "embalagem": "6",
+        "ean": "7897451425406",
+        "dun": "17897451425403",
+        "codigo": "62540"
+      },
+      {
+        "tamanho": "10\" - 250 mm",
+        "formato": "Reta",
+        "embalagem": "6",
+        "ean": "7897451426465",
+        "dun": "17897451426462",
+        "codigo": "62646"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "102 (impressa 202-203)"
+    }
+  },
+  {
+    "id": "colheres-azulejista-cabo-emborrachado",
+    "categoria": "colheres-pedreiro",
+    "categoriaNome": "Colheres de Pedreiro",
+    "linha": "Colheres de Pedreiro",
+    "tagline": "Colher para azulejista com lâmina dentada para aplicação em áreas de difícil acesso",
+    "descricao": "Colher para Azulejista Cortag – Cabo Emborrachado, desenvolvida para aplicar argamassa em áreas de difícil acesso, oferecendo excelente ergonomia e precisão durante o trabalho. Produzida com base em aço especial, garante flexibilidade, resistência e maior durabilidade da ferramenta. Disponível em versões Lisa, Dentada 6 x 6 mm, Dentada 6 x 5 mm e Dentada \"V\" 6 x 5 mm, atendendo diferentes necessidades de acabamento.",
+    "destaques": [
+      "Cabo emborrachado ergonômico e confortável",
+      "Base em aço especial flexível e resistente",
+      "Versões Lisa e Dentada para diferentes acabamentos"
+    ],
+    "imagem": "images/colheres-pedreiro/colher-azulejista-cabo-emborrachado.jpg",
+    "colunas": [
+      "Modelo",
+      "Tamanho",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "tamanho",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Lisa",
+        "tamanho": "6\" x 2\"",
+        "embalagem": "6",
+        "ean": "7897451425840",
+        "dun": "17897451425847",
+        "codigo": "62584"
+      },
+      {
+        "modelo": "Lisa",
+        "tamanho": "8\" x 2\"",
+        "embalagem": "6",
+        "ean": "7897451425857",
+        "dun": "17897451425854",
+        "codigo": "62585"
+      },
+      {
+        "modelo": "6 mm x 6 mm",
+        "tamanho": "6\" x 2\"",
+        "embalagem": "6",
+        "ean": "7897451425871",
+        "dun": "17897451425878",
+        "codigo": "62587"
+      },
+      {
+        "modelo": "\"V\" - 6 mm x 5 mm",
+        "tamanho": "6\" x 2\"",
+        "embalagem": "6",
+        "ean": "7897451425901",
+        "dun": "17897451425908",
+        "codigo": "62590"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "102 (impressa 202-203)"
+    }
+  },
+  {
+    "id": "colheres-azulejista-trabalho-pesado",
+    "categoria": "colheres-pedreiro",
+    "categoriaNome": "Colheres de Pedreiro",
+    "linha": "Colheres de Pedreiro",
+    "tagline": "Colher quadrada para manuseio de massas em baldes",
+    "descricao": "Colher para Azulejista Cortag – Trabalho Pesado, indicada para serviços de aplicação de argamassa e manuseio de massas em baldes, facilitando a movimentação e a limpeza durante o uso. Seu cabo emborrachado oferece maior conforto e ergonomia, enquanto a base em aço especial garante flexibilidade e alta durabilidade. O formato quadrado permite espalhar a argamassa com mais rapidez e eficiência, ideal para uso contínuo em ambientes exigentes.",
+    "destaques": [
+      "Formato quadrado para maior rapidez e eficiência",
+      "Base em aço especial de alta durabilidade",
+      "Disponível nas medidas 4\" (110mm) e 5\" (130mm)"
+    ],
+    "imagem": "images/colheres-pedreiro/colher-azulejista-trabalho-pesado.jpg",
+    "colunas": [
+      "Modelo",
+      "Tamanho",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "tamanho",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Trabalho pesado",
+        "tamanho": "4\" - 110 mm",
+        "embalagem": "6",
+        "ean": "7897451425895",
+        "dun": "17897451425892",
+        "codigo": "62589"
+      },
+      {
+        "modelo": "Trabalho pesado",
+        "tamanho": "5\" - 130 mm",
+        "embalagem": "6",
+        "ean": "7897451425864",
+        "dun": "17897451425861",
+        "codigo": "62586"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "102 (impressa 202-203)"
+    }
+  },
+  {
+    "id": "colheres-azulejista-trabalho-leve",
+    "categoria": "colheres-pedreiro",
+    "categoriaNome": "Colheres de Pedreiro",
+    "linha": "Colheres de Pedreiro",
+    "tagline": "Colher redonda para acabamentos finos em alvenaria",
+    "descricao": "Colher para Azulejista Cortag – Trabalhos Leves, indicada para aplicações com massas e argamassas em geral, sendo ideal para profissionais que buscam agilidade e conforto no manuseio. Seu formato redondo facilita a movimentação da massa e a limpeza do balde, otimizando o fluxo de trabalho. Com cabo emborrachado ergonômico e base de aço especial, oferece leveza, durabilidade e excelente controle durante o uso.",
+    "destaques": [
+      "Formato redondo para facilitar movimentação e limpeza",
+      "Cabo emborrachado ergonômico",
+      "Leveza e precisão para acabamentos finos"
+    ],
+    "imagem": "images/colheres-pedreiro/colher-azulejista-trabalho-leve.jpg",
+    "colunas": [
+      "Tamanho",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "tamanho",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "tamanho": "90 mm x 128 mm",
+        "embalagem": "6",
+        "ean": "7897451425604",
+        "dun": "17897451425601",
+        "codigo": "62560"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "102 (impressa 202-203)"
+    }
   }
 ]
