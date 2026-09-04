@@ -19887,5 +19887,1555 @@
       "arquivo": "Catálago Livro 2026.pdf",
       "pagina": "93 (impressa 184)"
     }
+  },
+  {
+    "id": "desempenadeiras-inox-cabo-removivel",
+    "categoria": "desempenadeiras",
+    "categoriaNome": "Desempenadeiras",
+    "linha": "Desempenadeiras",
+    "tagline": "Desempenadeira inox com lâmina de cabo removível",
+    "descricao": "Desempenadeira Inox com Cabo Removível Cortag, com base em aço inox de alta resistência e cabo removível que proporciona mais controle, ergonomia e facilidade de substituição.",
+    "destaques": [
+      "Base em aço inox de alta resistência",
+      "Cabo removível para maior ergonomia",
+      "Kit com 3 lâminas (8mm, 10mm e 12mm)"
+    ],
+    "imagem": "images/desempenadeiras/inox-cabo-removivel.jpg",
+    "colunas": [
+      "Modelo",
+      "Dente",
+      "Tamanho",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "dente",
+      "tamanho",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Dentada com cabo",
+        "dente": "10 mm",
+        "tamanho": "-",
+        "embalagem": "1",
+        "ean": "7897451429329",
+        "dun": "-",
+        "codigo": "62932"
+      },
+      {
+        "modelo": "Dentada com cabo",
+        "dente": "8 mm",
+        "tamanho": "-",
+        "embalagem": "1",
+        "ean": "7897451429343",
+        "dun": "-",
+        "codigo": "62934"
+      },
+      {
+        "modelo": "Dentada com cabo",
+        "dente": "8 mm",
+        "tamanho": "-",
+        "embalagem": "1",
+        "ean": "7897451429367",
+        "dun": "-",
+        "codigo": "62936"
+      },
+      {
+        "modelo": "Dentada Raio 10 com cabo",
+        "dente": "10 mm",
+        "tamanho": "-",
+        "embalagem": "1",
+        "ean": "7897451429381",
+        "dun": "-",
+        "codigo": "62938"
+      },
+      {
+        "modelo": "Lisa com cabo",
+        "dente": "-",
+        "tamanho": "-",
+        "embalagem": "1",
+        "ean": "7897451429404",
+        "dun": "-",
+        "codigo": "62940"
+      },
+      {
+        "modelo": "Dentada sem cabo",
+        "dente": "10 mm",
+        "tamanho": "-",
+        "embalagem": "1",
+        "ean": "7897451429336",
+        "dun": "-",
+        "codigo": "62933"
+      },
+      {
+        "modelo": "Dentada sem cabo",
+        "dente": "8 mm",
+        "tamanho": "-",
+        "embalagem": "1",
+        "ean": "7897451429350",
+        "dun": "-",
+        "codigo": "62935"
+      },
+      {
+        "modelo": "Dentada sem cabo",
+        "dente": "12 mm",
+        "tamanho": "-",
+        "embalagem": "1",
+        "ean": "7897451429374",
+        "dun": "-",
+        "codigo": "62937"
+      },
+      {
+        "modelo": "Dentada Raio 10 sem cabo",
+        "dente": "10 mm",
+        "tamanho": "-",
+        "embalagem": "1",
+        "ean": "7897451429398",
+        "dun": "-",
+        "codigo": "62939"
+      },
+      {
+        "modelo": "Lisa sem cabo",
+        "dente": "-",
+        "tamanho": "-",
+        "embalagem": "1",
+        "ean": "7897451429411",
+        "dun": "-",
+        "codigo": "62941"
+      },
+      {
+        "modelo": "Cabo Removível",
+        "dente": "-",
+        "tamanho": "-",
+        "embalagem": "5",
+        "ean": "7897451429435",
+        "dun": "17897451429432",
+        "codigo": "62943"
+      },
+      {
+        "modelo": "Kit",
+        "dente": "8mm, 10mm e 12mm",
+        "tamanho": "-",
+        "embalagem": "1",
+        "ean": "7897451429428",
+        "dun": "-",
+        "codigo": "62942"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "94 (impressa 186-187)"
+    }
+  },
+  {
+    "id": "desempenadeiras-espatulas",
+    "categoria": "desempenadeiras",
+    "categoriaNome": "Desempenadeiras",
+    "linha": "Desempenadeiras",
+    "tagline": "Espátulas desempenadeira para acabamento em locais de difícil acesso",
+    "descricao": "Espátulas Desempenadeira Cortag com lâmina resistente e cabo de madeira ergonômico, para aplicação de argamassas em pisos, paredes e superfícies diversas.",
+    "destaques": [
+      "Cabo de madeira ergonômico",
+      "Versões Inox e Aço",
+      "Acabamento profissional em locais de difícil acesso"
+    ],
+    "imagem": "images/desempenadeiras/espatulas-desempenadeira.jpg",
+    "colunas": [
+      "Modelo",
+      "Dente",
+      "Tamanho",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "dente",
+      "tamanho",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Inox com Cabo de Madeira",
+        "dente": "10x10mm",
+        "tamanho": "-",
+        "embalagem": "10",
+        "ean": "7897451431469",
+        "dun": "17897451431466",
+        "codigo": "63146"
+      },
+      {
+        "modelo": "Inox com Cabo de Madeira",
+        "dente": "8x8mm",
+        "tamanho": "-",
+        "embalagem": "10",
+        "ean": "7897451431476",
+        "dun": "17897451431473",
+        "codigo": "63147"
+      },
+      {
+        "modelo": "Inox com Cabo de Madeira",
+        "dente": "6x6mm",
+        "tamanho": "-",
+        "embalagem": "10",
+        "ean": "7897451431483",
+        "dun": "17897451431480",
+        "codigo": "63148"
+      },
+      {
+        "modelo": "Inox com Cabo de Madeira",
+        "dente": "3x3mm",
+        "tamanho": "-",
+        "embalagem": "10",
+        "ean": "7897451431490",
+        "dun": "17897451431497",
+        "codigo": "63149"
+      },
+      {
+        "modelo": "Aço com Cabo de Madeira",
+        "dente": "8x8mm",
+        "tamanho": "-",
+        "embalagem": "10",
+        "ean": "7897451429091",
+        "dun": "17897451429098",
+        "codigo": "62909"
+      },
+      {
+        "modelo": "Aço com Cabo de Madeira",
+        "dente": "6x6mm",
+        "tamanho": "-",
+        "embalagem": "10",
+        "ean": "7897451429107",
+        "dun": "17897451429104",
+        "codigo": "62910"
+      },
+      {
+        "modelo": "Aço com Cabo de Madeira",
+        "dente": "3x3mm",
+        "tamanho": "-",
+        "embalagem": "10",
+        "ean": "7897451429114",
+        "dun": "17897451429111",
+        "codigo": "62911"
+      },
+      {
+        "modelo": "Aço com Cabo de Madeira",
+        "dente": "10x10mm",
+        "tamanho": "-",
+        "embalagem": "10",
+        "ean": "7897451429121",
+        "dun": "17897451429128",
+        "codigo": "62912"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "94 (impressa 186-187)"
+    }
+  },
+  {
+    "id": "desempenadeiras-assentamento-pisos",
+    "categoria": "desempenadeiras",
+    "categoriaNome": "Desempenadeiras",
+    "linha": "Desempenadeiras",
+    "tagline": "Desempenadeira para assentamento de grandes formatos",
+    "descricao": "Desempenadeira para Assentamento de Pisos Cortag, desenvolvida para substituir o uso do martelo de borracha durante o assentamento de revestimentos de grandes formatos. Base revestida de borracha distribui a pressão de forma uniforme, evitando danos e garantindo assentamento perfeito.",
+    "destaques": [
+      "Substitui o martelo de borracha",
+      "Base revestida de borracha",
+      "Cabo ergonômico para jornadas prolongadas"
+    ],
+    "imagem": "images/desempenadeiras/desempenadeira-assentamento-pisos.jpg",
+    "colunas": [
+      "Peso",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "peso",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "peso": "2,3 kg",
+        "embalagem": "1",
+        "ean": "7897451428346",
+        "codigo": "62834"
+      },
+      {
+        "peso": "3,6 kg",
+        "embalagem": "1",
+        "ean": "7897451428353",
+        "codigo": "62835"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "94 (impressa 186-187)"
+    }
+  },
+  {
+    "id": "desempenadeiras-aco-inox-cabo-aberto-emborrachado",
+    "categoria": "desempenadeiras",
+    "categoriaNome": "Desempenadeiras",
+    "linha": "Desempenadeiras",
+    "tagline": "Desempenadeira inox com cabo aberto emborrachado",
+    "descricao": "Desempenadeira Dentada de Aço Inoxidável Cortag, projetada para aplicação e nivelamento de argamassas, massas corridas e texturas, com alto desempenho e precisão. Cabo aberto emborrachado com dupla injeção oferece ergonomia e firmeza.",
+    "destaques": [
+      "Lâmina em aço inox de alta resistência",
+      "Cabo aberto emborrachado com dupla injeção",
+      "Resistente à oxidação mesmo sob uso intenso"
+    ],
+    "imagem": "images/desempenadeiras/desempenadeira-aco-inox-cabo-aberto-emborrachado.jpg",
+    "colunas": [
+      "Dente",
+      "Tamanho",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "dente",
+      "tamanho",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "dente": "3 mm x 3 mm",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "6",
+        "ean": "7897451420098",
+        "dun": "17897451420095",
+        "codigo": "62009"
+      },
+      {
+        "dente": "6 mm x 6 mm",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "6",
+        "ean": "7897451420128",
+        "dun": "17897451420125",
+        "codigo": "62012"
+      },
+      {
+        "dente": "8 mm x 8 mm",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "6",
+        "ean": "7897451420968",
+        "dun": "17897451420965",
+        "codigo": "62096"
+      },
+      {
+        "dente": "10 mm x 10 mm",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "6",
+        "ean": "7897451420975",
+        "dun": "17897451420972",
+        "codigo": "62097"
+      },
+      {
+        "dente": "12 mm x 12 mm",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "6",
+        "ean": "7897451420104",
+        "dun": "17897451420101",
+        "codigo": "62010"
+      },
+      {
+        "dente": "6 mm x 10 mm",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "6",
+        "ean": "7897451420111",
+        "dun": "17897451420118",
+        "codigo": "62011"
+      },
+      {
+        "dente": "12 mm x 19 mm",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "6",
+        "ean": "7897451420135",
+        "dun": "17897451420132",
+        "codigo": "62013"
+      },
+      {
+        "dente": "Dentada em \"V\" 6mm x 5mm",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "6",
+        "ean": "7897451420081",
+        "dun": "17897451420088",
+        "codigo": "62008"
+      },
+      {
+        "dente": "Dentada Raio-10 (R-10)",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "6",
+        "ean": "7897451420982",
+        "dun": "17897451420989",
+        "codigo": "62098"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "95 (impressa 188-189)"
+    }
+  },
+  {
+    "id": "desempenadeiras-aco-cabo-aberto-emborrachado",
+    "categoria": "desempenadeiras",
+    "categoriaNome": "Desempenadeiras",
+    "linha": "Desempenadeiras",
+    "tagline": "Desempenadeira de aço com cabo aberto emborrachado",
+    "descricao": "Desempenadeira Dentada de Aço Cortag, desenvolvida para preparo, nivelamento e revestimento de superfícies na aplicação de argamassas, massas corridas e texturas. Cabo aberto emborrachado proporciona conforto e firmeza no manuseio.",
+    "destaques": [
+      "Lâmina em aço carbono resistente",
+      "Cabo aberto emborrachado",
+      "Ideal para assentamento com precisão e acabamento uniforme"
+    ],
+    "imagem": "images/desempenadeiras/desempenadeira-aco-cabo-aberto-emborrachado.jpg",
+    "colunas": [
+      "Dente",
+      "Tamanho",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "dente",
+      "tamanho",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "dente": "3 mm x 3 mm",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "6",
+        "ean": "7897451420999",
+        "dun": "17897451420996",
+        "codigo": "62099"
+      },
+      {
+        "dente": "6 mm x 6 mm",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "6",
+        "ean": "7897451421002",
+        "dun": "17897451421009",
+        "codigo": "62100"
+      },
+      {
+        "dente": "8 mm x 8 mm",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "6",
+        "ean": "7897451421019",
+        "dun": "17897451421016",
+        "codigo": "62101"
+      },
+      {
+        "dente": "10 mm x 10 mm",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "6",
+        "ean": "7897451421026",
+        "dun": "17897451421023",
+        "codigo": "62102"
+      },
+      {
+        "dente": "12 mm x 12 mm",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "6",
+        "ean": "7897451421033",
+        "dun": "17897451421030",
+        "codigo": "62103"
+      },
+      {
+        "dente": "Dentada Raio-10 (R-10)",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "6",
+        "ean": "7897451421040",
+        "dun": "17897451421047",
+        "codigo": "62104"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "95 (impressa 188-189)"
+    }
+  },
+  {
+    "id": "desempenadeiras-aco-inox-efeitos-decorativos",
+    "categoria": "desempenadeiras",
+    "categoriaNome": "Desempenadeiras",
+    "linha": "Desempenadeiras",
+    "tagline": "Desempenadeira inox para efeitos decorativos",
+    "descricao": "Desempenadeira de Aço Inox Cortag para aplicações decorativas de alto padrão, como cimento queimado, marmorato e texturas especiais. Lâmina em aço inoxidável garante resistência à oxidação e acabamento limpo e uniforme.",
+    "destaques": [
+      "Lâmina em aço inoxidável",
+      "Cabo aberto emborrachado com dupla injeção",
+      "Ideal para cimento queimado, marmorato e texturas especiais"
+    ],
+    "imagem": "images/desempenadeiras/desempenadeira-aco-inox-efeitos-decorativos.jpg",
+    "colunas": [
+      "Tamanho",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "tamanho",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "tamanho": "254 mm x 97 mm",
+        "embalagem": "6",
+        "ean": "7897451461350",
+        "dun": "17897451461357",
+        "codigo": "60135"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "96 (impressa 190-191)"
+    }
+  },
+  {
+    "id": "desempenadeiras-especiais-cabo-aberto-emborrachado",
+    "categoria": "desempenadeiras",
+    "categoriaNome": "Desempenadeiras",
+    "linha": "Desempenadeiras",
+    "tagline": "Desempenadeira especial para cordões e sulcos de argamassa",
+    "descricao": "Desempenadeiras Especiais de Aço Cortag, projetadas para criação de cordões e sulcos de argamassa, especialmente indicadas para o assentamento de revestimentos cerâmicos e porcelanatos de grandes formatos. Dente inclinado e dente especial proporcionam melhor ergonomia e menor esforço.",
+    "destaques": [
+      "Dente inclinado e dente especial",
+      "Cabo aberto emborrachado",
+      "Cordões uniformes com aderência total"
+    ],
+    "imagem": "images/desempenadeiras/desempenadeira-especiais-cabo-aberto-emborrachado.jpg",
+    "colunas": [
+      "Modelo",
+      "Tamanho",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "tamanho",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Dente inclinado",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "6",
+        "ean": "7897451426366",
+        "dun": "17897451426363",
+        "codigo": "62636"
+      },
+      {
+        "modelo": "Dente especial",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "12",
+        "ean": "7897451426373",
+        "dun": "17897451426370",
+        "codigo": "62637"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "96 (impressa 190-191)"
+    }
+  },
+  {
+    "id": "desempenadeiras-aco-inox-cabo-emborrachado-fechado",
+    "categoria": "desempenadeiras",
+    "categoriaNome": "Desempenadeiras",
+    "linha": "Desempenadeiras",
+    "tagline": "Desempenadeira inox com cabo fechado emborrachado",
+    "descricao": "Desempenadeira Cortag com cabo fechado emborrachado em aço inox, desenvolvida para melhor conforto, firmeza e precisão no preparo e revestimento de superfícies. A versão em Aço Inox oferece resistência à oxidação e longa durabilidade.",
+    "destaques": [
+      "Lâmina em aço inox",
+      "Cabo fechado emborrachado",
+      "Resistência à oxidação e longa durabilidade"
+    ],
+    "imagem": "images/desempenadeiras/desempenadeira-aco-inox-cabo-emborrachado-fechado.jpg",
+    "colunas": [
+      "Dente",
+      "Tamanho",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "dente",
+      "tamanho",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "dente": "6 mm x 6 mm",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "12",
+        "ean": "7897451417814",
+        "dun": "17897451417811",
+        "codigo": "61781"
+      },
+      {
+        "dente": "8 mm x 8 mm",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "12",
+        "ean": "7897451417821",
+        "dun": "17897451417828",
+        "codigo": "61782"
+      },
+      {
+        "dente": "10 mm x 10 mm",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "12",
+        "ean": "7897451417838",
+        "dun": "17897451417835",
+        "codigo": "61783"
+      },
+      {
+        "dente": "12 mm x 12 mm",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "12",
+        "ean": "7897451417845",
+        "dun": "17897451417842",
+        "codigo": "61784"
+      },
+      {
+        "dente": "6 mm x 10 mm",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "12",
+        "ean": "7897451418293",
+        "dun": "17897451418290",
+        "codigo": "61829"
+      },
+      {
+        "dente": "Lisa",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "12",
+        "ean": "7897451418323",
+        "dun": "17897451418320",
+        "codigo": "61832"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "96 (impressa 190-191)"
+    }
+  },
+  {
+    "id": "desempenadeiras-aco-carbono-cabo-emborrachado-fechado",
+    "categoria": "desempenadeiras",
+    "categoriaNome": "Desempenadeiras",
+    "linha": "Desempenadeiras",
+    "tagline": "Desempenadeira aço carbono com cabo fechado emborrachado",
+    "descricao": "Desempenadeira Cortag com cabo fechado emborrachado em aço carbono, desenvolvida para melhor conforto, firmeza e precisão no preparo e revestimento de superfícies, com excelente custo-benefício e robustez para uso intensivo.",
+    "destaques": [
+      "Lâmina em aço carbono",
+      "Cabo fechado emborrachado",
+      "Excelente custo-benefício para uso intensivo"
+    ],
+    "imagem": "images/desempenadeiras/desempenadeira-aco-carbono-cabo-emborrachado-fechado.jpg",
+    "colunas": [
+      "Dente",
+      "Tamanho",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "dente",
+      "tamanho",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "dente": "6 mm x 6 mm",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "12",
+        "ean": "7897451417777",
+        "dun": "17897451417774",
+        "codigo": "61777"
+      },
+      {
+        "dente": "8 mm x 8 mm",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "12",
+        "ean": "7897451417784",
+        "dun": "17897451417781",
+        "codigo": "61778"
+      },
+      {
+        "dente": "10 mm x 10 mm",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "12",
+        "ean": "7897451417791",
+        "dun": "17897451417798",
+        "codigo": "61779"
+      },
+      {
+        "dente": "12 mm x 12 mm",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "12",
+        "ean": "7897451417807",
+        "dun": "17897451417804",
+        "codigo": "61780"
+      },
+      {
+        "dente": "Lisa",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "12",
+        "ean": "7897451418125",
+        "dun": "17897451418122",
+        "codigo": "61812"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "96 (impressa 190-191)"
+    }
+  },
+  {
+    "id": "desempenadeiras-aco-cabo-aberto-plastico",
+    "categoria": "desempenadeiras",
+    "categoriaNome": "Desempenadeiras",
+    "linha": "Desempenadeiras",
+    "tagline": "Desempenadeira de aço com cabo aberto plástico",
+    "descricao": "Desempenadeiras de Aço Cortag com cabo aberto plástico, desenvolvidas para oferecer resistência, leveza e eficiência em diversas aplicações de acabamento, preparo, nivelamento e revestimento de superfícies.",
+    "destaques": [
+      "Cabo aberto plástico leve e resistente",
+      "Versões Dentada, Lisa e Dentada Raio-10",
+      "Modelo Raio-10 ideal para porcelanatos e grandes formatos"
+    ],
+    "imagem": "images/desempenadeiras/desempenadeira-aco-cabo-aberto-plastico.jpg",
+    "colunas": [
+      "Modelo",
+      "Dente",
+      "Tamanho",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "dente",
+      "tamanho",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Dentada",
+        "dente": "6 mm x 6 mm",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "6",
+        "ean": "7897451421682",
+        "dun": "17897451421689",
+        "codigo": "62168"
+      },
+      {
+        "modelo": "Dentada",
+        "dente": "8 mm x 8 mm",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "6",
+        "ean": "7897451421699",
+        "dun": "17897451421696",
+        "codigo": "62169"
+      },
+      {
+        "modelo": "Dentada",
+        "dente": "10 mm x 10 mm",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "6",
+        "ean": "7897451421705",
+        "dun": "17897451421702",
+        "codigo": "62170"
+      },
+      {
+        "modelo": "Dentada",
+        "dente": "12 mm x 12 mm",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "6",
+        "ean": "7897451421712",
+        "dun": "17897451421719",
+        "codigo": "62171"
+      },
+      {
+        "modelo": "Lisa",
+        "dente": "-",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "6",
+        "ean": "7897451421736",
+        "dun": "17897451421733",
+        "codigo": "62173"
+      },
+      {
+        "modelo": "Dentada Raio-10",
+        "dente": "10 mm",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "6",
+        "ean": "7897451421729",
+        "dun": "17897451421726",
+        "codigo": "62172"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "97 (impressa 192-193)"
+    }
+  },
+  {
+    "id": "desempenadeiras-inox-cabo-plastico-vermelho",
+    "categoria": "desempenadeiras",
+    "categoriaNome": "Desempenadeiras",
+    "linha": "Desempenadeiras",
+    "tagline": "Desempenadeira inox com cabo plástico vermelho removível",
+    "descricao": "Desempenadeira Inox com Cabo Plástico Cortag, desenvolvida para oferecer maior durabilidade, ergonomia e eficiência no acabamento de argamassas, colas e revestimentos. Lâmina em aço inox de alta resistência com cabo removível para máxima ergonomia.",
+    "destaques": [
+      "Lâmina em aço inox de alta resistência",
+      "Cabo removível para máxima ergonomia",
+      "Não retém resíduos - limpeza rápida"
+    ],
+    "imagem": "images/desempenadeiras/desempenadeira-inox-cabo-plastico-vermelho.jpg",
+    "colunas": [
+      "Modelo",
+      "Dente",
+      "Tamanho",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "dente",
+      "tamanho",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Para Pastilha",
+        "dente": "-",
+        "tamanho": "12x26cm",
+        "embalagem": "3",
+        "ean": "7897451431728",
+        "dun": "27897451431722",
+        "codigo": "63172"
+      },
+      {
+        "modelo": "Borda Curva",
+        "dente": "-",
+        "tamanho": "12x26cm",
+        "embalagem": "3",
+        "ean": "7897451431858",
+        "dun": "27897451431852",
+        "codigo": "63185"
+      },
+      {
+        "modelo": "Lisa",
+        "dente": "-",
+        "tamanho": "12x26cm",
+        "embalagem": "3",
+        "ean": "7897451431827",
+        "dun": "27897451431821",
+        "codigo": "63182"
+      },
+      {
+        "modelo": "Dentada",
+        "dente": "10x10mm",
+        "tamanho": "12x26cm",
+        "embalagem": "3",
+        "ean": "7897451431759",
+        "dun": "27897451431753",
+        "codigo": "63175"
+      },
+      {
+        "modelo": "Dentada",
+        "dente": "8x8mm",
+        "tamanho": "12x26cm",
+        "embalagem": "3",
+        "ean": "7897451431742",
+        "dun": "27897451431746",
+        "codigo": "63174"
+      },
+      {
+        "modelo": "Dentada",
+        "dente": "6x6mm",
+        "tamanho": "12x26cm",
+        "embalagem": "3",
+        "ean": "7897451431735",
+        "dun": "27897451431739",
+        "codigo": "63173"
+      },
+      {
+        "modelo": "Dentada",
+        "dente": "10mm",
+        "tamanho": "10x29cm",
+        "embalagem": "3",
+        "ean": "7897451431803",
+        "dun": "27897451431807",
+        "codigo": "63180"
+      },
+      {
+        "modelo": "Dentada",
+        "dente": "10mm",
+        "tamanho": "10x38cm",
+        "embalagem": "3",
+        "ean": "7897451431810",
+        "dun": "27897451431814",
+        "codigo": "63181"
+      },
+      {
+        "modelo": "Dentada",
+        "dente": "12x12mm",
+        "tamanho": "12x38cm",
+        "embalagem": "3",
+        "ean": "7897451431773",
+        "dun": "27897451431777",
+        "codigo": "63177"
+      },
+      {
+        "modelo": "Dentada",
+        "dente": "10x10mm",
+        "tamanho": "12x38cm",
+        "embalagem": "3",
+        "ean": "7897451431766",
+        "dun": "27897451431760",
+        "codigo": "63176"
+      },
+      {
+        "modelo": "Lisa",
+        "dente": "-",
+        "tamanho": "12x38cm",
+        "embalagem": "3",
+        "ean": "7897451431834",
+        "dun": "27897451431838",
+        "codigo": "63183"
+      },
+      {
+        "modelo": "Lisa",
+        "dente": "-",
+        "tamanho": "12x48cm",
+        "embalagem": "3",
+        "ean": "7897451431841",
+        "dun": "27897451431845",
+        "codigo": "63184"
+      },
+      {
+        "modelo": "Dentada",
+        "dente": "12x12mm",
+        "tamanho": "12x48cm",
+        "embalagem": "3",
+        "ean": "7897451431797",
+        "dun": "27897451431791",
+        "codigo": "63179"
+      },
+      {
+        "modelo": "Dentada",
+        "dente": "10x10mm",
+        "tamanho": "12x48cm",
+        "embalagem": "3",
+        "ean": "7897451431780",
+        "dun": "27897451431784",
+        "codigo": "63178"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "97 (impressa 192-193)"
+    }
+  },
+  {
+    "id": "desempenadeiras-aco-cabo-fechado-plastico",
+    "categoria": "desempenadeiras",
+    "categoriaNome": "Desempenadeiras",
+    "linha": "Desempenadeiras",
+    "tagline": "Desempenadeira de aço com cabo fechado plástico",
+    "descricao": "Desempenadeiras de Aço Cortag com cabo fechado plástico, projetadas para oferecer leveza, firmeza e excelente desempenho em diferentes aplicações de preparo e acabamento.",
+    "destaques": [
+      "Cabo fechado plástico leve e firme",
+      "Versões Dentada, Lisa e Dentada Raio-10",
+      "Versão Lisa com bordas curvas para acabamento sem marcas"
+    ],
+    "imagem": "images/desempenadeiras/desempenadeira-aco-cabo-fechado-plastico.jpg",
+    "colunas": [
+      "Modelo",
+      "Dente",
+      "Tamanho",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "dente",
+      "tamanho",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Dentada",
+        "dente": "6 mm x 6 mm",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "12",
+        "ean": "7897451469592",
+        "dun": "17897451469599",
+        "codigo": "60959"
+      },
+      {
+        "modelo": "Dentada",
+        "dente": "8 mm x 8 mm",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "12",
+        "ean": "7897451469585",
+        "dun": "17897451469582",
+        "codigo": "60958"
+      },
+      {
+        "modelo": "Dentada",
+        "dente": "3 mm x 3 mm",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "12",
+        "ean": "7897451465778",
+        "dun": "17897451465775",
+        "codigo": "60577"
+      },
+      {
+        "modelo": "Dentada",
+        "dente": "10 mm x 10 mm",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "12",
+        "ean": "7897451469608",
+        "dun": "17897451469605",
+        "codigo": "60960"
+      },
+      {
+        "modelo": "Dentada",
+        "dente": "10 mm x 10 mm",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "12",
+        "ean": "7897451469981",
+        "dun": "17897451469988",
+        "codigo": "60998"
+      },
+      {
+        "modelo": "Dentada",
+        "dente": "12 mm x 12 mm",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "12",
+        "ean": "7897451413489",
+        "dun": "17897451413486",
+        "codigo": "61348"
+      },
+      {
+        "modelo": "Dentada",
+        "dente": "10 mm x 10 mm",
+        "tamanho": "480 mm x 120 mm",
+        "embalagem": "6",
+        "ean": "7897451469967",
+        "dun": "17897451469964",
+        "codigo": "60996"
+      },
+      {
+        "modelo": "Dentada",
+        "dente": "12 mm x 12 mm",
+        "tamanho": "480 mm x 120 mm",
+        "embalagem": "6",
+        "ean": "7897451413533",
+        "dun": "17897451413530",
+        "codigo": "61353"
+      },
+      {
+        "modelo": "Dentada Raio 10",
+        "dente": "R-10 mm",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "12",
+        "ean": "7897451469615",
+        "dun": "17897451469612",
+        "codigo": "60961"
+      },
+      {
+        "modelo": "Dentada Raio 10",
+        "dente": "R-10 mm - 38 cm",
+        "tamanho": "380 mm x 120 mm",
+        "embalagem": "12",
+        "ean": "7897451413014",
+        "dun": "17897451413011",
+        "codigo": "61301"
+      },
+      {
+        "modelo": "Lisa",
+        "dente": "-",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "12",
+        "ean": "7897451469622",
+        "dun": "17897451469629",
+        "codigo": "60962"
+      },
+      {
+        "modelo": "Lisa",
+        "dente": "-",
+        "tamanho": "380 mm x 120 mm",
+        "embalagem": "12",
+        "ean": "7897451469998",
+        "dun": "17897451469995",
+        "codigo": "60999"
+      },
+      {
+        "modelo": "Lisa",
+        "dente": "-",
+        "tamanho": "480 mm x 120 mm",
+        "embalagem": "6",
+        "ean": "7897451469974",
+        "dun": "17897451469971",
+        "codigo": "60997"
+      },
+      {
+        "modelo": "Lisa",
+        "dente": "Borda curva",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "12",
+        "ean": "7897451469639",
+        "dun": "17897451469636",
+        "codigo": "60963"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "98 (impressa 194-195)"
+    }
+  },
+  {
+    "id": "desempenadeiras-aco-cabo-fechado-madeira",
+    "categoria": "desempenadeiras",
+    "categoriaNome": "Desempenadeiras",
+    "linha": "Desempenadeiras",
+    "tagline": "Desempenadeira de aço com cabo fechado de madeira",
+    "descricao": "Desempenadeiras de Aço Cortag com cabo fechado de madeira, desenvolvidas para proporcionar excelente desempenho, conforto e precisão em aplicações de revestimento e acabamento. Cabo de madeira natural encerado oferece empunhadura firme e ergonômica.",
+    "destaques": [
+      "Cabo de madeira natural encerado",
+      "Versões Dentada, Lisa, Dentada Raio-10 e Raspadeira",
+      "Base de aço de alta resistência para uso profissional contínuo"
+    ],
+    "imagem": "images/desempenadeiras/desempenadeira-aco-cabo-fechado-madeira.jpg",
+    "colunas": [
+      "Modelo",
+      "Material",
+      "Dente",
+      "Tamanho",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "material",
+      "dente",
+      "tamanho",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Dentada",
+        "material": "Aço",
+        "dente": "Raio 10 mm",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "12",
+        "ean": "7897451460759",
+        "dun": "17897451460756",
+        "codigo": "60705"
+      },
+      {
+        "modelo": "Dentada",
+        "material": "Aço",
+        "dente": "6 mm x 6 mm",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "12",
+        "ean": "7897451467123",
+        "dun": "17897451467120",
+        "codigo": "60712"
+      },
+      {
+        "modelo": "Dentada",
+        "material": "Aço",
+        "dente": "8 mm x 8 mm",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "12",
+        "ean": "7897451466157",
+        "dun": "17897451466154",
+        "codigo": "60700"
+      },
+      {
+        "modelo": "Dentada",
+        "material": "Aço",
+        "dente": "10 mm x 10 mm",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "12",
+        "ean": "7897451460940",
+        "dun": "17897451460947",
+        "codigo": "60904"
+      },
+      {
+        "modelo": "Dentada",
+        "material": "Aço",
+        "dente": "10 mm x 10 mm",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "12",
+        "ean": "7897451465648",
+        "dun": "17897451465645",
+        "codigo": "60564"
+      },
+      {
+        "modelo": "Dentada",
+        "material": "Aço",
+        "dente": "10 mm x 10 mm",
+        "tamanho": "480 mm x 120 mm",
+        "embalagem": "6",
+        "ean": "7897451467048",
+        "dun": "27897451460746",
+        "codigo": "60704"
+      },
+      {
+        "modelo": "Dentada Raio 10",
+        "material": "Aço",
+        "dente": "R-10 mm - 38 cm",
+        "tamanho": "380 mm x 120 mm",
+        "embalagem": "12",
+        "ean": "7897451412956",
+        "dun": "17897451412953",
+        "codigo": "61295"
+      },
+      {
+        "modelo": "Lisa",
+        "material": "Aço",
+        "dente": "-",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "12",
+        "ean": "7897451466256",
+        "dun": "17897451466253",
+        "codigo": "60701"
+      },
+      {
+        "modelo": "Lisa",
+        "material": "Aço",
+        "dente": "-",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "12",
+        "ean": "7897451465662",
+        "dun": "17897451465669",
+        "codigo": "60566"
+      },
+      {
+        "modelo": "Lisa",
+        "material": "Aço",
+        "dente": "-",
+        "tamanho": "480 mm x 120 mm",
+        "embalagem": "6",
+        "ean": "7897451467062",
+        "dun": "27897451460760",
+        "codigo": "60706"
+      },
+      {
+        "modelo": "Lisa",
+        "material": "Aço",
+        "dente": "Borda curva",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "12",
+        "ean": "7897451467130",
+        "dun": "17897451467137",
+        "codigo": "60713"
+      },
+      {
+        "modelo": "Raspadeira",
+        "material": "Aço",
+        "dente": "-",
+        "tamanho": "280 mm x 120 mm",
+        "embalagem": "6",
+        "ean": "7897451463958",
+        "dun": "17897451463955",
+        "codigo": "60395"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "98 (impressa 194-195)"
+    }
+  },
+  {
+    "id": "desempenadeiras-plasticas",
+    "categoria": "desempenadeiras",
+    "categoriaNome": "Desempenadeiras",
+    "linha": "Desempenadeiras",
+    "tagline": "Desempenadeira plástica leve para acabamento",
+    "descricao": "Desempenadeiras Plásticas Cortag, ideais para preparo, nivelamento e acabamento de superfícies com massas finas ou grossas. Disponíveis nos modelos Base Estriada, Base Lisa, Base com EVA, Base com Espuma e Base Grafiato.",
+    "destaques": [
+      "Leveza e versatilidade",
+      "Base estriada garante melhor ancoragem e espalhamento",
+      "Versões com EVA e Espuma proporcionam acabamento uniforme"
+    ],
+    "imagem": "images/desempenadeiras/desempenadeira-plastica.jpg",
+    "colunas": [
+      "Modelo",
+      "Tamanho",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "tamanho",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Estriada",
+        "tamanho": "120 mm x 230 mm",
+        "embalagem": "12",
+        "ean": "7897451460773",
+        "dun": "17897451460770",
+        "codigo": "60650"
+      },
+      {
+        "modelo": "Estriada",
+        "tamanho": "140 mm x 270 mm",
+        "embalagem": "12",
+        "ean": "7897451460780",
+        "dun": "17897451460787",
+        "codigo": "60660"
+      },
+      {
+        "modelo": "Estriada",
+        "tamanho": "180 mm x 300 mm",
+        "embalagem": "12",
+        "ean": "7897451460797",
+        "dun": "17897451460794",
+        "codigo": "60670"
+      },
+      {
+        "modelo": "Lisa",
+        "tamanho": "120 mm x 230 mm",
+        "embalagem": "12",
+        "ean": "7897451466652",
+        "dun": "17897451466659",
+        "codigo": "60665"
+      },
+      {
+        "modelo": "Lisa",
+        "tamanho": "140 mm x 270 mm",
+        "embalagem": "12",
+        "ean": "7897451466911",
+        "dun": "17897451466918",
+        "codigo": "60691"
+      },
+      {
+        "modelo": "Lisa",
+        "tamanho": "180 mm x 300 mm",
+        "embalagem": "12",
+        "ean": "7897451466751",
+        "dun": "17897451466758",
+        "codigo": "60675"
+      },
+      {
+        "modelo": "EVA",
+        "tamanho": "120 mm x 230 mm",
+        "embalagem": "12",
+        "ean": "7897451463156",
+        "dun": "17897451463153",
+        "codigo": "60315"
+      },
+      {
+        "modelo": "EVA",
+        "tamanho": "140 mm x 270 mm",
+        "embalagem": "12",
+        "ean": "7897451466553",
+        "dun": "17897451466550",
+        "codigo": "60655"
+      },
+      {
+        "modelo": "EVA",
+        "tamanho": "180 mm x 300 mm",
+        "embalagem": "12",
+        "ean": "7897451462562",
+        "dun": "17897451466659",
+        "codigo": "60625"
+      },
+      {
+        "modelo": "Com espuma",
+        "tamanho": "120 mm x 230 mm",
+        "embalagem": "12",
+        "ean": "7897451467956",
+        "dun": "17897451469753",
+        "codigo": "60795"
+      },
+      {
+        "modelo": "Com espuma",
+        "tamanho": "140 mm x 270 mm",
+        "embalagem": "12",
+        "ean": "7897451467963",
+        "dun": "17897451467960",
+        "codigo": "60796"
+      },
+      {
+        "modelo": "Com espuma",
+        "tamanho": "180 mm x 300 mm",
+        "embalagem": "12",
+        "ean": "7897451467970",
+        "dun": "17897451467977",
+        "codigo": "60797"
+      },
+      {
+        "modelo": "Grafiato",
+        "tamanho": "120 mm x 230 mm",
+        "embalagem": "12",
+        "ean": "7897451415797",
+        "dun": "17897451415794",
+        "codigo": "61579"
+      },
+      {
+        "modelo": "Grafiato",
+        "tamanho": "140 mm x 270 mm",
+        "embalagem": "12",
+        "ean": "7897451413540",
+        "dun": "17897451413547",
+        "codigo": "61354"
+      },
+      {
+        "modelo": "Grafiato",
+        "tamanho": "180 mm x 300 mm",
+        "embalagem": "12",
+        "ean": "7897451413557",
+        "dun": "17897451413554",
+        "codigo": "61355"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "99 (impressa 196-197)"
+    }
+  },
+  {
+    "id": "desempenadeiras-rejunte",
+    "categoria": "desempenadeiras",
+    "categoriaNome": "Desempenadeiras",
+    "linha": "Desempenadeiras",
+    "tagline": "Desempenadeira para aplicação e acabamento de rejunte",
+    "descricao": "Desempenadeiras para Rejunte Cortag garantem aplicação uniforme, controle e acabamento profissional em diferentes tipos de rejuntes, do comum ao epóxi. Disponíveis em versões EVA, Aço e Float.",
+    "destaques": [
+      "Espátula EVA ideal para pequenas áreas e remoção de excessos",
+      "Desempenadeira de Aço com precisão na aplicação",
+      "Float com base em borracha de alta densidade para rejuntes epóxi"
+    ],
+    "imagem": "images/desempenadeiras/desempenadeira-rejunte.jpg",
+    "colunas": [
+      "Modelo",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Float - Cabo emborrachado",
+        "embalagem": "6",
+        "ean": "7897451420555",
+        "dun": "17897451420552",
+        "codigo": "62055"
+      },
+      {
+        "modelo": "Espátula EVA",
+        "embalagem": "10",
+        "ean": "7897451413588",
+        "dun": "17897451413585",
+        "codigo": "61358"
+      },
+      {
+        "modelo": "Pequena - Cabo madeira",
+        "embalagem": "12",
+        "ean": "7897451468809",
+        "dun": "17897451468806",
+        "codigo": "60880"
+      },
+      {
+        "modelo": "Grande - Cabo plástico",
+        "embalagem": "12",
+        "ean": "7897451469479",
+        "dun": "17897451469476",
+        "codigo": "60947"
+      },
+      {
+        "modelo": "Pequena - Cabo plástico",
+        "embalagem": "12",
+        "ean": "7897451422245",
+        "dun": "17897451422242",
+        "codigo": "62224"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "99 (impressa 196-197)"
+    }
   }
 ]
