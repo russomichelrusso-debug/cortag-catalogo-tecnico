@@ -27647,5 +27647,3966 @@
       "arquivo": "Catálago Livro 2026.pdf",
       "pagina": "133 (impressa 264-265)"
     }
+  },
+  {
+    "id": "cortadores-manuais-cortador-hi-tech",
+    "categoria": "cortadores-manuais",
+    "categoriaNome": "Cortadores Manuais",
+    "linha": "Cortador Hi-Tech",
+    "tagline": "Máxima precisão, produtividade e robustez no corte manual",
+    "descricao": "O Cortador Hi-Tech Cortag foi desenvolvido para oferecer máxima precisão, produtividade e robustez no corte manual de pisos e revestimentos cerâmicos e porcelanatos. Com estrutura em alumínio, carro guia com 15 rolamentos e sistema de separação de alto desempenho, proporciona cortes retos e diagonais precisos, mesmo em peças de grandes formatos e com espessura de até 15 mm.",
+    "destaques": [
+      "Carro guia com 15 rolamentos",
+      "Sistema de separação de alto desempenho",
+      "Corte de peças com espessura de até 15 mm"
+    ],
+    "imagem": "images/cortadores-manuais/cortador-hi-tech.jpg",
+    "selo": "NOVO",
+    "colunas": [
+      "Modelo",
+      "Corte máx.",
+      "Qtd",
+      "SKU"
+    ],
+    "camposVariante": [
+      "modelo",
+      "corte",
+      "qtd",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Hi-Tech 85",
+        "corte": "85 cm",
+        "qtd": "1",
+        "codigo": "63672"
+      },
+      {
+        "modelo": "Hi-Tech 100",
+        "corte": "100 cm",
+        "qtd": "1",
+        "codigo": "63673"
+      },
+      {
+        "modelo": "Hi-Tech 125",
+        "corte": "125 cm",
+        "qtd": "1",
+        "codigo": "63367"
+      }
+    ],
+    "observacao": "*Capacidade máxima de corte reto.",
+    "fonte": {
+      "arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "cortadores-manuais-cortador-prime-plus",
+    "categoria": "cortadores-manuais",
+    "categoriaNome": "Cortadores Manuais",
+    "linha": "Cortador Prime Plus",
+    "tagline": "Cortes precisos, rápidos e eficientes em pisos e revestimentos",
+    "descricao": "Desenvolvido para garantir cortes precisos, rápidos e eficientes em pisos e revestimentos. Com estrutura leve e robusta em alumínio, guias reforçadas, e inovador carro rolamentado, oferece máxima estabilidade, praticidade e alto desempenho. Ideal para profissionais que buscam produtividade, durabilidade e excelência nos acabamentos.",
+    "destaques": [
+      "Estrutura leve e robusta em alumínio",
+      "Guias reforçadas e carro rolamentado",
+      "Alta estabilidade e praticidade"
+    ],
+    "imagem": "images/cortadores-manuais/cortador-prime-plus.jpg",
+    "selo": "NOVO",
+    "colunas": [
+      "Modelo",
+      "Corte máx.",
+      "Qtd",
+      "SKU"
+    ],
+    "camposVariante": [
+      "modelo",
+      "corte",
+      "qtd",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Prime Plus 85",
+        "corte": "85 cm",
+        "qtd": "1",
+        "codigo": "63532"
+      },
+      {
+        "modelo": "Prime Plus 92",
+        "corte": "92 cm",
+        "qtd": "1",
+        "codigo": "63534"
+      },
+      {
+        "modelo": "Prime Plus 120",
+        "corte": "120 cm",
+        "qtd": "1",
+        "codigo": "63345"
+      },
+      {
+        "modelo": "Prime Plus 130",
+        "corte": "130 cm",
+        "qtd": "1",
+        "codigo": "63528"
+      },
+      {
+        "modelo": "Prime Plus 165",
+        "corte": "165 cm",
+        "qtd": "1",
+        "codigo": "63670"
+      },
+      {
+        "modelo": "Prime Plus 185",
+        "corte": "185 cm",
+        "qtd": "1",
+        "codigo": "63691"
+      }
+    ],
+    "observacao": "*Capacidade máxima de corte reto.",
+    "fonte": {
+      "arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)",
+      "pagina": 2
+    }
+  },
+  {
+    "id": "cortadores-manuais-kit-rodel-hi-tech",
+    "categoria": "cortadores-manuais",
+    "categoriaNome": "Cortadores Manuais",
+    "linha": "Kit Rodel Cortador Hi-Tech",
+    "tagline": "Cortes mais leves, precisos e contínuos",
+    "descricao": "Desenvolvido para entregar máxima eficiência no corte de pisos e revestimentos. Seu disco de carboneto de tungstênio com revestimento de titânio, aliado ao rolamento radial, garante cortes mais leves, precisos e contínuos. Com alto desempenho e durabilidade superior, é a escolha ideal para o uso profissional.",
+    "destaques": [
+      "Disco de carboneto de tungstênio com revestimento de titânio",
+      "Rolamento radial",
+      "Alta durabilidade"
+    ],
+    "imagem": "images/cortadores-manuais/kit-rodel-hi-tech.jpg",
+    "selo": "NOVO",
+    "colunas": [
+      "Descrição",
+      "Medida",
+      "Qtd",
+      "SKU"
+    ],
+    "camposVariante": [
+      "descricao",
+      "medida",
+      "qtd",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Rodel Cortador Hi-Tech",
+        "medida": "22 mm",
+        "qtd": "1",
+        "codigo": "63526"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "cortadores-manuais-cortador-cg-pro-120",
+    "categoria": "cortadores-manuais",
+    "categoriaNome": "Cortadores Manuais",
+    "linha": "Cortador CG Pro 120",
+    "tagline": "Solução compacta para cortes precisos e alto desempenho",
+    "descricao": "Solução mais compacta para quem busca cortes precisos, praticidade e alto desempenho na instalação de pisos e revestimentos. Seu grande diferencial está no carro guia com 15 rolamentos e sino auto-posicionável, que proporciona deslizamento extremamente suave, maior estabilidade e precisão superior durante o corte. A guia única em aço revestido garante alinhamento perfeito, enquanto os apoios laterais ajustáveis e o limitador para cortes retos e diagonais ampliam a versatilidade do equipamento. Compacto, robusto e fácil de transportar, é a escolha ideal para profissionais que exigem mobilidade sem abrir mão da qualidade e da precisão nos acabamentos.",
+    "destaques": [
+      "Carro guia com 15 rolamentos e sino auto-posicionável",
+      "Guia única em aço revestido",
+      "Apoios laterais ajustáveis e limitador para cortes retos e diagonais"
+    ],
+    "imagem": "images/cortadores-manuais/cortador-cg-pro-120.jpg",
+    "selo": "NOVO",
+    "colunas": [
+      "Descrição",
+      "Corte máx.",
+      "Qtd",
+      "SKU"
+    ],
+    "camposVariante": [
+      "descricao",
+      "corte",
+      "qtd",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Cortador CG Pro 120",
+        "corte": "120 cm",
+        "qtd": "1",
+        "codigo": "63585"
+      }
+    ],
+    "observacao": "*Capacidade máxima de corte reto.",
+    "fonte": {
+      "arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "cortadores-manuais-cortador-basic-35",
+    "categoria": "cortadores-manuais",
+    "categoriaNome": "Cortadores Manuais",
+    "linha": "Cortador Basic 35",
+    "tagline": "Solução prática, compacta e eficiente para cortes de pisos e revestimentos",
+    "descricao": "A escolha ideal para quem busca uma solução prática, compacta e eficiente para cortes de pisos e revestimentos. Combina simplicidade de operação com excelente desempenho, contando com sistema de separação na base do cortador, que proporciona mais rapidez e facilidade durante o trabalho. Seu suporte guia em alumínio injetado garante maior resistência e precisão, enquanto a espuma de apoio de alta densidade oferece firmeza durante a separação das peças. Compacto, leve e funcional, o Basic 35 entrega a qualidade e a confiabilidade necessárias para aplicações do dia a dia.",
+    "destaques": [
+      "Sistema de separação na base do cortador",
+      "Suporte guia em alumínio injetado",
+      "Espuma de apoio de alta densidade"
+    ],
+    "imagem": "images/cortadores-manuais/cortador-basic-35.jpg",
+    "selo": "NOVO",
+    "colunas": [
+      "Descrição",
+      "Corte máx.",
+      "Qtd",
+      "SKU"
+    ],
+    "camposVariante": [
+      "descricao",
+      "corte",
+      "qtd",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Cortador Basic 35",
+        "corte": "35 cm",
+        "qtd": "1",
+        "codigo": "63352"
+      }
+    ],
+    "observacao": "*Capacidade máxima de corte reto.",
+    "fonte": {
+      "arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)",
+      "pagina": 3
+    }
+  },
+  {
+    "id": "grandes-formatos-sistema-movimentacao-c320-g2",
+    "categoria": "grandes-formatos",
+    "categoriaNome": "Grandes Formatos",
+    "linha": "Sistema de Movimentação Infinity C320 G2",
+    "tagline": "Transporte, elevação e posicionamento seguros de grandes formatos",
+    "descricao": "O Sistema de Movimentação para Grandes Formatos Infinity C320 G2 foi desenvolvido para proporcionar transporte, elevação e posicionamento seguros de peças de grandes dimensões. Com estrutura modular em alumínio, ventosas de alta performance e capacidade de carga de até 200 kg, oferece máxima estabilidade, ergonomia e eficiência durante a movimentação e instalação de porcelanatos, vidros e outros materiais planos de grandes formatos.",
+    "destaques": [
+      "Estrutura modular em alumínio",
+      "Ventosas de alta performance",
+      "Capacidade de carga de até 200 kg"
+    ],
+    "imagem": "images/grandes-formatos/sistema-movimentacao-c320-g2.jpg",
+    "selo": "NOVO",
+    "colunas": [
+      "Descrição",
+      "Qtd",
+      "SKU"
+    ],
+    "camposVariante": [
+      "descricao",
+      "qtd",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Sistema de Movimentação Grandes Formatos Infinity C320 G2",
+        "qtd": "1",
+        "codigo": "63529"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "grandes-formatos-sistema-transporte-infinity-g2",
+    "categoria": "grandes-formatos",
+    "categoriaNome": "Grandes Formatos",
+    "linha": "Sistema de Transporte Infinity G2",
+    "tagline": "Transporte seguro, estável e eficiente de peças de grandes formatos",
+    "descricao": "O Sistema de Transporte Infinity G2 foi desenvolvido para proporcionar transporte seguro, estável e eficiente de peças de grandes formatos. Com estrutura em alumínio, apoios emborrachados e capacidade de carga de até 300kg, oferece máxima proteção, mobilidade e praticidade durante o deslocamento de porcelanatos, pedras naturais, vidros e outros materiais planos de grandes dimensões.",
+    "destaques": [
+      "Estrutura em alumínio",
+      "Apoios emborrachados",
+      "Capacidade de carga de até 300 kg"
+    ],
+    "imagem": "images/grandes-formatos/sistema-transporte-infinity-g2.jpg",
+    "selo": "NOVO",
+    "colunas": [
+      "Descrição",
+      "Qtd",
+      "SKU"
+    ],
+    "camposVariante": [
+      "descricao",
+      "qtd",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Sistema de Transporte Infinity G2",
+        "qtd": "1",
+        "codigo": "63490"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)",
+      "pagina": 4
+    }
+  },
+  {
+    "id": "grandes-formatos-protetor-de-canto",
+    "categoria": "grandes-formatos",
+    "categoriaNome": "Grandes Formatos",
+    "linha": "Protetor de Canto",
+    "tagline": "Proteção de cantos e bordas durante transporte, manuseio e instalação",
+    "descricao": "O Protetor de Canto para Grandes Formatos Cortag foi desenvolvido para proteger cantos e bordas de peças durante o transporte, manuseio e instalação.",
+    "destaques": [
+      "Proteção de cantos e bordas",
+      "Uso em transporte, manuseio e instalação"
+    ],
+    "imagem": "images/grandes-formatos/protetor-de-canto.jpg",
+    "selo": "NOVO",
+    "colunas": [
+      "Descrição",
+      "Qtd",
+      "SKU"
+    ],
+    "camposVariante": [
+      "descricao",
+      "qtd",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Protetor de Canto p/ Grandes Formatos",
+        "qtd": "4",
+        "codigo": "63241"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)",
+      "pagina": 5
+    }
+  },
+  {
+    "id": "grandes-formatos-apoio-prateleira",
+    "categoria": "grandes-formatos",
+    "categoriaNome": "Grandes Formatos",
+    "linha": "Apoio Prateleira Bancada Infinity",
+    "tagline": "Prateleira auxiliar que amplia a organização da área de trabalho",
+    "descricao": "Prateleira auxiliar que amplia a organização da área de trabalho, mantendo ferramentas e acessórios sempre à mão. Sua estrutura metálica e resistente oferece praticidade e instalação rápida na bancada.",
+    "destaques": [
+      "Estrutura metálica resistente",
+      "Instalação rápida na bancada"
+    ],
+    "imagem": "images/grandes-formatos/apoio-prateleira.jpg",
+    "selo": "NOVO",
+    "colunas": [
+      "Descrição",
+      "Medida",
+      "Qtd",
+      "SKU"
+    ],
+    "camposVariante": [
+      "descricao",
+      "medida",
+      "qtd",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Apoio Prateleira Bancada Infinity",
+        "medida": "515 mm",
+        "qtd": "1",
+        "codigo": "63666"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)",
+      "pagina": 5
+    }
+  },
+  {
+    "id": "grandes-formatos-conjunto-apoio-trilhos",
+    "categoria": "grandes-formatos",
+    "categoriaNome": "Grandes Formatos",
+    "linha": "Conjunto Apoio dos Trilhos",
+    "tagline": "Suporte para sustentação dos trilhos dos Cortadores Infinity",
+    "descricao": "Suporte para sustentação dos trilhos dos Cortadores Infinity, com estrutura robusta e fácil instalação e ajuste.",
+    "destaques": [
+      "Estrutura robusta",
+      "Fácil instalação e ajuste"
+    ],
+    "imagem": "images/grandes-formatos/conjunto-apoio-trilhos.jpg",
+    "selo": "NOVO",
+    "colunas": [
+      "Descrição",
+      "Medida",
+      "Qtd",
+      "SKU"
+    ],
+    "camposVariante": [
+      "descricao",
+      "medida",
+      "qtd",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Conj. Apoio Trilhos Bancada Infinity C180",
+        "medida": "256 mm",
+        "qtd": "4",
+        "codigo": "63664"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)",
+      "pagina": 5
+    }
+  },
+  {
+    "id": "grandes-formatos-distanciador-bancada",
+    "categoria": "grandes-formatos",
+    "categoriaNome": "Grandes Formatos",
+    "linha": "Distanciador Bancada Infinity",
+    "tagline": "Protege os trilhos da bancada durante corte e perfuração",
+    "descricao": "Fabricado em borracha, protege os trilhos da bancada durante operações de corte e perfuração com máquinas elétricas, garante o distanciamento adequado entre trilhos, pisos e revestimentos.",
+    "destaques": [
+      "Fabricado em borracha",
+      "Distanciamento adequado entre trilhos, pisos e revestimentos"
+    ],
+    "imagem": "images/grandes-formatos/distanciador-bancada.jpg",
+    "selo": "NOVO",
+    "colunas": [
+      "Descrição",
+      "Medida",
+      "Qtd",
+      "SKU"
+    ],
+    "camposVariante": [
+      "descricao",
+      "medida",
+      "qtd",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Distanciador Bancada Infinity",
+        "medida": "40 mm",
+        "qtd": "20",
+        "codigo": "63665"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)",
+      "pagina": 5
+    }
+  },
+  {
+    "id": "grandes-formatos-grampos-bancada",
+    "categoria": "grandes-formatos",
+    "categoriaNome": "Grandes Formatos",
+    "linha": "Grampos Bancada Infinity",
+    "tagline": "Sistema de fixação e travamento para pisos e revestimentos",
+    "descricao": "Sistema de fixação e travamento para pisos e revestimentos que proporciona maior estabilidade, segurança e precisão durante as operações. Ideal para o trabalho com revestimentos de grandes formatos.",
+    "destaques": [
+      "Maior estabilidade e segurança",
+      "Ideal para revestimentos de grandes formatos"
+    ],
+    "imagem": "images/grandes-formatos/grampos-bancada.jpg",
+    "selo": "NOVO",
+    "colunas": [
+      "Descrição",
+      "Medida",
+      "Qtd",
+      "SKU"
+    ],
+    "camposVariante": [
+      "descricao",
+      "medida",
+      "qtd",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Grampos Bancada Infinity C180",
+        "medida": "110 mm",
+        "qtd": "4",
+        "codigo": "63663"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)",
+      "pagina": 5
+    }
+  },
+  {
+    "id": "ferramentas-manuais-lamina-trapezoidal",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Lâmina para Estilete Trapezoidal",
+    "tagline": "Máximo desempenho, precisão e durabilidade em cortes profissionais",
+    "descricao": "A Lâmina Trapezoidal Cortag foi desenvolvida para oferecer máximo desempenho, precisão e durabilidade em cortes profissionais. Fabricada em aço de alta resistência que proporciona maior vida útil. Compatível com o Estilete Canivete Cortag (SKU 63165).",
+    "destaques": [
+      "Aço de alta resistência",
+      "Maior vida útil",
+      "Compatível com Estilete Canivete Cortag"
+    ],
+    "imagem": "images/ferramentas-manuais/lamina-trapezoidal.jpg",
+    "selo": "NOVO",
+    "colunas": [
+      "Descrição",
+      "Medida",
+      "Qtd",
+      "SKU"
+    ],
+    "camposVariante": [
+      "descricao",
+      "medida",
+      "qtd",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Lâmina Trapezoidal",
+        "medida": "61 mm",
+        "qtd": "6",
+        "codigo": "63168"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)",
+      "pagina": 6
+    }
+  },
+  {
+    "id": "utilidades-regulador-gas",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Regulador de Gás",
+    "tagline": "Segurança, estabilidade e eficiência no controle da pressão do gás",
+    "descricao": "Segurança, estabilidade e eficiência no controle da pressão do gás em instalações residenciais. Compatível com botijões P13, garante fluxo contínuo e confiável.",
+    "destaques": [
+      "Compatível com botijões P13",
+      "Fluxo contínuo e confiável"
+    ],
+    "imagem": "images/utilidades/regulador-gas.jpg",
+    "selo": "NOVO",
+    "colunas": [
+      "Descrição",
+      "Qtd",
+      "SKU"
+    ],
+    "camposVariante": [
+      "descricao",
+      "qtd",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Regulador Registro Gás GLP Baixa Pressão 1 Kg",
+        "qtd": "6",
+        "codigo": "63101"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)",
+      "pagina": 6
+    }
+  },
+  {
+    "id": "utilidades-carrinho-mao-compacto-45l",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Carrinho de Mão Compacto 45L",
+    "tagline": "Praticidade, resistência e eficiência no transporte de materiais",
+    "descricao": "O Carrinho de Mão Compacto 45L foi desenvolvido para oferecer praticidade, resistência e eficiência no transporte de materiais em obras, reformas e atividades de jardinagem. Com estrutura em aço galvanizado, cabo desmontável e embalagem compacta, proporciona maior facilidade no transporte, armazenamento e montagem, sem abrir mão da capacidade de carga necessária para o uso diário.",
+    "destaques": [
+      "Estrutura em aço galvanizado",
+      "Cabo desmontável e embalagem compacta",
+      "Capacidade de carga de 100 kg"
+    ],
+    "imagem": "images/utilidades/carrinho-mao-compacto-45l.jpg",
+    "selo": "NOVO",
+    "colunas": [
+      "Descrição",
+      "Cap. de Carga",
+      "Qtd",
+      "SKU"
+    ],
+    "camposVariante": [
+      "descricao",
+      "capacidadeCarga",
+      "qtd",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Carrinho de Mão Compacto 45L",
+        "capacidadeCarga": "100 kg",
+        "qtd": "1",
+        "codigo": "63553"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)",
+      "pagina": 6
+    }
+  },
+  {
+    "id": "utilidades-fitas-dupla-face",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Fitas Dupla Face",
+    "tagline": "Fixação rápida, segura e duradoura em diferentes aplicações",
+    "descricao": "A linha de Fitas Dupla Face Cortag foi desenvolvida para proporcionar fixação rápida, segura e duradoura em diferentes aplicações. Com opções para uso geral, objetos pesados e áreas úmidas, oferece alta aderência, acabamento limpo e instalação prática, eliminando a necessidade de perfurações na maioria das aplicações.",
+    "destaques": [
+      "Alta aderência e acabamento limpo",
+      "Opções para uso geral, objetos pesados e áreas úmidas",
+      "Elimina a necessidade de perfurações"
+    ],
+    "imagem": "images/utilidades/fitas-dupla-face.jpg",
+    "selo": "NOVO",
+    "colunas": [
+      "Descrição",
+      "Medida",
+      "Qtd",
+      "SKU"
+    ],
+    "camposVariante": [
+      "descricao",
+      "medida",
+      "qtd",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Fita Dupla Face",
+        "medida": "12 mm",
+        "qtd": "12",
+        "codigo": "63549"
+      },
+      {
+        "descricao": "Fita Dupla Face",
+        "medida": "19 mm",
+        "qtd": "12",
+        "codigo": "63550"
+      },
+      {
+        "descricao": "Fita Dupla Face Força Extrema",
+        "medida": "24 mm",
+        "qtd": "12",
+        "codigo": "63551"
+      },
+      {
+        "descricao": "Fita Dupla Face Áreas Úmidas",
+        "medida": "12 mm",
+        "qtd": "12",
+        "codigo": "63552"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)",
+      "pagina": 13
+    }
+  },
+  {
+    "id": "limpeza-selantes-raspador-finalizador",
+    "categoria": "limpeza-selantes",
+    "categoriaNome": "Limpeza e Selantes",
+    "linha": "Raspador e Finalizador de Rejunte e Calafetagem",
+    "tagline": "Acabamento limpo, uniforme e profissional na remoção de selantes",
+    "descricao": "Ideal para remover silicone, acrílico e outros selantes, resultando num acabamento limpo, uniforme e profissional em pias, revestimentos, janelas e vidros. Remove o excesso de material, elimina bolhas e imperfeições e acompanha cinco ponteiras intercambiáveis de diferentes tamanhos para atender às mais diversas aplicações.",
+    "destaques": [
+      "Remove silicone, acrílico e outros selantes",
+      "Acompanha 5 ponteiras intercambiáveis",
+      "Elimina bolhas e imperfeições"
+    ],
+    "imagem": "images/limpeza-selantes/raspador-finalizador.jpg",
+    "selo": "NOVO",
+    "colunas": [
+      "Descrição",
+      "Medida",
+      "Qtd",
+      "SKU"
+    ],
+    "camposVariante": [
+      "descricao",
+      "medida",
+      "qtd",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Raspador e Finalizador de Rejunte e Calafetagem",
+        "medida": "40 cm",
+        "qtd": "12",
+        "codigo": "63470"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)",
+      "pagina": 6
+    }
+  },
+  {
+    "id": "abrasivos-fibra-polimento",
+    "categoria": "abrasivos",
+    "categoriaNome": "Abrasivos",
+    "linha": "Fibra para Polimento",
+    "tagline": "Acabamento uniforme e alto brilho em superfícies de alta dureza",
+    "descricao": "A Fibra para Polimento Tipo Esponja Cortag foi desenvolvida para proporcionar acabamento uniforme, remoção de riscos superficiais e alto brilho em superfícies de alta dureza. Com estrutura em espuma reforçada e fibras abrasivas entrelaçadas, oferece excelente adaptação à superfície, durabilidade e desempenho em operações de polimento profissional.",
+    "destaques": [
+      "Estrutura em espuma reforçada",
+      "Fibras abrasivas entrelaçadas",
+      "Excelente adaptação à superfície"
+    ],
+    "imagem": "images/abrasivos/fibra-polimento.jpg",
+    "selo": "NOVO",
+    "colunas": [
+      "Descrição",
+      "Medida",
+      "Qtd",
+      "SKU"
+    ],
+    "camposVariante": [
+      "descricao",
+      "medida",
+      "qtd",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Fibra para Polimento G-150",
+        "medida": "10 cm",
+        "qtd": "6",
+        "codigo": "63515"
+      },
+      {
+        "descricao": "Fibra para Polimento G-300",
+        "medida": "10 cm",
+        "qtd": "6",
+        "codigo": "63516"
+      },
+      {
+        "descricao": "Fibra para Polimento G-500",
+        "medida": "10 cm",
+        "qtd": "6",
+        "codigo": "63517"
+      },
+      {
+        "descricao": "Fibra para Polimento G-1000",
+        "medida": "10 cm",
+        "qtd": "6",
+        "codigo": "63518"
+      },
+      {
+        "descricao": "Fibra para Polimento G-2000",
+        "medida": "10 cm",
+        "qtd": "6",
+        "codigo": "63519"
+      },
+      {
+        "descricao": "Fibra para Polimento G-3000",
+        "medida": "10 cm",
+        "qtd": "6",
+        "codigo": "63520"
+      },
+      {
+        "descricao": "Fibra para Polimento G-6000",
+        "medida": "10 cm",
+        "qtd": "6",
+        "codigo": "63521"
+      },
+      {
+        "descricao": "Fibra para Polimento G-10000",
+        "medida": "10 cm",
+        "qtd": "6",
+        "codigo": "63522"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)",
+      "pagina": 7
+    }
+  },
+  {
+    "id": "maquinas-eletricas-batedor-turbomix",
+    "categoria": "maquinas-eletricas",
+    "categoriaNome": "Máquinas Elétricas e Acessórios",
+    "linha": "Batedor Turbomix",
+    "tagline": "Mistura argamassas, tintas, gesso e outros materiais com rapidez",
+    "descricao": "Mistura argamassas, tintas, gesso e outros materiais com rapidez e homogeneidade. Equipado com dupla hélice, haste longa com encaixe hexagonal oferece maior produtividade e conforto durante o uso.",
+    "destaques": [
+      "Dupla hélice",
+      "Haste longa com encaixe hexagonal"
+    ],
+    "imagem": "images/maquinas-eletricas/batedor-turbomix.jpg",
+    "selo": "NOVO",
+    "colunas": [
+      "Descrição",
+      "Medida",
+      "Qtd",
+      "SKU"
+    ],
+    "camposVariante": [
+      "descricao",
+      "medida",
+      "qtd",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Batedor de Argamassa Turbomix 28\"",
+        "medida": "70 cm",
+        "qtd": "3",
+        "codigo": "63530"
+      },
+      {
+        "descricao": "Batedor de Argamassa Turbomix 36\"",
+        "medida": "90 cm",
+        "qtd": "3",
+        "codigo": "63531"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)",
+      "pagina": 7
+    }
+  },
+  {
+    "id": "maquinas-eletricas-sistema-refrigeracao",
+    "categoria": "maquinas-eletricas",
+    "categoriaNome": "Máquinas Elétricas e Acessórios",
+    "linha": "Sistema de Refrigeração",
+    "tagline": "Refrigeração eficiente durante operações de corte e desbaste",
+    "descricao": "Desenvolvido para proporcionar refrigeração eficiente durante operações de corte e desbaste, reduzindo o aquecimento do disco, aumentando sua vida útil e proporcionando cortes mais precisos, seguros e com menor emissão de poeira. Compatível com serras mármore e esmerilhadeiras, oferece instalação prática e excelente desempenho em aplicações profissionais. Acompanha mangueira de 5m, bico flexível, conector e fita veda rosca.",
+    "destaques": [
+      "Reduz o aquecimento do disco",
+      "Menor emissão de poeira",
+      "Compatível com serras mármore e esmerilhadeiras"
+    ],
+    "imagem": "images/maquinas-eletricas/sistema-refrigeracao.jpg",
+    "selo": "NOVO",
+    "colunas": [
+      "Descrição",
+      "Qtd",
+      "SKU"
+    ],
+    "camposVariante": [
+      "descricao",
+      "qtd",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Sistema de Refrigeração Serra Mármore/Esmerilhadeira",
+        "qtd": "3",
+        "codigo": "63491"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)",
+      "pagina": 13
+    }
+  },
+  {
+    "id": "maquinas-eletricas-lixadeira-orbital",
+    "categoria": "maquinas-eletricas",
+    "categoriaNome": "Máquinas Elétricas e Acessórios",
+    "linha": "Lixadeira Orbital",
+    "tagline": "Lixamentos finos e acabamento de superfícies de madeira",
+    "descricao": "Ideal para lixamentos finos e acabamento de superfícies de madeira, oferece excelente qualidade de acabamento, baixo nível de vibração e maior conforto durante a operação.",
+    "destaques": [
+      "Baixo nível de vibração",
+      "Excelente qualidade de acabamento"
+    ],
+    "imagem": "images/maquinas-eletricas/lixadeira-orbital.jpg",
+    "selo": "NOVO",
+    "colunas": [
+      "Descrição",
+      "Qtd",
+      "SKU"
+    ],
+    "camposVariante": [
+      "descricao",
+      "qtd",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Lixadeira Orbital 220W 127V",
+        "qtd": "1",
+        "codigo": "63500"
+      },
+      {
+        "descricao": "Lixadeira Orbital 220W 220V",
+        "qtd": "1",
+        "codigo": "63501"
+      }
+    ],
+    "observacao": "Disponível a partir de 12/08/26.",
+    "fonte": {
+      "arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)",
+      "pagina": 9
+    }
+  },
+  {
+    "id": "maquinas-eletricas-lixadeira-roto-orbital",
+    "categoria": "maquinas-eletricas",
+    "categoriaNome": "Máquinas Elétricas e Acessórios",
+    "linha": "Lixadeira Roto-Orbital",
+    "tagline": "Combina movimentos rotativos e orbitais para remoção eficiente de material",
+    "descricao": "Combina movimentos rotativos e orbitais para remoção eficiente de material, proporcionando acabamento uniforme em madeira, metal e outras superfícies.",
+    "destaques": [
+      "Movimentos rotativos e orbitais combinados",
+      "Acabamento uniforme em madeira, metal e outras superfícies"
+    ],
+    "imagem": "images/maquinas-eletricas/lixadeira-roto-orbital.jpg",
+    "selo": "NOVO",
+    "colunas": [
+      "Descrição",
+      "Qtd",
+      "SKU"
+    ],
+    "camposVariante": [
+      "descricao",
+      "qtd",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Lixadeira Roto Orbital 300W 5\" 127V",
+        "qtd": "1",
+        "codigo": "63500"
+      },
+      {
+        "descricao": "Lixadeira Roto Orbital 300W 5\" 220V",
+        "qtd": "1",
+        "codigo": "63501"
+      }
+    ],
+    "observacao": "Disponível a partir de 12/08/26. Atenção: os SKUs 63500/63501 estão repetidos no catálogo de lançamentos original (mesmo código usado para a Lixadeira Orbital) — possível erro de impressão do fabricante, não confirmado.",
+    "fonte": {
+      "arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)",
+      "pagina": 9
+    }
+  },
+  {
+    "id": "maquinas-eletricas-lixadeira-parede-teto-fita-led",
+    "categoria": "maquinas-eletricas",
+    "categoriaNome": "Máquinas Elétricas e Acessórios",
+    "linha": "Lixadeira de Parede e Teto com Fita LED",
+    "tagline": "Iluminação em fita LED que amplia a visibilidade da superfície",
+    "descricao": "Conta com iluminação em fita LED que amplia a visibilidade da superfície para um acabamento de alta qualidade.",
+    "destaques": [
+      "Iluminação em fita LED integrada"
+    ],
+    "imagem": "images/maquinas-eletricas/lixadeira-parede-teto-fita-led.jpg",
+    "selo": "NOVO",
+    "colunas": [
+      "Descrição",
+      "Qtd",
+      "SKU"
+    ],
+    "camposVariante": [
+      "descricao",
+      "qtd",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Lixadeira de Parede 750W 220V c/ Fita LED",
+        "qtd": "1",
+        "codigo": "63504"
+      },
+      {
+        "descricao": "Lixadeira de Parede 750W 127V c/ Fita LED",
+        "qtd": "1",
+        "codigo": "63505"
+      }
+    ],
+    "observacao": "Disponível a partir de 12/08/26.",
+    "fonte": {
+      "arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)",
+      "pagina": 9
+    }
+  },
+  {
+    "id": "maquinas-eletricas-lixadeira-parede-teto-lampada-led",
+    "categoria": "maquinas-eletricas",
+    "categoriaNome": "Máquinas Elétricas e Acessórios",
+    "linha": "Lixadeira de Parede e Teto com Lâmpada LED",
+    "tagline": "Lâmpada LED que facilita a identificação de imperfeições",
+    "descricao": "Equipada com lâmpada LED, facilitando a identificação de imperfeições durante o lixamento.",
+    "destaques": [
+      "Lâmpada LED integrada"
+    ],
+    "imagem": "images/maquinas-eletricas/lixadeira-parede-teto-lampada-led.jpg",
+    "selo": "NOVO",
+    "colunas": [
+      "Descrição",
+      "Qtd",
+      "SKU"
+    ],
+    "camposVariante": [
+      "descricao",
+      "qtd",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Lixadeira de Parede 750W 220V c/ Lâmpada",
+        "qtd": "1",
+        "codigo": "63508"
+      },
+      {
+        "descricao": "Lixadeira de Parede 750W 127V c/ Lâmpada",
+        "qtd": "1",
+        "codigo": "63509"
+      }
+    ],
+    "observacao": "Disponível a partir de 12/08/26.",
+    "fonte": {
+      "arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)",
+      "pagina": 9
+    }
+  },
+  {
+    "id": "maquinas-eletricas-lixadeira-telescopica-fita-led",
+    "categoria": "maquinas-eletricas",
+    "categoriaNome": "Máquinas Elétricas e Acessórios",
+    "linha": "Lixadeira Telescópica de Parede e Teto com Fita LED",
+    "tagline": "Haste telescópica com alcance de até 1,80 m",
+    "descricao": "Possui haste telescópica com alcance de até 1,80 m, iluminação em fita LED e acompanha bolsa para transporte, oferecendo mais praticidade, conforto e alto desempenho nos trabalhos de lixamento.",
+    "destaques": [
+      "Haste telescópica com alcance de até 1,80 m",
+      "Iluminação em fita LED",
+      "Acompanha bolsa para transporte"
+    ],
+    "imagem": "images/maquinas-eletricas/lixadeira-telescopica-fita-led.jpg",
+    "selo": "NOVO",
+    "colunas": [
+      "Descrição",
+      "Qtd",
+      "SKU"
+    ],
+    "camposVariante": [
+      "descricao",
+      "qtd",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Lixadeira de Parede e Teto 750W 220V c/ Fita LED",
+        "qtd": "1",
+        "codigo": "63506"
+      },
+      {
+        "descricao": "Lixadeira de Parede e Teto 750W 127V c/ Fita LED",
+        "qtd": "1",
+        "codigo": "63507"
+      }
+    ],
+    "observacao": "Disponível a partir de 12/08/26.",
+    "fonte": {
+      "arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)",
+      "pagina": 9
+    }
+  },
+  {
+    "id": "medicao-receptor-nivel-laser-base-magnetica",
+    "categoria": "medicao",
+    "categoriaNome": "Medição",
+    "linha": "Receptor de Nível a Laser com Base Magnética",
+    "tagline": "Amplia a precisão e a eficiência em operações de nivelamento",
+    "descricao": "Amplia a precisão e a eficiência em operações de nivelamento, especialmente em ambientes onde o feixe do laser não é facilmente visível. Com base magnética, nível de bolha integrado e estrutura resistente, proporciona fixação segura, leitura precisa e maior produtividade em aplicações profissionais.",
+    "destaques": [
+      "Base magnética",
+      "Nível de bolha integrado",
+      "Fixação segura e leitura precisa"
+    ],
+    "imagem": "images/medicao/receptor-nivel-laser-base-magnetica.jpg",
+    "selo": "NOVO",
+    "colunas": [
+      "Descrição",
+      "Qtd",
+      "SKU"
+    ],
+    "camposVariante": [
+      "descricao",
+      "qtd",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Receptor Nível Laser com Base Magnética",
+        "qtd": "4",
+        "codigo": "63281"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)",
+      "pagina": 7
+    }
+  },
+  {
+    "id": "medicao-esquadro-fixacao",
+    "categoria": "medicao",
+    "categoriaNome": "Medição",
+    "linha": "Esquadro de Fixação",
+    "tagline": "Alinhamento preciso, estabilidade e praticidade na montagem",
+    "descricao": "Desenvolvido para proporcionar alinhamento preciso, estabilidade e praticidade na montagem e fixação de peças em ângulo de 45°. Com sistema de fixação rápida e diferentes tamanhos disponíveis, auxiliam na colagem, montagem e acabamento de estruturas, garantindo maior produtividade e padronização dos resultados.",
+    "destaques": [
+      "Sistema de fixação rápida",
+      "Ângulo de 45°",
+      "Diferentes tamanhos disponíveis"
+    ],
+    "imagem": "images/medicao/esquadro-fixacao.jpg",
+    "selo": "NOVO",
+    "colunas": [
+      "Descrição",
+      "Medida",
+      "Qtd",
+      "SKU"
+    ],
+    "camposVariante": [
+      "descricao",
+      "medida",
+      "qtd",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Esquadro de Fixação",
+        "medida": "50 x 80 mm",
+        "qtd": "3",
+        "codigo": "63492"
+      },
+      {
+        "descricao": "Esquadro de Fixação",
+        "medida": "100 x 100 mm",
+        "qtd": "3",
+        "codigo": "63493"
+      },
+      {
+        "descricao": "Esquadro de Fixação",
+        "medida": "150 x 150 mm",
+        "qtd": "3",
+        "codigo": "63494"
+      },
+      {
+        "descricao": "Esquadro de Fixação",
+        "medida": "200 x 200 mm",
+        "qtd": "3",
+        "codigo": "63495"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)",
+      "pagina": 8
+    }
+  },
+  {
+    "id": "medicao-esquadro-multifuncional",
+    "categoria": "medicao",
+    "categoriaNome": "Medição",
+    "linha": "Esquadro Multifuncional",
+    "tagline": "Mede, transfere e traça com precisão",
+    "descricao": "Mais funções em uma única ferramenta: mede, transfere e traça com precisão, além de contar com nível integrado e estrutura resistente para uso contínuo.",
+    "destaques": [
+      "Nível integrado",
+      "Estrutura resistente para uso contínuo"
+    ],
+    "imagem": "images/medicao/esquadro-multifuncional.jpg",
+    "selo": "NOVO",
+    "colunas": [
+      "Descrição",
+      "Medida",
+      "Qtd",
+      "SKU"
+    ],
+    "camposVariante": [
+      "descricao",
+      "medida",
+      "qtd",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Esquadro Multifuncional",
+        "medida": "300 mm",
+        "qtd": "3",
+        "codigo": "63481"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)",
+      "pagina": 8
+    }
+  },
+  {
+    "id": "medicao-esquadro-multifuncional-guias",
+    "categoria": "medicao",
+    "categoriaNome": "Medição",
+    "linha": "Esquadro Multifuncional com Guias",
+    "tagline": "Medição e traçado de ângulos de 45° e 90°",
+    "descricao": "Esquadro em alumínio, para medição e traçado de ângulos de 45° e 90°, atuando também como localizador de ângulos e auxiliando no alinhamento de superfícies em conjunto com nível bolha e prumo.",
+    "destaques": [
+      "Alumínio",
+      "Ângulos de 45° e 90°",
+      "Localizador de ângulos"
+    ],
+    "imagem": "images/medicao/esquadro-multifuncional-guias.jpg",
+    "selo": "NOVO",
+    "colunas": [
+      "Descrição",
+      "Qtd",
+      "SKU"
+    ],
+    "camposVariante": [
+      "descricao",
+      "qtd",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Esquadro Multifuncional com Guias",
+        "qtd": "3",
+        "codigo": "63482"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)",
+      "pagina": 8
+    }
+  },
+  {
+    "id": "medicao-esquadro-multifuncional-furos",
+    "categoria": "medicao",
+    "categoriaNome": "Medição",
+    "linha": "Esquadro Multifuncional com Furos",
+    "tagline": "Marcação e alinhamento com referências fixas de 45° e 90°",
+    "descricao": "Instrumento técnico para marcação e alinhamento, com referências fixas de 45° e 90° e furos dimensionais para conferência de brocas, assegurando precisão nas operações.",
+    "destaques": [
+      "Referências fixas de 45° e 90°",
+      "Furos dimensionais para conferência de brocas"
+    ],
+    "imagem": "images/medicao/esquadro-multifuncional-furos.jpg",
+    "selo": "NOVO",
+    "colunas": [
+      "Descrição",
+      "Qtd",
+      "SKU"
+    ],
+    "camposVariante": [
+      "descricao",
+      "qtd",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Esquadro Multifuncional com Furos",
+        "qtd": "3",
+        "codigo": "63483"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)",
+      "pagina": 8
+    }
+  },
+  {
+    "id": "medicao-esquadro-marcador-furos",
+    "categoria": "medicao",
+    "categoriaNome": "Medição",
+    "linha": "Esquadro Marcador de Furos",
+    "tagline": "Marcação precisa de pontos de furação",
+    "descricao": "Marcação precisa de pontos de furação, permitindo controle dimensional, repetibilidade no posicionamento e redução de desvios em aplicações elétricas, hidráulicas, marcenaria e assentamento de revestimentos.",
+    "destaques": [
+      "Controle dimensional",
+      "Repetibilidade no posicionamento"
+    ],
+    "imagem": "images/medicao/esquadro-marcador-furos.jpg",
+    "selo": "NOVO",
+    "colunas": [
+      "Descrição",
+      "Qtd",
+      "SKU"
+    ],
+    "camposVariante": [
+      "descricao",
+      "qtd",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Esquadro Marcador de Furos",
+        "qtd": "3",
+        "codigo": "63484"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)",
+      "pagina": 8
+    }
+  },
+  {
+    "id": "desempenadeiras-kit-massa-corrida",
+    "categoria": "desempenadeiras",
+    "categoriaNome": "Desempenadeiras",
+    "linha": "Kit Desempenadeira para Massa Corrida",
+    "tagline": "Todas as ferramentas essenciais para aplicação de massa corrida e gesso",
+    "descricao": "Reúne todas as ferramentas essenciais para proporcionar produtividade, precisão e acabamento profissional na aplicação de massa corrida e gesso. Composto por desempenadeiras de diferentes tamanhos (100/80/60/40/25 cm), suporte adaptador, cabo extensor, rolo aplicador e maleta para transporte, oferece uma solução completa para trabalhos em pequenas e grandes superfícies.",
+    "destaques": [
+      "5x desempenadeiras (100/80/60/40/25 cm)",
+      "Cabo extensor e adaptador",
+      "Rolo aplicador e maleta de transporte"
+    ],
+    "imagem": "images/desempenadeiras/kit-massa-corrida.jpg",
+    "selo": "NOVO",
+    "colunas": [
+      "Descrição",
+      "Qtd",
+      "SKU"
+    ],
+    "camposVariante": [
+      "descricao",
+      "qtd",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Kit Desempenadeira para Massa Corrida",
+        "qtd": "1",
+        "codigo": "63514"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)",
+      "pagina": 12
+    }
+  },
+  {
+    "id": "desempenadeiras-suporte-massa-corrida",
+    "categoria": "desempenadeiras",
+    "categoriaNome": "Desempenadeiras",
+    "linha": "Suporte de Desempenadeira",
+    "tagline": "Amplia o alcance e a produtividade em aplicações de massa corrida e gesso",
+    "descricao": "Amplia o alcance e a produtividade em aplicações de massa corrida e gesso. Compatível com cabos extensores, proporciona maior ergonomia e estabilidade durante o trabalho, facilitando a execução em áreas elevadas e de difícil acesso.",
+    "destaques": [
+      "Compatível com cabos extensores",
+      "Facilita execução em áreas elevadas e de difícil acesso"
+    ],
+    "imagem": "images/desempenadeiras/suporte-massa-corrida.jpg",
+    "selo": "NOVO",
+    "colunas": [
+      "Descrição",
+      "Qtd",
+      "SKU"
+    ],
+    "camposVariante": [
+      "descricao",
+      "qtd",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Suporte de Desempenadeira para Massa Corrida",
+        "qtd": "3",
+        "codigo": "63480"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)",
+      "pagina": 12
+    }
+  },
+  {
+    "id": "desempenadeiras-massa-corrida",
+    "categoria": "desempenadeiras",
+    "categoriaNome": "Desempenadeiras",
+    "linha": "Desempenadeiras para Massa Corrida",
+    "tagline": "Acabamento uniforme, precisão e produtividade na aplicação de massa corrida e gesso",
+    "descricao": "Desenvolvidas para proporcionar acabamento uniforme, precisão e produtividade na aplicação de massa corrida e gesso. Com lâmina flexível em aço inox e corpo leve e ergonômico, oferecem excelente controle durante o nivelamento e acabamento de superfícies, garantindo resultados profissionais em diferentes etapas da obra.",
+    "destaques": [
+      "Lâmina flexível em aço inox",
+      "Corpo leve e ergonômico"
+    ],
+    "imagem": "images/desempenadeiras/massa-corrida.jpg",
+    "selo": "NOVO",
+    "colunas": [
+      "Descrição",
+      "Qtd",
+      "SKU"
+    ],
+    "camposVariante": [
+      "descricao",
+      "qtd",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Desempenadeira para Massa Corrida 25 cm",
+        "qtd": "3",
+        "codigo": "63476"
+      },
+      {
+        "descricao": "Desempenadeira para Massa Corrida 40 cm",
+        "qtd": "3",
+        "codigo": "63477"
+      },
+      {
+        "descricao": "Desempenadeira para Massa Corrida 60 cm",
+        "qtd": "3",
+        "codigo": "63478"
+      },
+      {
+        "descricao": "Desempenadeira para Massa Corrida 80 cm",
+        "qtd": "3",
+        "codigo": "63479"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)",
+      "pagina": 12
+    }
+  },
+  {
+    "id": "acessorios-ventosa-tripla-abs",
+    "categoria": "acessorios-assentamento",
+    "categoriaNome": "Acessórios para Colocação e Assentamento",
+    "linha": "Ventosa Tripla em ABS",
+    "tagline": "Transporte seguro de peças com superfícies planas",
+    "descricao": "Com capacidade de carga de até 120 kg, é indicada para o transporte seguro de peças com superfícies planas.",
+    "destaques": [
+      "Capacidade de carga de até 120 kg"
+    ],
+    "imagem": "images/acessorios-assentamento/ventosa-tripla-abs.jpg",
+    "selo": "NOVO",
+    "colunas": [
+      "Descrição",
+      "Cap. de Carga",
+      "Qtd",
+      "SKU"
+    ],
+    "camposVariante": [
+      "descricao",
+      "capacidadeCarga",
+      "qtd",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Ventosa Tripla ABS",
+        "capacidadeCarga": "120 kg",
+        "qtd": "3",
+        "codigo": "63448"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)",
+      "pagina": 11
+    }
+  },
+  {
+    "id": "acessorios-ventosas-aluminio",
+    "categoria": "acessorios-assentamento",
+    "categoriaNome": "Acessórios para Colocação e Assentamento",
+    "linha": "Ventosas em Alumínio",
+    "tagline": "Excelente capacidade de aderência e estabilidade no transporte",
+    "descricao": "Linha profissional com estrutura em alumínio, oferece excelente capacidade de aderência e estabilidade durante o transporte e posicionamento das peças e revestimentos lisos.",
+    "destaques": [
+      "Estrutura em alumínio",
+      "Linha profissional simples, dupla e tripla"
+    ],
+    "imagem": "images/acessorios-assentamento/ventosas-aluminio.jpg",
+    "selo": "NOVO",
+    "colunas": [
+      "Descrição",
+      "Cap. de Carga",
+      "Qtd",
+      "SKU"
+    ],
+    "camposVariante": [
+      "descricao",
+      "capacidadeCarga",
+      "qtd",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Ventosa Simples Alumínio",
+        "capacidadeCarga": "50 kg",
+        "qtd": "5",
+        "codigo": "63449"
+      },
+      {
+        "descricao": "Ventosa Dupla Alumínio",
+        "capacidadeCarga": "90 kg",
+        "qtd": "3",
+        "codigo": "63450"
+      },
+      {
+        "descricao": "Ventosa Tripla Alumínio",
+        "capacidadeCarga": "130 kg",
+        "qtd": "3",
+        "codigo": "63451"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)",
+      "pagina": 11
+    }
+  },
+  {
+    "id": "gb-tapete-de-borracha-para-cortador-de-pastilha-mult",
+    "categoria": "cortadores-manuais",
+    "categoriaNome": "Cortadores Manuais",
+    "linha": "Tapete de Borracha para Cortador de Pastilha - Mult",
+    "tagline": "Peça de reposição para equipamentos Cortag.",
+    "descricao": "Peça de reposição para equipamentos Cortag.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Código"
+    ],
+    "variantes": [
+      {
+        "codigo": "60212"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-escala-metrica",
+    "categoria": "medicao",
+    "categoriaNome": "Medição",
+    "linha": "Escala Metrica",
+    "tagline": "Instrumento de medição para uso profissional em obras.",
+    "descricao": "Instrumento de medição para uso profissional em obras.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Medida",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "medida": "2m",
+        "codigo": "60309"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "medida",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-rebite-de-repuxo-em-aluminio",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Rebite de Repuxo em Alumínio",
+    "tagline": "Ferramenta manual para uso profissional em obras e reformas.",
+    "descricao": "Ferramenta manual para uso profissional em obras e reformas.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Medida",
+      "Embalagem",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "medida": "2,4 x 6 mm",
+        "embalagem": "c/ 50 PÇ",
+        "codigo": "60334"
+      },
+      {
+        "medida": "2,4 x 8 mm",
+        "embalagem": "c/ 50 PÇ",
+        "codigo": "60335"
+      },
+      {
+        "medida": "2,4 x 10 mm",
+        "embalagem": "c/ 50 PÇ",
+        "codigo": "60336"
+      },
+      {
+        "medida": "3,2 x 8 mm",
+        "embalagem": "c/ 50 PÇ",
+        "codigo": "60337"
+      },
+      {
+        "medida": "3,2 x 10 mm",
+        "embalagem": "c/ 50 PÇ",
+        "codigo": "60338"
+      },
+      {
+        "medida": "3,2 x 12 mm",
+        "embalagem": "c/ 50 PÇ",
+        "codigo": "60339"
+      },
+      {
+        "medida": "4 x 8 mm",
+        "embalagem": "c/ 50 PÇ",
+        "codigo": "60342"
+      },
+      {
+        "medida": "2,4 x 6 mm",
+        "embalagem": "c/ 100pçs",
+        "codigo": "61151"
+      },
+      {
+        "medida": "3,2 x 6 mm",
+        "embalagem": "c/ 100pçs",
+        "codigo": "61154"
+      },
+      {
+        "medida": "3,2 x 12 mm",
+        "embalagem": "c/ 100pçs",
+        "codigo": "61157"
+      },
+      {
+        "medida": "3,2 x 25 mm",
+        "embalagem": "c/ 100pçs",
+        "codigo": "61161"
+      },
+      {
+        "medida": "4 x 22 mm",
+        "embalagem": "c/ 50 PÇ",
+        "codigo": "61166"
+      },
+      {
+        "medida": "4 x 25 mm",
+        "embalagem": "c/ 50 PÇ",
+        "codigo": "61167"
+      },
+      {
+        "medida": "4,8 x 22 mm",
+        "embalagem": "c/ 50 PÇ",
+        "codigo": "61170"
+      },
+      {
+        "medida": "6,4 x 12 mm",
+        "embalagem": "c/ 50 PÇ",
+        "codigo": "61172"
+      },
+      {
+        "medida": "6,4 x 16 mm",
+        "embalagem": "c/ 50 PÇ",
+        "codigo": "61173"
+      },
+      {
+        "medida": "6,4 x 22 mm",
+        "embalagem": "c/ 50 PÇ",
+        "codigo": "61174"
+      },
+      {
+        "medida": "6,4 x 25 mm",
+        "embalagem": "c/ 50 PÇ",
+        "codigo": "61175"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "medida",
+      "embalagem",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-disco-de-desbaste-flap-cs-bp-g40",
+    "categoria": "abrasivos",
+    "categoriaNome": "Abrasivos",
+    "linha": "Disco de Desbaste Flap Cs-bp G40",
+    "tagline": "Abrasivo para desbaste, corte ou acabamento de superfícies.",
+    "descricao": "Abrasivo para desbaste, corte ou acabamento de superfícies.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Medida",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "medida": "4.1/2\" - 115 mm",
+        "codigo": "60669"
+      },
+      {
+        "medida": "7\" - 180 mm",
+        "codigo": "61670"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "medida",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-colher-para-pedreiro-cabo-plastico-reta",
+    "categoria": "colheres-pedreiro",
+    "categoriaNome": "Colheres de Pedreiro",
+    "linha": "Colher para Pedreiro Cabo Plástico Reta",
+    "tagline": "Colher de pedreiro para aplicação de argamassa e reboco.",
+    "descricao": "Colher de pedreiro para aplicação de argamassa e reboco.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Medida",
+      "Marca",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "medida": "08\"",
+        "marca": "KAEF",
+        "codigo": "60709"
+      },
+      {
+        "medida": "09\"",
+        "marca": "KAEF",
+        "codigo": "60710"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "medida",
+      "marca",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-limitador-lateral-cortadores",
+    "categoria": "cortadores-manuais",
+    "categoriaNome": "Cortadores Manuais",
+    "linha": "Limitador Lateral Cortadores",
+    "tagline": "Peça de reposição para equipamentos Cortag.",
+    "descricao": "Peça de reposição para equipamentos Cortag.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Código"
+    ],
+    "variantes": [
+      {
+        "codigo": "60766"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-rodizio-com-freio-sistema-de-transporte-infinity",
+    "categoria": "grandes-formatos",
+    "categoriaNome": "Grandes Formatos",
+    "linha": "Rodizio com Freio - Sistema de Transporte Infinity",
+    "tagline": "Acessório para o sistema de transporte e movimentação Infinity de grandes formatos.",
+    "descricao": "Acessório para o sistema de transporte e movimentação Infinity de grandes formatos.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Código"
+    ],
+    "variantes": [
+      {
+        "codigo": "60778"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-ventosa-sistema-de-movimentacao-infinity",
+    "categoria": "grandes-formatos",
+    "categoriaNome": "Grandes Formatos",
+    "linha": "Ventosa - Sistema de Movimentação Infinity",
+    "tagline": "Acessório para o sistema de transporte e movimentação Infinity de grandes formatos.",
+    "descricao": "Acessório para o sistema de transporte e movimentação Infinity de grandes formatos.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Código"
+    ],
+    "variantes": [
+      {
+        "codigo": "60779"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-jogo-espuma-cortador-master-75-90",
+    "categoria": "cortadores-manuais",
+    "categoriaNome": "Cortadores Manuais",
+    "linha": "Jogo Espuma Cortador Master 75/90",
+    "tagline": "Peça de reposição para equipamentos Cortag.",
+    "descricao": "Peça de reposição para equipamentos Cortag.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Código"
+    ],
+    "variantes": [
+      {
+        "codigo": "60784"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-rodizio-sem-freio-sistema-de-transporte-infinity",
+    "categoria": "grandes-formatos",
+    "categoriaNome": "Grandes Formatos",
+    "linha": "Rodizio Sem Freio - Sistema de Transporte Infinity",
+    "tagline": "Acessório para o sistema de transporte e movimentação Infinity de grandes formatos.",
+    "descricao": "Acessório para o sistema de transporte e movimentação Infinity de grandes formatos.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Código"
+    ],
+    "variantes": [
+      {
+        "codigo": "60834"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-serra-copo-diamantada-porcelanato",
+    "categoria": "perfuracao",
+    "categoriaNome": "Perfuração",
+    "linha": "Serra Copo Diamantada Porcelanato",
+    "tagline": "Serra copo diamantada para furação de porcelanato e cerâmica.",
+    "descricao": "Serra copo diamantada para furação de porcelanato e cerâmica.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Medida",
+      "Marca",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "medida": "4 mm",
+        "marca": "KAEF",
+        "codigo": "60840"
+      },
+      {
+        "medida": "5 mm",
+        "marca": "KAEF",
+        "codigo": "60841"
+      },
+      {
+        "medida": "6 mm",
+        "marca": "KAEF",
+        "codigo": "60842"
+      },
+      {
+        "medida": "7 mm",
+        "marca": "KAEF",
+        "codigo": "60843"
+      },
+      {
+        "medida": "8 mm",
+        "marca": "KAEF",
+        "codigo": "60844"
+      },
+      {
+        "medida": "9 mm",
+        "marca": "KAEF",
+        "codigo": "60845"
+      },
+      {
+        "medida": "10 mm",
+        "marca": "KAEF",
+        "codigo": "60846"
+      },
+      {
+        "medida": "11 mm",
+        "marca": "KAEF",
+        "codigo": "60847"
+      },
+      {
+        "medida": "12 mm",
+        "marca": "KAEF",
+        "codigo": "60849"
+      },
+      {
+        "medida": "13 mm",
+        "marca": "KAEF",
+        "codigo": "60855"
+      },
+      {
+        "medida": "14 mm",
+        "marca": "KAEF",
+        "codigo": "60891"
+      },
+      {
+        "medida": "20 mm",
+        "marca": "KAEF",
+        "codigo": "60892"
+      },
+      {
+        "medida": "25 mm",
+        "marca": "KAEF",
+        "codigo": "60893"
+      },
+      {
+        "medida": "32 mm",
+        "marca": "KAEF",
+        "codigo": "60895"
+      },
+      {
+        "medida": "35 mm",
+        "marca": "KAEF",
+        "codigo": "60896"
+      },
+      {
+        "medida": "40 mm",
+        "marca": "KAEF",
+        "codigo": "60901"
+      },
+      {
+        "medida": "45 mm",
+        "marca": "KAEF",
+        "codigo": "60951"
+      },
+      {
+        "medida": "50 mm",
+        "marca": "KAEF",
+        "codigo": "60952"
+      },
+      {
+        "medida": "51 mm",
+        "marca": "KAEF",
+        "codigo": "60953"
+      },
+      {
+        "medida": "70 mm",
+        "marca": "KAEF",
+        "codigo": "60954"
+      },
+      {
+        "medida": "76 mm",
+        "marca": "KAEF",
+        "codigo": "61106"
+      },
+      {
+        "medida": "85 mm",
+        "marca": "KAEF",
+        "codigo": "61107"
+      },
+      {
+        "medida": "102 mm",
+        "marca": "KAEF",
+        "codigo": "61108"
+      },
+      {
+        "medida": "110 mm",
+        "marca": "KAEF",
+        "codigo": "61114"
+      },
+      {
+        "medida": "150 mm",
+        "marca": "KAEF",
+        "codigo": "61284"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "medida",
+      "marca",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-trena-aco",
+    "categoria": "medicao",
+    "categoriaNome": "Medição",
+    "linha": "Trena Aço",
+    "tagline": "Instrumento de medição para uso profissional em obras.",
+    "descricao": "Instrumento de medição para uso profissional em obras.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Medida",
+      "Marca",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "medida": "3 m x 15 mm",
+        "marca": "KAEF",
+        "codigo": "60897"
+      },
+      {
+        "medida": "5 m x 18 mm",
+        "marca": "KAEF",
+        "codigo": "60898"
+      },
+      {
+        "medida": "7,5 m x 24 mm",
+        "marca": "KAEF",
+        "codigo": "60899"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "medida",
+      "marca",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-arco-de-serra-premium-12",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Arco de Serra Premium 12",
+    "tagline": "Ferramenta manual para uso profissional em obras e reformas.",
+    "descricao": "Ferramenta manual para uso profissional em obras e reformas.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Medida",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "medida": "300 mm",
+        "codigo": "60936"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "medida",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-disco-diamantado-segmentado",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Disco Diamantado Segmentado",
+    "tagline": "Disco diamantado para corte de materiais de construção.",
+    "descricao": "Disco diamantado para corte de materiais de construção.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Medida",
+      "Marca",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "medida": "110 mm",
+        "marca": "KAEF",
+        "codigo": "60940"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "medida",
+      "marca",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-disco-de-corte-diamantado-continuo",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Disco de Corte Diamantado Contínuo",
+    "tagline": "Disco diamantado para corte de materiais de construção.",
+    "descricao": "Disco diamantado para corte de materiais de construção.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Medida",
+      "Marca",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "medida": "110 mm",
+        "marca": "KAEF",
+        "codigo": "60941"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "medida",
+      "marca",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-disco-de-corte-diamantado-turbo",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Disco de Corte Diamantado Turbo",
+    "tagline": "Disco diamantado para corte de materiais de construção.",
+    "descricao": "Disco diamantado para corte de materiais de construção.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Medida",
+      "Marca",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "medida": "110 mm",
+        "marca": "KAEF",
+        "codigo": "60942"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "medida",
+      "marca",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-lamina-de-serra-circular-para-madeira-24-dentes",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Lâmina de Serra Circular para Madeira 24 Dentes",
+    "tagline": "Lâmina de serra circular para corte de madeira.",
+    "descricao": "Lâmina de serra circular para corte de madeira.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Medida",
+      "Marca",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "medida": "Ø 110 mm",
+        "marca": "KAEF",
+        "codigo": "60943"
+      },
+      {
+        "medida": "Ø 185 mm",
+        "marca": "KAEF",
+        "codigo": "61751"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "medida",
+      "marca",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-serra-copo-diamantada",
+    "categoria": "perfuracao",
+    "categoriaNome": "Perfuração",
+    "linha": "Serra Copo Diamantada",
+    "tagline": "Serra copo diamantada para furação de porcelanato e cerâmica.",
+    "descricao": "Serra copo diamantada para furação de porcelanato e cerâmica.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Medida",
+      "Marca",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "medida": "Ø 115 mm",
+        "marca": "KAEF",
+        "codigo": "61115"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "medida",
+      "marca",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-broca-piloto-para-serra-copo-aco-rapido",
+    "categoria": "perfuracao",
+    "categoriaNome": "Perfuração",
+    "linha": "Broca Piloto para Serra Copo Aço Rápido",
+    "tagline": "Broca ou acessório de perfuração para uso profissional.",
+    "descricao": "Broca ou acessório de perfuração para uso profissional.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Medida",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "medida": "1/4\" x 75 mm",
+        "codigo": "61263"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "medida",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-broca-piloto-para-serra-copo-dente-de-metal-duro",
+    "categoria": "perfuracao",
+    "categoriaNome": "Perfuração",
+    "linha": "Broca Piloto para Serra Copo Dente de Metal Duro",
+    "tagline": "Broca ou acessório de perfuração para uso profissional.",
+    "descricao": "Broca ou acessório de perfuração para uso profissional.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Medida",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "medida": "1/4\" x 90 mm",
+        "codigo": "61264"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "medida",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-cortador-manual-de-ceramica-e-azulejo-vdec",
+    "categoria": "cortadores-manuais",
+    "categoriaNome": "Cortadores Manuais",
+    "linha": "Cortador Manual de Cerâmica e Azulejo Vdec",
+    "tagline": "Cortador manual para corte de cerâmicas e azulejos.",
+    "descricao": "Cortador manual para corte de cerâmicas e azulejos.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Modelo",
+      "Referência",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "modelo": "Vdec 51",
+        "referencia": "68.51.050.000",
+        "codigo": "61397"
+      },
+      {
+        "modelo": "Vdec 75",
+        "referencia": "68.51.075.000",
+        "codigo": "61398"
+      },
+      {
+        "modelo": "Vdec 90",
+        "referencia": "68.51.090.000",
+        "codigo": "61399"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "modelo",
+      "referencia",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-rodel-para-maquina-de-corte-ceramica",
+    "categoria": "cortadores-manuais",
+    "categoriaNome": "Cortadores Manuais",
+    "linha": "Rodel para Máquina de Corte Cerâmica",
+    "tagline": "Rodel de reposição para máquina de corte de cerâmica.",
+    "descricao": "Rodel de reposição para máquina de corte de cerâmica.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Medida",
+      "Referência",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "medida": "80 MM",
+        "referencia": "33.98.080.000",
+        "codigo": "61400"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "medida",
+      "referencia",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-medidor-de-distancia-a-laser-mdc",
+    "categoria": "medicao",
+    "categoriaNome": "Medição",
+    "linha": "Medidor de Distância a Laser MDC",
+    "tagline": "Instrumento de medição para uso profissional em obras.",
+    "descricao": "Instrumento de medição para uso profissional em obras.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Modelo",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "modelo": "MDC 40",
+        "codigo": "61442"
+      },
+      {
+        "modelo": "MDC 60",
+        "codigo": "61443"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "modelo",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-lixa-a-seco-as213",
+    "categoria": "abrasivos",
+    "categoriaNome": "Abrasivos",
+    "linha": "Lixa a Seco AS213",
+    "tagline": "Abrasivo para desbaste, corte ou acabamento de superfícies.",
+    "descricao": "Abrasivo para desbaste, corte ou acabamento de superfícies.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Grão",
+      "Marca",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "grao": "080",
+        "marca": "Cortag",
+        "codigo": "61473"
+      },
+      {
+        "grao": "100",
+        "marca": "Cortag",
+        "codigo": "61474"
+      },
+      {
+        "grao": "120",
+        "marca": "Cortag",
+        "codigo": "61475"
+      },
+      {
+        "grao": "180",
+        "marca": "Cortag",
+        "codigo": "61477"
+      },
+      {
+        "grao": "220",
+        "marca": "Cortag",
+        "codigo": "61478"
+      },
+      {
+        "grao": "240",
+        "marca": "Cortag",
+        "codigo": "61479"
+      },
+      {
+        "grao": "280",
+        "marca": "Cortag",
+        "codigo": "61480"
+      },
+      {
+        "grao": "320",
+        "marca": "Cortag",
+        "codigo": "61481"
+      },
+      {
+        "grao": "360",
+        "marca": "Cortag",
+        "codigo": "61482"
+      },
+      {
+        "grao": "400",
+        "marca": "Cortag",
+        "codigo": "61483"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "grao",
+      "marca",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-lixa-d-agua-plus-da420",
+    "categoria": "abrasivos",
+    "categoriaNome": "Abrasivos",
+    "linha": "Lixa D'Água Plus DA420",
+    "tagline": "Abrasivo para desbaste, corte ou acabamento de superfícies.",
+    "descricao": "Abrasivo para desbaste, corte ou acabamento de superfícies.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Grão",
+      "Marca",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "grao": "060",
+        "marca": "Cortag",
+        "codigo": "61497"
+      },
+      {
+        "grao": "080",
+        "marca": "Cortag",
+        "codigo": "61498"
+      },
+      {
+        "grao": "240",
+        "marca": "Cortag",
+        "codigo": "61504"
+      },
+      {
+        "grao": "280",
+        "marca": "Cortag",
+        "codigo": "61505"
+      },
+      {
+        "grao": "320",
+        "marca": "Cortag",
+        "codigo": "61506"
+      },
+      {
+        "grao": "360",
+        "marca": "Cortag",
+        "codigo": "61507"
+      },
+      {
+        "grao": "400",
+        "marca": "Cortag",
+        "codigo": "61508"
+      },
+      {
+        "grao": "500",
+        "marca": "Cortag",
+        "codigo": "61509"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "grao",
+      "marca",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-disco-diamantado-profissional",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Disco Diamantado Profissional",
+    "tagline": "Disco diamantado para corte de materiais de construção.",
+    "descricao": "Disco diamantado para corte de materiais de construção.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Medida",
+      "Marca",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "medida": "D.200xD.25.4 mm",
+        "marca": "Best Quality",
+        "codigo": "61620"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "medida",
+      "marca",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-disco-de-corte-diamantado-turbo-porcelanato",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Disco de Corte Diamantado Turbo Porcelanato",
+    "tagline": "Disco diamantado para corte de materiais de construção.",
+    "descricao": "Disco diamantado para corte de materiais de construção.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Medida",
+      "Marca",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "medida": "105 mm",
+        "marca": "KAEF",
+        "codigo": "61682"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "medida",
+      "marca",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-broca-piloto-para-serra-copo-porcelanato",
+    "categoria": "perfuracao",
+    "categoriaNome": "Perfuração",
+    "linha": "Broca Piloto Ø para Serra Copo Porcelanato",
+    "tagline": "Broca ou acessório de perfuração para uso profissional.",
+    "descricao": "Broca ou acessório de perfuração para uso profissional.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Medida",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "medida": "1/4\"",
+        "codigo": "61698"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "medida",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-disco-de-desbaste-diamantado-turbo",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Disco de Desbaste Diamantado Turbo",
+    "tagline": "Disco diamantado para desbaste e acabamento de superfícies.",
+    "descricao": "Disco diamantado para desbaste e acabamento de superfícies.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Medida",
+      "Marca",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "medida": "115 mm",
+        "marca": "KAEF",
+        "codigo": "61730"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "medida",
+      "marca",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-disco-de-desbaste-diamantado-segmentado",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Disco de Desbaste Diamantado Segmentado",
+    "tagline": "Disco diamantado para desbaste e acabamento de superfícies.",
+    "descricao": "Disco diamantado para desbaste e acabamento de superfícies.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Medida",
+      "Marca",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "medida": "115 mm",
+        "marca": "KAEF",
+        "codigo": "61732"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "medida",
+      "marca",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-disco-de-desbaste-flap-cs-bp-g60",
+    "categoria": "abrasivos",
+    "categoriaNome": "Abrasivos",
+    "linha": "Disco de Desbaste Flap Cs-bp G60",
+    "tagline": "Abrasivo para desbaste, corte ou acabamento de superfícies.",
+    "descricao": "Abrasivo para desbaste, corte ou acabamento de superfícies.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Medida",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "medida": "7\" - 180 mm",
+        "codigo": "61734"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "medida",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-disco-de-desbaste-flap-cs-bp-g80",
+    "categoria": "abrasivos",
+    "categoriaNome": "Abrasivos",
+    "linha": "Disco de Desbaste Flap Cs-bp G80",
+    "tagline": "Abrasivo para desbaste, corte ou acabamento de superfícies.",
+    "descricao": "Abrasivo para desbaste, corte ou acabamento de superfícies.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Medida",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "medida": "7\" - 180 mm",
+        "codigo": "61735"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "medida",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-disco-de-desbaste-flap-cs-bp-g120",
+    "categoria": "abrasivos",
+    "categoriaNome": "Abrasivos",
+    "linha": "Disco de Desbaste Flap Cs-bp G120",
+    "tagline": "Abrasivo para desbaste, corte ou acabamento de superfícies.",
+    "descricao": "Abrasivo para desbaste, corte ou acabamento de superfícies.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Medida",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "medida": "7\" - 180 mm",
+        "codigo": "61736"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "medida",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-lamina-de-serra-circular-para-madeira-36-dentes",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Lâmina de Serra Circular para Madeira 36 Dentes",
+    "tagline": "Lâmina de serra circular para corte de madeira.",
+    "descricao": "Lâmina de serra circular para corte de madeira.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Medida",
+      "Marca",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "medida": "Ø 185 mm",
+        "marca": "KAEF",
+        "codigo": "61752"
+      },
+      {
+        "medida": "Ø 110 mm",
+        "marca": "KAEF",
+        "codigo": "61757"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "medida",
+      "marca",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-alicate-rebitador-manual-4-pontas",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Alicate Rebitador Manual 4 Pontas",
+    "tagline": "Ferramenta manual para uso profissional em obras e reformas.",
+    "descricao": "Ferramenta manual para uso profissional em obras e reformas.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Marca",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "marca": "KAEF",
+        "codigo": "61785"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "marca",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-raspador-reto-para-drywall-gesso",
+    "categoria": "drywall",
+    "categoriaNome": "Drywall",
+    "linha": "Raspador Reto para Drywall/gesso",
+    "tagline": "Ferramenta para acabamento de drywall e gesso.",
+    "descricao": "Ferramenta para acabamento de drywall e gesso.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Medida",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "medida": "65 mm x 41 mm",
+        "codigo": "61807"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "medida",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-alicate-separador-infinity",
+    "categoria": "grandes-formatos",
+    "categoriaNome": "Grandes Formatos",
+    "linha": "Alicate Separador Infinity",
+    "tagline": "Acessório para o sistema de transporte e movimentação Infinity de grandes formatos.",
+    "descricao": "Acessório para o sistema de transporte e movimentação Infinity de grandes formatos.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Medida",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "medida": "0-15mm",
+        "codigo": "61863"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "medida",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-colher-para-pedreiro-retangular-soldada",
+    "categoria": "colheres-pedreiro",
+    "categoriaNome": "Colheres de Pedreiro",
+    "linha": "Colher para Pedreiro Retangular Soldada",
+    "tagline": "Colher de pedreiro para aplicação de argamassa e reboco.",
+    "descricao": "Colher de pedreiro para aplicação de argamassa e reboco.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Medida",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "medida": "6\"",
+        "codigo": "61890"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "medida",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-kit-marmoraria",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Kit Marmoraria",
+    "tagline": "Disco diamantado para corte de materiais de construção.",
+    "descricao": "Disco diamantado para corte de materiais de construção.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Código"
+    ],
+    "variantes": [
+      {
+        "codigo": "62014"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-disco-de-corte-inox-4-1-2x-3-64x-7-8",
+    "categoria": "abrasivos",
+    "categoriaNome": "Abrasivos",
+    "linha": "Disco de Corte Inox - 4.1/2X 3/64X 7/8",
+    "tagline": "Abrasivo para desbaste, corte ou acabamento de superfícies.",
+    "descricao": "Abrasivo para desbaste, corte ou acabamento de superfícies.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Medida",
+      "Marca",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "medida": "115 mm x 1,0 mm",
+        "marca": "KAEF",
+        "codigo": "62017"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "medida",
+      "marca",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-disco-de-desbaste-flap-oz-bf-g40",
+    "categoria": "abrasivos",
+    "categoriaNome": "Abrasivos",
+    "linha": "Disco de Desbaste Flap Oz-bf G40",
+    "tagline": "Abrasivo para desbaste, corte ou acabamento de superfícies.",
+    "descricao": "Abrasivo para desbaste, corte ou acabamento de superfícies.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Medida",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "medida": "4.1/2\" - 115 mm",
+        "codigo": "62039"
+      },
+      {
+        "medida": "7\" - 180 mm",
+        "codigo": "62043"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "medida",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-disco-de-desbaste-flap-oz-bf-g60",
+    "categoria": "abrasivos",
+    "categoriaNome": "Abrasivos",
+    "linha": "Disco de Desbaste Flap Oz-bf G60",
+    "tagline": "Abrasivo para desbaste, corte ou acabamento de superfícies.",
+    "descricao": "Abrasivo para desbaste, corte ou acabamento de superfícies.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Medida",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "medida": "4.1/2\" - 115 mm",
+        "codigo": "62040"
+      },
+      {
+        "medida": "7\" - 180 mm",
+        "codigo": "62044"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "medida",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-disco-de-desbaste-flap-oz-bf-g80",
+    "categoria": "abrasivos",
+    "categoriaNome": "Abrasivos",
+    "linha": "Disco de Desbaste Flap Oz-bf G80",
+    "tagline": "Abrasivo para desbaste, corte ou acabamento de superfícies.",
+    "descricao": "Abrasivo para desbaste, corte ou acabamento de superfícies.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Medida",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "medida": "4.1/2\" - 115 mm",
+        "codigo": "62041"
+      },
+      {
+        "medida": "7\" - 180 mm",
+        "codigo": "62045"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "medida",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-disco-de-desbaste-flap-oz-bf-g120",
+    "categoria": "abrasivos",
+    "categoriaNome": "Abrasivos",
+    "linha": "Disco de Desbaste Flap Oz-bf G120",
+    "tagline": "Abrasivo para desbaste, corte ou acabamento de superfícies.",
+    "descricao": "Abrasivo para desbaste, corte ou acabamento de superfícies.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Medida",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "medida": "4.1/2\" - 115 mm",
+        "codigo": "62042"
+      },
+      {
+        "medida": "7\" - 180 mm",
+        "codigo": "62046"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "medida",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-kit-cortadores-eletricos",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Kit Cortadores Elétricos",
+    "tagline": "Disco diamantado para corte de materiais de construção.",
+    "descricao": "Disco diamantado para corte de materiais de construção.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Código"
+    ],
+    "variantes": [
+      {
+        "codigo": "62088"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-jogo-de-escovas-de-aco-parafuradeira",
+    "categoria": "limpeza-selantes",
+    "categoriaNome": "Limpeza, Químicos e Selantes",
+    "linha": "Jogo de Escovas de Aço Parafuradeira",
+    "tagline": "Acessório de limpeza para uso profissional.",
+    "descricao": "Acessório de limpeza para uso profissional.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Marca",
+      "Embalagem",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "marca": "KAEF",
+        "embalagem": "c/ 3 PEÇAS",
+        "codigo": "62162"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "marca",
+      "embalagem",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-espacador-junta-piso",
+    "categoria": "espacadores",
+    "categoriaNome": "Espaçadores",
+    "linha": "Espaçador Junta Piso",
+    "tagline": "Espaçador para juntas de piso, garante alinhamento e espaçamento uniforme entre peças.",
+    "descricao": "Espaçador para juntas de piso, garante alinhamento e espaçamento uniforme entre peças.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Medida",
+      "Marca",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "medida": "1mm",
+        "marca": "Vonder",
+        "codigo": "62202"
+      },
+      {
+        "medida": "1,5mm",
+        "marca": "Vonder",
+        "codigo": "62203"
+      },
+      {
+        "medida": "2mm",
+        "marca": "Vonder",
+        "codigo": "62204"
+      },
+      {
+        "medida": "3mm",
+        "marca": "Vonder",
+        "codigo": "62205"
+      },
+      {
+        "medida": "4mm",
+        "marca": "Vonder",
+        "codigo": "62206"
+      },
+      {
+        "medida": "5mm",
+        "marca": "Vonder",
+        "codigo": "62207"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "medida",
+      "marca",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-ventosa-manual-de-succao-maleta",
+    "categoria": "acessorios-assentamento",
+    "categoriaNome": "Acessórios para Colocação e Assentamento",
+    "linha": "Ventosa Manual de Sucção Maleta",
+    "tagline": "Acessório para colocação e assentamento de pisos e revestimentos.",
+    "descricao": "Acessório para colocação e assentamento de pisos e revestimentos.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Marca",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "marca": "Cortag",
+        "codigo": "62366"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "marca",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-espacador-nivelador-smart",
+    "categoria": "sistema-nivelamento",
+    "categoriaNome": "Sistema de Nivelamento",
+    "linha": "Espaçador Nivelador Smart",
+    "tagline": "Espaçador nivelador vendido a granel para sistemas de nivelamento de pisos e revestimentos.",
+    "descricao": "Espaçador nivelador vendido a granel para sistemas de nivelamento de pisos e revestimentos.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Medida",
+      "Embalagem",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "medida": "1,0 mm",
+        "embalagem": "c/ 500 PÇS",
+        "codigo": "62405"
+      },
+      {
+        "medida": "1,5 mm",
+        "embalagem": "c/ 500 PÇS",
+        "codigo": "62408"
+      },
+      {
+        "medida": "2,0 mm",
+        "embalagem": "c/ 500 PÇS",
+        "codigo": "62412"
+      },
+      {
+        "medida": "3,0 mm",
+        "embalagem": "c/ 500 PÇS",
+        "codigo": "62415"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "medida",
+      "embalagem",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-colher-para-pedreiro-cabo-di-redonda-90-x-128-mm",
+    "categoria": "colheres-pedreiro",
+    "categoriaNome": "Colheres de Pedreiro",
+    "linha": "Colher para Pedreiro Cabo Di Redonda 90 X 128 Mm",
+    "tagline": "Colher de pedreiro para aplicação de argamassa e reboco.",
+    "descricao": "Colher de pedreiro para aplicação de argamassa e reboco.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Medida",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "medida": "Ø10mm",
+        "codigo": "62588"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "medida",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-balde-cunha-tradicional",
+    "categoria": "sistema-nivelamento",
+    "categoriaNome": "Sistema de Nivelamento",
+    "linha": "Balde - Cunha Tradicional",
+    "tagline": "Espaçador nivelador vendido a granel para sistemas de nivelamento de pisos e revestimentos.",
+    "descricao": "Espaçador nivelador vendido a granel para sistemas de nivelamento de pisos e revestimentos.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Embalagem",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "embalagem": "c/ 500 PÇS",
+        "codigo": "62709"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "embalagem",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-carrinho-de-mao-cacamba-quad",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Carrinho de Mão Caçamba Quad.",
+    "tagline": "Peça ou acessório de reposição para carrinho de mão.",
+    "descricao": "Peça ou acessório de reposição para carrinho de mão.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Cor",
+      "Capacidade",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "cor": "Vermelho",
+        "capacidade": "50L",
+        "codigo": "62740"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "cor",
+      "capacidade",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-carrinho-de-mao-fort-bucha",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Carrinho de Mão Fort Bucha",
+    "tagline": "Peça ou acessório de reposição para carrinho de mão.",
+    "descricao": "Peça ou acessório de reposição para carrinho de mão.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Cor",
+      "Capacidade",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "cor": "Vermelho",
+        "capacidade": "67L",
+        "codigo": "62741"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "cor",
+      "capacidade",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-aro-pneu-camara-para-carrinho-de-mao",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Aro (pneu/câmara) para Carrinho de Mão",
+    "tagline": "Peça ou acessório de reposição para carrinho de mão.",
+    "descricao": "Peça ou acessório de reposição para carrinho de mão.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Cor",
+      "Capacidade",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "cor": "Vermelho",
+        "capacidade": "45/50L",
+        "codigo": "62776"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "cor",
+      "capacidade",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-pes-para-carrinho-de-mao",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Pés para Carrinho de Mão",
+    "tagline": "Peça ou acessório de reposição para carrinho de mão.",
+    "descricao": "Peça ou acessório de reposição para carrinho de mão.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Embalagem",
+      "Cor",
+      "Capacidade",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "embalagem": "par",
+        "cor": "Vermelho",
+        "capacidade": "45/50L",
+        "codigo": "62778"
+      },
+      {
+        "embalagem": "par",
+        "cor": "Vermelho",
+        "capacidade": "67L",
+        "codigo": "62786"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "embalagem",
+      "cor",
+      "capacidade",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-suporte-cacamba-para-carrinho-de-mao",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Suporte Caçamba para Carrinho de Mão",
+    "tagline": "Peça ou acessório de reposição para carrinho de mão.",
+    "descricao": "Peça ou acessório de reposição para carrinho de mão.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Embalagem",
+      "Cor",
+      "Capacidade",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "embalagem": "par",
+        "cor": "Vermelho",
+        "capacidade": "45/50L",
+        "codigo": "62779"
+      },
+      {
+        "embalagem": "par",
+        "cor": "Vermelho",
+        "capacidade": "67L",
+        "codigo": "62787"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "embalagem",
+      "cor",
+      "capacidade",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-suporte-eixo-para-carrinho-de-mao",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Suporte Eixo para Carrinho de Mão",
+    "tagline": "Peça ou acessório de reposição para carrinho de mão.",
+    "descricao": "Peça ou acessório de reposição para carrinho de mão.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Embalagem",
+      "Cor",
+      "Capacidade",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "embalagem": "par",
+        "cor": "Vermelho",
+        "capacidade": "45/50L",
+        "codigo": "62780"
+      },
+      {
+        "embalagem": "par",
+        "cor": "Vermelho",
+        "capacidade": "67L",
+        "codigo": "62788"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "embalagem",
+      "cor",
+      "capacidade",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-eixo-para-carrinho-de-mao",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Eixo para Carrinho de Mão",
+    "tagline": "Peça ou acessório de reposição para carrinho de mão.",
+    "descricao": "Peça ou acessório de reposição para carrinho de mão.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Cor",
+      "Capacidade",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "cor": "Vermelho",
+        "capacidade": "45/50L",
+        "codigo": "62781"
+      },
+      {
+        "cor": "Vermelho",
+        "capacidade": "67L",
+        "codigo": "62789"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "cor",
+      "capacidade",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-jogo-parafusos-para-carrinho-de-mao",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Jogo Parafusos para Carrinho de Mão",
+    "tagline": "Peça ou acessório de reposição para carrinho de mão.",
+    "descricao": "Peça ou acessório de reposição para carrinho de mão.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Cor",
+      "Capacidade",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "cor": "Vermelho",
+        "capacidade": "45/50L",
+        "codigo": "62782"
+      },
+      {
+        "cor": "Vermelho",
+        "capacidade": "67L",
+        "codigo": "62790"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "cor",
+      "capacidade",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-punho-para-carrinho-de-mao",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Punho para Carrinho de Mão",
+    "tagline": "Peça ou acessório de reposição para carrinho de mão.",
+    "descricao": "Peça ou acessório de reposição para carrinho de mão.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Embalagem",
+      "Cor",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "embalagem": "par",
+        "cor": "Preto",
+        "codigo": "62783"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "embalagem",
+      "cor",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-travessa-cabo-para-carrinho-de-mao",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Travessa Cabo para Carrinho de Mão",
+    "tagline": "Peça ou acessório de reposição para carrinho de mão.",
+    "descricao": "Peça ou acessório de reposição para carrinho de mão.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Cor",
+      "Capacidade",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "cor": "Vermelho",
+        "capacidade": "45/50L",
+        "codigo": "62784"
+      },
+      {
+        "cor": "Vermelho",
+        "capacidade": "67L",
+        "codigo": "62791"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "cor",
+      "capacidade",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-mao-francesa-para-carrinho-de-mao",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Mão Francesa para Carrinho de Mão",
+    "tagline": "Peça ou acessório de reposição para carrinho de mão.",
+    "descricao": "Peça ou acessório de reposição para carrinho de mão.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Embalagem",
+      "Cor",
+      "Capacidade",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "embalagem": "par",
+        "cor": "Vermelho",
+        "capacidade": "45/50L",
+        "codigo": "62785"
+      },
+      {
+        "embalagem": "par",
+        "cor": "Vermelho",
+        "capacidade": "67L",
+        "codigo": "62792"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "embalagem",
+      "cor",
+      "capacidade",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-broca-encaixe-sds-plus-para-concreto",
+    "categoria": "perfuracao",
+    "categoriaNome": "Perfuração",
+    "linha": "Broca Encaixe Sds Plus para Concreto",
+    "tagline": "Broca ou acessório de perfuração para uso profissional.",
+    "descricao": "Broca ou acessório de perfuração para uso profissional.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Medida",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "medida": "8mm x 250mm x 350mm",
+        "codigo": "62815"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "medida",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-kit-montagem-para-carrinho-de-mao",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Kit Montagem para Carrinho de Mão",
+    "tagline": "Peça ou acessório de reposição para carrinho de mão.",
+    "descricao": "Peça ou acessório de reposição para carrinho de mão.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Cor",
+      "Capacidade",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "cor": "Vermelho",
+        "capacidade": "45L",
+        "codigo": "62820"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "cor",
+      "capacidade",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-cabo-0-80-para-carrinho-de-mao",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Cabo 0,80 para Carrinho de Mão",
+    "tagline": "Peça ou acessório de reposição para carrinho de mão.",
+    "descricao": "Peça ou acessório de reposição para carrinho de mão.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Cor",
+      "Capacidade",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "cor": "Vermelho",
+        "capacidade": "45L",
+        "codigo": "62822"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "cor",
+      "capacidade",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-nivel-laser-3d-pro-nlc847-12-linhas",
+    "categoria": "medicao",
+    "categoriaNome": "Medição",
+    "linha": "Nível Laser 3D Pró NLC847 - 12 Linhas",
+    "tagline": "Instrumento de medição para uso profissional em obras.",
+    "descricao": "Instrumento de medição para uso profissional em obras.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Cor",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "cor": "Verde",
+        "codigo": "62847"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "cor",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-espatula-aplicadora-para-rejunte",
+    "categoria": "acessorios-assentamento",
+    "categoriaNome": "Acessórios para Colocação e Assentamento",
+    "linha": "Espátula Aplicadora para Rejunte",
+    "tagline": "Acessório para colocação e assentamento de pisos e revestimentos.",
+    "descricao": "Acessório para colocação e assentamento de pisos e revestimentos.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Código"
+    ],
+    "variantes": [
+      {
+        "codigo": "62977"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-corda-trancada-colorida-pet",
+    "categoria": "utilidades",
+    "categoriaNome": "Utilidades",
+    "linha": "Corda Trançada Colorida Pet",
+    "tagline": "Utilidade para uso geral em obras e reformas.",
+    "descricao": "Utilidade para uso geral em obras e reformas.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Carretel",
+      "Medida",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "carretel": "157 m",
+        "medida": "8 mm",
+        "codigo": "63021"
+      },
+      {
+        "carretel": "113 m",
+        "medida": "10 mm",
+        "codigo": "63022"
+      },
+      {
+        "carretel": "73 m",
+        "medida": "12 mm",
+        "codigo": "63023"
+      },
+      {
+        "carretel": "40 m",
+        "medida": "14 mm",
+        "codigo": "63024"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "carretel",
+      "medida",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-disco-de-corte-diamantado",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Disco de Corte Diamantado",
+    "tagline": "Disco diamantado para corte de materiais de construção.",
+    "descricao": "Disco diamantado para corte de materiais de construção.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Medida",
+      "Marca",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "medida": "125 mm",
+        "marca": "Durokort Premium",
+        "codigo": "63306"
+      },
+      {
+        "medida": "200 mm",
+        "marca": "Durokort Premium",
+        "codigo": "63307"
+      },
+      {
+        "medida": "254 mm",
+        "marca": "Durokort Premium",
+        "codigo": "63308"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "medida",
+      "marca",
+      "codigo"
+    ]
+  },
+  {
+    "id": "gb-lixadeira-roto-orbital-300w-lrc300",
+    "categoria": "maquinas-eletricas",
+    "categoriaNome": "Máquinas Elétricas e Acessórios",
+    "linha": "Lixadeira Roto Orbital 300W - LRC300",
+    "tagline": "Máquina elétrica portátil para uso profissional.",
+    "descricao": "Máquina elétrica portátil para uso profissional.",
+    "imagem": "images/placeholder.svg",
+    "colunas": [
+      "Voltagem",
+      "Medida",
+      "Código"
+    ],
+    "variantes": [
+      {
+        "voltagem": "127V",
+        "medida": "5\"",
+        "codigo": "63502"
+      },
+      {
+        "voltagem": "220V",
+        "medida": "5\"",
+        "codigo": "63503"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Lista de preços Cortag (sem catálogo em PDF)",
+      "pagina": null
+    },
+    "camposVariante": [
+      "voltagem",
+      "medida",
+      "codigo"
+    ]
   }
-,{"id": "cortadores-manuais-cortador-hi-tech", "categoria": "cortadores-manuais", "categoriaNome": "Cortadores Manuais", "linha": "Cortador Hi-Tech", "tagline": "Máxima precisão, produtividade e robustez no corte manual", "descricao": "O Cortador Hi-Tech Cortag foi desenvolvido para oferecer máxima precisão, produtividade e robustez no corte manual de pisos e revestimentos cerâmicos e porcelanatos. Com estrutura em alumínio, carro guia com 15 rolamentos e sistema de separação de alto desempenho, proporciona cortes retos e diagonais precisos, mesmo em peças de grandes formatos e com espessura de até 15 mm.", "destaques": ["Carro guia com 15 rolamentos", "Sistema de separação de alto desempenho", "Corte de peças com espessura de até 15 mm"], "imagem": "images/cortadores-manuais/cortador-hi-tech.jpg", "selo": "NOVO", "colunas": ["Modelo", "Corte máx.", "Qtd", "SKU"], "camposVariante": ["modelo", "corte", "qtd", "codigo"], "variantes": [{"modelo": "Hi-Tech 85", "corte": "85 cm", "qtd": "1", "codigo": "63672"}, {"modelo": "Hi-Tech 100", "corte": "100 cm", "qtd": "1", "codigo": "63673"}, {"modelo": "Hi-Tech 125", "corte": "125 cm", "qtd": "1", "codigo": "63367"}], "observacao": "*Capacidade máxima de corte reto.", "fonte": {"arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)", "pagina": 2}}, {"id": "cortadores-manuais-cortador-prime-plus", "categoria": "cortadores-manuais", "categoriaNome": "Cortadores Manuais", "linha": "Cortador Prime Plus", "tagline": "Cortes precisos, rápidos e eficientes em pisos e revestimentos", "descricao": "Desenvolvido para garantir cortes precisos, rápidos e eficientes em pisos e revestimentos. Com estrutura leve e robusta em alumínio, guias reforçadas, e inovador carro rolamentado, oferece máxima estabilidade, praticidade e alto desempenho. Ideal para profissionais que buscam produtividade, durabilidade e excelência nos acabamentos.", "destaques": ["Estrutura leve e robusta em alumínio", "Guias reforçadas e carro rolamentado", "Alta estabilidade e praticidade"], "imagem": "images/cortadores-manuais/cortador-prime-plus.jpg", "selo": "NOVO", "colunas": ["Modelo", "Corte máx.", "Qtd", "SKU"], "camposVariante": ["modelo", "corte", "qtd", "codigo"], "variantes": [{"modelo": "Prime Plus 85", "corte": "85 cm", "qtd": "1", "codigo": "63532"}, {"modelo": "Prime Plus 92", "corte": "92 cm", "qtd": "1", "codigo": "63534"}, {"modelo": "Prime Plus 120", "corte": "120 cm", "qtd": "1", "codigo": "63345"}, {"modelo": "Prime Plus 130", "corte": "130 cm", "qtd": "1", "codigo": "63528"}, {"modelo": "Prime Plus 165", "corte": "165 cm", "qtd": "1", "codigo": "63670"}, {"modelo": "Prime Plus 185", "corte": "185 cm", "qtd": "1", "codigo": "63691"}], "observacao": "*Capacidade máxima de corte reto.", "fonte": {"arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)", "pagina": 2}}, {"id": "cortadores-manuais-kit-rodel-hi-tech", "categoria": "cortadores-manuais", "categoriaNome": "Cortadores Manuais", "linha": "Kit Rodel Cortador Hi-Tech", "tagline": "Cortes mais leves, precisos e contínuos", "descricao": "Desenvolvido para entregar máxima eficiência no corte de pisos e revestimentos. Seu disco de carboneto de tungstênio com revestimento de titânio, aliado ao rolamento radial, garante cortes mais leves, precisos e contínuos. Com alto desempenho e durabilidade superior, é a escolha ideal para o uso profissional.", "destaques": ["Disco de carboneto de tungstênio com revestimento de titânio", "Rolamento radial", "Alta durabilidade"], "imagem": "images/cortadores-manuais/kit-rodel-hi-tech.jpg", "selo": "NOVO", "colunas": ["Descrição", "Medida", "Qtd", "SKU"], "camposVariante": ["descricao", "medida", "qtd", "codigo"], "variantes": [{"descricao": "Rodel Cortador Hi-Tech", "medida": "22 mm", "qtd": "1", "codigo": "63526"}], "fonte": {"arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)", "pagina": 3}}, {"id": "cortadores-manuais-cortador-cg-pro-120", "categoria": "cortadores-manuais", "categoriaNome": "Cortadores Manuais", "linha": "Cortador CG Pro 120", "tagline": "Solução compacta para cortes precisos e alto desempenho", "descricao": "Solução mais compacta para quem busca cortes precisos, praticidade e alto desempenho na instalação de pisos e revestimentos. Seu grande diferencial está no carro guia com 15 rolamentos e sino auto-posicionável, que proporciona deslizamento extremamente suave, maior estabilidade e precisão superior durante o corte. A guia única em aço revestido garante alinhamento perfeito, enquanto os apoios laterais ajustáveis e o limitador para cortes retos e diagonais ampliam a versatilidade do equipamento. Compacto, robusto e fácil de transportar, é a escolha ideal para profissionais que exigem mobilidade sem abrir mão da qualidade e da precisão nos acabamentos.", "destaques": ["Carro guia com 15 rolamentos e sino auto-posicionável", "Guia única em aço revestido", "Apoios laterais ajustáveis e limitador para cortes retos e diagonais"], "imagem": "images/cortadores-manuais/cortador-cg-pro-120.jpg", "selo": "NOVO", "colunas": ["Descrição", "Corte máx.", "Qtd", "SKU"], "camposVariante": ["descricao", "corte", "qtd", "codigo"], "variantes": [{"descricao": "Cortador CG Pro 120", "corte": "120 cm", "qtd": "1", "codigo": "63585"}], "observacao": "*Capacidade máxima de corte reto.", "fonte": {"arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)", "pagina": 3}}, {"id": "cortadores-manuais-cortador-basic-35", "categoria": "cortadores-manuais", "categoriaNome": "Cortadores Manuais", "linha": "Cortador Basic 35", "tagline": "Solução prática, compacta e eficiente para cortes de pisos e revestimentos", "descricao": "A escolha ideal para quem busca uma solução prática, compacta e eficiente para cortes de pisos e revestimentos. Combina simplicidade de operação com excelente desempenho, contando com sistema de separação na base do cortador, que proporciona mais rapidez e facilidade durante o trabalho. Seu suporte guia em alumínio injetado garante maior resistência e precisão, enquanto a espuma de apoio de alta densidade oferece firmeza durante a separação das peças. Compacto, leve e funcional, o Basic 35 entrega a qualidade e a confiabilidade necessárias para aplicações do dia a dia.", "destaques": ["Sistema de separação na base do cortador", "Suporte guia em alumínio injetado", "Espuma de apoio de alta densidade"], "imagem": "images/cortadores-manuais/cortador-basic-35.jpg", "selo": "NOVO", "colunas": ["Descrição", "Corte máx.", "Qtd", "SKU"], "camposVariante": ["descricao", "corte", "qtd", "codigo"], "variantes": [{"descricao": "Cortador Basic 35", "corte": "35 cm", "qtd": "1", "codigo": "63352"}], "observacao": "*Capacidade máxima de corte reto.", "fonte": {"arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)", "pagina": 3}}, {"id": "grandes-formatos-sistema-movimentacao-c320-g2", "categoria": "grandes-formatos", "categoriaNome": "Grandes Formatos", "linha": "Sistema de Movimentação Infinity C320 G2", "tagline": "Transporte, elevação e posicionamento seguros de grandes formatos", "descricao": "O Sistema de Movimentação para Grandes Formatos Infinity C320 G2 foi desenvolvido para proporcionar transporte, elevação e posicionamento seguros de peças de grandes dimensões. Com estrutura modular em alumínio, ventosas de alta performance e capacidade de carga de até 200 kg, oferece máxima estabilidade, ergonomia e eficiência durante a movimentação e instalação de porcelanatos, vidros e outros materiais planos de grandes formatos.", "destaques": ["Estrutura modular em alumínio", "Ventosas de alta performance", "Capacidade de carga de até 200 kg"], "imagem": "images/grandes-formatos/sistema-movimentacao-c320-g2.jpg", "selo": "NOVO", "colunas": ["Descrição", "Qtd", "SKU"], "camposVariante": ["descricao", "qtd", "codigo"], "variantes": [{"descricao": "Sistema de Movimentação Grandes Formatos Infinity C320 G2", "qtd": "1", "codigo": "63529"}], "fonte": {"arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)", "pagina": 4}}, {"id": "grandes-formatos-sistema-transporte-infinity-g2", "categoria": "grandes-formatos", "categoriaNome": "Grandes Formatos", "linha": "Sistema de Transporte Infinity G2", "tagline": "Transporte seguro, estável e eficiente de peças de grandes formatos", "descricao": "O Sistema de Transporte Infinity G2 foi desenvolvido para proporcionar transporte seguro, estável e eficiente de peças de grandes formatos. Com estrutura em alumínio, apoios emborrachados e capacidade de carga de até 300kg, oferece máxima proteção, mobilidade e praticidade durante o deslocamento de porcelanatos, pedras naturais, vidros e outros materiais planos de grandes dimensões.", "destaques": ["Estrutura em alumínio", "Apoios emborrachados", "Capacidade de carga de até 300 kg"], "imagem": "images/grandes-formatos/sistema-transporte-infinity-g2.jpg", "selo": "NOVO", "colunas": ["Descrição", "Qtd", "SKU"], "camposVariante": ["descricao", "qtd", "codigo"], "variantes": [{"descricao": "Sistema de Transporte Infinity G2", "qtd": "1", "codigo": "63490"}], "fonte": {"arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)", "pagina": 4}}, {"id": "grandes-formatos-protetor-de-canto", "categoria": "grandes-formatos", "categoriaNome": "Grandes Formatos", "linha": "Protetor de Canto", "tagline": "Proteção de cantos e bordas durante transporte, manuseio e instalação", "descricao": "O Protetor de Canto para Grandes Formatos Cortag foi desenvolvido para proteger cantos e bordas de peças durante o transporte, manuseio e instalação.", "destaques": ["Proteção de cantos e bordas", "Uso em transporte, manuseio e instalação"], "imagem": "images/grandes-formatos/protetor-de-canto.jpg", "selo": "NOVO", "colunas": ["Descrição", "Qtd", "SKU"], "camposVariante": ["descricao", "qtd", "codigo"], "variantes": [{"descricao": "Protetor de Canto p/ Grandes Formatos", "qtd": "4", "codigo": "63241"}], "fonte": {"arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)", "pagina": 5}}, {"id": "grandes-formatos-apoio-prateleira", "categoria": "grandes-formatos", "categoriaNome": "Grandes Formatos", "linha": "Apoio Prateleira Bancada Infinity", "tagline": "Prateleira auxiliar que amplia a organização da área de trabalho", "descricao": "Prateleira auxiliar que amplia a organização da área de trabalho, mantendo ferramentas e acessórios sempre à mão. Sua estrutura metálica e resistente oferece praticidade e instalação rápida na bancada.", "destaques": ["Estrutura metálica resistente", "Instalação rápida na bancada"], "imagem": "images/grandes-formatos/apoio-prateleira.jpg", "selo": "NOVO", "colunas": ["Descrição", "Medida", "Qtd", "SKU"], "camposVariante": ["descricao", "medida", "qtd", "codigo"], "variantes": [{"descricao": "Apoio Prateleira Bancada Infinity", "medida": "515 mm", "qtd": "1", "codigo": "63666"}], "fonte": {"arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)", "pagina": 5}}, {"id": "grandes-formatos-conjunto-apoio-trilhos", "categoria": "grandes-formatos", "categoriaNome": "Grandes Formatos", "linha": "Conjunto Apoio dos Trilhos", "tagline": "Suporte para sustentação dos trilhos dos Cortadores Infinity", "descricao": "Suporte para sustentação dos trilhos dos Cortadores Infinity, com estrutura robusta e fácil instalação e ajuste.", "destaques": ["Estrutura robusta", "Fácil instalação e ajuste"], "imagem": "images/grandes-formatos/conjunto-apoio-trilhos.jpg", "selo": "NOVO", "colunas": ["Descrição", "Medida", "Qtd", "SKU"], "camposVariante": ["descricao", "medida", "qtd", "codigo"], "variantes": [{"descricao": "Conj. Apoio Trilhos Bancada Infinity C180", "medida": "256 mm", "qtd": "4", "codigo": "63664"}], "fonte": {"arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)", "pagina": 5}}, {"id": "grandes-formatos-distanciador-bancada", "categoria": "grandes-formatos", "categoriaNome": "Grandes Formatos", "linha": "Distanciador Bancada Infinity", "tagline": "Protege os trilhos da bancada durante corte e perfuração", "descricao": "Fabricado em borracha, protege os trilhos da bancada durante operações de corte e perfuração com máquinas elétricas, garante o distanciamento adequado entre trilhos, pisos e revestimentos.", "destaques": ["Fabricado em borracha", "Distanciamento adequado entre trilhos, pisos e revestimentos"], "imagem": "images/grandes-formatos/distanciador-bancada.jpg", "selo": "NOVO", "colunas": ["Descrição", "Medida", "Qtd", "SKU"], "camposVariante": ["descricao", "medida", "qtd", "codigo"], "variantes": [{"descricao": "Distanciador Bancada Infinity", "medida": "40 mm", "qtd": "20", "codigo": "63665"}], "fonte": {"arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)", "pagina": 5}}, {"id": "grandes-formatos-grampos-bancada", "categoria": "grandes-formatos", "categoriaNome": "Grandes Formatos", "linha": "Grampos Bancada Infinity", "tagline": "Sistema de fixação e travamento para pisos e revestimentos", "descricao": "Sistema de fixação e travamento para pisos e revestimentos que proporciona maior estabilidade, segurança e precisão durante as operações. Ideal para o trabalho com revestimentos de grandes formatos.", "destaques": ["Maior estabilidade e segurança", "Ideal para revestimentos de grandes formatos"], "imagem": "images/grandes-formatos/grampos-bancada.jpg", "selo": "NOVO", "colunas": ["Descrição", "Medida", "Qtd", "SKU"], "camposVariante": ["descricao", "medida", "qtd", "codigo"], "variantes": [{"descricao": "Grampos Bancada Infinity C180", "medida": "110 mm", "qtd": "4", "codigo": "63663"}], "fonte": {"arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)", "pagina": 5}}, {"id": "ferramentas-manuais-lamina-trapezoidal", "categoria": "ferramentas-manuais", "categoriaNome": "Ferramentas Manuais", "linha": "Lâmina para Estilete Trapezoidal", "tagline": "Máximo desempenho, precisão e durabilidade em cortes profissionais", "descricao": "A Lâmina Trapezoidal Cortag foi desenvolvida para oferecer máximo desempenho, precisão e durabilidade em cortes profissionais. Fabricada em aço de alta resistência que proporciona maior vida útil. Compatível com o Estilete Canivete Cortag (SKU 63165).", "destaques": ["Aço de alta resistência", "Maior vida útil", "Compatível com Estilete Canivete Cortag"], "imagem": "images/ferramentas-manuais/lamina-trapezoidal.jpg", "selo": "NOVO", "colunas": ["Descrição", "Medida", "Qtd", "SKU"], "camposVariante": ["descricao", "medida", "qtd", "codigo"], "variantes": [{"descricao": "Lâmina Trapezoidal", "medida": "61 mm", "qtd": "6", "codigo": "63168"}], "fonte": {"arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)", "pagina": 6}}, {"id": "utilidades-regulador-gas", "categoria": "utilidades", "categoriaNome": "Utilidades", "linha": "Regulador de Gás", "tagline": "Segurança, estabilidade e eficiência no controle da pressão do gás", "descricao": "Segurança, estabilidade e eficiência no controle da pressão do gás em instalações residenciais. Compatível com botijões P13, garante fluxo contínuo e confiável.", "destaques": ["Compatível com botijões P13", "Fluxo contínuo e confiável"], "imagem": "images/utilidades/regulador-gas.jpg", "selo": "NOVO", "colunas": ["Descrição", "Qtd", "SKU"], "camposVariante": ["descricao", "qtd", "codigo"], "variantes": [{"descricao": "Regulador Registro Gás GLP Baixa Pressão 1 Kg", "qtd": "6", "codigo": "63101"}], "fonte": {"arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)", "pagina": 6}}, {"id": "utilidades-carrinho-mao-compacto-45l", "categoria": "utilidades", "categoriaNome": "Utilidades", "linha": "Carrinho de Mão Compacto 45L", "tagline": "Praticidade, resistência e eficiência no transporte de materiais", "descricao": "O Carrinho de Mão Compacto 45L foi desenvolvido para oferecer praticidade, resistência e eficiência no transporte de materiais em obras, reformas e atividades de jardinagem. Com estrutura em aço galvanizado, cabo desmontável e embalagem compacta, proporciona maior facilidade no transporte, armazenamento e montagem, sem abrir mão da capacidade de carga necessária para o uso diário.", "destaques": ["Estrutura em aço galvanizado", "Cabo desmontável e embalagem compacta", "Capacidade de carga de 100 kg"], "imagem": "images/utilidades/carrinho-mao-compacto-45l.jpg", "selo": "NOVO", "colunas": ["Descrição", "Cap. de Carga", "Qtd", "SKU"], "camposVariante": ["descricao", "capacidadeCarga", "qtd", "codigo"], "variantes": [{"descricao": "Carrinho de Mão Compacto 45L", "capacidadeCarga": "100 kg", "qtd": "1", "codigo": "63553"}], "fonte": {"arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)", "pagina": 6}}, {"id": "utilidades-fitas-dupla-face", "categoria": "utilidades", "categoriaNome": "Utilidades", "linha": "Fitas Dupla Face", "tagline": "Fixação rápida, segura e duradoura em diferentes aplicações", "descricao": "A linha de Fitas Dupla Face Cortag foi desenvolvida para proporcionar fixação rápida, segura e duradoura em diferentes aplicações. Com opções para uso geral, objetos pesados e áreas úmidas, oferece alta aderência, acabamento limpo e instalação prática, eliminando a necessidade de perfurações na maioria das aplicações.", "destaques": ["Alta aderência e acabamento limpo", "Opções para uso geral, objetos pesados e áreas úmidas", "Elimina a necessidade de perfurações"], "imagem": "images/utilidades/fitas-dupla-face.jpg", "selo": "NOVO", "colunas": ["Descrição", "Medida", "Qtd", "SKU"], "camposVariante": ["descricao", "medida", "qtd", "codigo"], "variantes": [{"descricao": "Fita Dupla Face", "medida": "12 mm", "qtd": "12", "codigo": "63549"}, {"descricao": "Fita Dupla Face", "medida": "19 mm", "qtd": "12", "codigo": "63550"}, {"descricao": "Fita Dupla Face Força Extrema", "medida": "24 mm", "qtd": "12", "codigo": "63551"}, {"descricao": "Fita Dupla Face Áreas Úmidas", "medida": "12 mm", "qtd": "12", "codigo": "63552"}], "fonte": {"arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)", "pagina": 13}}, {"id": "limpeza-selantes-raspador-finalizador", "categoria": "limpeza-selantes", "categoriaNome": "Limpeza e Selantes", "linha": "Raspador e Finalizador de Rejunte e Calafetagem", "tagline": "Acabamento limpo, uniforme e profissional na remoção de selantes", "descricao": "Ideal para remover silicone, acrílico e outros selantes, resultando num acabamento limpo, uniforme e profissional em pias, revestimentos, janelas e vidros. Remove o excesso de material, elimina bolhas e imperfeições e acompanha cinco ponteiras intercambiáveis de diferentes tamanhos para atender às mais diversas aplicações.", "destaques": ["Remove silicone, acrílico e outros selantes", "Acompanha 5 ponteiras intercambiáveis", "Elimina bolhas e imperfeições"], "imagem": "images/limpeza-selantes/raspador-finalizador.jpg", "selo": "NOVO", "colunas": ["Descrição", "Medida", "Qtd", "SKU"], "camposVariante": ["descricao", "medida", "qtd", "codigo"], "variantes": [{"descricao": "Raspador e Finalizador de Rejunte e Calafetagem", "medida": "40 cm", "qtd": "12", "codigo": "63470"}], "fonte": {"arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)", "pagina": 6}}, {"id": "abrasivos-fibra-polimento", "categoria": "abrasivos", "categoriaNome": "Abrasivos", "linha": "Fibra para Polimento", "tagline": "Acabamento uniforme e alto brilho em superfícies de alta dureza", "descricao": "A Fibra para Polimento Tipo Esponja Cortag foi desenvolvida para proporcionar acabamento uniforme, remoção de riscos superficiais e alto brilho em superfícies de alta dureza. Com estrutura em espuma reforçada e fibras abrasivas entrelaçadas, oferece excelente adaptação à superfície, durabilidade e desempenho em operações de polimento profissional.", "destaques": ["Estrutura em espuma reforçada", "Fibras abrasivas entrelaçadas", "Excelente adaptação à superfície"], "imagem": "images/abrasivos/fibra-polimento.jpg", "selo": "NOVO", "colunas": ["Descrição", "Medida", "Qtd", "SKU"], "camposVariante": ["descricao", "medida", "qtd", "codigo"], "variantes": [{"descricao": "Fibra para Polimento G-150", "medida": "10 cm", "qtd": "6", "codigo": "63515"}, {"descricao": "Fibra para Polimento G-300", "medida": "10 cm", "qtd": "6", "codigo": "63516"}, {"descricao": "Fibra para Polimento G-500", "medida": "10 cm", "qtd": "6", "codigo": "63517"}, {"descricao": "Fibra para Polimento G-1000", "medida": "10 cm", "qtd": "6", "codigo": "63518"}, {"descricao": "Fibra para Polimento G-2000", "medida": "10 cm", "qtd": "6", "codigo": "63519"}, {"descricao": "Fibra para Polimento G-3000", "medida": "10 cm", "qtd": "6", "codigo": "63520"}, {"descricao": "Fibra para Polimento G-6000", "medida": "10 cm", "qtd": "6", "codigo": "63521"}, {"descricao": "Fibra para Polimento G-10000", "medida": "10 cm", "qtd": "6", "codigo": "63522"}], "fonte": {"arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)", "pagina": 7}}, {"id": "maquinas-eletricas-batedor-turbomix", "categoria": "maquinas-eletricas", "categoriaNome": "Máquinas Elétricas e Acessórios", "linha": "Batedor Turbomix", "tagline": "Mistura argamassas, tintas, gesso e outros materiais com rapidez", "descricao": "Mistura argamassas, tintas, gesso e outros materiais com rapidez e homogeneidade. Equipado com dupla hélice, haste longa com encaixe hexagonal oferece maior produtividade e conforto durante o uso.", "destaques": ["Dupla hélice", "Haste longa com encaixe hexagonal"], "imagem": "images/maquinas-eletricas/batedor-turbomix.jpg", "selo": "NOVO", "colunas": ["Descrição", "Medida", "Qtd", "SKU"], "camposVariante": ["descricao", "medida", "qtd", "codigo"], "variantes": [{"descricao": "Batedor de Argamassa Turbomix 28\"", "medida": "70 cm", "qtd": "3", "codigo": "63530"}, {"descricao": "Batedor de Argamassa Turbomix 36\"", "medida": "90 cm", "qtd": "3", "codigo": "63531"}], "fonte": {"arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)", "pagina": 7}}, {"id": "maquinas-eletricas-sistema-refrigeracao", "categoria": "maquinas-eletricas", "categoriaNome": "Máquinas Elétricas e Acessórios", "linha": "Sistema de Refrigeração", "tagline": "Refrigeração eficiente durante operações de corte e desbaste", "descricao": "Desenvolvido para proporcionar refrigeração eficiente durante operações de corte e desbaste, reduzindo o aquecimento do disco, aumentando sua vida útil e proporcionando cortes mais precisos, seguros e com menor emissão de poeira. Compatível com serras mármore e esmerilhadeiras, oferece instalação prática e excelente desempenho em aplicações profissionais. Acompanha mangueira de 5m, bico flexível, conector e fita veda rosca.", "destaques": ["Reduz o aquecimento do disco", "Menor emissão de poeira", "Compatível com serras mármore e esmerilhadeiras"], "imagem": "images/maquinas-eletricas/sistema-refrigeracao.jpg", "selo": "NOVO", "colunas": ["Descrição", "Qtd", "SKU"], "camposVariante": ["descricao", "qtd", "codigo"], "variantes": [{"descricao": "Sistema de Refrigeração Serra Mármore/Esmerilhadeira", "qtd": "3", "codigo": "63491"}], "fonte": {"arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)", "pagina": 13}}, {"id": "maquinas-eletricas-lixadeira-orbital", "categoria": "maquinas-eletricas", "categoriaNome": "Máquinas Elétricas e Acessórios", "linha": "Lixadeira Orbital", "tagline": "Lixamentos finos e acabamento de superfícies de madeira", "descricao": "Ideal para lixamentos finos e acabamento de superfícies de madeira, oferece excelente qualidade de acabamento, baixo nível de vibração e maior conforto durante a operação.", "destaques": ["Baixo nível de vibração", "Excelente qualidade de acabamento"], "imagem": "images/maquinas-eletricas/lixadeira-orbital.jpg", "selo": "NOVO", "colunas": ["Descrição", "Qtd", "SKU"], "camposVariante": ["descricao", "qtd", "codigo"], "variantes": [{"descricao": "Lixadeira Orbital 220W 127V", "qtd": "1", "codigo": "63500"}, {"descricao": "Lixadeira Orbital 220W 220V", "qtd": "1", "codigo": "63501"}], "observacao": "Disponível a partir de 12/08/26.", "fonte": {"arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)", "pagina": 9}}, {"id": "maquinas-eletricas-lixadeira-roto-orbital", "categoria": "maquinas-eletricas", "categoriaNome": "Máquinas Elétricas e Acessórios", "linha": "Lixadeira Roto-Orbital", "tagline": "Combina movimentos rotativos e orbitais para remoção eficiente de material", "descricao": "Combina movimentos rotativos e orbitais para remoção eficiente de material, proporcionando acabamento uniforme em madeira, metal e outras superfícies.", "destaques": ["Movimentos rotativos e orbitais combinados", "Acabamento uniforme em madeira, metal e outras superfícies"], "imagem": "images/maquinas-eletricas/lixadeira-roto-orbital.jpg", "selo": "NOVO", "colunas": ["Descrição", "Qtd", "SKU"], "camposVariante": ["descricao", "qtd", "codigo"], "variantes": [{"descricao": "Lixadeira Roto Orbital 300W 5\" 127V", "qtd": "1", "codigo": "63500"}, {"descricao": "Lixadeira Roto Orbital 300W 5\" 220V", "qtd": "1", "codigo": "63501"}], "observacao": "Disponível a partir de 12/08/26. Atenção: os SKUs 63500/63501 estão repetidos no catálogo de lançamentos original (mesmo código usado para a Lixadeira Orbital) — possível erro de impressão do fabricante, não confirmado.", "fonte": {"arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)", "pagina": 9}}, {"id": "maquinas-eletricas-lixadeira-parede-teto-fita-led", "categoria": "maquinas-eletricas", "categoriaNome": "Máquinas Elétricas e Acessórios", "linha": "Lixadeira de Parede e Teto com Fita LED", "tagline": "Iluminação em fita LED que amplia a visibilidade da superfície", "descricao": "Conta com iluminação em fita LED que amplia a visibilidade da superfície para um acabamento de alta qualidade.", "destaques": ["Iluminação em fita LED integrada"], "imagem": "images/maquinas-eletricas/lixadeira-parede-teto-fita-led.jpg", "selo": "NOVO", "colunas": ["Descrição", "Qtd", "SKU"], "camposVariante": ["descricao", "qtd", "codigo"], "variantes": [{"descricao": "Lixadeira de Parede 750W 220V c/ Fita LED", "qtd": "1", "codigo": "63504"}, {"descricao": "Lixadeira de Parede 750W 127V c/ Fita LED", "qtd": "1", "codigo": "63505"}], "observacao": "Disponível a partir de 12/08/26.", "fonte": {"arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)", "pagina": 9}}, {"id": "maquinas-eletricas-lixadeira-parede-teto-lampada-led", "categoria": "maquinas-eletricas", "categoriaNome": "Máquinas Elétricas e Acessórios", "linha": "Lixadeira de Parede e Teto com Lâmpada LED", "tagline": "Lâmpada LED que facilita a identificação de imperfeições", "descricao": "Equipada com lâmpada LED, facilitando a identificação de imperfeições durante o lixamento.", "destaques": ["Lâmpada LED integrada"], "imagem": "images/maquinas-eletricas/lixadeira-parede-teto-lampada-led.jpg", "selo": "NOVO", "colunas": ["Descrição", "Qtd", "SKU"], "camposVariante": ["descricao", "qtd", "codigo"], "variantes": [{"descricao": "Lixadeira de Parede 750W 220V c/ Lâmpada", "qtd": "1", "codigo": "63508"}, {"descricao": "Lixadeira de Parede 750W 127V c/ Lâmpada", "qtd": "1", "codigo": "63509"}], "observacao": "Disponível a partir de 12/08/26.", "fonte": {"arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)", "pagina": 9}}, {"id": "maquinas-eletricas-lixadeira-telescopica-fita-led", "categoria": "maquinas-eletricas", "categoriaNome": "Máquinas Elétricas e Acessórios", "linha": "Lixadeira Telescópica de Parede e Teto com Fita LED", "tagline": "Haste telescópica com alcance de até 1,80 m", "descricao": "Possui haste telescópica com alcance de até 1,80 m, iluminação em fita LED e acompanha bolsa para transporte, oferecendo mais praticidade, conforto e alto desempenho nos trabalhos de lixamento.", "destaques": ["Haste telescópica com alcance de até 1,80 m", "Iluminação em fita LED", "Acompanha bolsa para transporte"], "imagem": "images/maquinas-eletricas/lixadeira-telescopica-fita-led.jpg", "selo": "NOVO", "colunas": ["Descrição", "Qtd", "SKU"], "camposVariante": ["descricao", "qtd", "codigo"], "variantes": [{"descricao": "Lixadeira de Parede e Teto 750W 220V c/ Fita LED", "qtd": "1", "codigo": "63506"}, {"descricao": "Lixadeira de Parede e Teto 750W 127V c/ Fita LED", "qtd": "1", "codigo": "63507"}], "observacao": "Disponível a partir de 12/08/26.", "fonte": {"arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)", "pagina": 9}}, {"id": "medicao-receptor-nivel-laser-base-magnetica", "categoria": "medicao", "categoriaNome": "Medição", "linha": "Receptor de Nível a Laser com Base Magnética", "tagline": "Amplia a precisão e a eficiência em operações de nivelamento", "descricao": "Amplia a precisão e a eficiência em operações de nivelamento, especialmente em ambientes onde o feixe do laser não é facilmente visível. Com base magnética, nível de bolha integrado e estrutura resistente, proporciona fixação segura, leitura precisa e maior produtividade em aplicações profissionais.", "destaques": ["Base magnética", "Nível de bolha integrado", "Fixação segura e leitura precisa"], "imagem": "images/medicao/receptor-nivel-laser-base-magnetica.jpg", "selo": "NOVO", "colunas": ["Descrição", "Qtd", "SKU"], "camposVariante": ["descricao", "qtd", "codigo"], "variantes": [{"descricao": "Receptor Nível Laser com Base Magnética", "qtd": "4", "codigo": "63281"}], "fonte": {"arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)", "pagina": 7}}, {"id": "medicao-esquadro-fixacao", "categoria": "medicao", "categoriaNome": "Medição", "linha": "Esquadro de Fixação", "tagline": "Alinhamento preciso, estabilidade e praticidade na montagem", "descricao": "Desenvolvido para proporcionar alinhamento preciso, estabilidade e praticidade na montagem e fixação de peças em ângulo de 45°. Com sistema de fixação rápida e diferentes tamanhos disponíveis, auxiliam na colagem, montagem e acabamento de estruturas, garantindo maior produtividade e padronização dos resultados.", "destaques": ["Sistema de fixação rápida", "Ângulo de 45°", "Diferentes tamanhos disponíveis"], "imagem": "images/medicao/esquadro-fixacao.jpg", "selo": "NOVO", "colunas": ["Descrição", "Medida", "Qtd", "SKU"], "camposVariante": ["descricao", "medida", "qtd", "codigo"], "variantes": [{"descricao": "Esquadro de Fixação", "medida": "50 x 80 mm", "qtd": "3", "codigo": "63492"}, {"descricao": "Esquadro de Fixação", "medida": "100 x 100 mm", "qtd": "3", "codigo": "63493"}, {"descricao": "Esquadro de Fixação", "medida": "150 x 150 mm", "qtd": "3", "codigo": "63494"}, {"descricao": "Esquadro de Fixação", "medida": "200 x 200 mm", "qtd": "3", "codigo": "63495"}], "fonte": {"arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)", "pagina": 8}}, {"id": "medicao-esquadro-multifuncional", "categoria": "medicao", "categoriaNome": "Medição", "linha": "Esquadro Multifuncional", "tagline": "Mede, transfere e traça com precisão", "descricao": "Mais funções em uma única ferramenta: mede, transfere e traça com precisão, além de contar com nível integrado e estrutura resistente para uso contínuo.", "destaques": ["Nível integrado", "Estrutura resistente para uso contínuo"], "imagem": "images/medicao/esquadro-multifuncional.jpg", "selo": "NOVO", "colunas": ["Descrição", "Medida", "Qtd", "SKU"], "camposVariante": ["descricao", "medida", "qtd", "codigo"], "variantes": [{"descricao": "Esquadro Multifuncional", "medida": "300 mm", "qtd": "3", "codigo": "63481"}], "fonte": {"arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)", "pagina": 8}}, {"id": "medicao-esquadro-multifuncional-guias", "categoria": "medicao", "categoriaNome": "Medição", "linha": "Esquadro Multifuncional com Guias", "tagline": "Medição e traçado de ângulos de 45° e 90°", "descricao": "Esquadro em alumínio, para medição e traçado de ângulos de 45° e 90°, atuando também como localizador de ângulos e auxiliando no alinhamento de superfícies em conjunto com nível bolha e prumo.", "destaques": ["Alumínio", "Ângulos de 45° e 90°", "Localizador de ângulos"], "imagem": "images/medicao/esquadro-multifuncional-guias.jpg", "selo": "NOVO", "colunas": ["Descrição", "Qtd", "SKU"], "camposVariante": ["descricao", "qtd", "codigo"], "variantes": [{"descricao": "Esquadro Multifuncional com Guias", "qtd": "3", "codigo": "63482"}], "fonte": {"arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)", "pagina": 8}}, {"id": "medicao-esquadro-multifuncional-furos", "categoria": "medicao", "categoriaNome": "Medição", "linha": "Esquadro Multifuncional com Furos", "tagline": "Marcação e alinhamento com referências fixas de 45° e 90°", "descricao": "Instrumento técnico para marcação e alinhamento, com referências fixas de 45° e 90° e furos dimensionais para conferência de brocas, assegurando precisão nas operações.", "destaques": ["Referências fixas de 45° e 90°", "Furos dimensionais para conferência de brocas"], "imagem": "images/medicao/esquadro-multifuncional-furos.jpg", "selo": "NOVO", "colunas": ["Descrição", "Qtd", "SKU"], "camposVariante": ["descricao", "qtd", "codigo"], "variantes": [{"descricao": "Esquadro Multifuncional com Furos", "qtd": "3", "codigo": "63483"}], "fonte": {"arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)", "pagina": 8}}, {"id": "medicao-esquadro-marcador-furos", "categoria": "medicao", "categoriaNome": "Medição", "linha": "Esquadro Marcador de Furos", "tagline": "Marcação precisa de pontos de furação", "descricao": "Marcação precisa de pontos de furação, permitindo controle dimensional, repetibilidade no posicionamento e redução de desvios em aplicações elétricas, hidráulicas, marcenaria e assentamento de revestimentos.", "destaques": ["Controle dimensional", "Repetibilidade no posicionamento"], "imagem": "images/medicao/esquadro-marcador-furos.jpg", "selo": "NOVO", "colunas": ["Descrição", "Qtd", "SKU"], "camposVariante": ["descricao", "qtd", "codigo"], "variantes": [{"descricao": "Esquadro Marcador de Furos", "qtd": "3", "codigo": "63484"}], "fonte": {"arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)", "pagina": 8}}, {"id": "desempenadeiras-kit-massa-corrida", "categoria": "desempenadeiras", "categoriaNome": "Desempenadeiras", "linha": "Kit Desempenadeira para Massa Corrida", "tagline": "Todas as ferramentas essenciais para aplicação de massa corrida e gesso", "descricao": "Reúne todas as ferramentas essenciais para proporcionar produtividade, precisão e acabamento profissional na aplicação de massa corrida e gesso. Composto por desempenadeiras de diferentes tamanhos (100/80/60/40/25 cm), suporte adaptador, cabo extensor, rolo aplicador e maleta para transporte, oferece uma solução completa para trabalhos em pequenas e grandes superfícies.", "destaques": ["5x desempenadeiras (100/80/60/40/25 cm)", "Cabo extensor e adaptador", "Rolo aplicador e maleta de transporte"], "imagem": "images/desempenadeiras/kit-massa-corrida.jpg", "selo": "NOVO", "colunas": ["Descrição", "Qtd", "SKU"], "camposVariante": ["descricao", "qtd", "codigo"], "variantes": [{"descricao": "Kit Desempenadeira para Massa Corrida", "qtd": "1", "codigo": "63514"}], "fonte": {"arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)", "pagina": 12}}, {"id": "desempenadeiras-suporte-massa-corrida", "categoria": "desempenadeiras", "categoriaNome": "Desempenadeiras", "linha": "Suporte de Desempenadeira", "tagline": "Amplia o alcance e a produtividade em aplicações de massa corrida e gesso", "descricao": "Amplia o alcance e a produtividade em aplicações de massa corrida e gesso. Compatível com cabos extensores, proporciona maior ergonomia e estabilidade durante o trabalho, facilitando a execução em áreas elevadas e de difícil acesso.", "destaques": ["Compatível com cabos extensores", "Facilita execução em áreas elevadas e de difícil acesso"], "imagem": "images/desempenadeiras/suporte-massa-corrida.jpg", "selo": "NOVO", "colunas": ["Descrição", "Qtd", "SKU"], "camposVariante": ["descricao", "qtd", "codigo"], "variantes": [{"descricao": "Suporte de Desempenadeira para Massa Corrida", "qtd": "3", "codigo": "63480"}], "fonte": {"arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)", "pagina": 12}}, {"id": "desempenadeiras-massa-corrida", "categoria": "desempenadeiras", "categoriaNome": "Desempenadeiras", "linha": "Desempenadeiras para Massa Corrida", "tagline": "Acabamento uniforme, precisão e produtividade na aplicação de massa corrida e gesso", "descricao": "Desenvolvidas para proporcionar acabamento uniforme, precisão e produtividade na aplicação de massa corrida e gesso. Com lâmina flexível em aço inox e corpo leve e ergonômico, oferecem excelente controle durante o nivelamento e acabamento de superfícies, garantindo resultados profissionais em diferentes etapas da obra.", "destaques": ["Lâmina flexível em aço inox", "Corpo leve e ergonômico"], "imagem": "images/desempenadeiras/massa-corrida.jpg", "selo": "NOVO", "colunas": ["Descrição", "Qtd", "SKU"], "camposVariante": ["descricao", "qtd", "codigo"], "variantes": [{"descricao": "Desempenadeira para Massa Corrida 25 cm", "qtd": "3", "codigo": "63476"}, {"descricao": "Desempenadeira para Massa Corrida 40 cm", "qtd": "3", "codigo": "63477"}, {"descricao": "Desempenadeira para Massa Corrida 60 cm", "qtd": "3", "codigo": "63478"}, {"descricao": "Desempenadeira para Massa Corrida 80 cm", "qtd": "3", "codigo": "63479"}], "fonte": {"arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)", "pagina": 12}}, {"id": "acessorios-ventosa-tripla-abs", "categoria": "acessorios-assentamento", "categoriaNome": "Acessórios para Colocação e Assentamento", "linha": "Ventosa Tripla em ABS", "tagline": "Transporte seguro de peças com superfícies planas", "descricao": "Com capacidade de carga de até 120 kg, é indicada para o transporte seguro de peças com superfícies planas.", "destaques": ["Capacidade de carga de até 120 kg"], "imagem": "images/acessorios-assentamento/ventosa-tripla-abs.jpg", "selo": "NOVO", "colunas": ["Descrição", "Cap. de Carga", "Qtd", "SKU"], "camposVariante": ["descricao", "capacidadeCarga", "qtd", "codigo"], "variantes": [{"descricao": "Ventosa Tripla ABS", "capacidadeCarga": "120 kg", "qtd": "3", "codigo": "63448"}], "fonte": {"arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)", "pagina": 11}}, {"id": "acessorios-ventosas-aluminio", "categoria": "acessorios-assentamento", "categoriaNome": "Acessórios para Colocação e Assentamento", "linha": "Ventosas em Alumínio", "tagline": "Excelente capacidade de aderência e estabilidade no transporte", "descricao": "Linha profissional com estrutura em alumínio, oferece excelente capacidade de aderência e estabilidade durante o transporte e posicionamento das peças e revestimentos lisos.", "destaques": ["Estrutura em alumínio", "Linha profissional simples, dupla e tripla"], "imagem": "images/acessorios-assentamento/ventosas-aluminio.jpg", "selo": "NOVO", "colunas": ["Descrição", "Cap. de Carga", "Qtd", "SKU"], "camposVariante": ["descricao", "capacidadeCarga", "qtd", "codigo"], "variantes": [{"descricao": "Ventosa Simples Alumínio", "capacidadeCarga": "50 kg", "qtd": "5", "codigo": "63449"}, {"descricao": "Ventosa Dupla Alumínio", "capacidadeCarga": "90 kg", "qtd": "3", "codigo": "63450"}, {"descricao": "Ventosa Tripla Alumínio", "capacidadeCarga": "130 kg", "qtd": "3", "codigo": "63451"}], "fonte": {"arquivo": "Catálogo de Lançamentos Cortag 2026 (Construsul)", "pagina": 11}}]
+]
