@@ -198,7 +198,7 @@ async function initProduto() {
   }
 
   if (p.fonte) {
-    html += `<div class="fonte-nota">Fonte: ${p.fonte.arquivo}, pág. ${p.fonte.pagina}</div>`;
+    html += `<div class="fonte-nota">Fonte: ${p.fonte.arquivo}${p.fonte.pagina ? ', pág. ' + p.fonte.pagina : ''}</div>`;
   }
 
   root.innerHTML = html;
