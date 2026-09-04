@@ -21898,5 +21898,800 @@
       "arquivo": "Catálago Livro 2026.pdf",
       "pagina": "102 (impressa 202-203)"
     }
+  },
+  {
+    "id": "maquinas-eletricas-misturador-hm-180",
+    "categoria": "maquinas-eletricas",
+    "categoriaNome": "Máquinas Elétricas e Acessórios",
+    "linha": "Máquinas Elétricas",
+    "tagline": "Misturador elétrico profissional de dupla haste para argamassas",
+    "descricao": "Misturador Elétrico Cortag HM-180 Duo, projetado para misturar argamassas, tintas, rejuntes, colas e impermeabilizantes com máxima eficiência. Equipado com duas hastes de mistura, proporciona homogeneização rápida e uniforme, reduzindo o esforço do operador. Possui seletor de velocidade com controle eletrônico e trava de segurança, garantindo total precisão e conforto no uso contínuo.",
+    "destaques": [
+      "Duas hastes de mistura para homogeneização rápida",
+      "Seletor de velocidade com controle eletrônico e trava de segurança",
+      "Acompanha 2 batedores com encaixe direto (Cód. 61409)"
+    ],
+    "imagem": "images/maquinas-eletricas/misturador-hm-180.jpg",
+    "colunas": [
+      "Velocidade",
+      "Capacidade de Volume",
+      "Potência",
+      "Voltagem",
+      "Hz",
+      "Rotação",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "velocidade",
+      "capacidade",
+      "potencia",
+      "voltagem",
+      "hz",
+      "rotacao",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "velocidade": "6 velocidades",
+        "capacidade": "100 l",
+        "potencia": "1800 W",
+        "voltagem": "127 V",
+        "hz": "60 Hz",
+        "rotacao": "0 - 450 RPM / 0 - 790 RPM",
+        "embalagem": "1",
+        "ean": "7897451414042",
+        "codigo": "61404"
+      },
+      {
+        "velocidade": "6 velocidades",
+        "capacidade": "100 l",
+        "potencia": "1800 W",
+        "voltagem": "220 V",
+        "hz": "60 Hz",
+        "rotacao": "0 - 450 RPM / 0 - 790 RPM",
+        "embalagem": "1",
+        "ean": "7897451414059",
+        "codigo": "61405"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "104 (impressa 206-207)"
+    }
+  },
+  {
+    "id": "maquinas-eletricas-misturador-hm-140",
+    "categoria": "maquinas-eletricas",
+    "categoriaNome": "Máquinas Elétricas e Acessórios",
+    "linha": "Máquinas Elétricas",
+    "tagline": "Misturador elétrico profissional de alta performance",
+    "descricao": "Misturador Elétrico de Argamassa Cortag HM-140, desenvolvido para misturar argamassa, tinta, rejunte, cola e impermeabilizantes, garantindo homogeneidade e eficiência mesmo em materiais de alta densidade. Com motor de 1600 W, possui seletor de 6 velocidades, controle de rotação de 380 a 660 rpm e encaixe padrão M14, oferecendo versatilidade e desempenho em diferentes aplicações.",
+    "destaques": [
+      "Motor de 1600 W com seletor de 6 velocidades",
+      "Encaixe padrão M14 para versatilidade de batedores",
+      "Controle de rotação de 380 a 660 rpm"
+    ],
+    "imagem": "images/maquinas-eletricas/misturador-hm-140.jpg",
+    "colunas": [
+      "Velocidade",
+      "Capacidade de Volume",
+      "Potência",
+      "Voltagem",
+      "Hz",
+      "Rotação",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "velocidade",
+      "capacidade",
+      "potencia",
+      "voltagem",
+      "hz",
+      "rotacao",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "velocidade": "6 velocidades",
+        "capacidade": "90 l",
+        "potencia": "1600 W",
+        "voltagem": "127 V",
+        "hz": "60 Hz",
+        "rotacao": "0-380 e 0-660 rpm",
+        "embalagem": "1",
+        "ean": "7897451464047",
+        "codigo": "60404"
+      },
+      {
+        "velocidade": "6 velocidades",
+        "capacidade": "90 l",
+        "potencia": "1600 W",
+        "voltagem": "220 V",
+        "hz": "60 Hz",
+        "rotacao": "0-380 e 0-660 rpm",
+        "embalagem": "1",
+        "ean": "7897451463996",
+        "codigo": "60399"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "104 (impressa 206-207)"
+    }
+  },
+  {
+    "id": "maquinas-eletricas-misturador-hmc-120",
+    "categoria": "maquinas-eletricas",
+    "categoriaNome": "Máquinas Elétricas e Acessórios",
+    "linha": "Máquinas Elétricas",
+    "tagline": "Misturador elétrico compacto de alto desempenho para argamassas",
+    "descricao": "Misturador Elétrico de Argamassa Cortag HMC-120, projetado para misturar argamassas, tintas, rejuntes, colas e impermeabilizantes, garantindo resultados consistentes em aplicações de média e alta densidade. Com motor de 1200 W, 6 velocidades e controle de rotação de 0 a 700 RPM, proporciona potência e precisão para diferentes tipos de materiais. O encaixe M14 garante compatibilidade com diversos tipos de batedores.",
+    "destaques": [
+      "Motor de 1200 W com 6 velocidades",
+      "Controle de rotação de 0 a 860 RPM",
+      "Encaixe M14 compatível com diversos batedores"
+    ],
+    "imagem": "images/maquinas-eletricas/misturador-hmc-120.jpg",
+    "colunas": [
+      "Voltagem",
+      "Velocidade",
+      "Capacidade de Volume",
+      "Potência",
+      "Hz",
+      "Rotação",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "voltagem",
+      "velocidade",
+      "capacidade",
+      "potencia",
+      "hz",
+      "rotacao",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "voltagem": "127 V",
+        "velocidade": "6",
+        "capacidade": "60 l",
+        "potencia": "1200 W",
+        "hz": "60 Hz",
+        "rotacao": "0-860 RPM",
+        "embalagem": "1",
+        "ean": "7897451431964",
+        "codigo": "63196"
+      },
+      {
+        "voltagem": "220 V",
+        "velocidade": "6",
+        "capacidade": "60 l",
+        "potencia": "1200 W",
+        "hz": "60 Hz",
+        "rotacao": "0-860 RPM",
+        "embalagem": "1",
+        "ean": "7897451431971",
+        "codigo": "63197"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "104 (impressa 206-207)"
+    }
+  },
+  {
+    "id": "maquinas-eletricas-misturador-hmcb-120",
+    "categoria": "maquinas-eletricas",
+    "categoriaNome": "Máquinas Elétricas e Acessórios",
+    "linha": "Máquinas Elétricas",
+    "tagline": "Misturador elétrico básico com trava de segurança",
+    "descricao": "Misturador Elétrico Cortag Basic HMCB-120, desenvolvido para oferecer alto desempenho, ergonomia e praticidade em obras. Equipado com motor de 1200 W e 6 níveis de velocidade que atingem até 700 RPM, garante mistura homogênea e controle total do processo. O sistema de trava de segurança evita acionamentos acidentais, proporcionando maior proteção ao usuário.",
+    "destaques": [
+      "Motor de 1200 W com 6 níveis de velocidade",
+      "Sistema de trava de segurança contra acionamentos acidentais",
+      "Mistura homogênea com controle total do processo"
+    ],
+    "imagem": "images/maquinas-eletricas/misturador-hmcb-120.jpg",
+    "colunas": [
+      "Voltagem",
+      "Velocidade",
+      "Capacidade de Volume",
+      "Potência",
+      "Hz",
+      "Rotação",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "voltagem",
+      "velocidade",
+      "capacidade",
+      "potencia",
+      "hz",
+      "rotacao",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "voltagem": "127 V",
+        "velocidade": "6",
+        "capacidade": "60 l",
+        "potencia": "1200 W",
+        "hz": "60 Hz",
+        "rotacao": "0-700 RPM",
+        "embalagem": "1",
+        "ean": "7897451431995",
+        "codigo": "63199"
+      },
+      {
+        "voltagem": "220 V",
+        "velocidade": "6",
+        "capacidade": "60 l",
+        "potencia": "1200 W",
+        "hz": "60 Hz",
+        "rotacao": "0-700 RPM",
+        "embalagem": "1",
+        "ean": "7897451432008",
+        "codigo": "63200"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "104 (impressa 206-207)"
+    }
+  },
+  {
+    "id": "maquinas-eletricas-hastes-misturadores",
+    "categoria": "maquinas-eletricas",
+    "categoriaNome": "Máquinas Elétricas e Acessórios",
+    "linha": "Máquinas Elétricas",
+    "tagline": "Hastes de reposição para misturadores elétricos Cortag",
+    "descricao": "Hastes Misturadoras Cortag desenvolvidas em aço de alta qualidade para garantir resistência ao desgaste, melhor transmissão de força e desempenho superior na mistura de argamassas, tintas, resinas, niveladores e diversos materiais de obra. Disponíveis em vários modelos e diâmetros, atendem às necessidades de obras leves a profissionais.",
+    "destaques": [
+      "Aço de alta qualidade e resistência ao desgaste",
+      "Compatível com os modelos HM-120, HM-140, HM-180 Duo e MM 160-800",
+      "Melhor transmissão de força para mistura homogênea"
+    ],
+    "imagem": "images/maquinas-eletricas/hastes-misturadores.jpg",
+    "colunas": [
+      "Aplicação",
+      "Haste",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "aplicacao",
+      "haste",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "aplicacao": "Haste para Misturador Elétrico HM-120",
+        "haste": "Rosca M14",
+        "embalagem": "2",
+        "ean": "7897451416237",
+        "dun": "17897451416234",
+        "codigo": "61623"
+      },
+      {
+        "aplicacao": "Haste para Misturador Elétrico HM-140",
+        "haste": "Rosca M14",
+        "embalagem": "2",
+        "ean": "7897451465761",
+        "dun": "17897451465768",
+        "codigo": "60576"
+      },
+      {
+        "aplicacao": "Haste Dupla para Misturador Elétrico HM-180 DUO",
+        "haste": "Encaixe Direto",
+        "embalagem": "1",
+        "ean": "7897451414097",
+        "dun": "-",
+        "codigo": "61409"
+      },
+      {
+        "aplicacao": "Haste para Misturador Elétrico MM 160-800",
+        "haste": "Rosca M12",
+        "embalagem": "1",
+        "ean": "7897451462296",
+        "dun": "-",
+        "codigo": "60229"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "105 (impressa 208-209)"
+    }
+  },
+  {
+    "id": "maquinas-eletricas-mac-120",
+    "categoria": "maquinas-eletricas",
+    "categoriaNome": "Máquinas Elétricas e Acessórios",
+    "linha": "Máquinas Elétricas",
+    "tagline": "Máquina a bateria para assentamento de pisos e revestimentos",
+    "descricao": "Máquina para Assentar Pisos Cortag MAC-120, desenvolvida para facilitar o esmagamento do cordão de argamassa e otimizar o assentamento de pisos e revestimentos, entregando resultados profissionais com menos esforço. Com maior ergonomia, potência e controle, garante acabamento uniforme, melhor aderência e produtividade superior na obra. Acompanha maleta e duas baterias.",
+    "destaques": [
+      "Maior ergonomia, potência e controle no assentamento",
+      "Acabamento uniforme e melhor aderência",
+      "Acompanha maleta e duas baterias"
+    ],
+    "imagem": "images/maquinas-eletricas/mac-120.jpg",
+    "colunas": [
+      "Modelo",
+      "Potência",
+      "Capacidade",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "potencia",
+      "capacidade",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Máquina p/ Assentar Pisos Cortag MAC-120",
+        "potencia": "120 w",
+        "capacidade": "100 kg",
+        "embalagem": "1",
+        "ean": "7897451432015",
+        "codigo": "63201"
+      },
+      {
+        "modelo": "Carregador Bateria 18v - 2.0ah",
+        "potencia": "-",
+        "capacidade": "-",
+        "embalagem": "1",
+        "ean": "7897451432022",
+        "codigo": "63202"
+      },
+      {
+        "modelo": "Bateria 18v - 2.0ah",
+        "potencia": "-",
+        "capacidade": "-",
+        "embalagem": "1",
+        "ean": "7897451432039",
+        "codigo": "63203"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "105 (impressa 208-209)"
+    }
+  },
+  {
+    "id": "maquinas-eletricas-mac-100",
+    "categoria": "maquinas-eletricas",
+    "categoriaNome": "Máquinas Elétricas e Acessórios",
+    "linha": "Máquinas Elétricas",
+    "tagline": "Ventosa vibratória a bateria para instalação de grandes formatos",
+    "descricao": "Ventosa Vibratória MAC-100 Cortag, desenvolvida para aumentar a produtividade e a qualidade no processo de instalação de pisos e revestimentos. Equipada com motor brushless de alto desempenho, permite o esmagamento do cordão de argamassa de forma rápida, eficiente e sem esforço. Com intensidade de vibração ajustável até 12.000 vpm, bateria de íon-lítio de 18V - 1,5A e potência de 100W, oferece precisão e conforto para o uso profissional. Acompanha maleta.",
+    "destaques": [
+      "Motor brushless de alto desempenho",
+      "Intensidade de vibração ajustável até 12.000 vpm",
+      "Bateria de íon-lítio de 18V - 1,5A - acompanha maleta"
+    ],
+    "imagem": "images/maquinas-eletricas/mac-100.jpg",
+    "colunas": [
+      "Descrição",
+      "Potência",
+      "Capacidade",
+      "EAN",
+      "Embalagem",
+      "SKU"
+    ],
+    "camposVariante": [
+      "descricao",
+      "potencia",
+      "capacidade",
+      "ean",
+      "embalagem",
+      "sku"
+    ],
+    "variantes": [
+      {
+        "descricao": "Máquina p/ Assentar Pisos A Bateria MAC-100 - Cortag",
+        "potencia": "100 W",
+        "capacidade": "50 kg",
+        "ean": "7897451429558",
+        "embalagem": "1",
+        "sku": "62955"
+      },
+      {
+        "descricao": "Carregador MAC-100",
+        "potencia": "-",
+        "capacidade": "-",
+        "ean": "7897451429589",
+        "embalagem": "1",
+        "sku": "62958"
+      },
+      {
+        "descricao": "Bateria 18v-1.5ah MAC-100x",
+        "potencia": "-",
+        "capacidade": "-",
+        "ean": "7897451429619",
+        "embalagem": "1",
+        "sku": "62961"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "105 (impressa 208-209)"
+    }
+  },
+  {
+    "id": "maquinas-eletricas-dec-700",
+    "categoria": "maquinas-eletricas",
+    "categoriaNome": "Máquinas Elétricas e Acessórios",
+    "linha": "Máquinas Elétricas",
+    "tagline": "Desempenadeira elétrica para reboco e nivelamento de paredes",
+    "descricao": "Desempenadeira Elétrica Cortag DEC 700, desenvolvida para otimizar processos de reboco e nivelamento de paredes, aumentando a produtividade e reduzindo a fadiga durante longos períodos de uso. Com motor de 720 W, controle de velocidade variável e ampla área de trabalho de 390 mm, entrega acabamento uniforme, rapidez e conforto ao profissional.",
+    "destaques": [
+      "Motor de 720 W com controle de velocidade variável",
+      "Ampla área de trabalho de 390 mm",
+      "Discos e acessórios intercambiáveis disponíveis"
+    ],
+    "imagem": "images/maquinas-eletricas/dec-700.jpg",
+    "colunas": [
+      "Descrição",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "descricao",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Desempenadeira elétrica Cortag DEC-700 127V",
+        "embalagem": "1",
+        "ean": "7897451432046",
+        "codigo": "63204"
+      },
+      {
+        "descricao": "Desempenadeira elétrica Cortag DEC-700 220V",
+        "embalagem": "1",
+        "ean": "7897451432053",
+        "codigo": "63205"
+      },
+      {
+        "descricao": "Suporte para acessórios de desempenadeira Elétrica Cortag 127/220V",
+        "embalagem": "1",
+        "ean": "7897451432060",
+        "codigo": "63206"
+      },
+      {
+        "descricao": "Disco desempenadeira estriada p/ desemp. elétrica Cortag 127/220V",
+        "embalagem": "3",
+        "ean": "7897451432077",
+        "codigo": "63207"
+      },
+      {
+        "descricao": "Disco espuma para desempenadeira elétrica Cortag 127/220V",
+        "embalagem": "1",
+        "ean": "7897451432084",
+        "codigo": "63208"
+      },
+      {
+        "descricao": "Disco lixa para desempenadeira elétrica Cortag 127/220V",
+        "embalagem": "1",
+        "ean": "7897451432091",
+        "codigo": "63209"
+      },
+      {
+        "descricao": "Kit com chave/paraf/escova carvão para desempenadeira elétrica Cortag",
+        "embalagem": "50",
+        "ean": "7897451432107",
+        "codigo": "63210"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "105 (impressa 208-209)"
+    }
+  },
+  {
+    "id": "maquinas-eletricas-mf-300",
+    "categoria": "maquinas-eletricas",
+    "categoriaNome": "Máquinas Elétricas e Acessórios",
+    "linha": "Máquinas Elétricas",
+    "tagline": "Cortador oscilante multifunção para cortar, lixar e remover resíduos",
+    "descricao": "Cortador Oscilante Multifunção MF-300 Cortag, projetado para lixar, cortar, raspar e remover resíduos em diferentes materiais, incluindo madeira, plásticos, metais macios, rejuntes e revestimentos. Com potência de 300 W e controle variável de 15.000 a 20.000 oscilações por minuto, oferece excelente desempenho e precisão em trabalhos de acabamento e reforma. Acompanha maleta plástica, base para lixa e jogo completo de lâminas intercambiáveis.",
+    "destaques": [
+      "Controle variável de 15.000 a 20.000 oscilações por minuto",
+      "Acompanha maleta plástica e jogo completo de lâminas",
+      "Ferramenta profissional multifuncional"
+    ],
+    "imagem": "images/maquinas-eletricas/mf-300.jpg",
+    "colunas": [
+      "Modelo",
+      "Frequência",
+      "Potência",
+      "Controle Variável de Oscilações",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "frequencia",
+      "potencia",
+      "controle",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "127 V",
+        "frequencia": "60 Hz",
+        "potencia": "300 W",
+        "controle": "15.000 ~20.000 Oscilações por minuto",
+        "embalagem": "1",
+        "ean": "7897451469325",
+        "codigo": "60932"
+      },
+      {
+        "modelo": "220 V",
+        "frequencia": "60 Hz",
+        "potencia": "300 W",
+        "controle": "15.000 ~20.000 Oscilações por minuto",
+        "embalagem": "1",
+        "ean": "7897451469332",
+        "codigo": "60933"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "106 (impressa 210-211)"
+    }
+  },
+  {
+    "id": "maquinas-eletricas-bric-35",
+    "categoria": "maquinas-eletricas",
+    "categoriaNome": "Máquinas Elétricas e Acessórios",
+    "linha": "Máquinas Elétricas",
+    "tagline": "Cortador elétrico de parede para abertura de canais em alvenaria",
+    "descricao": "Cortador de Parede BRIC-35 Cortag, projetado para executar cortes retos e curvos em paredes de tijolos maciços, blocos de concreto, cimento e gesso, oferecendo alto desempenho e durabilidade em obras profissionais. Equipado com motor de 2.200 rpm e fresa de 35 mm, permite cortes precisos e limpos, com profundidade ajustável de até 35 mm. Acompanha 1 fresa com dentes de metal duro (35mm), chave fixa, chave de pinos e anel espaçador.",
+    "destaques": [
+      "Motor de 2.200 rpm com fresa de 35 mm",
+      "Profundidade de corte ajustável até 35 mm",
+      "Acompanha fresa, chave fixa, chave de pinos e anel espaçador"
+    ],
+    "imagem": "images/maquinas-eletricas/bric-35.jpg",
+    "colunas": [
+      "Modelo",
+      "Frequência",
+      "Potência",
+      "Rotação",
+      "Largura de Corte",
+      "Profund. de Corte",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "frequencia",
+      "potencia",
+      "rotacao",
+      "largura",
+      "profundidade",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "127 V",
+        "frequencia": "60 Hz",
+        "potencia": "2.000 W",
+        "rotacao": "2.200 rpm",
+        "largura": "35 mm (25 mm opcional)",
+        "profundidade": "35 mm",
+        "embalagem": "1",
+        "ean": "7897451460049",
+        "codigo": "60004"
+      },
+      {
+        "modelo": "220 V",
+        "frequencia": "60 Hz",
+        "potencia": "2.000 W",
+        "rotacao": "2.200 rpm",
+        "largura": "35 mm (25 mm opcional)",
+        "profundidade": "35 mm",
+        "embalagem": "1",
+        "ean": "7897451460056",
+        "codigo": "60005"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "106 (impressa 210-211)"
+    }
+  },
+  {
+    "id": "maquinas-eletricas-acessorios-mf-300",
+    "categoria": "maquinas-eletricas",
+    "categoriaNome": "Máquinas Elétricas e Acessórios",
+    "linha": "Máquinas Elétricas",
+    "tagline": "Lâminas e acessórios para o cortador oscilante MF-300",
+    "descricao": "Acessórios MF-300 Cortag desenvolvidos para trabalhos de corte, lixamento e acabamento em diferentes superfícies, como madeira, gesso, metal leve, rejunte e revestimentos cerâmicos. Compatíveis com ferramentas multifuncionais oscilantes, oferecem alto desempenho e precisão, com lâminas em aço de alta resistência e acabamento reforçado. O conjunto inclui lâminas retas e semicirculares, além de base e lixas G-80 para polimento e remoção de resíduos.",
+    "destaques": [
+      "Lâminas em aço de alta resistência",
+      "Compatíveis com ferramentas multifuncionais oscilantes",
+      "Conjunto completo com lâminas, base e lixas G-80"
+    ],
+    "imagem": "images/maquinas-eletricas/acessorios-mf-300.jpg",
+    "colunas": [
+      "Descrição",
+      "Aplicação",
+      "Dimensões",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "descricao",
+      "aplicacao",
+      "dimensoes",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Jogo de Acessórios com: 4 lixas G-80; 1 base para lixa; 1 lâmina reta lisa tipo espátula; 1 lâmina reta serrilhada; 1 lâmina semicírculo serrilhada e 1 lâmina semicírculo com tungstênio",
+        "aplicacao": "Lixar a seco, remover resíduos, raspar superfícies, serrar/cortar madeira, plástico e metais macios e remover rejuntes de pisos e revestimentos",
+        "dimensoes": "-",
+        "embalagem": "5",
+        "ean": "7897451469257",
+        "dun": "17897451469254",
+        "codigo": "60925"
+      },
+      {
+        "descricao": "Lâmina semicírculo com tungstênio",
+        "aplicacao": "Remover rejunte de pisos e revestimentos cerâmicos",
+        "dimensoes": "Ø 65 mm",
+        "embalagem": "5",
+        "ean": "7897451469264",
+        "dun": "17897451469261",
+        "codigo": "60926"
+      },
+      {
+        "descricao": "Lâmina semicírculo serrilhada",
+        "aplicacao": "Cortar madeira, plástico e drywall",
+        "dimensoes": "Ø 90 mm",
+        "embalagem": "5",
+        "ean": "7897451469271",
+        "dun": "17897451469278",
+        "codigo": "60927"
+      },
+      {
+        "descricao": "Lâmina reta lisa tipo espátula",
+        "aplicacao": "Remover resíduos: carpete, argamassa e cerâmica",
+        "dimensoes": "C= 25 mm L= 50 mm",
+        "embalagem": "5",
+        "ean": "7897451469288",
+        "dun": "17897451469285",
+        "codigo": "60928"
+      },
+      {
+        "descricao": "Lâmina reta serrilhada",
+        "aplicacao": "Cortar madeira, plástico e drywall",
+        "dimensoes": "L= 32 mm C= 50 mm",
+        "embalagem": "5",
+        "ean": "7897451469295",
+        "dun": "17897451469292",
+        "codigo": "60929"
+      },
+      {
+        "descricao": "Base para lixa G-80",
+        "aplicacao": "Base para lixa com sistema de fixação por aderência para uso com folhas de lixa triangulares",
+        "dimensoes": "Triangular 75 mm x 75 mm x 75 mm",
+        "embalagem": "5",
+        "ean": "7897451469301",
+        "dun": "17897451469308",
+        "codigo": "60930"
+      },
+      {
+        "descricao": "Lixa G-80 com 10 unidades",
+        "aplicacao": "Lixar madeira e metais à seco (necessita de base para lixa - não acompanha)",
+        "dimensoes": "Triangular 75 mm x 75 mm x 75 mm",
+        "embalagem": "5",
+        "ean": "7897451469318",
+        "dun": "17897451469315",
+        "codigo": "60931"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "106 (impressa 210-211)"
+    }
+  },
+  {
+    "id": "maquinas-eletricas-fresas-bric-35",
+    "categoria": "maquinas-eletricas",
+    "categoriaNome": "Máquinas Elétricas e Acessórios",
+    "linha": "Máquinas Elétricas",
+    "tagline": "Fresas de reposição para o cortador de parede BRIC-35",
+    "descricao": "Fresas para Cortador de Parede BRIC-35 Cortag, indicadas para uso exclusivo no cortador de parede BRIC-35, ideais para abertura de canais em alvenaria durante instalações elétricas e hidráulicas. Fabricadas com dentes de metal duro, garantem maior resistência ao desgaste, corte eficiente e desempenho constante mesmo em uso intenso na obra.",
+    "destaques": [
+      "Dentes de metal duro para maior resistência ao desgaste",
+      "Uso exclusivo no Cortador de Parede BRIC-35",
+      "Corte eficiente e desempenho constante em uso intenso"
+    ],
+    "imagem": "images/maquinas-eletricas/fresas-bric-35.jpg",
+    "colunas": [
+      "Número de Dentes",
+      "Ø",
+      "Furo",
+      "L",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "dentes",
+      "diametro",
+      "furo",
+      "l",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "dentes": "10",
+        "diametro": "106 mm",
+        "furo": "5/8\"",
+        "l": "25 mm",
+        "embalagem": "1",
+        "ean": "7897451412802",
+        "codigo": "61280"
+      },
+      {
+        "dentes": "10",
+        "diametro": "116 mm",
+        "furo": "5/8\"",
+        "l": "35 mm",
+        "embalagem": "1",
+        "ean": "7897451412819",
+        "codigo": "61281"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "106 (impressa 210-211)"
+    }
   }
 ]
