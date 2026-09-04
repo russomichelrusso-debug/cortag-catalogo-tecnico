@@ -14886,5 +14886,1380 @@
       "arquivo": "Catálago Livro 2026.pdf",
       "pagina": "71-72 (impressa 141-143)"
     }
+  },
+  {
+    "id": "abrasivos-disco-strip",
+    "categoria": "abrasivos",
+    "categoriaNome": "Abrasivos (Discos)",
+    "linha": "Abrasivos",
+    "tagline": "Disco strip para remoção e limpeza",
+    "descricao": "Disco Strip Cortag para remoção de tintas, vernizes, ferrugens e oxidações em metais, sem danificar a superfície.",
+    "destaques": [
+      "Alto poder abrasivo com estrutura aberta",
+      "Menor aquecimento - trabalho contínuo",
+      "Uso em esmerilhadeiras"
+    ],
+    "imagem": "images/abrasivos/disco-strip.jpg",
+    "colunas": [
+      "Aplicação",
+      "Diâmetro (Ø)",
+      "Diâmetro 1",
+      "Velocidade Máxima",
+      "Rotação Máxima",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "aplicacao",
+      "diametro",
+      "diametro1",
+      "velocidade",
+      "rotacao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "aplicacao": "Esmerilhadeira",
+        "diametro": "115mm",
+        "diametro1": "22,2mm",
+        "velocidade": "72m/s",
+        "rotacao": "12.000 rpm",
+        "embalagem": "5",
+        "ean": "7897451429022",
+        "dun": "17897451429029",
+        "codigo": "62902"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "74 (impressa 146-147)"
+    }
+  },
+  {
+    "id": "abrasivos-disco-corte-inox",
+    "categoria": "abrasivos",
+    "categoriaNome": "Abrasivos (Discos)",
+    "linha": "Abrasivos",
+    "tagline": "Disco de corte fino para inox",
+    "descricao": "Disco de Corte Fino Cortag para cortes rápidos e precisos em aço, aço inoxidável e metais ferrosos ou não ferrosos, com mínima rebarba.",
+    "destaques": [
+      "Duas telas de reforço",
+      "Menor atrito e menor aquecimento",
+      "Acabamento superior"
+    ],
+    "imagem": "images/abrasivos/disco-corte-inox.jpg",
+    "colunas": [
+      "Diâmetro (Ø)",
+      "Furo",
+      "Espessura",
+      "Rotação Máx.",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "diametro",
+      "furo",
+      "espessura",
+      "rotacao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "diametro": "115mm - 4.1/2\"",
+        "furo": "22,2mm - 7/8\"",
+        "espessura": "1,0mm - 3/64\"",
+        "rotacao": "13.300 rpm",
+        "embalagem": "25",
+        "ean": "7897451418255",
+        "dun": "17897451418252",
+        "codigo": "61825"
+      },
+      {
+        "diametro": "115mm - 4.1/2\"",
+        "furo": "22,2mm - 7/8\"",
+        "espessura": "1,6mm - 1/16\"",
+        "rotacao": "13.300 rpm",
+        "embalagem": "25",
+        "ean": "7897451418262",
+        "dun": "17897451418269",
+        "codigo": "61826"
+      },
+      {
+        "diametro": "178mm - 7\"",
+        "furo": "22,2mm - 7/8\"",
+        "espessura": "1,6mm - 1/16\"",
+        "rotacao": "8.584 rpm",
+        "embalagem": "25",
+        "ean": "7897451418279",
+        "dun": "17897451418276",
+        "codigo": "61827"
+      },
+      {
+        "diametro": "230mm - 9\"",
+        "furo": "22,22mm - 7/8\"",
+        "espessura": "1,9mm - 5/64\"",
+        "rotacao": "6.600 rpm",
+        "embalagem": "25",
+        "ean": "7897451420180",
+        "dun": "17897451420187",
+        "codigo": "62018"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "74 (impressa 146-147)"
+    }
+  },
+  {
+    "id": "abrasivos-disco-corte-ferro",
+    "categoria": "abrasivos",
+    "categoriaNome": "Abrasivos (Discos)",
+    "linha": "Abrasivos",
+    "tagline": "Disco de corte para ferro e metais",
+    "descricao": "Disco de Corte Cortag para corte de aço e metais ferrosos, com duas telas de reforço para maior resistência à ruptura e estabilidade.",
+    "destaques": [
+      "Duas telas de reforço",
+      "Cortes rápidos e precisos",
+      "Uso em esmerilhadeiras e serras de corte"
+    ],
+    "imagem": "images/abrasivos/disco-corte-ferro.jpg",
+    "colunas": [
+      "Diâmetro (Ø)",
+      "Furo",
+      "Espessura",
+      "Rotação Máx.",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "diametro",
+      "furo",
+      "espessura",
+      "rotacao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "diametro": "115mm - 4.1/2\"",
+        "furo": "22,2mm - 7/8\"",
+        "espessura": "3,2mm - 1/8\"",
+        "rotacao": "13.300 rpm",
+        "embalagem": "25",
+        "ean": "7897451420197",
+        "dun": "17897451420194",
+        "codigo": "62019"
+      },
+      {
+        "diametro": "178mm - 7\"",
+        "furo": "22,2mm - 7/8\"",
+        "espessura": "3,2mm - 1/8\"",
+        "rotacao": "8.584 rpm",
+        "embalagem": "25",
+        "ean": "7897451420203",
+        "dun": "17897451420200",
+        "codigo": "62020"
+      },
+      {
+        "diametro": "228mm - 9\"",
+        "furo": "22,2mm - 7/8\"",
+        "espessura": "3,2mm - 1/8\"",
+        "rotacao": "6.700 rpm",
+        "embalagem": "25",
+        "ean": "7897451420210",
+        "dun": "17897451420217",
+        "codigo": "62021"
+      },
+      {
+        "diametro": "254mm - 10\"",
+        "furo": "15,9mm - 5/8\"",
+        "espessura": "3,2mm - 1/8\"",
+        "rotacao": "6.020 rpm",
+        "embalagem": "25",
+        "ean": "7897451420234",
+        "dun": "17897451420231",
+        "codigo": "62023"
+      },
+      {
+        "diametro": "254mm - 10\"",
+        "furo": "19mm - 3/4\"",
+        "espessura": "3,2mm - 1/8\"",
+        "rotacao": "6.020 rpm",
+        "embalagem": "25",
+        "ean": "7897451420227",
+        "dun": "17897451420224",
+        "codigo": "62022"
+      },
+      {
+        "diametro": "254mm - 10\"",
+        "furo": "25,4mm - 1\"",
+        "espessura": "3,2mm - 1/8\"",
+        "rotacao": "6.020 rpm",
+        "embalagem": "25",
+        "ean": "7897451420241",
+        "dun": "17897451420248",
+        "codigo": "62024"
+      },
+      {
+        "diametro": "305mm - 12\"",
+        "furo": "15,9mm - 5/8\"",
+        "espessura": "3,2mm - 1/8\"",
+        "rotacao": "5.010 rpm",
+        "embalagem": "25",
+        "ean": "7897451420265",
+        "dun": "17897451420262",
+        "codigo": "62026"
+      },
+      {
+        "diametro": "305mm - 12\"",
+        "furo": "19mm - 3/4\"",
+        "espessura": "3,2mm - 1/8\"",
+        "rotacao": "5.010 rpm",
+        "embalagem": "25",
+        "ean": "7897451420258",
+        "dun": "17897451420255",
+        "codigo": "62025"
+      },
+      {
+        "diametro": "305mm - 12\"",
+        "furo": "25,4mm - 1\"",
+        "espessura": "3,2mm - 1/8\"",
+        "rotacao": "5.010 rpm",
+        "embalagem": "25",
+        "ean": "7897451420272",
+        "dun": "17897451420279",
+        "codigo": "62027"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "74 (impressa 146-147)"
+    }
+  },
+  {
+    "id": "abrasivos-disco-desbaste",
+    "categoria": "abrasivos",
+    "categoriaNome": "Abrasivos (Discos)",
+    "linha": "Abrasivos",
+    "tagline": "Disco de desbaste para aço e metais",
+    "descricao": "Disco de Desbaste Cortag para remoção de soldas, abertura de canaletas e rebarbação de chapas metálicas, com estrutura reforçada.",
+    "destaques": [
+      "Estrutura reforçada",
+      "Excelente resistência ao desgaste",
+      "Uso em esmerilhadeiras angulares"
+    ],
+    "imagem": "images/abrasivos/disco-desbaste.jpg",
+    "colunas": [
+      "Diâmetro (Ø)",
+      "Furo",
+      "Espessura",
+      "Rotação Máx.",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "diametro",
+      "furo",
+      "espessura",
+      "rotacao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "diametro": "115mm - 4.1/2\"",
+        "furo": "22,2mm - 7/8\"",
+        "espessura": "6,4mm - 1/4\"",
+        "rotacao": "13.300 rpm",
+        "embalagem": "25",
+        "ean": "7897451420289",
+        "dun": "17897451420286",
+        "codigo": "62028"
+      },
+      {
+        "diametro": "125mm - 5\"",
+        "furo": "22,2mm - 7/8\"",
+        "espessura": "6,4mm - 1/4\"",
+        "rotacao": "12.200 rpm",
+        "embalagem": "25",
+        "ean": "7897451420296",
+        "dun": "17897451420293",
+        "codigo": "62029"
+      },
+      {
+        "diametro": "178mm - 7\"",
+        "furo": "22,2mm - 7/8\"",
+        "espessura": "6,4mm - 1/4\"",
+        "rotacao": "8.584 rpm",
+        "embalagem": "25",
+        "ean": "7897451420302",
+        "dun": "17897451420309",
+        "codigo": "62030"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "74 (impressa 146-147)"
+    }
+  },
+  {
+    "id": "abrasivos-disco-flap-ceramica-fibra",
+    "categoria": "abrasivos",
+    "categoriaNome": "Abrasivos (Discos)",
+    "linha": "Abrasivos",
+    "tagline": "Disco flap para cerâmica, base de fibra",
+    "descricao": "Disco Flap Cortag Base Fibra para desbaste e acabamento de superfícies cerâmicas, porcelanatos, mármores e granitos.",
+    "destaques": [
+      "Base de fibra resistente",
+      "Melhor absorção de vibrações",
+      "Uso em esmerilhadeiras angulares"
+    ],
+    "imagem": "images/abrasivos/disco-flap-ceramica-fibra.jpg",
+    "colunas": [
+      "Diâmetro (Ø)",
+      "Furo",
+      "Grão",
+      "Rotação Máx.",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "diametro",
+      "furo",
+      "grao",
+      "rotacao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "diametro": "115mm - 4.1/2\"",
+        "furo": "22,22mm - 7/8\"",
+        "grao": "G-40",
+        "rotacao": "13.300 rpm",
+        "embalagem": "10",
+        "ean": "7897451420470",
+        "dun": "17897451420477",
+        "codigo": "62047"
+      },
+      {
+        "diametro": "115mm - 4.1/2\"",
+        "furo": "22,22mm - 7/8\"",
+        "grao": "G-60",
+        "rotacao": "13.300 rpm",
+        "embalagem": "10",
+        "ean": "7897451420487",
+        "dun": "17897451420484",
+        "codigo": "62048"
+      },
+      {
+        "diametro": "115mm - 4.1/2\"",
+        "furo": "22,22mm - 7/8\"",
+        "grao": "G-80",
+        "rotacao": "13.300 rpm",
+        "embalagem": "10",
+        "ean": "7897451420494",
+        "dun": "17897451420491",
+        "codigo": "62049"
+      },
+      {
+        "diametro": "115mm - 4.1/2\"",
+        "furo": "22,22mm - 7/8\"",
+        "grao": "G-120",
+        "rotacao": "13.300 rpm",
+        "embalagem": "10",
+        "ean": "7897451420500",
+        "dun": "17897451420507",
+        "codigo": "62050"
+      },
+      {
+        "diametro": "180mm - 7\"",
+        "furo": "22,22mm - 7/8\"",
+        "grao": "G-40",
+        "rotacao": "8.500 rpm",
+        "embalagem": "10",
+        "ean": "7897451420517",
+        "dun": "17897451420514",
+        "codigo": "62051"
+      },
+      {
+        "diametro": "180mm - 7\"",
+        "furo": "22,22mm - 7/8\"",
+        "grao": "G-60",
+        "rotacao": "8.500 rpm",
+        "embalagem": "10",
+        "ean": "7897451420524",
+        "dun": "17897451420521",
+        "codigo": "62052"
+      },
+      {
+        "diametro": "180mm - 7\"",
+        "furo": "22,22mm - 7/8\"",
+        "grao": "G-80",
+        "rotacao": "8.500 rpm",
+        "embalagem": "10",
+        "ean": "7897451420531",
+        "dun": "17897451420538",
+        "codigo": "62053"
+      },
+      {
+        "diametro": "180mm - 7\"",
+        "furo": "22,22mm - 7/8\"",
+        "grao": "G-120",
+        "rotacao": "8.500 rpm",
+        "embalagem": "10",
+        "ean": "7897451420548",
+        "dun": "17897451420545",
+        "codigo": "62054"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "75 (impressa 148-149)"
+    }
+  },
+  {
+    "id": "abrasivos-disco-flap-aco-inox-plastico",
+    "categoria": "abrasivos",
+    "categoriaNome": "Abrasivos (Discos)",
+    "linha": "Abrasivos",
+    "tagline": "Disco flap para aço inox, base de plástico",
+    "descricao": "Disco Flap Cortag com Base Plástica para Aço Inox, indicado para desbaste e acabamento de aço inox, alumínio, metais ferrosos e não ferrosos.",
+    "destaques": [
+      "Base plástica reforçada",
+      "Leveza e absorção de vibrações",
+      "Uso profissional em esmerilhadeiras angulares"
+    ],
+    "imagem": "images/abrasivos/disco-flap-aco-inox-plastico.jpg",
+    "colunas": [
+      "Diâmetro (Ø)",
+      "Furo",
+      "Grão",
+      "Rotação Máx.",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "diametro",
+      "furo",
+      "grao",
+      "rotacao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "diametro": "115mm - 4.1/2\"",
+        "furo": "22,22mm - 7/8\"",
+        "grao": "G-40",
+        "rotacao": "13.300 rpm",
+        "embalagem": "10",
+        "ean": "7897451416527",
+        "dun": "17897451416524",
+        "codigo": "61652"
+      },
+      {
+        "diametro": "115mm - 4.1/2\"",
+        "furo": "22,22mm - 7/8\"",
+        "grao": "G-60",
+        "rotacao": "13.300 rpm",
+        "embalagem": "10",
+        "ean": "7897451416534",
+        "dun": "17897451416531",
+        "codigo": "61653"
+      },
+      {
+        "diametro": "115mm - 4.1/2\"",
+        "furo": "22,22mm - 7/8\"",
+        "grao": "G-80",
+        "rotacao": "13.300 rpm",
+        "embalagem": "10",
+        "ean": "7897451416541",
+        "dun": "17897451416548",
+        "codigo": "61654"
+      },
+      {
+        "diametro": "115mm - 4.1/2\"",
+        "furo": "22,22mm - 7/8\"",
+        "grao": "G-120",
+        "rotacao": "13.300 rpm",
+        "embalagem": "10",
+        "ean": "7897451416558",
+        "dun": "17897451416555",
+        "codigo": "61655"
+      },
+      {
+        "diametro": "180mm - 7\"",
+        "furo": "22,22mm - 7/8\"",
+        "grao": "G-40",
+        "rotacao": "8.500 rpm",
+        "embalagem": "10",
+        "ean": "7897451416565",
+        "dun": "17897451416562",
+        "codigo": "61656"
+      },
+      {
+        "diametro": "180mm - 7\"",
+        "furo": "22,22mm - 7/8\"",
+        "grao": "G-60",
+        "rotacao": "8.500 rpm",
+        "embalagem": "10",
+        "ean": "7897451416572",
+        "dun": "17897451416579",
+        "codigo": "61657"
+      },
+      {
+        "diametro": "180mm - 7\"",
+        "furo": "22,22mm - 7/8\"",
+        "grao": "G-80",
+        "rotacao": "8.500 rpm",
+        "embalagem": "10",
+        "ean": "7897451416589",
+        "dun": "17897451416586",
+        "codigo": "61658"
+      },
+      {
+        "diametro": "180mm - 7\"",
+        "furo": "22,22mm - 7/8\"",
+        "grao": "G-120",
+        "rotacao": "8.500 rpm",
+        "embalagem": "10",
+        "ean": "7897451416596",
+        "dun": "17897451416593",
+        "codigo": "61659"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "75 (impressa 148-149)"
+    }
+  },
+  {
+    "id": "abrasivos-disco-flap-metais-fibra",
+    "categoria": "abrasivos",
+    "categoriaNome": "Abrasivos (Discos)",
+    "linha": "Abrasivos",
+    "tagline": "Disco flap para metais, base de fibra",
+    "descricao": "Disco Flap Cortag Base Fibra para Metais, desenvolvido para desbaste e acabamento de aços e metais ferrosos.",
+    "destaques": [
+      "Base de fibra reforçada",
+      "Maior estabilidade e absorção de vibrações",
+      "Ideal para soldagem e preparação de superfícies"
+    ],
+    "imagem": "images/abrasivos/disco-flap-metais-fibra.jpg",
+    "colunas": [
+      "Diâmetro (Ø)",
+      "Furo",
+      "Grão",
+      "Rotação Máx.",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "diametro",
+      "furo",
+      "grao",
+      "rotacao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "diametro": "115mm - 4.1/2\"",
+        "furo": "22,22mm - 7/8\"",
+        "grao": "G-40",
+        "rotacao": "13.300 rpm",
+        "embalagem": "10",
+        "ean": "7897451420319",
+        "dun": "17897451420316",
+        "codigo": "62031"
+      },
+      {
+        "diametro": "115mm - 4.1/2\"",
+        "furo": "22,22mm - 7/8\"",
+        "grao": "G-60",
+        "rotacao": "13.300 rpm",
+        "embalagem": "10",
+        "ean": "7897451420326",
+        "dun": "17897451420323",
+        "codigo": "62032"
+      },
+      {
+        "diametro": "115mm - 4.1/2\"",
+        "furo": "22,22mm - 7/8\"",
+        "grao": "G-80",
+        "rotacao": "13.300 rpm",
+        "embalagem": "10",
+        "ean": "7897451420333",
+        "dun": "17897451420330",
+        "codigo": "62033"
+      },
+      {
+        "diametro": "115mm - 4.1/2\"",
+        "furo": "22,22mm - 7/8\"",
+        "grao": "G-120",
+        "rotacao": "13.300 rpm",
+        "embalagem": "10",
+        "ean": "7897451420340",
+        "dun": "17897451420347",
+        "codigo": "62034"
+      },
+      {
+        "diametro": "180mm - 7\"",
+        "furo": "22,22mm - 7/8\"",
+        "grao": "G-40",
+        "rotacao": "8.500 rpm",
+        "embalagem": "10",
+        "ean": "7897451420357",
+        "dun": "17897451420354",
+        "codigo": "62035"
+      },
+      {
+        "diametro": "180mm - 7\"",
+        "furo": "22,22mm - 7/8\"",
+        "grao": "G-60",
+        "rotacao": "8.500 rpm",
+        "embalagem": "10",
+        "ean": "7897451420364",
+        "dun": "17897451420361",
+        "codigo": "62036"
+      },
+      {
+        "diametro": "180mm - 7\"",
+        "furo": "22,22mm - 7/8\"",
+        "grao": "G-80",
+        "rotacao": "8.500 rpm",
+        "embalagem": "10",
+        "ean": "7897451420371",
+        "dun": "17897451420378",
+        "codigo": "62037"
+      },
+      {
+        "diametro": "180mm - 7\"",
+        "furo": "22,22mm - 7/8\"",
+        "grao": "G-120",
+        "rotacao": "8.500 rpm",
+        "embalagem": "10",
+        "ean": "7897451420388",
+        "dun": "17897451420385",
+        "codigo": "62038"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "75 (impressa 148-149)"
+    }
+  },
+  {
+    "id": "abrasivos-disco-flap-metais-plastico",
+    "categoria": "abrasivos",
+    "categoriaNome": "Abrasivos (Discos)",
+    "linha": "Abrasivos",
+    "tagline": "Disco flap para metais, base de plástico",
+    "descricao": "Disco Flap Cortag com Base Plástica para Metais, ideal para desbaste e acabamento de aços e metais ferrosos, com remoção eficiente de material.",
+    "destaques": [
+      "Base plástica reforçada",
+      "Leveza, estabilidade e menor vibração",
+      "Uso profissional em esmerilhadeiras angulares"
+    ],
+    "imagem": "images/abrasivos/disco-flap-metais-plastico.jpg",
+    "colunas": [
+      "Diâmetro (Ø)",
+      "Furo",
+      "Grão",
+      "Rotação Máx.",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "diametro",
+      "furo",
+      "grao",
+      "rotacao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "diametro": "115mm - 4.1/2\"",
+        "furo": "22,22mm - 7/8\"",
+        "grao": "G-40",
+        "rotacao": "13.300 rpm",
+        "embalagem": "10",
+        "ean": "7897451416442",
+        "dun": "17897451416449",
+        "codigo": "61644"
+      },
+      {
+        "diametro": "115mm - 4.1/2\"",
+        "furo": "22,22mm - 7/8\"",
+        "grao": "G-60",
+        "rotacao": "13.300 rpm",
+        "embalagem": "10",
+        "ean": "7897451416459",
+        "dun": "17897451416456",
+        "codigo": "61645"
+      },
+      {
+        "diametro": "115mm - 4.1/2\"",
+        "furo": "22,22mm - 7/8\"",
+        "grao": "G-80",
+        "rotacao": "13.300 rpm",
+        "embalagem": "10",
+        "ean": "7897451416466",
+        "dun": "17897451416463",
+        "codigo": "61646"
+      },
+      {
+        "diametro": "115mm - 4.1/2\"",
+        "furo": "22,22mm - 7/8\"",
+        "grao": "G-120",
+        "rotacao": "13.300 rpm",
+        "embalagem": "10",
+        "ean": "7897451416473",
+        "dun": "17897451416470",
+        "codigo": "61647"
+      },
+      {
+        "diametro": "180mm - 7\"",
+        "furo": "22,22mm - 7/8\"",
+        "grao": "G-40",
+        "rotacao": "8.500 rpm",
+        "embalagem": "10",
+        "ean": "7897451416480",
+        "dun": "17897451416487",
+        "codigo": "61648"
+      },
+      {
+        "diametro": "180mm - 7\"",
+        "furo": "22,22mm - 7/8\"",
+        "grao": "G-60",
+        "rotacao": "8.500 rpm",
+        "embalagem": "10",
+        "ean": "7897451416497",
+        "dun": "17897451416494",
+        "codigo": "61649"
+      },
+      {
+        "diametro": "180mm - 7\"",
+        "furo": "22,22mm - 7/8\"",
+        "grao": "G-80",
+        "rotacao": "8.500 rpm",
+        "embalagem": "10",
+        "ean": "7897451416503",
+        "dun": "17897451416500",
+        "codigo": "61650"
+      },
+      {
+        "diametro": "180mm - 7\"",
+        "furo": "22,22mm - 7/8\"",
+        "grao": "G-120",
+        "rotacao": "8.500 rpm",
+        "embalagem": "10",
+        "ean": "7897451416510",
+        "dun": "17897451416517",
+        "codigo": "61651"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "75 (impressa 148-149)"
+    }
+  },
+  {
+    "id": "abrasivos-lixa-ferro",
+    "categoria": "abrasivos",
+    "categoriaNome": "Abrasivos (Discos)",
+    "linha": "Abrasivos",
+    "tagline": "Lixa para ferro (FE-240)",
+    "descricao": "Lixas Ferro Cortag fabricadas com costado de pano (lona) de alta resistência, grãos de óxido de alumínio e resina de ligação reforçada.",
+    "destaques": [
+      "Costado de pano (lona) de alta resistência",
+      "Excelente durabilidade e poder de corte",
+      "Indicada para ferro e metais diversos"
+    ],
+    "imagem": "images/abrasivos/lixa-ferro.jpg",
+    "colunas": [
+      "Tipo",
+      "Grão",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "tipo",
+      "grao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "tipo": "FE240",
+        "grao": "36",
+        "embalagem": "25",
+        "ean": "7897451415209",
+        "dun": "17897451415206",
+        "codigo": "61520"
+      },
+      {
+        "tipo": "FE240",
+        "grao": "40",
+        "embalagem": "25",
+        "ean": "7897451415216",
+        "dun": "17897451415213",
+        "codigo": "61521"
+      },
+      {
+        "tipo": "FE240",
+        "grao": "50",
+        "embalagem": "25",
+        "ean": "7897451415223",
+        "dun": "17897451415220",
+        "codigo": "61522"
+      },
+      {
+        "tipo": "FE240",
+        "grao": "60",
+        "embalagem": "25",
+        "ean": "7897451415230",
+        "dun": "17897451415237",
+        "codigo": "61523"
+      },
+      {
+        "tipo": "FE240",
+        "grao": "80",
+        "embalagem": "25",
+        "ean": "7897451415247",
+        "dun": "17897451415244",
+        "codigo": "61524"
+      },
+      {
+        "tipo": "FE240",
+        "grao": "100",
+        "embalagem": "25",
+        "ean": "7897451415254",
+        "dun": "17897451415251",
+        "codigo": "61525"
+      },
+      {
+        "tipo": "FE240",
+        "grao": "120",
+        "embalagem": "25",
+        "ean": "7897451415261",
+        "dun": "17897451415268",
+        "codigo": "61526"
+      },
+      {
+        "tipo": "FE240",
+        "grao": "150",
+        "embalagem": "25",
+        "ean": "7897451415278",
+        "dun": "17897451415275",
+        "codigo": "61527"
+      },
+      {
+        "tipo": "FE240",
+        "grao": "180",
+        "embalagem": "25",
+        "ean": "7897451415285",
+        "dun": "17897451415282",
+        "codigo": "61528"
+      },
+      {
+        "tipo": "FE240",
+        "grao": "220",
+        "embalagem": "25",
+        "ean": "7897451415292",
+        "dun": "17897451415299",
+        "codigo": "61529"
+      },
+      {
+        "tipo": "FE240",
+        "grao": "240",
+        "embalagem": "25",
+        "ean": "7897451415308",
+        "dun": "17897451415305",
+        "codigo": "61530"
+      },
+      {
+        "tipo": "FE240",
+        "grao": "280",
+        "embalagem": "25",
+        "ean": "7897451415315",
+        "dun": "17897451415312",
+        "codigo": "61531"
+      },
+      {
+        "tipo": "FE240",
+        "grao": "320",
+        "embalagem": "25",
+        "ean": "7897451415322",
+        "dun": "17897451415329",
+        "codigo": "61532"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "76 (impressa 150-151)"
+    }
+  },
+  {
+    "id": "abrasivos-lixa-massa",
+    "categoria": "abrasivos",
+    "categoriaNome": "Abrasivos (Discos)",
+    "linha": "Abrasivos",
+    "tagline": "Lixa para massa (MS-230)",
+    "descricao": "Lixa Cortag Massa (MS230) fabricada em costado de papel leve, com óxido de alumínio e resina, para desbaste e lixamento de massas, gessos, paredes e pinturas.",
+    "destaques": [
+      "Grãos uniformes e aderência precisa",
+      "Corte limpo e regular",
+      "Uso manual ou com suporte de lixa"
+    ],
+    "imagem": "images/abrasivos/lixa-massa.jpg",
+    "colunas": [
+      "Tipo",
+      "Grão",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "tipo",
+      "grao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "tipo": "MS230",
+        "grao": "50",
+        "embalagem": "25",
+        "ean": "7897451414653",
+        "dun": "17897451414650",
+        "codigo": "61465"
+      },
+      {
+        "tipo": "MS230",
+        "grao": "60",
+        "embalagem": "25",
+        "ean": "7897451414660",
+        "dun": "17897451414667",
+        "codigo": "61466"
+      },
+      {
+        "tipo": "MS230",
+        "grao": "80",
+        "embalagem": "25",
+        "ean": "7897451414677",
+        "dun": "17897451414674",
+        "codigo": "61467"
+      },
+      {
+        "tipo": "MS230",
+        "grao": "100",
+        "embalagem": "25",
+        "ean": "7897451414684",
+        "dun": "17897451414681",
+        "codigo": "61468"
+      },
+      {
+        "tipo": "MS230",
+        "grao": "120",
+        "embalagem": "25",
+        "ean": "7897451414691",
+        "dun": "17897451414698",
+        "codigo": "61469"
+      },
+      {
+        "tipo": "MS230",
+        "grao": "150",
+        "embalagem": "25",
+        "ean": "7897451414707",
+        "dun": "17897451414704",
+        "codigo": "61470"
+      },
+      {
+        "tipo": "MS230",
+        "grao": "180",
+        "embalagem": "25",
+        "ean": "7897451414714",
+        "dun": "17897451414711",
+        "codigo": "61471"
+      },
+      {
+        "tipo": "MS230",
+        "grao": "220",
+        "embalagem": "25",
+        "ean": "7897451414721",
+        "dun": "17897451414728",
+        "codigo": "61472"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "76 (impressa 150-151)"
+    }
+  },
+  {
+    "id": "abrasivos-lixa-madeira",
+    "categoria": "abrasivos",
+    "categoriaNome": "Abrasivos (Discos)",
+    "linha": "Abrasivos",
+    "tagline": "Lixa para madeira (MA-220)",
+    "descricao": "Lixa Cortag Madeira (MA220) fabricada em costado de papel leve, com óxido de alumínio e resina, para desbaste e acabamento de madeiras e superfícies pintadas.",
+    "destaques": [
+      "Grãos uniformes e corte controlado",
+      "Acabamento limpo e homogêneo",
+      "Uso em marcenarias, carpintarias e repinturas"
+    ],
+    "imagem": "images/abrasivos/lixa-madeira.jpg",
+    "colunas": [
+      "Tipo",
+      "Grão",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "tipo",
+      "grao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "tipo": "MA220",
+        "grao": "50",
+        "embalagem": "25",
+        "ean": "7897451415124",
+        "dun": "17897451415121",
+        "codigo": "61512"
+      },
+      {
+        "tipo": "MA220",
+        "grao": "60",
+        "embalagem": "25",
+        "ean": "7897451415131",
+        "dun": "17897451415138",
+        "codigo": "61513"
+      },
+      {
+        "tipo": "MA220",
+        "grao": "80",
+        "embalagem": "25",
+        "ean": "7897451415148",
+        "dun": "17897451415145",
+        "codigo": "61514"
+      },
+      {
+        "tipo": "MA220",
+        "grao": "100",
+        "embalagem": "25",
+        "ean": "7897451415155",
+        "dun": "17897451415152",
+        "codigo": "61515"
+      },
+      {
+        "tipo": "MA220",
+        "grao": "120",
+        "embalagem": "25",
+        "ean": "7897451415162",
+        "dun": "17897451415169",
+        "codigo": "61516"
+      },
+      {
+        "tipo": "MA220",
+        "grao": "150",
+        "embalagem": "25",
+        "ean": "7897451415179",
+        "dun": "17897451415176",
+        "codigo": "61517"
+      },
+      {
+        "tipo": "MA220",
+        "grao": "180",
+        "embalagem": "25",
+        "ean": "7897451415186",
+        "dun": "17897451415183",
+        "codigo": "61518"
+      },
+      {
+        "tipo": "MA220",
+        "grao": "220",
+        "embalagem": "25",
+        "ean": "7897451415193",
+        "dun": "17897451415190",
+        "codigo": "61519"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "76 (impressa 150-151)"
+    }
+  },
+  {
+    "id": "abrasivos-lixa-dagua",
+    "categoria": "abrasivos",
+    "categoriaNome": "Abrasivos (Discos)",
+    "linha": "Abrasivos",
+    "tagline": "Lixa d'água (ECO DA422)",
+    "descricao": "Lixas d'Água Cortag (ECO DA422) fabricadas em costado de papel impermeável, com óxido de alumínio e resina, para lixamento a úmido.",
+    "destaques": [
+      "Costado de papel impermeável",
+      "Excelente resistência à água",
+      "Uso em reparação automotiva e preparação de superfícies"
+    ],
+    "imagem": "images/abrasivos/lixa-dagua.jpg",
+    "colunas": [
+      "Tipo",
+      "Grão",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "tipo",
+      "grao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "tipo": "ECO DA422",
+        "grao": "80",
+        "embalagem": "25",
+        "ean": "7897451414844",
+        "dun": "17897451414841",
+        "codigo": "61484"
+      },
+      {
+        "tipo": "ECO DA422",
+        "grao": "100",
+        "embalagem": "25",
+        "ean": "7897451414851",
+        "dun": "17897451414858",
+        "codigo": "61485"
+      },
+      {
+        "tipo": "ECO DA422",
+        "grao": "120",
+        "embalagem": "25",
+        "ean": "7897451414868",
+        "dun": "17897451414865",
+        "codigo": "61486"
+      },
+      {
+        "tipo": "ECO DA422",
+        "grao": "150",
+        "embalagem": "25",
+        "ean": "7897451414875",
+        "dun": "17897451414872",
+        "codigo": "61487"
+      },
+      {
+        "tipo": "ECO DA422",
+        "grao": "180",
+        "embalagem": "25",
+        "ean": "7897451414882",
+        "dun": "17897451414889",
+        "codigo": "61488"
+      },
+      {
+        "tipo": "ECO DA422",
+        "grao": "220",
+        "embalagem": "25",
+        "ean": "7897451414899",
+        "dun": "17897451414896",
+        "codigo": "61489"
+      },
+      {
+        "tipo": "ECO DA422",
+        "grao": "240",
+        "embalagem": "25",
+        "ean": "7897451414905",
+        "dun": "17897451414902",
+        "codigo": "61490"
+      },
+      {
+        "tipo": "ECO DA422",
+        "grao": "280",
+        "embalagem": "25",
+        "ean": "7897451414912",
+        "dun": "17897451414919",
+        "codigo": "61491"
+      },
+      {
+        "tipo": "ECO DA422",
+        "grao": "320",
+        "embalagem": "25",
+        "ean": "7897451414929",
+        "dun": "17897451414926",
+        "codigo": "61492"
+      },
+      {
+        "tipo": "ECO DA422",
+        "grao": "360",
+        "embalagem": "25",
+        "ean": "7897451414936",
+        "dun": "17897451414933",
+        "codigo": "61493"
+      },
+      {
+        "tipo": "ECO DA422",
+        "grao": "400",
+        "embalagem": "25",
+        "ean": "7897451414943",
+        "dun": "17897451414940",
+        "codigo": "61494"
+      },
+      {
+        "tipo": "ECO DA422",
+        "grao": "500",
+        "embalagem": "25",
+        "ean": "7897451414950",
+        "dun": "17897451414957",
+        "codigo": "61495"
+      },
+      {
+        "tipo": "ECO DA422",
+        "grao": "600",
+        "embalagem": "25",
+        "ean": "7897451414967",
+        "dun": "17897451414964",
+        "codigo": "61496"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "77 (impressa 152-153)"
+    }
+  },
+  {
+    "id": "abrasivos-suporte-manual-lixa",
+    "categoria": "abrasivos",
+    "categoriaNome": "Abrasivos (Discos)",
+    "linha": "Abrasivos",
+    "tagline": "Suporte manual de lixa",
+    "descricao": "Suporte Manual para Lixa Cortag para fixação de folhas de lixa, com base de plástico resistente e presilhas metálicas. Não acompanha lixa.",
+    "destaques": [
+      "Base em plástico resistente",
+      "Presilhas metálicas para troca rápida",
+      "Pegador ergonômico"
+    ],
+    "imagem": "images/abrasivos/suporte-manual-lixa.jpg",
+    "colunas": [
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "embalagem": "6",
+        "ean": "7897451461770",
+        "dun": "17897451461777",
+        "codigo": "60177"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "77 (impressa 152-153)"
+    }
+  },
+  {
+    "id": "abrasivos-jogo-escovas",
+    "categoria": "abrasivos",
+    "categoriaNome": "Abrasivos (Discos)",
+    "linha": "Abrasivos",
+    "tagline": "Jogo de escovas para furadeira",
+    "descricao": "Jogo de Escovas Cortag para Furadeira, para limpeza, polimento e desbaste de superfícies metálicas, com haste cilíndrica de 6mm.",
+    "destaques": [
+      "Haste cilíndrica de 6mm",
+      "3 peças: pincel, circular e copo",
+      "Remove ferrugem, tinta e impurezas"
+    ],
+    "imagem": "images/abrasivos/jogo-escovas.jpg",
+    "colunas": [
+      "Qtde",
+      "Composição",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "qtde",
+      "composicao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "qtde": "3 peças",
+        "composicao": "1 escova tipo pincel Ø 25mm, 1 escova circular Ø 50mm, 1 escova tipo copo Ø 50mm",
+        "embalagem": "12",
+        "ean": "7897451417654",
+        "dun": "17897451417651",
+        "codigo": "61765"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "77 (impressa 152-153)"
+    }
   }
 ]
