@@ -26528,5 +26528,955 @@
       "arquivo": "Catálago Livro 2026.pdf",
       "pagina": "126 (impressa 250)"
     }
+  },
+  {
+    "id": "limpeza-selantes-lubrificante-cortag-lub",
+    "categoria": "limpeza-selantes",
+    "categoriaNome": "Limpeza e Selantes",
+    "linha": "Lubrificante Cortag Lub",
+    "tagline": "Alto poder de lubrificação, proteção e desempenho profissional",
+    "descricao": "O Desengripante Cortag Lub foi desenvolvido para lubrificar, proteger e recuperar componentes metálicos com ação rápida e eficaz. Sua fórmula especial repelente à umidade atua diretamente sobre a ferrugem, eliminando o travamento de peças e prevenindo o reaparecimento de oxidação. Ideal para uso profissional e doméstico, é indicado para fechaduras, dobradiças, porcas, parafusos, motores, equipamentos e ferramentas em geral, garantindo funcionamento suave e duradouro.",
+    "destaques": [
+      "Ação rápida de penetração e lubrificação",
+      "Fórmula repelente à umidade que combate a ferrugem",
+      "Uso versátil em fechaduras, dobradiças, motores e ferramentas"
+    ],
+    "imagem": "images/limpeza-selantes/lubrificante-cortag-lub.jpg",
+    "colunas": [
+      "Conteúdo (mL/g)",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "conteudo",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "conteudo": "300 / 150",
+        "embalagem": "12",
+        "ean": "7897451460025",
+        "dun": "27897451460029",
+        "codigo": "60002"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "127 (impressa 252-253)"
+    }
+  },
+  {
+    "id": "limpeza-selantes-limpador-porcelanato",
+    "categoria": "limpeza-selantes",
+    "categoriaNome": "Limpeza e Selantes",
+    "linha": "Limpador para Porcelanato",
+    "tagline": "Limpeza profissional e eficiente para diversas superfícies",
+    "descricao": "O Limpador Universal Cortag Clean foi desenvolvido para remoção intensiva de manchas e sujeiras difíceis em porcelanatos, pisos encardidos e superfícies porosas. Seu efeito flotador atua nos microporos, fazendo com que a sujeira impregnada migre para a superfície, facilitando a limpeza e restaurando o brilho original do revestimento. Ideal para uso profissional e doméstico, garante alto rendimento e um ambiente limpo e perfumado, sem deixar resíduos após o enxágue.",
+    "destaques": [
+      "Melhor desempenho em porcelanato, mármore e granito",
+      "Também pode ser usado em auto-lavadora para piso encardido",
+      "Não danifica e não mancha nenhum tipo de piso"
+    ],
+    "imagem": "images/limpeza-selantes/limpador-porcelanato.jpg",
+    "colunas": [
+      "Descrição",
+      "Embalagem",
+      "EAN",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "descricao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Limpador para Porcelanato, Mármore e Granito - 1 L",
+        "embalagem": "6",
+        "ean": "7897451413762",
+        "dun": "17897451413769",
+        "codigo": "61376"
+      },
+      {
+        "descricao": "Limpador para Porcelanato, Mármore e Granito - 5 L",
+        "embalagem": "4",
+        "ean": "7897451413779",
+        "dun": "17897451413776",
+        "codigo": "61377"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "127 (impressa 252-253)"
+    }
+  },
+  {
+    "id": "limpeza-selantes-limpador-pos-obra",
+    "categoria": "limpeza-selantes",
+    "categoriaNome": "Limpeza e Selantes",
+    "linha": "Limpador Pós Obra",
+    "tagline": "Limpeza profissional para resíduos pós-obra e manchas cimentícias",
+    "descricao": "O Limpador Pós-Obra Cortag Clean foi desenvolvido para remoção eficaz de resíduos de cimento, argamassa, rejuntes (incluindo base epóxi), gesso e tinta látex em superfícies cerâmicas e porcelanatos. Sua fórmula contém inibidor de corrosão, que evita o ataque a superfícies metálicas, garantindo segurança no uso profissional. Proporciona excelente desempenho em porcelanatos com manchas persistentes, atuando de forma rápida e eficiente para restaurar o aspecto original do revestimento.",
+    "destaques": [
+      "Remove resíduos de cimento, argamassa, rejunte, gesso e tinta látex",
+      "Fórmula com inibidor de corrosão para superfícies metálicas",
+      "Atenção: corrosivo à pele — não utilizar em mármores ou pisos de base cimentícia"
+    ],
+    "imagem": "images/limpeza-selantes/limpador-pos-obra.jpg",
+    "colunas": [
+      "Descrição",
+      "Embalagem",
+      "EAN",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "descricao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Limpador Pós Obra - 1 L",
+        "embalagem": "6",
+        "ean": "7897451413915",
+        "dun": "17897451413912",
+        "codigo": "61391"
+      },
+      {
+        "descricao": "Limpador Pós Obra - 5 L",
+        "embalagem": "4",
+        "ean": "7897451413922",
+        "dun": "17897451413929",
+        "codigo": "61392"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "127 (impressa 252-253)"
+    }
+  },
+  {
+    "id": "limpeza-selantes-limpador-universal",
+    "categoria": "limpeza-selantes",
+    "categoriaNome": "Limpeza e Selantes",
+    "linha": "Limpador Universal",
+    "tagline": "Limpeza profissional e eficiente para diversas superfícies",
+    "descricao": "O Limpador Universal Cortag Clean foi desenvolvido para remoção intensiva de manchas e sujeiras difíceis em porcelanatos, pisos encardidos e superfícies porosas. Seu efeito flotador atua nos microporos, fazendo com que a sujeira impregnada migre para a superfície, facilitando a limpeza e restaurando o brilho original do revestimento. Ideal para uso profissional e doméstico, garante alto rendimento e um ambiente limpo e perfumado, sem deixar resíduos após o enxágue.",
+    "destaques": [
+      "Melhor desempenho em porcelanatos e superfícies porosas",
+      "Perfuma o ambiente, não oxida e não deixa resíduo",
+      "Alto rendimento — até 600 m²"
+    ],
+    "imagem": "images/limpeza-selantes/limpador-universal.jpg",
+    "colunas": [
+      "Descrição",
+      "Embalagem",
+      "EAN",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "descricao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Limpador Universal - 1 L",
+        "embalagem": "6",
+        "ean": "7897451413731",
+        "dun": "17897451413738",
+        "codigo": "61373"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "128 (impressa 254-255)"
+    }
+  },
+  {
+    "id": "limpeza-selantes-jogo-de-escovas",
+    "categoria": "limpeza-selantes",
+    "categoriaNome": "Limpeza e Selantes",
+    "linha": "Jogo de Escovas",
+    "tagline": "Potência e precisão para limpeza de superfícies metálicas",
+    "descricao": "O Jogo de Escovas Cortag é indicado para limpeza e desbaste em superfícies metálicas, proporcionando alta eficiência e durabilidade. Composto por três modelos — escova tipo pincel (Ø 25 mm), escova circular (Ø 50 mm) e escova tipo copo (Ø 50 mm) — o conjunto se adapta a diferentes tipos de acabamento. Possui haste cilíndrica Ø 6 mm, compatível com furadeiras elétricas, oferecendo controle, segurança e desempenho profissional.",
+    "destaques": [
+      "3 modelos em um único kit: pincel, circular e copo",
+      "Haste Ø 6 mm compatível com furadeiras elétricas",
+      "Ideal para limpeza e desbaste de superfícies metálicas"
+    ],
+    "imagem": "images/limpeza-selantes/jogo-de-escovas.jpg",
+    "colunas": [
+      "Composição",
+      "Qtde",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "composicao",
+      "qtde",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "composicao": "1 escova tipo pincel Ø 25 mm, 1 escova circular Ø 50 mm, 1 escova tipo copo Ø 50 mm",
+        "qtde": "3 peças",
+        "embalagem": "12",
+        "ean": "7897451417654",
+        "dun": "17897451417651",
+        "codigo": "61765"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "128 (impressa 254-255)"
+    }
+  },
+  {
+    "id": "limpeza-selantes-escovas-cabo-plastico",
+    "categoria": "limpeza-selantes",
+    "categoriaNome": "Limpeza e Selantes",
+    "linha": "Escovas Cabo Plástico",
+    "tagline": "Versatilidade e desempenho na limpeza de diversas superfícies",
+    "descricao": "As Escovas com Cabo Plástico Cortag foram desenvolvidas para limpeza manual eficiente em diferentes tipos de superfícies, desde plásticas e delicadas até metálicas. Disponíveis em versões com cerdas de PVC, com grãos abrasivos, aço latonado e aço com espátula, oferecem alto desempenho e praticidade nas etapas de limpeza, acabamento e remoção de impurezas. Seu cabo anatômico em plástico resistente garante conforto, firmeza e durabilidade durante o uso profissional ou doméstico.",
+    "destaques": [
+      "4 versões de cerdas: nylon abrasivo, PVC, aço latonado e aço com espátula",
+      "Cabo anatômico resistente para uso profissional ou doméstico",
+      "Praticidade na limpeza, acabamento e remoção de impurezas"
+    ],
+    "imagem": "images/limpeza-selantes/escovas-cabo-plastico.jpg",
+    "colunas": [
+      "Tipo",
+      "Modelo",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "tipo",
+      "modelo",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "tipo": "Cabo plástico",
+        "modelo": "Cerdas de nylon com grãos abrasivos",
+        "embalagem": "12",
+        "ean": "7897451417623",
+        "dun": "17897451417620",
+        "codigo": "61762"
+      },
+      {
+        "tipo": "Cabo plástico",
+        "modelo": "Cerdas de PVC",
+        "embalagem": "12",
+        "ean": "7897451417630",
+        "dun": "17897451417637",
+        "codigo": "61763"
+      },
+      {
+        "tipo": "Cabo plástico",
+        "modelo": "Cerdas de aço latonado",
+        "embalagem": "12",
+        "ean": "7897451417616",
+        "dun": "17897451417613",
+        "codigo": "61761"
+      },
+      {
+        "tipo": "Cabo plástico",
+        "modelo": "Cerdas de aço 4 fileiras - Com espátula",
+        "embalagem": "12",
+        "ean": "7897451417647",
+        "dun": "17897451417644",
+        "codigo": "61764"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "128 (impressa 254-255)"
+    }
+  },
+  {
+    "id": "limpeza-selantes-escovas-cabo-madeira",
+    "categoria": "limpeza-selantes",
+    "categoriaNome": "Limpeza e Selantes",
+    "linha": "Escovas Cabo Madeira",
+    "tagline": "Resistência e desempenho para limpeza metálica intensa",
+    "descricao": "As Escovas com Cabo de Madeira Cortag são projetadas para limpeza manual de superfícies metálicas, ideais para remoção de ferrugem, tinta, carepas e impurezas. Disponíveis em versões de 3 fileiras, 4 fileiras e modelo retangular, proporcionam acabamento eficiente e excelente aderência ergonômica durante o uso. As cerdas de aço de alta resistência garantem longa durabilidade mesmo em trabalhos pesados e contínuos.",
+    "destaques": [
+      "Versões de 3 fileiras, 4 fileiras e retangular",
+      "Cerdas de aço de alta resistência",
+      "Uso manual para remoção de ferrugem, tinta e impurezas"
+    ],
+    "imagem": "images/limpeza-selantes/escovas-cabo-madeira.jpg",
+    "colunas": [
+      "Tipo",
+      "Modelo",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "tipo",
+      "modelo",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "tipo": "Cabo madeira",
+        "modelo": "Cerdas de aço 4 fileiras",
+        "embalagem": "12",
+        "ean": "7897451417586",
+        "dun": "17897451417583",
+        "codigo": "61758"
+      },
+      {
+        "tipo": "Cabo madeira",
+        "modelo": "Cerdas de aço 3 fileiras",
+        "embalagem": "12",
+        "ean": "7897451417593",
+        "dun": "17897451417590",
+        "codigo": "61759"
+      },
+      {
+        "tipo": "Cabo madeira",
+        "modelo": "Cerdas de aço retangular",
+        "embalagem": "10",
+        "ean": "7897451417609",
+        "dun": "17897451417606",
+        "codigo": "61760"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "128 (impressa 254-255)"
+    }
+  },
+  {
+    "id": "limpeza-selantes-fibras-sinteticas-limpeza",
+    "categoria": "limpeza-selantes",
+    "categoriaNome": "Limpeza e Selantes",
+    "linha": "Fibras Sintéticas para Limpeza",
+    "tagline": "Eficiência e durabilidade para a limpeza profissional",
+    "descricao": "As Fibras Sintéticas para Limpeza Cortag são ideais para limpeza e manutenção de superfícies como pisos cerâmicos, porcelanatos, mármores, granitos e outros revestimentos. Disponíveis nas versões leve (branca) e pesada (verde), oferecem alto desempenho na remoção de sujeiras sem danificar as superfícies, garantindo durabilidade, praticidade e acabamento uniforme em cada uso.",
+    "destaques": [
+      "Versão leve (branca) e pesada (verde)",
+      "Indicada para pisos, porcelanatos, mármores e granitos",
+      "Não danifica as superfícies"
+    ],
+    "imagem": "images/limpeza-selantes/fibras-sinteticas-limpeza.jpg",
+    "colunas": [
+      "Tipo",
+      "Cor",
+      "Qtde por Embalagem",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "tipo",
+      "cor",
+      "qtdePorEmbalagem",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "tipo": "Limpeza leve",
+        "cor": "Branca",
+        "qtdePorEmbalagem": "10",
+        "embalagem": "10",
+        "ean": "7897451425475",
+        "dun": "17897451425472",
+        "codigo": "62547"
+      },
+      {
+        "tipo": "Limpeza pesada",
+        "cor": "Verde",
+        "qtdePorEmbalagem": "10",
+        "embalagem": "10",
+        "ean": "7897451425482",
+        "dun": "17897451425489",
+        "codigo": "62548"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "129 (impressa 256-257)"
+    }
+  },
+  {
+    "id": "limpeza-selantes-pu-fixa-tudo-hibrido",
+    "categoria": "limpeza-selantes",
+    "categoriaNome": "Limpeza e Selantes",
+    "linha": "PU Fixa Tudo Híbrido",
+    "tagline": "Adesão máxima, flexibilidade e desempenho superior em qualquer superfície",
+    "descricao": "O PU Fixa Tudo Híbrido Cortag é um adesivo selante de alta performance, indicado para vedação e fixação de diversos materiais como metal, madeira, alumínio, cerâmica e concreto. Sua fórmula híbrida à base de polímeros modificados combina alta aderência e elasticidade, proporcionando vedação duradoura e resistência a impactos. De fácil aplicação e cura à temperatura ambiente, forma uma borracha flexível e resistente, ideal para uso interno e externo, inclusive em áreas expostas à umidade. Pode ser pintado após a cura, garantindo um acabamento profissional e duradouro.",
+    "destaques": [
+      "Alta aderência e elasticidade em múltiplos materiais",
+      "Resistente a impactos e à umidade, para uso interno e externo",
+      "Pode ser pintado após a cura"
+    ],
+    "imagem": "images/limpeza-selantes/pu-fixa-tudo-hibrido.jpg",
+    "colunas": [
+      "Conteúdo",
+      "Produto",
+      "Embalagem",
+      "Cor",
+      "Emb. (cx)",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "conteudo",
+      "produto",
+      "embalagem",
+      "cor",
+      "qtdeCaixa",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "conteudo": "360 g",
+        "produto": "PU Fixa Tudo",
+        "embalagem": "Tubo",
+        "cor": "Branco",
+        "qtdeCaixa": "12",
+        "ean": "7897451431063",
+        "dun": "17897451431060",
+        "codigo": "63106"
+      },
+      {
+        "conteudo": "80 g",
+        "produto": "PU Fixa Tudo",
+        "embalagem": "Bisnaga",
+        "cor": "Branco",
+        "qtdeCaixa": "24",
+        "ean": "7897451431100",
+        "dun": "17897451431107",
+        "codigo": "63110"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "129 (impressa 256-257)"
+    }
+  },
+  {
+    "id": "limpeza-selantes-espuma-expansiva-pu",
+    "categoria": "limpeza-selantes",
+    "categoriaNome": "Limpeza e Selantes",
+    "linha": "Espuma Expansiva de PU",
+    "tagline": "Vedação e preenchimento profissional com alto rendimento e secagem rápida",
+    "descricao": "A Espuma Expansiva de PU Cortag é indicada para vedações, preenchimentos e fixações em diversos tipos de substrato, como concreto, madeira, alvenaria, metais e PVC. De fácil aplicação e secagem rápida, proporciona isolamento térmico e acústico eficiente, além de excelente aderência e estabilidade dimensional após a cura. Sua fórmula livre de CFC garante um produto sustentável e seguro, com preenchimento homogêneo, permanente e de alta durabilidade.",
+    "destaques": [
+      "Rende até 3x mais",
+      "Isolamento térmico e acústico eficiente",
+      "Fórmula livre de CFC — após a cura pode ser cortada, lixada e pintada"
+    ],
+    "imagem": "images/limpeza-selantes/espuma-expansiva-pu.jpg",
+    "colunas": [
+      "Conteúdo",
+      "Produto",
+      "Embalagem",
+      "Emb. (cx)",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "conteudo",
+      "produto",
+      "embalagem",
+      "qtdeCaixa",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "conteudo": "500 ml / 320 g",
+        "produto": "Espuma de PU",
+        "embalagem": "Lata",
+        "qtdeCaixa": "12",
+        "ean": "7897451431148",
+        "dun": "17897451431145",
+        "codigo": "63114"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "129 (impressa 256-257)"
+    }
+  },
+  {
+    "id": "limpeza-selantes-pu-40-hibrido",
+    "categoria": "limpeza-selantes",
+    "categoriaNome": "Limpeza e Selantes",
+    "linha": "PU 40 Híbrido",
+    "tagline": "Vedação e colagem com alta resistência e flexibilidade",
+    "descricao": "O PU 40 Híbrido Cortag é uma solução versátil para vedação e colagem em múltiplas superfícies, como madeira, aço, alumínio, concreto, cerâmica e chapas metálicas. Sua cura à temperatura ambiente forma uma borracha flexível e de secagem rápida, ideal para aplicações em áreas internas e externas, com excelente aderência, resistência a impactos e acabamento que aceita pintura.",
+    "destaques": [
+      "Disponível nas cores Preto, Branco e Cinza",
+      "Alta resistência a impactos",
+      "Acabamento aceita pintura após a cura"
+    ],
+    "imagem": "images/limpeza-selantes/pu-40-hibrido.jpg",
+    "colunas": [
+      "Conteúdo",
+      "Produto",
+      "Embalagem",
+      "Cor",
+      "Emb. (cx)",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "conteudo",
+      "produto",
+      "embalagem",
+      "cor",
+      "qtdeCaixa",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "conteudo": "360 g",
+        "produto": "PU 40",
+        "embalagem": "Tubo",
+        "cor": "Preto",
+        "qtdeCaixa": "12",
+        "ean": "7897451431025",
+        "dun": "17897451431022",
+        "codigo": "63102"
+      },
+      {
+        "conteudo": "360 g",
+        "produto": "PU 40",
+        "embalagem": "Tubo",
+        "cor": "Branco",
+        "qtdeCaixa": "12",
+        "ean": "7897451431032",
+        "dun": "17897451431039",
+        "codigo": "63103"
+      },
+      {
+        "conteudo": "360 g",
+        "produto": "PU 40",
+        "embalagem": "Tubo",
+        "cor": "Cinza",
+        "qtdeCaixa": "12",
+        "ean": "7897451431049",
+        "dun": "17897451431046",
+        "codigo": "63104"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "129 (impressa 256-257)"
+    }
+  },
+  {
+    "id": "limpeza-selantes-veda-calha-acrilico",
+    "categoria": "limpeza-selantes",
+    "categoriaNome": "Limpeza e Selantes",
+    "linha": "Veda Calha Acrílico",
+    "tagline": "Vedação eficaz, flexível e duradoura contra infiltrações e vazamentos",
+    "descricao": "O Veda Calha Acrílico Cortag é um selante de alta aderência, indicado para vedação e reparos em calhas, rufos, telhas, juntas e superfícies de alvenaria, madeira, MDF, concreto, gesso e drywall. Sua fórmula acrílica impermeável e flexível oferece alta resistência a intempéries e raios UV, garantindo vedação segura e duradoura. De fácil aplicação e acabamento, o produto pode ser lixado e pintado após a cura, mantendo excelente resistência à umidade e à formação de fungos.",
+    "destaques": [
+      "Alta resistência a intempéries e raios UV",
+      "Pode ser lixado e pintado após a cura",
+      "Resistente à umidade e à formação de fungos"
+    ],
+    "imagem": "images/limpeza-selantes/veda-calha-acrilico.jpg",
+    "colunas": [
+      "Conteúdo",
+      "Produto",
+      "Embalagem",
+      "Cor",
+      "Emb. (cx)",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "conteudo",
+      "produto",
+      "embalagem",
+      "cor",
+      "qtdeCaixa",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "conteudo": "400 g",
+        "produto": "Veda Calha",
+        "embalagem": "Tubo",
+        "cor": "Cinza",
+        "qtdeCaixa": "12",
+        "ean": "7897451431056",
+        "dun": "17897451431053",
+        "codigo": "63105"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "130 (impressa 258-259)"
+    }
+  },
+  {
+    "id": "limpeza-selantes-silicone-acetico-spray",
+    "categoria": "limpeza-selantes",
+    "categoriaNome": "Limpeza e Selantes",
+    "linha": "Silicone Acético em Spray",
+    "tagline": "Protege, lubrifica e prolonga a vida útil de superfícies e mecanismos",
+    "descricao": "O Silicone Acético em Spray Cortag foi desenvolvido para lubrificação, proteção e acabamento de superfícies metálicas, plásticas e de borracha. Sua fórmula de alto desempenho reduz o atrito e o desgaste, além de prevenir ruídos e a oxidação causada pela maresia. Ideal para dobradiças, trilhos, persianas, portas, fechaduras e peças automotivas, forma uma camada protetora resistente e duradoura, com excelente aderência ao alumínio e outros metais.",
+    "destaques": [
+      "Reduz atrito, ruídos e oxidação",
+      "Ideal para dobradiças, trilhos, persianas e peças automotivas",
+      "Excelente aderência ao alumínio e outros metais"
+    ],
+    "imagem": "images/limpeza-selantes/silicone-acetico-spray.jpg",
+    "colunas": [
+      "Conteúdo",
+      "Produto",
+      "Embalagem",
+      "Emb. (cx)",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "conteudo",
+      "produto",
+      "embalagem",
+      "qtdeCaixa",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "conteudo": "300 ml / 150 g",
+        "produto": "Silicone Spray",
+        "embalagem": "Lata",
+        "qtdeCaixa": "12",
+        "ean": "7897451431124",
+        "dun": "17897451431121",
+        "codigo": "63112"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "130 (impressa 258-259)"
+    }
+  },
+  {
+    "id": "limpeza-selantes-silicone-acetico",
+    "categoria": "limpeza-selantes",
+    "categoriaNome": "Limpeza e Selantes",
+    "linha": "Silicone Acético",
+    "tagline": "Lubrifica, protege e reduz o desgaste em metais, borrachas e plásticos",
+    "descricao": "O Silicone Acético Cortag é um selante de uso geral para vedações em metais, vidros, madeira e superfícies diversas, oferecendo alta resistência à umidade e boa aderência. Disponível nas versões Tubo (incolor e branco) e Bisnaga (incolor), é indicado para vedações em esquadrias, box de banheiro, pias, tanques e outras aplicações que exigem acabamento uniforme e durabilidade.",
+    "destaques": [
+      "Disponível em Tubo (incolor/branco) e Bisnaga (incolor)",
+      "Alta resistência à umidade",
+      "Acabamento uniforme e boa aderência"
+    ],
+    "imagem": "images/limpeza-selantes/silicone-acetico.jpg",
+    "colunas": [
+      "Conteúdo",
+      "Produto",
+      "Embalagem",
+      "Cor",
+      "Emb. (cx)",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "conteudo",
+      "produto",
+      "embalagem",
+      "cor",
+      "qtdeCaixa",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "conteudo": "240 g",
+        "produto": "Silicone",
+        "embalagem": "Tubo",
+        "cor": "Incolor",
+        "qtdeCaixa": "12",
+        "ean": "7897451431070",
+        "dun": "17897451431077",
+        "codigo": "63107"
+      },
+      {
+        "conteudo": "240 g",
+        "produto": "Silicone",
+        "embalagem": "Tubo",
+        "cor": "Branco",
+        "qtdeCaixa": "12",
+        "ean": "7897451431087",
+        "dun": "17897451431084",
+        "codigo": "63108"
+      },
+      {
+        "conteudo": "50 ml",
+        "produto": "Silicone",
+        "embalagem": "Bisnaga",
+        "cor": "Incolor",
+        "qtdeCaixa": "24",
+        "ean": "7897451431117",
+        "dun": "17897451431114",
+        "codigo": "63111"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "130 (impressa 258-259)"
+    }
+  },
+  {
+    "id": "limpeza-selantes-silicone-base-dagua",
+    "categoria": "limpeza-selantes",
+    "categoriaNome": "Limpeza e Selantes",
+    "linha": "Silicone Base D'água",
+    "tagline": "Vedação eficiente, fácil aplicação e acabamento limpo",
+    "descricao": "O Silicone Base D'Água Cortag é um selante de uso geral, indicado para vedações internas em alvenaria, madeira, gesso e drywall, além de pequenas juntas e reparos. De fácil aplicação e reposicionamento, oferece excelente aderência, acabamento uniforme e baixo odor, sendo ideal para ambientes internos. Sua formulação à base de água proporciona secagem rápida, fácil limpeza e compatibilidade com pintura, garantindo resultados duradouros e estéticos.",
+    "destaques": [
+      "Baixo odor, ideal para ambientes internos",
+      "Secagem rápida e fácil limpeza",
+      "Compatível com pintura"
+    ],
+    "imagem": "images/limpeza-selantes/silicone-base-dagua.jpg",
+    "colunas": [
+      "Conteúdo",
+      "Produto",
+      "Embalagem",
+      "Cor",
+      "Emb. (cx)",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "conteudo",
+      "produto",
+      "embalagem",
+      "cor",
+      "qtdeCaixa",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "conteudo": "400 g",
+        "produto": "Silicone",
+        "embalagem": "Tubo",
+        "cor": "Branco",
+        "qtdeCaixa": "12",
+        "ean": "7897451431094",
+        "dun": "17897451431091",
+        "codigo": "63109"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "130 (impressa 258-259)"
+    }
+  },
+  {
+    "id": "limpeza-selantes-vaselina-spray",
+    "categoria": "limpeza-selantes",
+    "categoriaNome": "Limpeza e Selantes",
+    "linha": "Vaselina em Spray",
+    "tagline": "Proteção e lubrificação eficiente contra umidade e oxidação",
+    "descricao": "A Vaselina em Spray Cortag é indicada para lubrificação e proteção de superfícies metálicas, plásticas e elétricas, prevenindo a corrosão, oxidação e ação da maresia. Com fórmula de alta pureza e resistência à umidade, forma uma camada protetora duradoura, ideal para manutenção elétrica, montagem de fios, conduítes e vidros automotivos. Seu aplicador em spray facilita o uso, garantindo distribuição uniforme e controle preciso, mesmo em locais de difícil acesso.",
+    "destaques": [
+      "Alta pureza e resistência à umidade",
+      "Ideal para manutenção elétrica e conduítes",
+      "Aplicador em spray para locais de difícil acesso"
+    ],
+    "imagem": "images/limpeza-selantes/vaselina-spray.jpg",
+    "colunas": [
+      "Conteúdo",
+      "Produto",
+      "Embalagem",
+      "Emb. (cx)",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "conteudo",
+      "produto",
+      "embalagem",
+      "qtdeCaixa",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "conteudo": "300 ml / 170 g",
+        "produto": "Vaselina Spray",
+        "embalagem": "Lata",
+        "qtdeCaixa": "12",
+        "ean": "7897451431131",
+        "dun": "17897451431138",
+        "codigo": "63113"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "131 (impressa 260-261)"
+    }
+  },
+  {
+    "id": "limpeza-selantes-cola-pva-madeira",
+    "categoria": "limpeza-selantes",
+    "categoriaNome": "Limpeza e Selantes",
+    "linha": "Cola PVA Madeira",
+    "tagline": "Alta aderência e durabilidade para trabalhos em madeira e superfícies porosas",
+    "descricao": "A Cola PVA Madeira Cortag foi desenvolvida para colagens de alto desempenho em madeira de média e baixa densidade, além de aglomerados, laminados, papel, papelão e superfícies porosas em geral. Sua formulação à base de PVA (acetato de polivinila) garante adesão rápida, flexibilidade e alta resistência após a cura, proporcionando resultados precisos e duradouros em marcenaria, carpintaria e trabalhos artesanais. Ideal para usos internos, oferece acabamento limpo e excelente penetração nas fibras da madeira.",
+    "destaques": [
+      "Adesão rápida e alta resistência após a cura",
+      "Ideal para marcenaria, carpintaria e trabalhos artesanais",
+      "Excelente penetração nas fibras da madeira"
+    ],
+    "imagem": "images/limpeza-selantes/cola-pva-madeira.jpg",
+    "colunas": [
+      "Conteúdo",
+      "Produto",
+      "Embalagem",
+      "Emb. (cx)",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "conteudo",
+      "produto",
+      "embalagem",
+      "qtdeCaixa",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "conteudo": "250 g",
+        "produto": "Cola PVA madeira",
+        "embalagem": "Tubo",
+        "qtdeCaixa": "12",
+        "ean": "7897451431179",
+        "dun": "17897451431176",
+        "codigo": "63117"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "131 (impressa 260-261)"
+    }
+  },
+  {
+    "id": "limpeza-selantes-cola-pva-extra",
+    "categoria": "limpeza-selantes",
+    "categoriaNome": "Limpeza e Selantes",
+    "linha": "Cola PVA Extra",
+    "tagline": "Alta aderência e desempenho para colagens a frio ou a quente",
+    "descricao": "A Cola PVA Extra Cortag foi desenvolvida para colagens de alto desempenho, podendo ser utilizada tanto a frio quanto a quente. Indicada para madeira, MDF, laminados, papel, papelão e superfícies porosas em geral, oferece força, durabilidade e excelente aderência, garantindo resultados firmes e limpos. Sua fórmula à base de PVA proporciona secagem rápida, alta flexibilidade e acabamento transparente, ideal para marcenarias, carpintarias e uso profissional em montagens e reparos.",
+    "destaques": [
+      "Pode ser utilizada a frio ou a quente",
+      "Alta flexibilidade e acabamento transparente",
+      "Ideal para marcenarias e uso profissional"
+    ],
+    "imagem": "images/limpeza-selantes/cola-pva-extra.jpg",
+    "colunas": [
+      "Conteúdo",
+      "Produto",
+      "Embalagem",
+      "Emb. (cx)",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "conteudo",
+      "produto",
+      "embalagem",
+      "qtdeCaixa",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "conteudo": "1 kg",
+        "produto": "Cola PVA branca",
+        "embalagem": "Tubo",
+        "qtdeCaixa": "6",
+        "ean": "7897451431155",
+        "dun": "17897451431152",
+        "codigo": "63115"
+      },
+      {
+        "conteudo": "500 g",
+        "produto": "Cola PVA branca",
+        "embalagem": "Tubo",
+        "qtdeCaixa": "12",
+        "ean": "7897451431162",
+        "dun": "17897451431169",
+        "codigo": "63116"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "131 (impressa 260-261)"
+    }
   }
 ]
