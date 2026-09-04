@@ -16261,5 +16261,3631 @@
       "arquivo": "Catálago Livro 2026.pdf",
       "pagina": "77 (impressa 152-153)"
     }
+  },
+  {
+    "id": "ferramentas-manuais-passador-fios",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Passador de fios alma de aço",
+    "descricao": "Passador de Fios Cortag - Alma de Aço, indicado para instalações elétricas, de telefonia e TV, com mola guia metálica flexível na ponta.",
+    "destaques": [
+      "Polipropileno reforçado com alma de aço",
+      "Mola guia metálica flexível",
+      "Comprimentos de 10m, 15m e 20m"
+    ],
+    "imagem": "images/ferramentas-manuais/passador-fios.jpg",
+    "colunas": [
+      "Tipo",
+      "Comprimento",
+      "Cordoalha de Aço Interna",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "tipo",
+      "comprimento",
+      "cordoalha",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "tipo": "Alma de aço",
+        "comprimento": "10m",
+        "cordoalha": "Sim",
+        "embalagem": "12",
+        "ean": "7897451467710",
+        "dun": "17897451467717",
+        "codigo": "60771"
+      },
+      {
+        "tipo": "Alma de aço",
+        "comprimento": "15m",
+        "cordoalha": "Sim",
+        "embalagem": "12",
+        "ean": "7897451467765",
+        "dun": "17897451467762",
+        "codigo": "60776"
+      },
+      {
+        "tipo": "Alma de aço",
+        "comprimento": "20m",
+        "cordoalha": "Sim",
+        "embalagem": "12",
+        "ean": "7897451467796",
+        "dun": "17897451467793",
+        "codigo": "60781"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "79 (impressa 156-157)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-passador-fios-profissional",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Passador de fios profissional",
+    "descricao": "Passador de Fios Cortag - Profissional, indicado para passagem de fios e cabos em instalações elétricas, de telefonia e TV, com maior leveza e praticidade.",
+    "destaques": [
+      "Polipropileno reforçado",
+      "Guia metálica com mola flexível",
+      "Comprimentos de 10m, 15m e 20m"
+    ],
+    "imagem": "images/ferramentas-manuais/passador-fios-profissional.jpg",
+    "colunas": [
+      "Tipo",
+      "Comprimento",
+      "Cordoalha de Aço Interna",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "tipo",
+      "comprimento",
+      "cordoalha",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "tipo": "Profissional",
+        "comprimento": "10m",
+        "cordoalha": "Não",
+        "embalagem": "12",
+        "ean": "7897451467475",
+        "dun": "17897451467472",
+        "codigo": "60747"
+      },
+      {
+        "tipo": "Profissional",
+        "comprimento": "15m",
+        "cordoalha": "Não",
+        "embalagem": "12",
+        "ean": "7897451467482",
+        "dun": "17897451467489",
+        "codigo": "60748"
+      },
+      {
+        "tipo": "Profissional",
+        "comprimento": "20m",
+        "cordoalha": "Não",
+        "embalagem": "12",
+        "ean": "7897451467499",
+        "dun": "17897451467496",
+        "codigo": "60749"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "79 (impressa 156-157)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-alicate-rebitador",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Alicate rebitador manual profissional",
+    "descricao": "Alicate Rebitador Manual Cortag - Profissional, para fixação de rebites de repuxo em chapas metálicas, perfis e estruturas diversas.",
+    "destaques": [
+      "Chave para troca rápida dos bicos",
+      "Compatível com rebites 3/32\", 1/8\", 5/32\" e 3/16\"",
+      "Aço com pintura eletrostática"
+    ],
+    "imagem": "images/ferramentas-manuais/alicate-rebitador.jpg",
+    "colunas": [
+      "Tamanho",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "tamanho",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "tamanho": "10\"",
+        "embalagem": "6",
+        "ean": "7897451461398",
+        "dun": "17897451461395",
+        "codigo": "60139"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "79 (impressa 156-157)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-cabecote-rebitador-furadeira",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Cabeçote rebitador para furadeira",
+    "descricao": "Cabeçote Rebitador Cortag para aplicação de rebites de alumínio, aço e aço inoxidável de até 4,8mm usando furadeiras elétricas.",
+    "destaques": [
+      "Compatível com furadeiras de velocidade variável",
+      "Bicos intercambiáveis 2,4/3,2/4,0/4,8mm",
+      "Sistema de reversão"
+    ],
+    "imagem": "images/ferramentas-manuais/cabecote-rebitador-furadeira.jpg",
+    "colunas": [
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "embalagem": "6",
+        "ean": "7897451417876",
+        "dun": "17897451417873",
+        "codigo": "61787"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "79 (impressa 156-157)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-rebitador-manual",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Rebitador manual tipo alavanca",
+    "descricao": "Rebitador Manual Tipo Alavanca Cortag para fixação de rebites de alumínio, aço e aço inoxidável de até 4,8mm, com mínimo esforço físico.",
+    "destaques": [
+      "Alavancas alongadas",
+      "Empunhadura ergonômica emborrachada",
+      "Bicos intercambiáveis 3,2/4,0/4,8mm"
+    ],
+    "imagem": "images/ferramentas-manuais/rebitador-manual.jpg",
+    "colunas": [
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "embalagem": "6",
+        "ean": "7897451417869",
+        "dun": "17897451417866",
+        "codigo": "61786"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "79 (impressa 156-157)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-arcos-serra",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Arco de serra standard e plus",
+    "descricao": "Arcos de Serra Cortag para cortes precisos e controlados em metais, plásticos e madeiras.",
+    "destaques": [
+      "Standard: cabo ABS, estrutura em aço tubular",
+      "Plus: estrutura em alumínio reforçado, punho emborrachado"
+    ],
+    "imagem": "images/ferramentas-manuais/arcos-serra.jpg",
+    "colunas": [
+      "Tipo",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "tipo",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "tipo": "Standard 12\"",
+        "embalagem": "6",
+        "ean": "7897451418804",
+        "dun": "17897451418801",
+        "codigo": "61880"
+      },
+      {
+        "tipo": "Plus 12\"",
+        "embalagem": "6",
+        "ean": "7897451469356",
+        "dun": "17897451469353",
+        "codigo": "60935"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "80 (impressa 158-159)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-mini-arco-serra",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Mini arco de serra",
+    "descricao": "Mini Arco de Serra Cortag, ideal para cortes rápidos e precisos em locais de difícil acesso. Acompanha lâmina de serra manual em aço carbono.",
+    "destaques": [
+      "Leveza, controle e versatilidade",
+      "Permite uso de lâminas quebradas (mín. 100mm)",
+      "Aço carbono e polímeros de alta resistência"
+    ],
+    "imagem": "images/ferramentas-manuais/mini-arco-serra.jpg",
+    "colunas": [
+      "Modelo",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Aço Carbono",
+        "embalagem": "12",
+        "ean": "7897451469370",
+        "dun": "17897451469377",
+        "codigo": "60937"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "80 (impressa 158-159)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-arco-poda-madeira",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Arco de poda para madeira",
+    "descricao": "Arco de Serra Cortag para Madeira, indicado para corte de galhos e madeiras em geral, com estrutura em aço temperado e pintura eletrostática a pó.",
+    "destaques": [
+      "Arco de 24\" (610mm)",
+      "Corpo em aço temperado",
+      "Uso em locais de difícil acesso"
+    ],
+    "imagem": "images/ferramentas-manuais/arco-poda-madeira.jpg",
+    "colunas": [
+      "Modelo",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Aço temperado",
+        "embalagem": "6",
+        "ean": "7897451469387",
+        "dun": "17897451469384",
+        "codigo": "60938"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "80 (impressa 158-159)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-lamina-serra-manual",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Lâmina de serra manual",
+    "descricao": "Lâmina de Serra Manual, compatível com os arcos Poda, Standard, Plus e Premium, garantindo cortes precisos e desempenho constante.",
+    "destaques": [
+      "Compatível com arcos Poda, Standard, Plus e Premium",
+      "Opções de 18, 24 e 32 dentes"
+    ],
+    "imagem": "images/ferramentas-manuais/lamina-serra-manual.jpg",
+    "colunas": [
+      "Modelo",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "300mm - 18 dentes",
+        "embalagem": "100",
+        "ean": "7897451469448",
+        "dun": "17897451469445",
+        "codigo": "60944"
+      },
+      {
+        "modelo": "300mm - 24 dentes",
+        "embalagem": "100",
+        "ean": "7897451469455",
+        "dun": "17897451469452",
+        "codigo": "60945"
+      },
+      {
+        "modelo": "300mm - 32 dentes",
+        "embalagem": "100",
+        "ean": "7897451469462",
+        "dun": "17897451469469",
+        "codigo": "60946"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "80 (impressa 158-159)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-lamina-arco-poda",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Lâmina para arco de poda",
+    "descricao": "Lâmina para Arco de Poda, desenvolvida em aço temperado para garantir cortes rápidos, limpos e com excelente durabilidade. Ideal para reposição.",
+    "destaques": [
+      "Aço temperado",
+      "24\" - 610mm"
+    ],
+    "imagem": "images/ferramentas-manuais/lamina-arco-poda.jpg",
+    "colunas": [
+      "Modelo",
+      "Lâmina",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "lamina",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "24\" - 610mm",
+        "lamina": "Aço temperado",
+        "embalagem": "100",
+        "ean": "7897451469394",
+        "dun": "17897451469391",
+        "codigo": "60939"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "80 (impressa 158-159)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-serrote",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Serrote cabo de madeira e plástico",
+    "descricao": "Serrotes Cortag para cortes precisos e rápidos em gesso, drywall e madeira, com design ergonômico e lâminas de alta resistência.",
+    "destaques": [
+      "Cabo de Madeira: cortes retos e longos",
+      "Cabo Plástico: furos e cortes curvos"
+    ],
+    "imagem": "images/ferramentas-manuais/serrote.jpg",
+    "colunas": [
+      "Descrição",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "descricao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Serrote cabo de madeira",
+        "embalagem": "6",
+        "ean": "7897451418057",
+        "dun": "37897451418058",
+        "codigo": "61805"
+      },
+      {
+        "descricao": "Serrote de ponta cabo plástico",
+        "embalagem": "6",
+        "ean": "7897451418064",
+        "dun": "37897451418065",
+        "codigo": "61806"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "80 (impressa 158-159)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-martelo-pedreiro",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Martelo de pedreiro 1 corte",
+    "descricao": "Martelo Pedreiro Cortag 1 Corte, indicado para alvenaria, assentamento e demolição leve. Cabeça em aço forjado e temperado, cabo de madeira lixada.",
+    "destaques": [
+      "Extremidade cortante e face plana",
+      "Cabeça em aço forjado temperado"
+    ],
+    "imagem": "images/ferramentas-manuais/martelo-pedreiro.jpg",
+    "colunas": [
+      "Modelo",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Martelo pedreiro 1 corte",
+        "embalagem": "6",
+        "ean": "7897451461381",
+        "dun": "17897451461388",
+        "codigo": "60138"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "81 (impressa 160-161)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-martelo-unha-fibra",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Martelo tipo unha, cabo de fibra",
+    "descricao": "Martelo Tipo Unha Cortag com Cabo de Fibra, para uso profissional em carpintaria, marcenaria e construção civil. Cabo em fibra de vidro com punho emborrachado.",
+    "destaques": [
+      "Cabeça em aço forjado temperado e polido",
+      "Cabo em fibra de vidro",
+      "Absorção de vibrações"
+    ],
+    "imagem": "images/ferramentas-manuais/martelo-unha-fibra.jpg",
+    "colunas": [
+      "Tamanho",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "tamanho",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "tamanho": "23mm",
+        "embalagem": "6",
+        "ean": "7897451460179",
+        "dun": "17897451460176",
+        "codigo": "60017"
+      },
+      {
+        "tamanho": "25mm",
+        "embalagem": "6",
+        "ean": "7897451460186",
+        "dun": "17897451460183",
+        "codigo": "60018"
+      },
+      {
+        "tamanho": "27mm",
+        "embalagem": "6",
+        "ean": "7897451460193",
+        "dun": "17897451460190",
+        "codigo": "60019"
+      },
+      {
+        "tamanho": "29mm",
+        "embalagem": "6",
+        "ean": "7897451460209",
+        "dun": "17897451460206",
+        "codigo": "60020"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "81 (impressa 160-161)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-martelo-unha-madeira",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Martelo tipo unha, cabo de madeira",
+    "descricao": "Martelo Tipo Unha Cortag com Cabo de Madeira, indicado para carpintaria, marcenaria e construção civil, com unha curvada para remoção de pregos.",
+    "destaques": [
+      "Cabeça em aço forjado temperado e polido",
+      "Cabo de madeira fixado com cunha metálica"
+    ],
+    "imagem": "images/ferramentas-manuais/martelo-unha-madeira.jpg",
+    "colunas": [
+      "Tamanho",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "tamanho",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "tamanho": "23mm",
+        "embalagem": "6",
+        "ean": "7897451462692",
+        "dun": "17897451462699",
+        "codigo": "60269"
+      },
+      {
+        "tamanho": "25mm",
+        "embalagem": "6",
+        "ean": "7897451462708",
+        "dun": "17897451462705",
+        "codigo": "60270"
+      },
+      {
+        "tamanho": "27mm",
+        "embalagem": "6",
+        "ean": "7897451462715",
+        "dun": "17897451462712",
+        "codigo": "60271"
+      },
+      {
+        "tamanho": "29mm",
+        "embalagem": "6",
+        "ean": "7897451462722",
+        "dun": "17897451462729",
+        "codigo": "60272"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "81 (impressa 160-161)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-marreta-oitavada",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Marreta oitavada",
+    "descricao": "Marretas Oitavadas Cortag, indicadas para uso profissional na construção civil e aplicações industriais. Cabeça em aço forjado e temperado, cabo de madeira fixado com cunha metálica.",
+    "destaques": [
+      "Alta resistência a impactos",
+      "Cabo de madeira com cunha metálica",
+      "0,5kg a 2kg"
+    ],
+    "imagem": "images/ferramentas-manuais/marreta-oitavada.jpg",
+    "colunas": [
+      "Tamanho",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "tamanho",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "tamanho": "0,5 Kg",
+        "embalagem": "6",
+        "ean": "7897451462852",
+        "dun": "17897451462859",
+        "codigo": "60285"
+      },
+      {
+        "tamanho": "1 Kg",
+        "embalagem": "6",
+        "ean": "7897451462876",
+        "dun": "17897451462873",
+        "codigo": "60287"
+      },
+      {
+        "tamanho": "1,5 Kg",
+        "embalagem": "6",
+        "ean": "7897451462869",
+        "dun": "17897451462866",
+        "codigo": "60286"
+      },
+      {
+        "tamanho": "2 Kg",
+        "embalagem": "6",
+        "ean": "7897451462883",
+        "dun": "17897451462880",
+        "codigo": "60288"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "81 (impressa 160-161)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-alicate-universal",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Alicate universal",
+    "descricao": "Alicates Universais Cortag para trabalhos em linhas de baixa tensão: corte, aperto e desencape de fios e cabos de até 6mm.",
+    "destaques": [
+      "Versões Aço Carbono (Classe II) e Cromo Vanádio (Classe I)",
+      "Isolação 1000V"
+    ],
+    "imagem": "images/ferramentas-manuais/alicate-universal.jpg",
+    "colunas": [
+      "Modelo",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Alicate universal AC 8\"",
+        "embalagem": "6",
+        "ean": "7897451462586",
+        "dun": "17897451462583",
+        "codigo": "60258"
+      },
+      {
+        "modelo": "Alicate universal CRV 8\"",
+        "embalagem": "6",
+        "ean": "7897451411164",
+        "dun": "17897451411161",
+        "codigo": "61116"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "82 (impressa 162-163)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-alicate-bico-meia-cana-reto",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Alicate de bico meia cana reto",
+    "descricao": "Alicates de Bico Meia Cana Reto Cortag, indicados para atividades elétricas e eletrônicas em baixa tensão, cortar, desencapar e manusear fios de até 1,5mm.",
+    "destaques": [
+      "Ponta longa e fina para acesso a locais estreitos",
+      "Isolação 1000V"
+    ],
+    "imagem": "images/ferramentas-manuais/alicate-bico-meia-cana-reto.jpg",
+    "colunas": [
+      "Modelo",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Alicate de bico meia cana AC 6\"",
+        "embalagem": "6",
+        "ean": "7897451462746",
+        "dun": "17897451462743",
+        "codigo": "60274"
+      },
+      {
+        "modelo": "Alicate de bico meia cana CRV 6\"",
+        "embalagem": "6",
+        "ean": "7897451411188",
+        "dun": "17897451411185",
+        "codigo": "61118"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "82 (impressa 162-163)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-alicate-bico-meia-cana-curvo",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Alicate de bico meia cana curvo",
+    "descricao": "Alicates de Bico Meia Cana Curvo Cortag, ideais para trabalhos elétricos e eletrônicos em baixa tensão, com ponta curvada e fina para áreas de difícil alcance.",
+    "destaques": [
+      "Ponta curvada e fina",
+      "Isolação 1000V"
+    ],
+    "imagem": "images/ferramentas-manuais/alicate-bico-meia-cana-curvo.jpg",
+    "colunas": [
+      "Modelo",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Alicate bico curvo AC 6\"",
+        "embalagem": "6",
+        "ean": "7897451411102",
+        "dun": "17897451411109",
+        "codigo": "61110"
+      },
+      {
+        "modelo": "Alicate bico curvo CRV 6\"",
+        "embalagem": "6",
+        "ean": "7897451411201",
+        "dun": "17897451411208",
+        "codigo": "61120"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "82 (impressa 162-163)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-alicate-corte-diagonal",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Alicate de corte diagonal",
+    "descricao": "Alicates de Corte Diagonal Cortag, indicados para atividades elétricas e eletrônicas em baixa tensão: corte e desencape de fios de até 4mm.",
+    "destaques": [
+      "Lâminas afiadas e corpo reforçado",
+      "Empunhadura ergonômica isolada"
+    ],
+    "imagem": "images/ferramentas-manuais/alicate-corte-diagonal.jpg",
+    "colunas": [
+      "Modelo",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Alicate de corte diagonal AC 6\"",
+        "embalagem": "6",
+        "ean": "7897451462753",
+        "dun": "17897451462750",
+        "codigo": "60275"
+      },
+      {
+        "modelo": "Alicate de corte diagonal CRV 6\"",
+        "embalagem": "6",
+        "ean": "7897451411171",
+        "dun": "17897451411178",
+        "codigo": "61117"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "82 (impressa 162-163)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-alicate-bico-chato",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Alicate de bico chato",
+    "descricao": "Alicates de Bico Chato Cortag, ideais para trabalhos elétricos e eletrônicos em baixa tensão, para manusear, dobrar e segurar peças planas.",
+    "destaques": [
+      "Corpo em aço de alta resistência",
+      "Cabos isolados",
+      "Isolação 1000V"
+    ],
+    "imagem": "images/ferramentas-manuais/alicate-bico-chato.jpg",
+    "colunas": [
+      "Modelo",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Alicate bico chato AC 6\"",
+        "embalagem": "6",
+        "ean": "7897451411119",
+        "dun": "17897451411116",
+        "codigo": "61111"
+      },
+      {
+        "modelo": "Alicate bico chato CRV 6\"",
+        "embalagem": "6",
+        "ean": "7897451411218",
+        "dun": "17897451411215",
+        "codigo": "61121"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "83 (impressa 164-165)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-alicate-desencapador",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Alicate desencapador",
+    "descricao": "Alicates Desencapadores Cortag, indicados para desencapar fios e cabos elétricos de 0,5 a 6mm², com parafuso de regulagem de abertura.",
+    "destaques": [
+      "Molas de retorno e lâminas afiadas",
+      "Ajuste de abertura conforme diâmetro do fio"
+    ],
+    "imagem": "images/ferramentas-manuais/alicate-desencapador.jpg",
+    "colunas": [
+      "Modelo",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Alicate desencapador AC 6\"",
+        "embalagem": "6",
+        "ean": "7897451411126",
+        "dun": "17897451411123",
+        "codigo": "61112"
+      },
+      {
+        "modelo": "Alicate desencapador CRV 6\"",
+        "embalagem": "6",
+        "ean": "7897451411225",
+        "dun": "17897451411222",
+        "codigo": "61122"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "83 (impressa 164-165)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-alicate-bico-redondo",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Alicate de bico redondo",
+    "descricao": "Alicates de Bico Redondo Cortag, ideais para dobrar fios, manusear terminais e moldar peças pequenas com precisão.",
+    "destaques": [
+      "Ponta cônica e polida",
+      "Uso artesanal e de manutenção fina"
+    ],
+    "imagem": "images/ferramentas-manuais/alicate-bico-redondo.jpg",
+    "colunas": [
+      "Modelo",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Alicate bico redondo AC 6\"",
+        "embalagem": "6",
+        "ean": "7897451411096",
+        "dun": "17897451411093",
+        "codigo": "61109"
+      },
+      {
+        "modelo": "Alicate bico redondo CRV 6\"",
+        "embalagem": "6",
+        "ean": "7897451411195",
+        "dun": "17897451411192",
+        "codigo": "61119"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "83 (impressa 164-165)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-alicate-eletricista",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Alicate de eletricista",
+    "descricao": "Alicates Eletricista Cortag, indicados para cortar, desencapar e manusear fios e cabos elétricos de até 1,5mm em trabalhos profissionais.",
+    "destaques": [
+      "Ponta longa e reforçada",
+      "Cabos isolados",
+      "Isolação 1000V"
+    ],
+    "imagem": "images/ferramentas-manuais/alicate-eletricista.jpg",
+    "colunas": [
+      "Modelo",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Alicate eletricista AC 6\"",
+        "embalagem": "6",
+        "ean": "7897451411133",
+        "dun": "17897451411130",
+        "codigo": "61113"
+      },
+      {
+        "modelo": "Alicate eletricista CRV 6\"",
+        "embalagem": "6",
+        "ean": "7897451411232",
+        "dun": "17897451411239",
+        "codigo": "61123"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "83 (impressa 164-165)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-alicate-pressao",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Alicate de pressão",
+    "descricao": "Alicates de Pressão Cortag, indicados para fixação firme de peças planas, cilíndricas, quadradas ou sextavadas, com parafuso de regulagem e travamento automático.",
+    "destaques": [
+      "Sistema de travamento automático",
+      "Versões Aço Carbono e Cromo Vanádio, niqueladas"
+    ],
+    "imagem": "images/ferramentas-manuais/alicate-pressao.jpg",
+    "colunas": [
+      "Modelo",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Alicate pressão AC 10\"",
+        "embalagem": "6",
+        "ean": "7897451463040",
+        "dun": "17897451463047",
+        "codigo": "60304"
+      },
+      {
+        "modelo": "Alicate pressão CRV 10\"",
+        "embalagem": "6",
+        "ean": "7897451411256",
+        "dun": "17897451411253",
+        "codigo": "61125"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "84 (impressa 166-167)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-alicate-bomba-dagua",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Alicate de bomba d'água",
+    "descricao": "Alicates Bomba D'Água Cortag, indicados para manusear e fixar peças cilíndricas, quadradas e sextavadas em instalações e reparos hidráulicos.",
+    "destaques": [
+      "Mordentes ajustáveis e corpo robusto",
+      "Cabos plastificados"
+    ],
+    "imagem": "images/ferramentas-manuais/alicate-bomba-dagua.jpg",
+    "colunas": [
+      "Modelo",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Alicate bomba d'água AC 10\"",
+        "embalagem": "6",
+        "ean": "7897451461640",
+        "dun": "17897451461647",
+        "codigo": "60164"
+      },
+      {
+        "modelo": "Alicate bomba d'água CRV 10\"",
+        "embalagem": "6",
+        "ean": "7897451411249",
+        "dun": "17897451411246",
+        "codigo": "61124"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "84 (impressa 166-167)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-lapis-carpinteiro",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Lápis para carpinteiro/marceneiro",
+    "descricao": "Lápis para Carpinteiro/Marceneiro Cortag, para marcação precisa em superfícies de madeira, MDF e compensado.",
+    "destaques": [
+      "Grafite de alta densidade",
+      "Corpo de madeira resistente"
+    ],
+    "imagem": "images/ferramentas-manuais/lapis-carpinteiro.jpg",
+    "colunas": [
+      "Qtde por Embalagem",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "qtde",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "qtde": "72 unidades",
+        "embalagem": "1",
+        "ean": "7897451418033",
+        "dun": "17897451418030",
+        "codigo": "61803"
+      },
+      {
+        "qtde": "2 unidades",
+        "embalagem": "12",
+        "ean": "7897451466133",
+        "dun": "17897451466130",
+        "codigo": "60613"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "84 (impressa 166-167)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-estilete-trapezoidal-canivete",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Estilete trapezoidal tipo canivete",
+    "descricao": "Estilete Trapezoidal Tipo Canivete, para cortes bem-definidos em diferentes materiais, com corpo em alumínio e sistema de travas e compartimentos internos.",
+    "destaques": [
+      "Corpo em alumínio",
+      "Sistema de travas e compartimentos internos",
+      "Compacto e portátil"
+    ],
+    "imagem": "images/ferramentas-manuais/estilete-trapezoidal-canivete.jpg",
+    "colunas": [
+      "Tipo",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "tipo",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "tipo": "Estilete trapezoidal tipo canivete",
+        "embalagem": "6",
+        "ean": "7897451431650",
+        "dun": "17897451431657",
+        "codigo": "63165"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "85 (impressa 168-169)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-estiletes",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Estiletes hobby e profissional",
+    "descricao": "Estiletes Cortag para cortes precisos e seguros em papel, vinil, borracha, plástico e outros materiais leves. Modelos Hobby e Profissional, lâmina metálica de 18mm.",
+    "destaques": [
+      "Hobby: corpo plástico leve",
+      "Profissional: base metálica e trava de ajuste",
+      "Lâminas de reposição em tubete de 10 unidades"
+    ],
+    "imagem": "images/ferramentas-manuais/estiletes.jpg",
+    "colunas": [
+      "Tipo",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "tipo",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "tipo": "Estilete Profissional - 18mm",
+        "embalagem": "10",
+        "ean": "7897451462265",
+        "dun": "17897451462262",
+        "codigo": "60226"
+      },
+      {
+        "tipo": "Estilete Hobby - 18mm",
+        "embalagem": "20",
+        "ean": "7897451462272",
+        "dun": "17897451462279",
+        "codigo": "60227"
+      },
+      {
+        "tipo": "Lâmina para estilete - 18mm",
+        "embalagem": "6",
+        "ean": "7897451462289",
+        "dun": "27897451462283",
+        "codigo": "60228"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "85 (impressa 168-169)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-talhadeiras-sextavadas",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Talhadeira sextavada",
+    "descricao": "Talhadeiras Sextavadas Cortag, indicadas para abertura de canaletas e corte de pedras, tijolos, pisos e demais materiais de alvenaria.",
+    "destaques": [
+      "Corpo sextavado em aço forjado",
+      "Ponta temperada por indução"
+    ],
+    "imagem": "images/ferramentas-manuais/talhadeiras-sextavadas.jpg",
+    "colunas": [
+      "Modelo",
+      "Tamanho",
+      "Embalagem",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "tamanho",
+      "embalagem",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Sem proteção",
+        "tamanho": "8\" - 200mm",
+        "embalagem": "6",
+        "codigo": "60282"
+      },
+      {
+        "modelo": "Sem proteção",
+        "tamanho": "10\" - 250mm",
+        "embalagem": "6",
+        "codigo": "60283"
+      },
+      {
+        "modelo": "Sem proteção",
+        "tamanho": "12\" - 300mm",
+        "embalagem": "6",
+        "codigo": "60284"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "85 (impressa 168-169)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-ponteiro-sextavado-protecao",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Ponteiro sextavado com proteção de borracha",
+    "descricao": "Ponteiros Sextavados com Proteção Cortag, indicados para quebrar pedras, tijolos, pisos e outros materiais de alvenaria. Empunhadura plástica com punho emborrachado.",
+    "destaques": [
+      "Aço forjado com ponta temperada por indução",
+      "Empunhadura com proteção emborrachada"
+    ],
+    "imagem": "images/ferramentas-manuais/ponteiro-sextavado-protecao.jpg",
+    "colunas": [
+      "Modelo",
+      "Tamanho",
+      "Embalagem",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "tamanho",
+      "embalagem",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Com proteção",
+        "tamanho": "10\" - 250mm",
+        "embalagem": "6",
+        "codigo": "60014"
+      },
+      {
+        "modelo": "Com proteção",
+        "tamanho": "12\" - 300mm",
+        "embalagem": "6",
+        "codigo": "60015"
+      },
+      {
+        "modelo": "Com proteção",
+        "tamanho": "14\" - 350mm",
+        "embalagem": "6",
+        "codigo": "60016"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "85 (impressa 168-169)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-ponteiro-sextavado",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Ponteiro sextavado",
+    "descricao": "Ponteiros Sextavados Cortag, indicados para quebrar pedras, tijolos, pisos e outros materiais de alvenaria, uso profissional na construção civil.",
+    "destaques": [
+      "Aço forjado com ponta temperada por indução",
+      "Alta resistência ao impacto"
+    ],
+    "imagem": "images/ferramentas-manuais/ponteiro-sextavado.jpg",
+    "colunas": [
+      "Modelo",
+      "Tamanho",
+      "Embalagem",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "tamanho",
+      "embalagem",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Sem proteção",
+        "tamanho": "8\" - 200mm",
+        "embalagem": "6",
+        "codigo": "60279"
+      },
+      {
+        "modelo": "Sem proteção",
+        "tamanho": "10\" - 250mm",
+        "embalagem": "6",
+        "codigo": "60280"
+      },
+      {
+        "modelo": "Sem proteção",
+        "tamanho": "12\" - 300mm",
+        "embalagem": "6",
+        "codigo": "60281"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "86 (impressa 170-171)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-ponteiro-sextavado-protecao-2",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Ponteiro sextavado com proteção de borracha",
+    "descricao": "Ponteiros Sextavados com Proteção Cortag para demolições e aplicações em alvenaria, com alto desempenho em demolições e trabalhos de preparo em obras.",
+    "destaques": [
+      "Empunhadura plástica injetada",
+      "Punho emborrachado"
+    ],
+    "imagem": "images/ferramentas-manuais/ponteiro-sextavado-protecao.jpg",
+    "colunas": [
+      "Modelo",
+      "Tamanho",
+      "Embalagem",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "tamanho",
+      "embalagem",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Com proteção",
+        "tamanho": "10\" - 250mm",
+        "embalagem": "6",
+        "codigo": "60011"
+      },
+      {
+        "modelo": "Com proteção",
+        "tamanho": "12\" - 300mm",
+        "embalagem": "6",
+        "codigo": "60012"
+      },
+      {
+        "modelo": "Com proteção",
+        "tamanho": "14\" - 350mm",
+        "embalagem": "6",
+        "codigo": "60013"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "86 (impressa 170-171)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-chave-lavatorio",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Chave para lavatório",
+    "descricao": "Chave para Lavatório Cortag, desenvolvida para fixar e soltar porcas em saídas de pias e lavatórios, especialmente em locais estreitos e de difícil acesso.",
+    "destaques": [
+      "Mordente ajustável com mola",
+      "Cabeça articulada a 90°",
+      "Aço carbono cromado"
+    ],
+    "imagem": "images/ferramentas-manuais/chave-lavatorio.jpg",
+    "colunas": [
+      "Modelo",
+      "Abertura",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "abertura",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "11\" - 280mm",
+        "abertura": "3/8\" a 1.1/4\" | 10mm a 32mm",
+        "embalagem": "6",
+        "ean": "7897451467147",
+        "dun": "17897451467144",
+        "codigo": "60174"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "86 (impressa 170-171)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-chave-lavatorio-multifuncional-8em1",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Chave para lavatório multifuncional 8 em 1",
+    "descricao": "Chave Lavatório 8 em 1 Cortag, para fixar e soltar porcas em locais de difícil acesso, com diversas medidas (Ø 20/23/27/34/40mm), extrator interno e bolha de nível integrada.",
+    "destaques": [
+      "Abertura para peças flexíveis",
+      "Extrator para remoção de resíduos",
+      "Bolha de nível integrada"
+    ],
+    "imagem": "images/ferramentas-manuais/chave-lavatorio-multifuncional-8em1.jpg",
+    "colunas": [
+      "Descrição",
+      "EAN 13",
+      "DUN 14",
+      "Embalagem",
+      "Código"
+    ],
+    "camposVariante": [
+      "descricao",
+      "ean",
+      "dun",
+      "embalagem",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Chave p/ lavatório multifuncional 8 em 1",
+        "ean": "7897451429305",
+        "dun": "17897451429302",
+        "embalagem": "3",
+        "codigo": "62930"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "86 (impressa 170-171)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-chave-lavatorio-multifuncional-18em1-pro",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Chave para lavatório multifuncional 18 em 1 - PRÓ",
+    "descricao": "Chave Lavatório 18 em 1 Cortag, para múltiplas demandas de instalação e manutenção hidráulica: porcas de 14/22/23/27/30/35/40mm, extrator, lâmina de raspagem e duas bolhas de nível. Dobrável.",
+    "destaques": [
+      "Dobrável, facilita acesso a espaços estreitos",
+      "Lâmina de raspagem e extrator de resíduos",
+      "Corpo em polímero técnico reforçado"
+    ],
+    "imagem": "images/ferramentas-manuais/chave-lavatorio-multifuncional-18em1-pro.jpg",
+    "colunas": [
+      "Descrição",
+      "EAN",
+      "DUN14",
+      "Embalagem",
+      "Código"
+    ],
+    "camposVariante": [
+      "descricao",
+      "ean",
+      "dun",
+      "embalagem",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Chave p/ lavatório multifuncional 18 em 1 - PRÓ",
+        "ean": "7897451429312",
+        "dun": "17897451429319",
+        "embalagem": "3",
+        "codigo": "62931"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "87 (impressa 172-173)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-cortador-tubos-pvc",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Cortador de tubos de PVC",
+    "descricao": "Cortador de Tubos PVC Cortag, para cortes rápidos e precisos em tubos de PVC rígido de até 42mm (1.5/8\"). Sistema de catraca progressiva.",
+    "destaques": [
+      "Lâmina em aço temperado",
+      "Sistema de catraca progressiva",
+      "Corpo em alumínio com pintura eletrostática"
+    ],
+    "imagem": "images/ferramentas-manuais/cortador-tubos-pvc.jpg",
+    "colunas": [
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "embalagem": "6",
+        "ean": "7897451417883",
+        "dun": "17897451417880",
+        "codigo": "61788"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "87 (impressa 172-173)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-torques",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Torquês para mosaico e azulejos",
+    "descricao": "Linha de Torquês Cortag para cortes limpos e precisos em cerâmicas finas, pastilhas de vidro e materiais semelhantes.",
+    "destaques": [
+      "Mosaico: roldanas de metal duro, até 5mm de espessura",
+      "Azulejista Corte Reto e Corte Curvo: ponta em metal duro",
+      "Acompanha chave hexagonal Allen"
+    ],
+    "imagem": "images/ferramentas-manuais/torques-mosaico-roldanas.jpg",
+    "colunas": [
+      "Modelo",
+      "Tamanho",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "tamanho",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Mosaico com roldanas de metal duro",
+        "tamanho": "8\"",
+        "embalagem": "3",
+        "ean": "7897451413410",
+        "dun": "17897451413417",
+        "codigo": "61341"
+      },
+      {
+        "modelo": "Azulejista corte reto",
+        "tamanho": "8\"",
+        "embalagem": "3",
+        "ean": "7897451468571",
+        "dun": "17897451468578",
+        "codigo": "60857"
+      },
+      {
+        "modelo": "Azulejista corte curvo",
+        "tamanho": "7.1/2\"",
+        "embalagem": "3",
+        "ean": "7897451468588",
+        "dun": "17897451468585",
+        "codigo": "60858"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "87 (impressa 172-173)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-grampeador-manual",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Grampeador manual e grampos",
+    "descricao": "Grampeador Manual Cortag, para fixações firmes e seguras em madeira, gesso, drywall e materiais semelhantes. Estrutura metálica cromada e mola reforçada.",
+    "destaques": [
+      "Utiliza grampos de 4mm, 6mm e 8mm",
+      "Corpo em aço carbono cromado",
+      "Caixa com 1.000 unidades de grampos"
+    ],
+    "imagem": "images/ferramentas-manuais/grampeador-manual.jpg",
+    "colunas": [
+      "Modelo",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Grampeador",
+        "embalagem": "3",
+        "ean": "7897451417982",
+        "dun": "27897451417986",
+        "codigo": "61798"
+      },
+      {
+        "modelo": "Grampos 4mm - 5/32\"",
+        "embalagem": "10",
+        "ean": "7897451417999",
+        "dun": "37897451417990",
+        "codigo": "61799"
+      },
+      {
+        "modelo": "Grampos 6mm - 1/4\"",
+        "embalagem": "10",
+        "ean": "7897451418002",
+        "dun": "37897451418003",
+        "codigo": "61800"
+      },
+      {
+        "modelo": "Grampos 8mm - 5/16\"",
+        "embalagem": "10",
+        "ean": "7897451418019",
+        "dun": "37897451418010",
+        "codigo": "61801"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "88 (impressa 174-175)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-alicate-azulejos",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Alicate para azulejos",
+    "descricao": "Alicate para Azulejos Cortag, para corte e acabamento de azulejos e pisos de pequenas dimensões e baixa dureza, com rodel de carboneto de tungstênio.",
+    "destaques": [
+      "Estrutura robusta em aço carbono",
+      "Rodel de carboneto de tungstênio",
+      "Cabos plastificados e anatômicos"
+    ],
+    "imagem": "images/ferramentas-manuais/alicate-azulejos.jpg",
+    "colunas": [
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "embalagem": "12",
+        "ean": "7897451463002",
+        "dun": "17897451463009",
+        "codigo": "60300"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "88 (impressa 174-175)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-alavanca",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Alavanca",
+    "descricao": "Alavanca Cortag, para uso profissional em construção civil, marcenaria e carpintaria: remoções, alavancagens e ajustes de peças estruturais.",
+    "destaques": [
+      "Aço forjado de alta resistência",
+      "Pontas temperadas e corpo pintado"
+    ],
+    "imagem": "images/ferramentas-manuais/alavanca.jpg",
+    "colunas": [
+      "Tamanho",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "tamanho",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "tamanho": "1,5m",
+        "embalagem": "1",
+        "ean": "7897451460247",
+        "dun": "-",
+        "codigo": "60024"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "88 (impressa 174-175)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-pe-de-cabra",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Pé de cabra",
+    "descricao": "Pé de Cabra Cortag, para uso profissional em construção civil, marcenaria e carpintaria: remoções, alavancagens e desmontagens.",
+    "destaques": [
+      "Aço forjado de alta resistência",
+      "Pontas temperadas e acabamento pintado"
+    ],
+    "imagem": "images/ferramentas-manuais/pe-de-cabra.jpg",
+    "colunas": [
+      "Tamanho",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "tamanho",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "tamanho": "450mm",
+        "embalagem": "6",
+        "ean": "7897451460216",
+        "dun": "17897451460213",
+        "codigo": "60021"
+      },
+      {
+        "tamanho": "500mm",
+        "embalagem": "6",
+        "ean": "7897451460223",
+        "dun": "17897451460220",
+        "codigo": "60022"
+      },
+      {
+        "tamanho": "600mm",
+        "embalagem": "6",
+        "ean": "7897451460230",
+        "dun": "17897451460237",
+        "codigo": "60023"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "88 (impressa 174-175)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-grampo-multiuso-mola",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Grampo multiuso com mola e aperto rápido",
+    "descricao": "Linha de Grampos Cortag para fixação, travamento e montagem de peças com segurança e agilidade: Multiuso com Mola, Aperto Rápido Tipo \"C\" e Aperto Rápido Tipo Sargento.",
+    "destaques": [
+      "Sistemas de aperto ergonômico",
+      "Alta durabilidade",
+      "Operação simples"
+    ],
+    "imagem": "images/ferramentas-manuais/grampo-multiuso-mola.jpg",
+    "colunas": [
+      "Modelo",
+      "Abertura",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "abertura",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Grampo multiuso com mola",
+        "abertura": "2\" - 50mm",
+        "embalagem": "40",
+        "ean": "7897451418330",
+        "dun": "17897451418337",
+        "codigo": "61833"
+      },
+      {
+        "modelo": "Grampo multiuso com mola",
+        "abertura": "3\" - 75mm",
+        "embalagem": "40",
+        "ean": "7897451418347",
+        "dun": "17897451418344",
+        "codigo": "61834"
+      },
+      {
+        "modelo": "Grampo multiuso com mola",
+        "abertura": "4\" - 100mm",
+        "embalagem": "20",
+        "ean": "7897451418354",
+        "dun": "17897451418351",
+        "codigo": "61835"
+      },
+      {
+        "modelo": "Grampo multiuso com mola",
+        "abertura": "6\" - 150mm",
+        "embalagem": "10",
+        "ean": "7897451418361",
+        "dun": "17897451418368",
+        "codigo": "61836"
+      },
+      {
+        "modelo": "Grampo de aperto rápido tipo sargento",
+        "abertura": "6\" - 150mm",
+        "embalagem": "6",
+        "ean": "7897451418408",
+        "dun": "17897451418405",
+        "codigo": "61840"
+      },
+      {
+        "modelo": "Grampo de aperto rápido tipo sargento",
+        "abertura": "12\" - 300mm",
+        "embalagem": "6",
+        "ean": "7897451418415",
+        "dun": "17897451418412",
+        "codigo": "61841"
+      },
+      {
+        "modelo": "Grampo de aperto rápido tipo sargento",
+        "abertura": "18\" - 450mm",
+        "embalagem": "6",
+        "ean": "7897451418422",
+        "dun": "17897451418429",
+        "codigo": "61842"
+      },
+      {
+        "modelo": "Grampo de aperto rápido tipo \"C\"",
+        "abertura": "2\" - 50mm",
+        "embalagem": "8",
+        "ean": "7897451418378",
+        "dun": "17897451418375",
+        "codigo": "61837"
+      },
+      {
+        "modelo": "Grampo de aperto rápido tipo \"C\"",
+        "abertura": "3\" - 75mm",
+        "embalagem": "8",
+        "ean": "7897451418385",
+        "dun": "17897451418382",
+        "codigo": "61838"
+      },
+      {
+        "modelo": "Grampo de aperto rápido tipo \"C\"",
+        "abertura": "4\" - 100mm",
+        "embalagem": "8",
+        "ean": "7897451418392",
+        "dun": "17897451418399",
+        "codigo": "61839"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "89 (impressa 176-177)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-chaves-fenda-simples-aco-carbono",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Chaves de fenda simples, aço carbono",
+    "descricao": "Chaves de Fenda Simples Cortag - Aço Carbono, com haste cromada e ponta fosfatizada e magnetizada. Cabo em polipropileno ergonômico.",
+    "destaques": [
+      "Haste em aço carbono cromado",
+      "Ponta fosfatizada e magnetizada",
+      "25 medidas disponíveis"
+    ],
+    "imagem": "images/ferramentas-manuais/chaves-fenda-simples-aco-carbono.jpg",
+    "colunas": [
+      "Modelo",
+      "L",
+      "H",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "l",
+      "h",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Aço carbono",
+        "l": "3,0mm - 1/8\"",
+        "h": "50mm - 2\"",
+        "embalagem": "10",
+        "ean": "7897451410006",
+        "dun": "17897451410003",
+        "codigo": "61000"
+      },
+      {
+        "modelo": "Aço carbono",
+        "l": "3,0mm - 1/8\"",
+        "h": "75mm - 3\"",
+        "embalagem": "10",
+        "ean": "7897451410013",
+        "dun": "17897451410010",
+        "codigo": "61001"
+      },
+      {
+        "modelo": "Aço carbono",
+        "l": "3,0mm - 1/8\"",
+        "h": "100mm - 4\"",
+        "embalagem": "10",
+        "ean": "7897451410020",
+        "dun": "17897451410027",
+        "codigo": "61002"
+      },
+      {
+        "modelo": "Aço carbono",
+        "l": "3,0mm - 1/8\"",
+        "h": "125mm - 5\"",
+        "embalagem": "10",
+        "ean": "7897451410037",
+        "dun": "17897451410034",
+        "codigo": "61003"
+      },
+      {
+        "modelo": "Aço carbono",
+        "l": "3,0mm - 1/8\"",
+        "h": "150mm - 6\"",
+        "embalagem": "10",
+        "ean": "7897451410044",
+        "dun": "17897451410041",
+        "codigo": "61004"
+      },
+      {
+        "modelo": "Aço carbono",
+        "l": "4,5mm - 3/16\"",
+        "h": "38mm - 1.1/2\"",
+        "embalagem": "10",
+        "ean": "7897451410051",
+        "dun": "17897451410058",
+        "codigo": "61005"
+      },
+      {
+        "modelo": "Aço carbono",
+        "l": "4,5mm - 3/16\"",
+        "h": "75mm - 3\"",
+        "embalagem": "10",
+        "ean": "7897451410068",
+        "dun": "17897451410065",
+        "codigo": "61006"
+      },
+      {
+        "modelo": "Aço carbono",
+        "l": "4,5mm - 3/16\"",
+        "h": "100mm - 4\"",
+        "embalagem": "10",
+        "ean": "7897451410075",
+        "dun": "17897451410072",
+        "codigo": "61007"
+      },
+      {
+        "modelo": "Aço carbono",
+        "l": "4,5mm - 3/16\"",
+        "h": "125mm - 5\"",
+        "embalagem": "10",
+        "ean": "7897451410082",
+        "dun": "17897451410089",
+        "codigo": "61008"
+      },
+      {
+        "modelo": "Aço carbono",
+        "l": "4,5mm - 3/16\"",
+        "h": "150mm - 6\"",
+        "embalagem": "10",
+        "ean": "7897451410099",
+        "dun": "17897451410096",
+        "codigo": "61009"
+      },
+      {
+        "modelo": "Aço carbono",
+        "l": "6,0mm - 1/4\"",
+        "h": "38mm - 1.1/2\"",
+        "embalagem": "10",
+        "ean": "7897451410105",
+        "dun": "17897451410102",
+        "codigo": "61010"
+      },
+      {
+        "modelo": "Aço carbono",
+        "l": "6,0mm - 1/4\"",
+        "h": "100mm - 4\"",
+        "embalagem": "10",
+        "ean": "7897451410112",
+        "dun": "17897451410119",
+        "codigo": "61011"
+      },
+      {
+        "modelo": "Aço carbono",
+        "l": "6,0mm - 1/4\"",
+        "h": "125mm - 5\"",
+        "embalagem": "10",
+        "ean": "7897451410129",
+        "dun": "17897451410126",
+        "codigo": "61012"
+      },
+      {
+        "modelo": "Aço carbono",
+        "l": "6,0mm - 1/4\"",
+        "h": "150mm - 6\"",
+        "embalagem": "10",
+        "ean": "7897451410136",
+        "dun": "17897451410133",
+        "codigo": "61013"
+      },
+      {
+        "modelo": "Aço carbono",
+        "l": "6,0mm - 1/4\"",
+        "h": "200mm - 8\"",
+        "embalagem": "10",
+        "ean": "7897451410143",
+        "dun": "17897451410140",
+        "codigo": "61014"
+      },
+      {
+        "modelo": "Aço carbono",
+        "l": "6,0mm - 1/4\"",
+        "h": "250mm - 10\"",
+        "embalagem": "10",
+        "ean": "7897451410150",
+        "dun": "17897451410157",
+        "codigo": "61015"
+      },
+      {
+        "modelo": "Aço carbono",
+        "l": "8,0mm - 5/16\"",
+        "h": "100mm - 4\"",
+        "embalagem": "10",
+        "ean": "7897451410167",
+        "dun": "17897451410164",
+        "codigo": "61016"
+      },
+      {
+        "modelo": "Aço carbono",
+        "l": "8,0mm - 5/16\"",
+        "h": "125mm - 5\"",
+        "embalagem": "10",
+        "ean": "7897451410174",
+        "dun": "17897451410171",
+        "codigo": "61017"
+      },
+      {
+        "modelo": "Aço carbono",
+        "l": "8,0mm - 5/16\"",
+        "h": "150mm - 6\"",
+        "embalagem": "10",
+        "ean": "7897451410181",
+        "dun": "17897451410188",
+        "codigo": "61018"
+      },
+      {
+        "modelo": "Aço carbono",
+        "l": "8,0mm - 5/16\"",
+        "h": "200mm - 8\"",
+        "embalagem": "10",
+        "ean": "7897451410198",
+        "dun": "17897451410195",
+        "codigo": "61019"
+      },
+      {
+        "modelo": "Aço carbono",
+        "l": "8,0mm - 5/16\"",
+        "h": "250mm - 10\"",
+        "embalagem": "10",
+        "ean": "7897451410204",
+        "dun": "17897451410201",
+        "codigo": "61020"
+      },
+      {
+        "modelo": "Aço carbono",
+        "l": "10,0mm - 3/8\"",
+        "h": "150mm - 6\"",
+        "embalagem": "10",
+        "ean": "7897451410211",
+        "dun": "17897451410218",
+        "codigo": "61021"
+      },
+      {
+        "modelo": "Aço carbono",
+        "l": "10,0mm - 3/8\"",
+        "h": "200mm - 8\"",
+        "embalagem": "10",
+        "ean": "7897451410228",
+        "dun": "17897451410225",
+        "codigo": "61022"
+      },
+      {
+        "modelo": "Aço carbono",
+        "l": "10,0mm - 3/8\"",
+        "h": "250mm - 10\"",
+        "embalagem": "10",
+        "ean": "7897451410235",
+        "dun": "17897451410232",
+        "codigo": "61023"
+      },
+      {
+        "modelo": "Aço carbono",
+        "l": "10,0mm - 3/8\"",
+        "h": "300mm - 12\"",
+        "embalagem": "10",
+        "ean": "7897451410242",
+        "dun": "17897451410249",
+        "codigo": "61024"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "89 (impressa 176-177)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-chaves-fenda-simples-cromo-vanadio",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Chaves de fenda simples, cromo vanádio",
+    "descricao": "Chaves de Fenda Simples Cromo Vanádio Cortag, com haste em aço cromo vanádio cromado, máxima durabilidade, torque elevado e conforto. Cabo em polímero transparente.",
+    "destaques": [
+      "Haste em cromo vanádio cromado",
+      "Ponta fosfatizada e magnetizada",
+      "25 medidas disponíveis"
+    ],
+    "imagem": "images/ferramentas-manuais/chaves-fenda-simples-cromo-vanadio.jpg",
+    "colunas": [
+      "Modelo",
+      "L",
+      "H",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "l",
+      "h",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Cromo vanádio",
+        "l": "3,0mm - 1/8\"",
+        "h": "50mm - 2\"",
+        "embalagem": "10",
+        "ean": "7897451410501",
+        "dun": "17897451410508",
+        "codigo": "61050"
+      },
+      {
+        "modelo": "Cromo vanádio",
+        "l": "3,0mm - 1/8\"",
+        "h": "75mm - 3\"",
+        "embalagem": "10",
+        "ean": "7897451410518",
+        "dun": "17897451410515",
+        "codigo": "61051"
+      },
+      {
+        "modelo": "Cromo vanádio",
+        "l": "3,0mm - 1/8\"",
+        "h": "100mm - 4\"",
+        "embalagem": "10",
+        "ean": "7897451410525",
+        "dun": "17897451410522",
+        "codigo": "61052"
+      },
+      {
+        "modelo": "Cromo vanádio",
+        "l": "3,0mm - 1/8\"",
+        "h": "125mm - 5\"",
+        "embalagem": "10",
+        "ean": "7897451410532",
+        "dun": "17897451410539",
+        "codigo": "61053"
+      },
+      {
+        "modelo": "Cromo vanádio",
+        "l": "3,0mm - 1/8\"",
+        "h": "150mm - 6\"",
+        "embalagem": "10",
+        "ean": "7897451410549",
+        "dun": "17897451410546",
+        "codigo": "61054"
+      },
+      {
+        "modelo": "Cromo vanádio",
+        "l": "4,5mm - 3/16\"",
+        "h": "38mm - 1.1/2\"",
+        "embalagem": "10",
+        "ean": "7897451410556",
+        "dun": "17897451410553",
+        "codigo": "61055"
+      },
+      {
+        "modelo": "Cromo vanádio",
+        "l": "4,5mm - 3/16\"",
+        "h": "75mm - 3\"",
+        "embalagem": "10",
+        "ean": "7897451410563",
+        "dun": "17897451410560",
+        "codigo": "61056"
+      },
+      {
+        "modelo": "Cromo vanádio",
+        "l": "4,5mm - 3/16\"",
+        "h": "100mm - 4\"",
+        "embalagem": "10",
+        "ean": "7897451410570",
+        "dun": "17897451410577",
+        "codigo": "61057"
+      },
+      {
+        "modelo": "Cromo vanádio",
+        "l": "4,5mm - 3/16\"",
+        "h": "125mm - 5\"",
+        "embalagem": "10",
+        "ean": "7897451410587",
+        "dun": "17897451410584",
+        "codigo": "61058"
+      },
+      {
+        "modelo": "Cromo vanádio",
+        "l": "4,5mm - 3/16\"",
+        "h": "150mm - 6\"",
+        "embalagem": "10",
+        "ean": "7897451410594",
+        "dun": "17897451410591",
+        "codigo": "61059"
+      },
+      {
+        "modelo": "Cromo vanádio",
+        "l": "6,0mm - 1/4\"",
+        "h": "38mm - 1.1/2\"",
+        "embalagem": "10",
+        "ean": "7897451410600",
+        "dun": "17897451410607",
+        "codigo": "61060"
+      },
+      {
+        "modelo": "Cromo vanádio",
+        "l": "6,0mm - 1/4\"",
+        "h": "100mm - 4\"",
+        "embalagem": "10",
+        "ean": "7897451410617",
+        "dun": "17897451410614",
+        "codigo": "61061"
+      },
+      {
+        "modelo": "Cromo vanádio",
+        "l": "6,0mm - 1/4\"",
+        "h": "125mm - 5\"",
+        "embalagem": "10",
+        "ean": "7897451410624",
+        "dun": "17897451410621",
+        "codigo": "61062"
+      },
+      {
+        "modelo": "Cromo vanádio",
+        "l": "6,0mm - 1/4\"",
+        "h": "150mm - 6\"",
+        "embalagem": "10",
+        "ean": "7897451410631",
+        "dun": "17897451410638",
+        "codigo": "61063"
+      },
+      {
+        "modelo": "Cromo vanádio",
+        "l": "6,0mm - 1/4\"",
+        "h": "200mm - 8\"",
+        "embalagem": "10",
+        "ean": "7897451410648",
+        "dun": "17897451410645",
+        "codigo": "61064"
+      },
+      {
+        "modelo": "Cromo vanádio",
+        "l": "6,0mm - 1/4\"",
+        "h": "250mm - 10\"",
+        "embalagem": "10",
+        "ean": "7897451410655",
+        "dun": "17897451410652",
+        "codigo": "61065"
+      },
+      {
+        "modelo": "Cromo vanádio",
+        "l": "8,0mm - 5/16\"",
+        "h": "100mm - 4\"",
+        "embalagem": "10",
+        "ean": "7897451410662",
+        "dun": "17897451410669",
+        "codigo": "61066"
+      },
+      {
+        "modelo": "Cromo vanádio",
+        "l": "8,0mm - 5/16\"",
+        "h": "125mm - 5\"",
+        "embalagem": "10",
+        "ean": "7897451410679",
+        "dun": "17897451410676",
+        "codigo": "61067"
+      },
+      {
+        "modelo": "Cromo vanádio",
+        "l": "8,0mm - 5/16\"",
+        "h": "150mm - 6\"",
+        "embalagem": "10",
+        "ean": "7897451410686",
+        "dun": "17897451410683",
+        "codigo": "61068"
+      },
+      {
+        "modelo": "Cromo vanádio",
+        "l": "8,0mm - 5/16\"",
+        "h": "200mm - 8\"",
+        "embalagem": "10",
+        "ean": "7897451410693",
+        "dun": "17897451410690",
+        "codigo": "61069"
+      },
+      {
+        "modelo": "Cromo vanádio",
+        "l": "8,0mm - 5/16\"",
+        "h": "250mm - 10\"",
+        "embalagem": "10",
+        "ean": "7897451410709",
+        "dun": "17897451410706",
+        "codigo": "61070"
+      },
+      {
+        "modelo": "Cromo vanádio",
+        "l": "10,0mm - 3/8\"",
+        "h": "150mm - 6\"",
+        "embalagem": "10",
+        "ean": "7897451410716",
+        "dun": "17897451410713",
+        "codigo": "61071"
+      },
+      {
+        "modelo": "Cromo vanádio",
+        "l": "10,0mm - 3/8\"",
+        "h": "200mm - 8\"",
+        "embalagem": "10",
+        "ean": "7897451410723",
+        "dun": "17897451410720",
+        "codigo": "61072"
+      },
+      {
+        "modelo": "Cromo vanádio",
+        "l": "10,0mm - 3/8\"",
+        "h": "250mm - 10\"",
+        "embalagem": "10",
+        "ean": "7897451410730",
+        "dun": "17897451410737",
+        "codigo": "61073"
+      },
+      {
+        "modelo": "Cromo vanádio",
+        "l": "10,0mm - 3/8\"",
+        "h": "300mm - 12\"",
+        "embalagem": "10",
+        "ean": "7897451410747",
+        "dun": "17897451410744",
+        "codigo": "61074"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "90 (impressa 178-179)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-chaves-fenda-cruzada-aco-carbono",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Chaves de fenda cruzada, aço carbono",
+    "descricao": "Chaves de Fenda Cruzada Aço Carbono Cortag, para fixar e soltar parafusos com fenda cruzada (Phillips) com alto desempenho e durabilidade.",
+    "destaques": [
+      "Haste cromada em aço carbono",
+      "Ponta fosfatizada e magnetizada",
+      "25 medidas disponíveis"
+    ],
+    "imagem": "images/ferramentas-manuais/chaves-fenda-cruzada-aco-carbono.jpg",
+    "colunas": [
+      "Modelo",
+      "L",
+      "H",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "l",
+      "h",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Aço carbono",
+        "l": "3,0mm - 1/8\"",
+        "h": "50mm - 2\"",
+        "embalagem": "10",
+        "ean": "7897451410259",
+        "dun": "17897451410256",
+        "codigo": "61025"
+      },
+      {
+        "modelo": "Aço carbono",
+        "l": "3,0mm - 1/8\"",
+        "h": "75mm - 3\"",
+        "embalagem": "10",
+        "ean": "7897451410266",
+        "dun": "17897451410263",
+        "codigo": "61026"
+      },
+      {
+        "modelo": "Aço carbono",
+        "l": "3,0mm - 1/8\"",
+        "h": "100mm - 4\"",
+        "embalagem": "10",
+        "ean": "7897451410273",
+        "dun": "17897451410270",
+        "codigo": "61027"
+      },
+      {
+        "modelo": "Aço carbono",
+        "l": "3,0mm - 1/8\"",
+        "h": "125mm - 5\"",
+        "embalagem": "10",
+        "ean": "7897451410280",
+        "dun": "17897451410287",
+        "codigo": "61028"
+      },
+      {
+        "modelo": "Aço carbono",
+        "l": "3,0mm - 1/8\"",
+        "h": "150mm - 6\"",
+        "embalagem": "10",
+        "ean": "7897451410297",
+        "dun": "17897451410294",
+        "codigo": "61029"
+      },
+      {
+        "modelo": "Aço carbono",
+        "l": "4,5mm - 3/16\"",
+        "h": "38mm - 1.1/2\"",
+        "embalagem": "10",
+        "ean": "7897451410303",
+        "dun": "17897451410300",
+        "codigo": "61030"
+      },
+      {
+        "modelo": "Aço carbono",
+        "l": "4,5mm - 3/16\"",
+        "h": "75mm - 3\"",
+        "embalagem": "10",
+        "ean": "7897451410310",
+        "dun": "17897451410317",
+        "codigo": "61031"
+      },
+      {
+        "modelo": "Aço carbono",
+        "l": "4,5mm - 3/16\"",
+        "h": "100mm - 4\"",
+        "embalagem": "10",
+        "ean": "7897451410327",
+        "dun": "17897451410324",
+        "codigo": "61032"
+      },
+      {
+        "modelo": "Aço carbono",
+        "l": "4,5mm - 3/16\"",
+        "h": "125mm - 5\"",
+        "embalagem": "10",
+        "ean": "7897451410334",
+        "dun": "17897451410331",
+        "codigo": "61033"
+      },
+      {
+        "modelo": "Aço carbono",
+        "l": "4,5mm - 3/16\"",
+        "h": "150mm - 6\"",
+        "embalagem": "10",
+        "ean": "7897451410341",
+        "dun": "17897451410348",
+        "codigo": "61034"
+      },
+      {
+        "modelo": "Aço carbono",
+        "l": "6,0mm - 1/4\"",
+        "h": "38mm - 1.1/2\"",
+        "embalagem": "10",
+        "ean": "7897451410358",
+        "dun": "17897451410355",
+        "codigo": "61035"
+      },
+      {
+        "modelo": "Aço carbono",
+        "l": "6,0mm - 1/4\"",
+        "h": "100mm - 4\"",
+        "embalagem": "10",
+        "ean": "7897451410365",
+        "dun": "17897451410362",
+        "codigo": "61036"
+      },
+      {
+        "modelo": "Aço carbono",
+        "l": "6,0mm - 1/4\"",
+        "h": "125mm - 5\"",
+        "embalagem": "10",
+        "ean": "7897451410372",
+        "dun": "17897451410379",
+        "codigo": "61037"
+      },
+      {
+        "modelo": "Aço carbono",
+        "l": "6,0mm - 1/4\"",
+        "h": "150mm - 6\"",
+        "embalagem": "10",
+        "ean": "7897451410389",
+        "dun": "17897451410386",
+        "codigo": "61038"
+      },
+      {
+        "modelo": "Aço carbono",
+        "l": "6,0mm - 1/4\"",
+        "h": "200mm - 8\"",
+        "embalagem": "10",
+        "ean": "7897451410396",
+        "dun": "17897451410393",
+        "codigo": "61039"
+      },
+      {
+        "modelo": "Aço carbono",
+        "l": "6,0mm - 1/4\"",
+        "h": "250mm - 10\"",
+        "embalagem": "10",
+        "ean": "7897451410402",
+        "dun": "17897451410409",
+        "codigo": "61040"
+      },
+      {
+        "modelo": "Aço carbono",
+        "l": "8,0mm - 5/16\"",
+        "h": "100mm - 4\"",
+        "embalagem": "10",
+        "ean": "7897451410419",
+        "dun": "17897451410416",
+        "codigo": "61041"
+      },
+      {
+        "modelo": "Aço carbono",
+        "l": "8,0mm - 5/16\"",
+        "h": "125mm - 5\"",
+        "embalagem": "10",
+        "ean": "7897451410426",
+        "dun": "17897451410423",
+        "codigo": "61042"
+      },
+      {
+        "modelo": "Aço carbono",
+        "l": "8,0mm - 5/16\"",
+        "h": "150mm - 6\"",
+        "embalagem": "10",
+        "ean": "7897451410433",
+        "dun": "17897451410430",
+        "codigo": "61043"
+      },
+      {
+        "modelo": "Aço carbono",
+        "l": "8,0mm - 5/16\"",
+        "h": "200mm - 8\"",
+        "embalagem": "10",
+        "ean": "7897451410440",
+        "dun": "17897451410447",
+        "codigo": "61044"
+      },
+      {
+        "modelo": "Aço carbono",
+        "l": "8,0mm - 5/16\"",
+        "h": "250mm - 10\"",
+        "embalagem": "10",
+        "ean": "7897451410457",
+        "dun": "17897451410454",
+        "codigo": "61045"
+      },
+      {
+        "modelo": "Aço carbono",
+        "l": "10,0mm - 3/8\"",
+        "h": "150mm - 6\"",
+        "embalagem": "10",
+        "ean": "7897451410464",
+        "dun": "17897451410461",
+        "codigo": "61046"
+      },
+      {
+        "modelo": "Aço carbono",
+        "l": "10,0mm - 3/8\"",
+        "h": "200mm - 8\"",
+        "embalagem": "10",
+        "ean": "7897451410471",
+        "dun": "17897451410478",
+        "codigo": "61047"
+      },
+      {
+        "modelo": "Aço carbono",
+        "l": "10,0mm - 3/8\"",
+        "h": "250mm - 10\"",
+        "embalagem": "10",
+        "ean": "7897451410488",
+        "dun": "17897451410485",
+        "codigo": "61048"
+      },
+      {
+        "modelo": "Aço carbono",
+        "l": "10,0mm - 3/8\"",
+        "h": "300mm - 12\"",
+        "embalagem": "10",
+        "ean": "7897451410495",
+        "dun": "17897451410492",
+        "codigo": "61049"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "90 (impressa 178-179)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-chaves-fenda-cruzada-cromo-vanadio",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Chaves de fenda cruzada, cromo vanádio",
+    "descricao": "Chaves de Fenda Cruzada Cromo Vanádio Cortag, com haste cromada em aço cromo vanádio, resistência superior, precisão e conforto profissional.",
+    "destaques": [
+      "Haste em cromo vanádio",
+      "Ponta fosfatizada e magnetizada",
+      "25 medidas disponíveis"
+    ],
+    "imagem": "images/ferramentas-manuais/chaves-fenda-cruzada-cromo-vanadio.jpg",
+    "colunas": [
+      "Modelo",
+      "L",
+      "H",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "l",
+      "h",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Cromo vanádio",
+        "l": "3,0mm - 1/8\"",
+        "h": "50mm - 2\"",
+        "embalagem": "10",
+        "ean": "7897451410754",
+        "dun": "17897451410751",
+        "codigo": "61075"
+      },
+      {
+        "modelo": "Cromo vanádio",
+        "l": "3,0mm - 1/8\"",
+        "h": "75mm - 3\"",
+        "embalagem": "10",
+        "ean": "7897451410761",
+        "dun": "17897451410768",
+        "codigo": "61076"
+      },
+      {
+        "modelo": "Cromo vanádio",
+        "l": "3,0mm - 1/8\"",
+        "h": "100mm - 4\"",
+        "embalagem": "10",
+        "ean": "7897451410778",
+        "dun": "17897451410775",
+        "codigo": "61077"
+      },
+      {
+        "modelo": "Cromo vanádio",
+        "l": "3,0mm - 1/8\"",
+        "h": "125mm - 5\"",
+        "embalagem": "10",
+        "ean": "7897451410785",
+        "dun": "17897451410782",
+        "codigo": "61078"
+      },
+      {
+        "modelo": "Cromo vanádio",
+        "l": "3,0mm - 1/8\"",
+        "h": "150mm - 6\"",
+        "embalagem": "10",
+        "ean": "7897451410792",
+        "dun": "17897451410799",
+        "codigo": "61079"
+      },
+      {
+        "modelo": "Cromo vanádio",
+        "l": "4,5mm - 3/16\"",
+        "h": "38mm - 1.1/2\"",
+        "embalagem": "10",
+        "ean": "7897451410808",
+        "dun": "17897451410805",
+        "codigo": "61080"
+      },
+      {
+        "modelo": "Cromo vanádio",
+        "l": "4,5mm - 3/16\"",
+        "h": "75mm - 3\"",
+        "embalagem": "10",
+        "ean": "7897451410815",
+        "dun": "17897451410812",
+        "codigo": "61081"
+      },
+      {
+        "modelo": "Cromo vanádio",
+        "l": "4,5mm - 3/16\"",
+        "h": "100mm - 4\"",
+        "embalagem": "10",
+        "ean": "7897451410822",
+        "dun": "17897451410829",
+        "codigo": "61082"
+      },
+      {
+        "modelo": "Cromo vanádio",
+        "l": "4,5mm - 3/16\"",
+        "h": "125mm - 5\"",
+        "embalagem": "10",
+        "ean": "7897451410839",
+        "dun": "17897451410836",
+        "codigo": "61083"
+      },
+      {
+        "modelo": "Cromo vanádio",
+        "l": "4,5mm - 3/16\"",
+        "h": "150mm - 6\"",
+        "embalagem": "10",
+        "ean": "7897451410846",
+        "dun": "17897451410843",
+        "codigo": "61084"
+      },
+      {
+        "modelo": "Cromo vanádio",
+        "l": "6,0mm - 1/4\"",
+        "h": "38mm - 1.1/2\"",
+        "embalagem": "10",
+        "ean": "7897451410853",
+        "dun": "17897451410850",
+        "codigo": "61085"
+      },
+      {
+        "modelo": "Cromo vanádio",
+        "l": "6,0mm - 1/4\"",
+        "h": "100mm - 4\"",
+        "embalagem": "10",
+        "ean": "7897451410860",
+        "dun": "17897451410867",
+        "codigo": "61086"
+      },
+      {
+        "modelo": "Cromo vanádio",
+        "l": "6,0mm - 1/4\"",
+        "h": "125mm - 5\"",
+        "embalagem": "10",
+        "ean": "7897451410877",
+        "dun": "17897451410874",
+        "codigo": "61087"
+      },
+      {
+        "modelo": "Cromo vanádio",
+        "l": "6,0mm - 1/4\"",
+        "h": "150mm - 6\"",
+        "embalagem": "10",
+        "ean": "7897451410884",
+        "dun": "17897451410881",
+        "codigo": "61088"
+      },
+      {
+        "modelo": "Cromo vanádio",
+        "l": "6,0mm - 1/4\"",
+        "h": "200mm - 8\"",
+        "embalagem": "10",
+        "ean": "7897451410891",
+        "dun": "17897451410898",
+        "codigo": "61089"
+      },
+      {
+        "modelo": "Cromo vanádio",
+        "l": "6,0mm - 1/4\"",
+        "h": "250mm - 10\"",
+        "embalagem": "10",
+        "ean": "7897451410907",
+        "dun": "17897451410904",
+        "codigo": "61090"
+      },
+      {
+        "modelo": "Cromo vanádio",
+        "l": "8,0mm - 5/16\"",
+        "h": "100mm - 4\"",
+        "embalagem": "10",
+        "ean": "7897451410914",
+        "dun": "17897451410911",
+        "codigo": "61091"
+      },
+      {
+        "modelo": "Cromo vanádio",
+        "l": "8,0mm - 5/16\"",
+        "h": "125mm - 5\"",
+        "embalagem": "10",
+        "ean": "7897451410921",
+        "dun": "17897451410928",
+        "codigo": "61092"
+      },
+      {
+        "modelo": "Cromo vanádio",
+        "l": "8,0mm - 5/16\"",
+        "h": "150mm - 6\"",
+        "embalagem": "10",
+        "ean": "7897451410938",
+        "dun": "17897451410935",
+        "codigo": "61093"
+      },
+      {
+        "modelo": "Cromo vanádio",
+        "l": "8,0mm - 5/16\"",
+        "h": "200mm - 8\"",
+        "embalagem": "10",
+        "ean": "7897451410945",
+        "dun": "17897451410942",
+        "codigo": "61094"
+      },
+      {
+        "modelo": "Cromo vanádio",
+        "l": "8,0mm - 5/16\"",
+        "h": "250mm - 10\"",
+        "embalagem": "10",
+        "ean": "7897451410952",
+        "dun": "17897451410959",
+        "codigo": "61095"
+      },
+      {
+        "modelo": "Cromo vanádio",
+        "l": "10,0mm - 3/8\"",
+        "h": "150mm - 6\"",
+        "embalagem": "10",
+        "ean": "7897451410969",
+        "dun": "17897451410966",
+        "codigo": "61096"
+      },
+      {
+        "modelo": "Cromo vanádio",
+        "l": "10,0mm - 3/8\"",
+        "h": "200mm - 8\"",
+        "embalagem": "10",
+        "ean": "7897451410976",
+        "dun": "17897451410973",
+        "codigo": "61097"
+      },
+      {
+        "modelo": "Cromo vanádio",
+        "l": "10,0mm - 3/8\"",
+        "h": "250mm - 10\"",
+        "embalagem": "10",
+        "ean": "7897451410983",
+        "dun": "17897451410980",
+        "codigo": "61098"
+      },
+      {
+        "modelo": "Cromo vanádio",
+        "l": "10,0mm - 3/8\"",
+        "h": "300mm - 12\"",
+        "embalagem": "10",
+        "ean": "7897451410990",
+        "dun": "17897451410997",
+        "codigo": "61099"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "91 (impressa 180-181)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-jogos-chaves-fenda",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Jogos de chaves de fenda",
+    "descricao": "Jogos de Chaves de Fenda Cortag, com versatilidade, resistência e desempenho profissional. Disponíveis em Aço Carbono e Cromo Vanádio, 3, 6 ou 10 peças.",
+    "destaques": [
+      "Haste cromada e ponta fosfatizada e magnetizada",
+      "Cabos ergonômicos",
+      "Versões Aço Carbono e Cromo Vanádio"
+    ],
+    "imagem": "images/ferramentas-manuais/jogos-chaves-fenda.jpg",
+    "colunas": [
+      "Modelo",
+      "Composição",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "composicao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Aço carbono 3 peças",
+        "composicao": "1 chave de fenda simples 1/4 x 4\", 1 chave de fenda simples 5/16 x 6\", 1 chave de fenda cruzada \"phillips\" nº 2 1/4 x 4\"",
+        "embalagem": "6",
+        "ean": "7897451411003",
+        "dun": "17897451411000",
+        "codigo": "61100"
+      },
+      {
+        "modelo": "Cromo vanádio 3 peças",
+        "composicao": "1 chave de fenda simples 1/4 x 4\", 1 chave de fenda simples 5/16 x 6\", 1 chave de fenda cruzada \"phillips\" nº 2 1/4 x 4\"",
+        "embalagem": "6",
+        "ean": "7897451411034",
+        "dun": "17897451411031",
+        "codigo": "61103"
+      },
+      {
+        "modelo": "Aço carbono 6 peças",
+        "composicao": "1 chave de fenda simples 1/8 x 3\", 1 chave de fenda simples 3/16 x 4\", 1 chave de fenda simples 1/4 x 5\", 1 chave de fenda simples 5/16 x 6\", 1 chave de fenda cruzada \"phillips\" nº 0 1/8 x 3, 1 chave de fenda cruzada \"phillips\" nº 1 3/16 x 4\"",
+        "embalagem": "6",
+        "ean": "7897451411010",
+        "dun": "17897451411017",
+        "codigo": "61101"
+      },
+      {
+        "modelo": "Cromo vanádio 6 peças",
+        "composicao": "1 chave de fenda simples 1/8 x 3\", 1 chave de fenda simples 3/16 x 4\", 1 chave de fenda simples 1/4 x 5\", 1 chave de fenda simples 5/16 x 6\", 1 chave de fenda cruzada \"phillips\" nº 0 1/8 x 3, 1 chave de fenda cruzada \"phillips\" nº 1 3/16 x 4\"",
+        "embalagem": "6",
+        "ean": "7897451411041",
+        "dun": "17897451411048",
+        "codigo": "61104"
+      },
+      {
+        "modelo": "Aço carbono 10 peças",
+        "composicao": "1 chave de fenda simples 1/8 x 2\", 1 chave de fenda simples 3/16 x 1.1/2\", 1 chave de fenda simples 3/16 x 3\", 1 chave de fenda simples 1/4 x 1.1/2\", 1 chave de fenda simples 1/4 x 4\", 1 chave de fenda simples 5/16 x 6\", 1 chave de fenda cruzada \"phillips\" nº 0 1/8 x 2, 1 chave de fenda cruzada \"phillips\" nº 1 3/16 x 1.1/2\", 1 chave de fenda cruzada \"phillips\" nº 1 3/16 x 3\", 1 chave de fenda cruzada \"phillips\" nº 2 1/4 x 4\"",
+        "embalagem": "6",
+        "ean": "7897451411027",
+        "dun": "17897451411024",
+        "codigo": "61102"
+      },
+      {
+        "modelo": "Cromo vanádio 10 peças",
+        "composicao": "1 chave de fenda simples 1/8 x 2\", 1 chave de fenda simples 3/16 x 1.1/2\", 1 chave de fenda simples 3/16 x 3\", 1 chave de fenda simples 1/4 x 1.1/2\", 1 chave de fenda simples 1/4 x 4\", 1 chave de fenda simples 5/16 x 6\", 1 chave de fenda cruzada \"phillips\" nº 0 1/8 x 2, 1 chave de fenda cruzada \"phillips\" nº 1 3/16 x 1.1/2\", 1 chave de fenda cruzada \"phillips\" nº 1 3/16 x 3\", 1 chave de fenda cruzada \"phillips\" nº 2 1/4 x 4\"",
+        "embalagem": "6",
+        "ean": "7897451411058",
+        "dun": "17897451411055",
+        "codigo": "61105"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "91 (impressa 180-181)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-tesouras-recortar-chapas",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Tesoura para recortar chapas",
+    "descricao": "Tesouras Cortag para Corte de Chapas, com alto desempenho e precisão. Modelo Aviação para chapas de até 1,2mm e modelo Reto para chapas macias e finas até 1mm.",
+    "destaques": [
+      "Lâmina em aço carbono temperado",
+      "Cabos ergonômicos plastificados"
+    ],
+    "imagem": "images/ferramentas-manuais/tesouras-recortar-chapas.jpg",
+    "colunas": [
+      "Descrição",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "descricao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "descricao": "Corte reto - Modelo aviação",
+        "embalagem": "3",
+        "ean": "7897451418040",
+        "dun": "27897451418044",
+        "codigo": "61804"
+      },
+      {
+        "descricao": "Tesoura para cortar chapas",
+        "embalagem": "6",
+        "ean": "7897451463231",
+        "dun": "17897451463238",
+        "codigo": "60323"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "92 (impressa 182-183)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-espatula-profissional",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Espátula profissional, aço inox",
+    "descricao": "Espátulas de Aço Inox com Cabo Plástico Cortag Basic, para aplicar, alisar e nivelar gesso, massa corrida, argamassa e cimento.",
+    "destaques": [
+      "Lâmina em aço inox",
+      "Cabo plástico ergonômico",
+      "Larguras de 4cm a 12cm"
+    ],
+    "imagem": "images/ferramentas-manuais/espatula-profissional.jpg",
+    "colunas": [
+      "Modelo",
+      "Largura",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "largura",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Aço Inox",
+        "largura": "4cm",
+        "embalagem": "12",
+        "ean": "7897451431568",
+        "dun": "17897451431565",
+        "codigo": "63156"
+      },
+      {
+        "modelo": "Aço Inox",
+        "largura": "5cm",
+        "embalagem": "12",
+        "ean": "7897451431575",
+        "dun": "17897451431572",
+        "codigo": "63157"
+      },
+      {
+        "modelo": "Aço Inox",
+        "largura": "6cm",
+        "embalagem": "12",
+        "ean": "7897451431582",
+        "dun": "17897451431589",
+        "codigo": "63158"
+      },
+      {
+        "modelo": "Aço Inox",
+        "largura": "8cm",
+        "embalagem": "12",
+        "ean": "7897451431599",
+        "dun": "17897451431596",
+        "codigo": "63159"
+      },
+      {
+        "modelo": "Aço Inox",
+        "largura": "10cm",
+        "embalagem": "12",
+        "ean": "7897451431605",
+        "dun": "17897451431602",
+        "codigo": "63160"
+      },
+      {
+        "modelo": "Aço Inox",
+        "largura": "12cm",
+        "embalagem": "12",
+        "ean": "7897451431612",
+        "dun": "17897451431619",
+        "codigo": "63161"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "92 (impressa 182-183)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-espatula-aco-cabo-plastico",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Espátula de aço, cabo de plástico",
+    "descricao": "Espátula Cortag com cabo de plástico, ideal para raspagem, remoção e aplicação de massas em trabalhos de pintura, revestimento e acabamento.",
+    "destaques": [
+      "Lâmina em aço temperado",
+      "Cabo em plástico injetado de alta resistência"
+    ],
+    "imagem": "images/ferramentas-manuais/espatula-aco-cabo-plastico.jpg",
+    "colunas": [
+      "Modelo",
+      "Largura",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "largura",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Cabo de plástico",
+        "largura": "5cm",
+        "embalagem": "12",
+        "ean": "7897451463200",
+        "dun": "17897451463207",
+        "codigo": "60320"
+      },
+      {
+        "modelo": "Cabo de plástico",
+        "largura": "8cm",
+        "embalagem": "12",
+        "ean": "7897451463255",
+        "dun": "17897451463252",
+        "codigo": "60325"
+      },
+      {
+        "modelo": "Cabo de plástico",
+        "largura": "12cm",
+        "embalagem": "12",
+        "ean": "7897451463309",
+        "dun": "17897451463306",
+        "codigo": "60330"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "92 (impressa 182-183)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-espatulas-lisas-basic",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Espátulas lisas basic, aço zincado",
+    "descricao": "Espátulas de Aço Lisas com Cabo Plástico Cortag Basic, desenvolvidas para aplicar, alisar e nivelar gesso, massa corrida, argamassa e cimento.",
+    "destaques": [
+      "Lâmina em aço zincado",
+      "Cabo plástico ergonômico",
+      "Larguras de 4cm a 12cm"
+    ],
+    "imagem": "images/ferramentas-manuais/espatulas-lisas-basic.jpg",
+    "colunas": [
+      "Modelo",
+      "Largura",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "largura",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Aço Zincado",
+        "largura": "4cm",
+        "embalagem": "12",
+        "ean": "7897451431506",
+        "dun": "17897451431503",
+        "codigo": "63150"
+      },
+      {
+        "modelo": "Aço Zincado",
+        "largura": "5cm",
+        "embalagem": "12",
+        "ean": "7897451431513",
+        "dun": "17897451431510",
+        "codigo": "63151"
+      },
+      {
+        "modelo": "Aço Zincado",
+        "largura": "6cm",
+        "embalagem": "12",
+        "ean": "7897451431520",
+        "dun": "17897451431527",
+        "codigo": "63152"
+      },
+      {
+        "modelo": "Aço Zincado",
+        "largura": "8cm",
+        "embalagem": "12",
+        "ean": "7897451431537",
+        "dun": "17897451431534",
+        "codigo": "63153"
+      },
+      {
+        "modelo": "Aço Zincado",
+        "largura": "10cm",
+        "embalagem": "12",
+        "ean": "7897451431544",
+        "dun": "17897451431541",
+        "codigo": "63154"
+      },
+      {
+        "modelo": "Aço Zincado",
+        "largura": "12cm",
+        "embalagem": "12",
+        "ean": "7897451431551",
+        "dun": "17897451431558",
+        "codigo": "63155"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "92 (impressa 182-183)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-espatula-aco-cabo-madeira",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Espátula de aço, cabo de madeira",
+    "descricao": "Espátula Cortag com cabo de madeira, indicada para raspagem, remoção e aplicação de massas em superfícies diversas: paredes, pisos e revestimentos.",
+    "destaques": [
+      "Lâmina em aço inoxidável",
+      "Cabo de madeira anatômico"
+    ],
+    "imagem": "images/ferramentas-manuais/espatula-aco-cabo-madeira.jpg",
+    "colunas": [
+      "Modelo",
+      "Largura",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "largura",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Cabo de madeira",
+        "largura": "6cm",
+        "embalagem": "12",
+        "ean": "7897451463262",
+        "dun": "17897451463269",
+        "codigo": "60326"
+      },
+      {
+        "modelo": "Cabo de madeira",
+        "largura": "8cm",
+        "embalagem": "12",
+        "ean": "7897451463279",
+        "dun": "17897451463276",
+        "codigo": "60327"
+      },
+      {
+        "modelo": "Cabo de madeira",
+        "largura": "10cm",
+        "embalagem": "12",
+        "ean": "7897451463286",
+        "dun": "17897451463283",
+        "codigo": "60328"
+      },
+      {
+        "modelo": "Cabo de madeira",
+        "largura": "12cm",
+        "embalagem": "12",
+        "ean": "7897451463293",
+        "dun": "17897451463290",
+        "codigo": "60329"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "93 (impressa 184)"
+    }
+  },
+  {
+    "id": "ferramentas-manuais-raspador-rejunte",
+    "categoria": "ferramentas-manuais",
+    "categoriaNome": "Ferramentas Manuais",
+    "linha": "Ferramentas Manuais",
+    "tagline": "Raspador de rejunte",
+    "descricao": "Raspador de Rejunte Cortag, ferramenta ideal para remoção e substituição de rejuntes entre pisos e revestimentos, sem danificar as peças. Modelos Standard, Slim e Supra.",
+    "destaques": [
+      "Lâminas de alta resistência em aço carbono com borda de tungstênio",
+      "Largura de corte ajustável pela adição/remoção de lâminas"
+    ],
+    "imagem": "images/ferramentas-manuais/raspador-rejunte.jpg",
+    "colunas": [
+      "Modelo",
+      "Espessura da Lâmina",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "espessura",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Standard",
+        "espessura": "2,5mm",
+        "embalagem": "6",
+        "ean": "7897451460667",
+        "dun": "27897451468506",
+        "codigo": "60850"
+      },
+      {
+        "modelo": "Supra",
+        "espessura": "2,5mm",
+        "embalagem": "6",
+        "ean": "7897451413496",
+        "dun": "27897451413490",
+        "codigo": "61349"
+      },
+      {
+        "modelo": "Slim",
+        "espessura": "1,3mm",
+        "embalagem": "6",
+        "ean": "7897451413649",
+        "dun": "27897451413643",
+        "codigo": "61364"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "93 (impressa 184)"
+    }
   }
 ]
