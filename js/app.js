@@ -70,7 +70,7 @@ async function initHome() {
     resultsEl.innerHTML = matches
       .slice(0, 30)
       .map(({ produto, variante }) => {
-        const nome = variante ? variante.modelo : produto.linha;
+        const nome = variante && variante.modelo ? variante.modelo : produto.linha;
         const meta = variante
           ? `Cód. ${variante.codigo} · ${produto.linha} · ${produto.categoriaNome}`
           : `${produto.categoriaNome}`;
