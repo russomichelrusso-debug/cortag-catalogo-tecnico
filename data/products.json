@@ -5940,5 +5940,3577 @@
       "arquivo": "Catálago Livro 2026.pdf",
       "pagina": "43 (impressa 84-85)"
     }
+  },
+  {
+    "id": "diamantados-chanfro-45-premium",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Chanfro 45° Premium",
+    "tagline": "Alto desempenho e precisão para corte e desbaste em ângulo de 45°.",
+    "descricao": "O Disco para Chanfro 45° Premium Cortag é indicado para corte e/ou desbaste de revestimentos de alta dureza, como porcelanato, pedras naturais e sintéticas. Seu design com perfil turbo segmentado proporciona resfriamento eficiente, maior precisão no corte e acabamento superior em ângulos de 45°.",
+    "destaques": [
+      "Disponível em versões para serra mármore (Ø110 mm) e esmerilhadeira (Ø115 mm), com alta rotação e estabilidade."
+    ],
+    "imagem": "images/diamantados/chanfro-45-premium.jpg",
+    "colunas": [
+      "Perfil",
+      "Aplicação",
+      "Tipo de Corte",
+      "Diâmetro (Ø)",
+      "Diâmetro 1",
+      "Rotação Máxima",
+      "Bucha de Redução",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "perfil",
+      "aplicacao",
+      "tipoCorte",
+      "diametro",
+      "diametro1",
+      "rotacaoMaxima",
+      "buchaReducao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "perfil": "Turbo",
+        "aplicacao": "Serra mármore",
+        "tipoCorte": "Seco",
+        "diametro": "110 mm",
+        "diametro1": "20 mm",
+        "rotacaoMaxima": "14.000 rpm",
+        "buchaReducao": "-",
+        "embalagem": "3",
+        "ean": "7897451427943",
+        "dun": "17897451427940",
+        "codigo": "62794"
+      },
+      {
+        "perfil": "Turbo",
+        "aplicacao": "Esmerilhadeira",
+        "tipoCorte": "Seco",
+        "diametro": "115 mm",
+        "diametro1": "22,22 mm",
+        "rotacaoMaxima": "13.300 rpm",
+        "buchaReducao": "-",
+        "embalagem": "3",
+        "ean": "7897451427950",
+        "dun": "17897451427957",
+        "codigo": "62795"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "45 (impressa 88-89)"
+    }
+  },
+  {
+    "id": "diamantados-turbo-chanfro-45",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Turbo Chanfro 45°",
+    "tagline": "Corte de precisão em ângulo de 45°, com alto desempenho e acabamento profissional.",
+    "descricao": "O Disco Diamantado Chanfro 45° Cortag é indicado para corte em ângulo de 45° em cerâmicas, porcelanatos, mármores, granitos e pedras decorativas, proporcionando acabamento fino e preciso. Desenvolvido com segmentos diamantados de alta performance, garante durabilidade, estabilidade e resfriamento eficiente durante o corte.",
+    "destaques": [
+      "Compatível com esmerilhadeiras e máquinas ZAPP, ideal para trabalhos de chanfro, bisote e acabamento técnico.",
+      "Atenção: não recomendado para cortes retos a 90°."
+    ],
+    "imagem": "images/diamantados/turbo-chanfro-45.jpg",
+    "colunas": [
+      "Perfil",
+      "Aplicação",
+      "Tipo de Corte",
+      "Diâmetro (Ø)",
+      "Diâmetro 1",
+      "Rotação Máxima",
+      "Bucha de Redução",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "perfil",
+      "aplicacao",
+      "tipoCorte",
+      "diametro",
+      "diametro1",
+      "rotacaoMaxima",
+      "buchaReducao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "perfil": "Turbo",
+        "aplicacao": "Esmerilhadeira 4.1/2\"",
+        "tipoCorte": "Seco",
+        "diametro": "115 mm",
+        "diametro1": "22,22 mm",
+        "rotacaoMaxima": "13.300 rpm",
+        "buchaReducao": "20 mm",
+        "embalagem": "6",
+        "ean": "7897451419078",
+        "dun": "17897451419075",
+        "codigo": "61907"
+      },
+      {
+        "perfil": "Turbo",
+        "aplicacao": "Esmerilhadeira 5\"",
+        "tipoCorte": "Seco",
+        "diametro": "125 mm",
+        "diametro1": "22,2 mm",
+        "rotacaoMaxima": "12.200 rpm",
+        "buchaReducao": "16 mm",
+        "embalagem": "6",
+        "ean": "7897451421392",
+        "dun": "17897451421399",
+        "codigo": "62139"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "45 (impressa 88-89)"
+    }
+  },
+  {
+    "id": "diamantados-suporte-base-45-serra-marmore",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Suporte Base 45° para Serra Mármore",
+    "tagline": "Estabilidade e precisão para cortes perfeitos em 45°.",
+    "descricao": "Solução para Serra Mármore que garante mais estabilidade, precisão e eficiência no corte. Indicada para pisos, revestimentos e pedras em geral, permite a padronização do corte em 45°, proporcionando encaixe perfeito entre as peças. Possui perfis de nylon de alta qualidade que evitam risco ou quebra, alça ergonômica para maior conforto e 4 presilhas para assegurar a fixação da serra mármore na base.",
+    "destaques": [
+      "Ideal para pisos, revestimentos e pedras em geral."
+    ],
+    "imagem": "images/diamantados/suporte-base-45-serra-marmore.jpg",
+    "colunas": [
+      "Composição",
+      "Peso",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "composicao",
+      "peso",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "composicao": "Aço Carbono",
+        "peso": "1,42 kg",
+        "embalagem": "1",
+        "ean": "7897451431353",
+        "codigo": "63135"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "45 (impressa 88-89)"
+    }
+  },
+  {
+    "id": "diamantados-mini-discos",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Mini Discos",
+    "tagline": "Precisão e praticidade para remoção de argamassa com acabamento perfeito.",
+    "descricao": "O Mini Disco Diamantado 50 mm foi desenvolvido para oferecer precisão e praticidade na remoção de argamassa em pisos e revestimentos. Ideal para cerâmica, porcelanato e pedras naturais, garante um acabamento limpo e uniforme, permitindo a inserção do espaçador mesmo após a secagem.",
+    "destaques": [
+      "Resistente e durável, é a escolha certa para quem busca eficiência profissional sem comprometer a integridade das superfícies."
+    ],
+    "imagem": "images/diamantados/mini-discos.jpg",
+    "colunas": [
+      "Perfil",
+      "Aplicação",
+      "Tipo de Corte",
+      "Diâmetro (Ø)",
+      "Conteúdo",
+      "Rotação Máxima",
+      "Bucha de Redução",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "perfil",
+      "aplicacao",
+      "tipoCorte",
+      "diametro",
+      "conteudo",
+      "rotacaoMaxima",
+      "buchaReducao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "perfil": "Turbo",
+        "aplicacao": "Esmerilhadeira",
+        "tipoCorte": "Seco",
+        "diametro": "50 mm",
+        "conteudo": "1 Suporte + 3 Discos",
+        "rotacaoMaxima": "14000 rpm",
+        "buchaReducao": "N/A",
+        "embalagem": "6",
+        "ean": "7897451433685",
+        "dun": "17897451433682",
+        "codigo": "62980"
+      },
+      {
+        "perfil": "Turbo",
+        "aplicacao": "Esmerilhadeira",
+        "tipoCorte": "Seco",
+        "diametro": "50 mm",
+        "conteudo": "1 Suporte + 1 Disco",
+        "rotacaoMaxima": "14000 rpm",
+        "buchaReducao": "N/A",
+        "embalagem": "6",
+        "ean": "7897451433692",
+        "dun": "27897451433696",
+        "codigo": "62979"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "46 (impressa 90-91)"
+    }
+  },
+  {
+    "id": "diamantados-turbo-porcelanato-best-quality",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Turbo Porcelanato Best Quality",
+    "tagline": "Desempenho superior e precisão no corte de porcelanatos e cerâmicas.",
+    "descricao": "O Disco Diamantado Porcelanato Best Quality é indicado para corte a seco ou refrigerado de porcelanatos e cerâmicas, garantindo alto desempenho, precisão e acabamento profissional. Seu perfil turbo segmentado proporciona cortes rápidos e contínuos, reduzindo vibrações e evitando lascas nas bordas do material.",
+    "destaques": [
+      "Disponível em modelos compatíveis com serra mármore, esmerilhadeira e máquinas ZAPP."
+    ],
+    "imagem": "images/diamantados/turbo-porcelanato-best-quality.jpg",
+    "colunas": [
+      "Perfil",
+      "Aplicação",
+      "Tipo de Corte",
+      "Diâmetro (Ø)",
+      "Diâmetro 1",
+      "Rotação Máxima",
+      "Bucha de Redução",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "perfil",
+      "aplicacao",
+      "tipoCorte",
+      "diametro",
+      "diametro1",
+      "rotacaoMaxima",
+      "buchaReducao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "perfil": "Turbo",
+        "aplicacao": "Serra Mármore",
+        "tipoCorte": "Seco",
+        "diametro": "110 mm",
+        "diametro1": "20 mm",
+        "rotacaoMaxima": "14.000 rpm",
+        "buchaReducao": "16 mm",
+        "embalagem": "10",
+        "ean": "7897451466591",
+        "dun": "17897451466598",
+        "codigo": "60659"
+      },
+      {
+        "perfil": "Turbo",
+        "aplicacao": "Esmerilhadeira 5\"",
+        "tipoCorte": "Seco",
+        "diametro": "125 mm",
+        "diametro1": "22,2 mm",
+        "rotacaoMaxima": "12.200 rpm",
+        "buchaReducao": "16 mm",
+        "embalagem": "6",
+        "ean": "7897451421415",
+        "dun": "17897451421412",
+        "codigo": "62141"
+      },
+      {
+        "perfil": "Turbo",
+        "aplicacao": "Esmerilhadeira 9\"",
+        "tipoCorte": "Seco",
+        "diametro": "230 mm",
+        "diametro1": "25,4 mm",
+        "rotacaoMaxima": "6.500 rpm",
+        "buchaReducao": "22 mm e 16 mm",
+        "embalagem": "1",
+        "ean": "7897451421422",
+        "dun": "–",
+        "codigo": "62142"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "46 (impressa 90-91)"
+    }
+  },
+  {
+    "id": "diamantados-porcelanato-vidro",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Porcelanato/Vidro",
+    "tagline": "Alto desempenho e precisão para cortes em porcelanato e vidros não temperados.",
+    "descricao": "O Disco Diamantado Porcelanato/Vidro Cortag é indicado para o corte de vidros não temperados, porcelanatos e cerâmicas, proporcionando acabamento fino, limpo e preciso. Com perfil contínuo e sistema de refrigeração eficiente, oferece maior durabilidade e estabilidade, reduzindo vibrações e evitando lascas no material.",
+    "destaques": [
+      "Disponível para serra mármore (Ø110 mm) e esmerilhadeira (Ø115 mm), ideal para cortes delicados e de alta precisão."
+    ],
+    "imagem": "images/diamantados/porcelanato-vidro.jpg",
+    "colunas": [
+      "Perfil",
+      "Aplicação",
+      "Tipo de Corte",
+      "Diâmetro (Ø)",
+      "Diâmetro 1",
+      "Rotação Máxima",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "perfil",
+      "aplicacao",
+      "tipoCorte",
+      "diametro",
+      "diametro1",
+      "rotacaoMaxima",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "perfil": "Contínuo",
+        "aplicacao": "Serra mármore",
+        "tipoCorte": "Refrigerado",
+        "diametro": "110 mm",
+        "diametro1": "20 mm",
+        "rotacaoMaxima": "14000 rpm",
+        "embalagem": "6",
+        "ean": "7897451427967",
+        "dun": "17897451427964",
+        "codigo": "62796"
+      },
+      {
+        "perfil": "Contínuo",
+        "aplicacao": "Esmerilhadeira",
+        "tipoCorte": "Refrigerado",
+        "diametro": "115 mm",
+        "diametro1": "22,22 mm",
+        "rotacaoMaxima": "13000 rpm",
+        "embalagem": "6",
+        "ean": "7897451427974",
+        "dun": "17897451427971",
+        "codigo": "62797"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "46 (impressa 90-91)"
+    }
+  },
+  {
+    "id": "diamantados-porcelanato-duo",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Disco Diamantado Porcelanato Duo",
+    "tagline": "Velocidade, precisão e acabamento profissional em cortes retos e chanfrados.",
+    "descricao": "O Disco Diamantado Porcelanato Duo foi desenvolvido para atender às necessidades do profissional que busca versatilidade e alta qualidade. Permite cortes tanto em 90° (reto) quanto em 45° (chanfro), com excelente acabamento e alta durabilidade, mantendo o mesmo padrão de performance dos discos diamantados Cortag.",
+    "imagem": "images/diamantados/porcelanato-duo.jpg",
+    "colunas": [
+      "Perfil",
+      "Aplicação",
+      "Tipo de Corte",
+      "Diâmetro (Ø)",
+      "Diâmetro 1",
+      "Rotação Máxima",
+      "Bucha de Redução",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "perfil",
+      "aplicacao",
+      "tipoCorte",
+      "diametro",
+      "diametro1",
+      "rotacaoMaxima",
+      "buchaReducao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "perfil": "Turbo",
+        "aplicacao": "Serra Mármore",
+        "tipoCorte": "Seco",
+        "diametro": "110 mm",
+        "diametro1": "20 mm",
+        "rotacaoMaxima": "13.300 rpm",
+        "buchaReducao": "16 mm",
+        "embalagem": "10",
+        "ean": "7897451431933",
+        "dun": "17897451431930",
+        "codigo": "63193"
+      },
+      {
+        "perfil": "Turbo",
+        "aplicacao": "Esmerilhadeira de 4.1/2\"",
+        "tipoCorte": "Seco",
+        "diametro": "115 mm",
+        "diametro1": "22,2 mm",
+        "rotacaoMaxima": "13.300 rpm",
+        "buchaReducao": "16 mm",
+        "embalagem": "10",
+        "ean": "7897451431940",
+        "dun": "17897451431947",
+        "codigo": "63194"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "46 (impressa 90-91)"
+    }
+  },
+  {
+    "id": "diamantados-turbo-porcelanato",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Turbo Porcelanato",
+    "tagline": "Alto desempenho e precisão no corte de porcelanatos e cerâmicas.",
+    "descricao": "O Disco Diamantado Porcelanato Cortag é indicado para corte a seco de porcelanatos e cerâmicas, garantindo acabamento fino, rápido e preciso. Com perfil turbo segmentado e espessura de 1,2 mm, proporciona excelente fluidez no corte e maior durabilidade, evitando lascas nas bordas das peças. Ideal para uso em serra mármore.",
+    "destaques": [
+      "Espessura: 1,2 mm."
+    ],
+    "imagem": "images/diamantados/turbo-porcelanato.jpg",
+    "colunas": [
+      "Perfil",
+      "Aplicação",
+      "Tipo de Corte",
+      "Diâmetro (Ø)",
+      "Diâmetro 1",
+      "Rotação Máxima",
+      "Bucha de Redução",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "perfil",
+      "aplicacao",
+      "tipoCorte",
+      "diametro",
+      "diametro1",
+      "rotacaoMaxima",
+      "buchaReducao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "perfil": "Turbo",
+        "aplicacao": "Serra Mármore",
+        "tipoCorte": "Seco",
+        "diametro": "110 mm",
+        "diametro1": "20 mm",
+        "rotacaoMaxima": "14.000 rpm",
+        "buchaReducao": "16 mm",
+        "embalagem": "10",
+        "ean": "7897451468632",
+        "dun": "17897451468639",
+        "codigo": "60863"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "47 (impressa 92-93)"
+    }
+  },
+  {
+    "id": "diamantados-turbo-porcelanato-plus",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Turbo Porcelanato Plus",
+    "tagline": "Maior resistência e precisão no corte de porcelanatos e cerâmicas.",
+    "descricao": "O Disco Diamantado Porcelanato Plus é indicado para corte a seco de porcelanatos e cerâmicas, oferecendo acabamento de alta qualidade, precisão e durabilidade superior. Com perfil turbo segmentado e espessura de 1,4 mm, proporciona cortes rápidos, contínuos e sem lascas, garantindo melhor desempenho em porcelanatos de alta dureza.",
+    "destaques": [
+      "Espessura: 1,4 mm.",
+      "Compatível com serra mármore."
+    ],
+    "imagem": "images/diamantados/turbo-porcelanato-plus.jpg",
+    "colunas": [
+      "Perfil",
+      "Aplicação",
+      "Tipo de Corte",
+      "Diâmetro (Ø)",
+      "Diâmetro 1",
+      "Rotação Máxima",
+      "Bucha de Redução",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "perfil",
+      "aplicacao",
+      "tipoCorte",
+      "diametro",
+      "diametro1",
+      "rotacaoMaxima",
+      "buchaReducao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "perfil": "Turbo",
+        "aplicacao": "Serra Mármore",
+        "tipoCorte": "Seco",
+        "diametro": "110 mm",
+        "diametro1": "20 mm",
+        "rotacaoMaxima": "14.000 rpm",
+        "buchaReducao": "16 mm",
+        "embalagem": "10",
+        "ean": "7897451413144",
+        "dun": "17897451413141",
+        "codigo": "61314"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "47 (impressa 92-93)"
+    }
+  },
+  {
+    "id": "diamantados-turbo-porcelanato-flex",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Turbo Porcelanato Flex",
+    "tagline": "Precisão, velocidade e durabilidade para cortes em porcelanato e cerâmica.",
+    "descricao": "O Disco Diamantado Porcelanato Flex Cortag é indicado para corte a seco de porcelanatos e cerâmicas, proporcionando excelente desempenho e acabamento uniforme. Com perfil turbo segmentado e design otimizado, oferece melhor dissipação de calor e estabilidade em altas rotações, evitando lascas e garantindo cortes rápidos, contínuos e precisos.",
+    "destaques": [
+      "Ideal para uso em esmerilhadeiras 4-1/2\" (115 mm)."
+    ],
+    "imagem": "images/diamantados/turbo-porcelanato-flex.jpg",
+    "colunas": [
+      "Perfil",
+      "Aplicação",
+      "Tipo de Corte",
+      "Diâmetro (Ø)",
+      "Diâmetro 1",
+      "Rotação Máxima",
+      "Bucha de Redução",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "perfil",
+      "aplicacao",
+      "tipoCorte",
+      "diametro",
+      "diametro1",
+      "rotacaoMaxima",
+      "buchaReducao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "perfil": "Turbo",
+        "aplicacao": "Esmerilhadeira 4.1/2\"",
+        "tipoCorte": "Seco",
+        "diametro": "115 mm",
+        "diametro1": "22,22 mm",
+        "rotacaoMaxima": "13.300 rpm",
+        "buchaReducao": "20 mm",
+        "embalagem": "10",
+        "ean": "7897451415773",
+        "dun": "17897451415770",
+        "codigo": "61577"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "47 (impressa 92-93)"
+    }
+  },
+  {
+    "id": "diamantados-turbo-durokort",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Turbo Durokort",
+    "tagline": "Desempenho superior e vida útil longa para corte de materiais de alta dureza.",
+    "descricao": "Os Discos Diamantados Cortag da linha Dureza Elevada / Porcelanato são indicados para corte a seco ou refrigerado de porcelanatos, cerâmicas e pedras naturais, oferecendo maior resistência, estabilidade e precisão. Com perfil turbo segmentado, garantem corte contínuo, rápido e sem lascas, mesmo em materiais de alta densidade.",
+    "destaques": [
+      "Disponíveis em diferentes diâmetros, compatíveis com serras mármore, esmerilhadeiras e máquinas ZAPP."
+    ],
+    "imagem": "images/diamantados/turbo-durokort.jpg",
+    "colunas": [
+      "Perfil",
+      "Aplicação",
+      "Tipo de Corte",
+      "Diâmetro (Ø)",
+      "Diâmetro 1",
+      "Rotação Máxima",
+      "Bucha de Redução",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "perfil",
+      "aplicacao",
+      "tipoCorte",
+      "diametro",
+      "diametro1",
+      "rotacaoMaxima",
+      "buchaReducao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "perfil": "Turbo",
+        "aplicacao": "Serra Mármore",
+        "tipoCorte": "Seco*",
+        "diametro": "110 mm",
+        "diametro1": "20 mm",
+        "rotacaoMaxima": "14.000 rpm",
+        "buchaReducao": "16 mm",
+        "embalagem": "10",
+        "ean": "7897451466683",
+        "dun": "17897451466680",
+        "codigo": "60668"
+      },
+      {
+        "perfil": "Turbo",
+        "aplicacao": "Esmerilhadeira 4.1/2\"",
+        "tipoCorte": "Seco*",
+        "diametro": "115 mm",
+        "diametro1": "22,2 mm",
+        "rotacaoMaxima": "13.300 rpm",
+        "buchaReducao": "20 mm",
+        "embalagem": "3",
+        "ean": "7897451463491",
+        "dun": "47897451463499",
+        "codigo": "60349"
+      },
+      {
+        "perfil": "Turbo",
+        "aplicacao": "Esmerilhadeira 5\"",
+        "tipoCorte": "Seco*",
+        "diametro": "125 mm",
+        "diametro1": "22,2 mm",
+        "rotacaoMaxima": "12.200 rpm",
+        "buchaReducao": "16 mm",
+        "embalagem": "6",
+        "ean": "7897451421408",
+        "dun": "17897451421405",
+        "codigo": "62140"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "48 (impressa 94-95)"
+    }
+  },
+  {
+    "id": "diamantados-durokort-premium",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Durokort Premium",
+    "tagline": "Alta resistência e desempenho superior para porcelanatos e superfícies de dureza elevada.",
+    "descricao": "Disco Durokort Premium é um disco de perfil turbo, desenvolvido para reduzir vibrações, aumentar a estabilidade e maximizar o desempenho em cortes de materiais extremamente duros. Com espessura de 1,2 mm, garante acabamento excelente em Dekton, Quartzo, Silestone e porcelanatos de elevada dureza, tanto em cortes retos (90°) quanto em chanfrados (45°).",
+    "imagem": "images/diamantados/durokort-premium.jpg",
+    "colunas": [
+      "Perfil",
+      "Aplicação",
+      "Tipo de Corte",
+      "Diâmetro (Ø)",
+      "Diâmetro 1",
+      "Rotação Máxima",
+      "Bucha de Redução",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "perfil",
+      "aplicacao",
+      "tipoCorte",
+      "diametro",
+      "diametro1",
+      "rotacaoMaxima",
+      "buchaReducao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "perfil": "Turbo",
+        "aplicacao": "Serra Mármore",
+        "tipoCorte": "Seco",
+        "diametro": "110 mm",
+        "diametro1": "20 mm",
+        "rotacaoMaxima": "14.000 rpm",
+        "buchaReducao": "16 mm",
+        "embalagem": "3",
+        "ean": "7897451431315",
+        "dun": "17897451431312",
+        "codigo": "63131"
+      },
+      {
+        "perfil": "Turbo",
+        "aplicacao": "Esmerilhadeira",
+        "tipoCorte": "Seco",
+        "diametro": "115 mm",
+        "diametro1": "20 mm",
+        "rotacaoMaxima": "14.000 rpm",
+        "buchaReducao": "20 mm",
+        "embalagem": "3",
+        "ean": "7897451431322",
+        "dun": "17897451431329",
+        "codigo": "63132"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "48 (impressa 94-95)"
+    }
+  },
+  {
+    "id": "diamantados-continuo-ceramica",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Contínuo (Cerâmica)",
+    "tagline": "Corte suave e preciso para cerâmicas, azulejos, telhas e tijolos.",
+    "descricao": "O Disco Diamantado Contínuo Cortag é indicado para corte refrigerado de cerâmicas, azulejos, telhas e tijolos, oferecendo acabamento limpo e de alta precisão. Com borda contínua e design de alta durabilidade, proporciona fluidez no corte e redução de vibrações, garantindo resultados uniformes e sem lascas.",
+    "destaques": [
+      "Compatível com serras mármore, esmerilhadeiras e máquinas ZAPP."
+    ],
+    "imagem": "images/diamantados/continuo-ceramica.jpg",
+    "colunas": [
+      "Perfil",
+      "Aplicação",
+      "Tipo de Corte",
+      "Diâmetro (Ø)",
+      "Diâmetro 1",
+      "Rotação Máxima",
+      "Bucha de Redução",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "perfil",
+      "aplicacao",
+      "tipoCorte",
+      "diametro",
+      "diametro1",
+      "rotacaoMaxima",
+      "buchaReducao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "perfil": "Contínuo",
+        "aplicacao": "Serra mármore",
+        "tipoCorte": "Refrigerado",
+        "diametro": "110 mm",
+        "diametro1": "20 mm",
+        "rotacaoMaxima": "14.000 rpm",
+        "buchaReducao": "16 mm",
+        "embalagem": "10",
+        "ean": "7897451466973",
+        "dun": "17897451466970",
+        "codigo": "60697"
+      },
+      {
+        "perfil": "Contínuo",
+        "aplicacao": "Esmerilhadeira 9\"",
+        "tipoCorte": "Refrigerado",
+        "diametro": "230 mm",
+        "diametro1": "25,4 mm",
+        "rotacaoMaxima": "6.500 rpm",
+        "buchaReducao": "22,22 mm",
+        "embalagem": "1",
+        "ean": "7897451416121",
+        "dun": "-",
+        "codigo": "61612"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "48 (impressa 94-95)"
+    }
+  },
+  {
+    "id": "diamantados-continuo-eco",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Contínuo Eco",
+    "tagline": "Excelente acabamento e economia para cortes em cerâmicas e azulejos.",
+    "descricao": "O Disco Diamantado Contínuo Eco Cortag é indicado para corte refrigerado de cerâmicas, azulejos, telhas e tijolos, oferecendo boa performance e excelente custo-benefício. Com borda contínua de 110 mm, proporciona acabamento limpo, estável e preciso, sendo ideal para trabalhos ocasionais e pequenas obras.",
+    "destaques": [
+      "Compatível com serras mármore, garante fluidez no corte, durabilidade e segurança em rotações elevadas."
+    ],
+    "imagem": "images/diamantados/continuo-eco.jpg",
+    "colunas": [
+      "Perfil",
+      "Aplicação",
+      "Tipo de Corte",
+      "Diâmetro (Ø)",
+      "Diâmetro 1",
+      "Rotação Máxima",
+      "Bucha de Redução",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "perfil",
+      "aplicacao",
+      "tipoCorte",
+      "diametro",
+      "diametro1",
+      "rotacaoMaxima",
+      "buchaReducao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "perfil": "Contínuo",
+        "aplicacao": "Serra mármore",
+        "tipoCorte": "Refrigerado",
+        "diametro": "110 mm",
+        "diametro1": "20 mm",
+        "rotacaoMaxima": "14.000 rpm",
+        "buchaReducao": "16 mm",
+        "embalagem": "10",
+        "ean": "7897451415483",
+        "dun": "17897451415480",
+        "codigo": "61548"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "48 (impressa 94-95)"
+    }
+  },
+  {
+    "id": "diamantados-turbo-flex-pedras",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Turbo Flex",
+    "tagline": "Alta performance e versatilidade para corte de mármore, granito e pedras decorativas.",
+    "descricao": "O Disco Diamantado Turbo Flex Cortag é indicado para corte a seco de mármore, granito e pedras decorativas, garantindo acabamento uniforme e excelente fluidez de corte. Com perfil turbo segmentado e estrutura reforçada, proporciona maior estabilidade, precisão e durabilidade, mesmo em cortes contínuos e de alta velocidade.",
+    "destaques": [
+      "Compatível com esmerilhadeiras 4-1/2\" (115 mm)."
+    ],
+    "imagem": "images/diamantados/turbo-flex-pedras.jpg",
+    "colunas": [
+      "Perfil",
+      "Aplicação",
+      "Tipo de Corte",
+      "Diâmetro (Ø)",
+      "Diâmetro 1",
+      "Rotação Máxima",
+      "Bucha de Redução",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "perfil",
+      "aplicacao",
+      "tipoCorte",
+      "diametro",
+      "diametro1",
+      "rotacaoMaxima",
+      "buchaReducao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "perfil": "Turbo",
+        "aplicacao": "Esmerilhadeira 4.1/2\"",
+        "tipoCorte": "Seco",
+        "diametro": "115 mm",
+        "diametro1": "22,22 mm",
+        "rotacaoMaxima": "13.300 rpm",
+        "buchaReducao": "20 mm",
+        "embalagem": "10",
+        "ean": "7897451415490",
+        "dun": "17897451415497",
+        "codigo": "61549"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "49 (impressa 96-97)"
+    }
+  },
+  {
+    "id": "diamantados-turbo-pedras-naturais",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Turbo (Pedras Naturais)",
+    "tagline": "Desempenho e precisão para corte de mármore, granito e pedras decorativas.",
+    "descricao": "O Disco Diamantado Turbo Cortag é indicado para corte a seco de mármore, granito e pedras decorativas, garantindo alta performance e acabamento preciso. Com perfil turbo segmentado, oferece excelente ventilação e refrigeração, resultando em cortes rápidos e contínuos sem comprometer a durabilidade do disco.",
+    "destaques": [
+      "Disponível nos diâmetros de 110 mm, 125 mm e 230 mm."
+    ],
+    "imagem": "images/diamantados/turbo-pedras-naturais.jpg",
+    "colunas": [
+      "Perfil",
+      "Aplicação",
+      "Tipo de Corte",
+      "Diâmetro (Ø)",
+      "Diâmetro 1",
+      "Rotação Máxima",
+      "Bucha de Redução",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "perfil",
+      "aplicacao",
+      "tipoCorte",
+      "diametro",
+      "diametro1",
+      "rotacaoMaxima",
+      "buchaReducao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "perfil": "Turbo",
+        "aplicacao": "Serra Mármore",
+        "tipoCorte": "Seco",
+        "diametro": "110 mm",
+        "diametro1": "20 mm",
+        "rotacaoMaxima": "14.000 rpm",
+        "buchaReducao": "16 mm",
+        "embalagem": "10",
+        "ean": "7897451421385",
+        "dun": "17897451421382",
+        "codigo": "60599"
+      },
+      {
+        "perfil": "Turbo",
+        "aplicacao": "Esmerilhadeira 5\"",
+        "tipoCorte": "Seco",
+        "diametro": "125 mm",
+        "diametro1": "22,2 mm",
+        "rotacaoMaxima": "12.200 rpm",
+        "buchaReducao": "16 mm",
+        "embalagem": "6",
+        "ean": "7897451421378",
+        "dun": "17897451421375",
+        "codigo": "62137"
+      },
+      {
+        "perfil": "Turbo",
+        "aplicacao": "Esmerilhadeira 9\"",
+        "tipoCorte": "Seco",
+        "diametro": "230 mm",
+        "diametro1": "25,4 mm",
+        "rotacaoMaxima": "6.500 rpm",
+        "buchaReducao": "22,22 mm",
+        "embalagem": "1",
+        "ean": "7897451416169",
+        "dun": "-",
+        "codigo": "61616"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "49 (impressa 96-97)"
+    }
+  },
+  {
+    "id": "diamantados-turbo-profissional-pedras",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Turbo Profissional",
+    "tagline": "Desempenho profissional para cortes rápidos e precisos em mármore, granito e pedras decorativas.",
+    "descricao": "O Disco Diamantado Turbo Profissional Cortag é indicado para corte a seco de mármore, granito e pedras decorativas, oferecendo alta velocidade, precisão e alta durabilidade. Com perfil turbo segmentado, garante melhor ventilação e dissipação de calor, evitando o superaquecimento durante o uso.",
+    "destaques": [
+      "Disponível nos diâmetros de 110 mm e 125 mm."
+    ],
+    "imagem": "images/diamantados/turbo-profissional-pedras.jpg",
+    "colunas": [
+      "Perfil",
+      "Aplicação",
+      "Tipo de Corte",
+      "Diâmetro (Ø)",
+      "Diâmetro 1",
+      "Rotação Máxima",
+      "Bucha de Redução",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "perfil",
+      "aplicacao",
+      "tipoCorte",
+      "diametro",
+      "diametro1",
+      "rotacaoMaxima",
+      "buchaReducao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "perfil": "Turbo",
+        "aplicacao": "Serra Mármore",
+        "tipoCorte": "Seco",
+        "diametro": "110 mm",
+        "diametro1": "20 mm",
+        "rotacaoMaxima": "14.000 rpm",
+        "buchaReducao": "16 mm",
+        "embalagem": "10",
+        "ean": "7897451467642",
+        "dun": "17897451467649",
+        "codigo": "60764"
+      },
+      {
+        "perfil": "Turbo",
+        "aplicacao": "Esmerilhadeira 5\"",
+        "tipoCorte": "Seco",
+        "diametro": "125 mm",
+        "diametro1": "22,2 mm",
+        "rotacaoMaxima": "12.200 rpm",
+        "buchaReducao": "16 mm",
+        "embalagem": "6",
+        "ean": "7897451421385",
+        "dun": "17897451421382",
+        "codigo": "62138"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "49 (impressa 96-97)"
+    }
+  },
+  {
+    "id": "diamantados-turbo-eco-pedras",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Turbo Eco",
+    "tagline": "Desempenho e economia para cortes precisos em mármore, granito e pedras decorativas.",
+    "descricao": "O Disco Diamantado Turbo Eco Cortag é indicado para corte a seco de mármore, granito e pedras decorativas, oferecendo bom desempenho, precisão e ótimo custo-benefício. Com perfil turbo segmentado e diâmetro de 110 mm, proporciona cortes rápidos, contínuos e estáveis, com excelente acabamento em materiais de média dureza.",
+    "destaques": [
+      "Opção ideal para trabalhos ocasionais e pequenas obras."
+    ],
+    "imagem": "images/diamantados/turbo-eco-pedras.jpg",
+    "colunas": [
+      "Perfil",
+      "Aplicação",
+      "Tipo de Corte",
+      "Diâmetro (Ø)",
+      "Diâmetro 1",
+      "Rotação Máxima",
+      "Bucha de Redução",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "perfil",
+      "aplicacao",
+      "tipoCorte",
+      "diametro",
+      "diametro1",
+      "rotacaoMaxima",
+      "buchaReducao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "perfil": "Turbo",
+        "aplicacao": "Serra Mármore",
+        "tipoCorte": "Seco",
+        "diametro": "110 mm",
+        "diametro1": "20 mm",
+        "rotacaoMaxima": "14.000 rpm",
+        "buchaReducao": "16 mm",
+        "embalagem": "10",
+        "ean": "7897451465983",
+        "dun": "17897451465980",
+        "codigo": "60598"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "49 (impressa 96-97)"
+    }
+  },
+  {
+    "id": "diamantados-segmentado-premium",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Segmentado Premium",
+    "tagline": "Alta performance e durabilidade para corte de concreto, alvenaria e blocos.",
+    "descricao": "O Disco Diamantado Segmentado Premium Cortag é indicado para corte a seco de concreto, alvenaria e blocos de concreto, proporcionando alto desempenho, resistência e durabilidade superior. Com segmentos diamantados de alta qualidade, oferece excelente ventilação e resfriamento, reduzindo o desgaste.",
+    "destaques": [
+      "Compatível com esmerilhadeiras 5\" (125 mm), ideal para obras de grande exigência."
+    ],
+    "imagem": "images/diamantados/segmentado-premium.jpg",
+    "colunas": [
+      "Perfil",
+      "Aplicação",
+      "Tipo de Corte",
+      "Diâmetro (Ø)",
+      "Diâmetro 1",
+      "Rotação Máxima",
+      "Bucha de Redução",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "perfil",
+      "aplicacao",
+      "tipoCorte",
+      "diametro",
+      "diametro1",
+      "rotacaoMaxima",
+      "buchaReducao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "perfil": "Segmentado",
+        "aplicacao": "Esmerilhadeira 5\"",
+        "tipoCorte": "Seco",
+        "diametro": "125 mm",
+        "diametro1": "22,2 mm",
+        "rotacaoMaxima": "12.200 rpm",
+        "buchaReducao": "16 mm",
+        "embalagem": "6",
+        "ean": "7897451421361",
+        "dun": "17897451421368",
+        "codigo": "62136"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "50 (impressa 98-99)"
+    }
+  },
+  {
+    "id": "diamantados-segmentado",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Segmentado",
+    "tagline": "Resistência e desempenho no corte de concreto, alvenaria e blocos.",
+    "descricao": "O Disco Diamantado Segmentado Cortag é indicado para corte a seco de concreto, alvenaria e blocos de concreto, oferecendo durabilidade, precisão e excelente custo-benefício. Com segmentos diamantados de alta qualidade, proporciona refrigeração eficiente e menor desgaste, garantindo cortes rápidos e precisos mesmo em materiais de alta resistência.",
+    "destaques": [
+      "Disponível em diâmetros de 110 mm, 125 mm, 180 mm e 230 mm."
+    ],
+    "imagem": "images/diamantados/segmentado.jpg",
+    "colunas": [
+      "Perfil",
+      "Aplicação",
+      "Tipo de Corte",
+      "Diâmetro (Ø)",
+      "Diâmetro 1",
+      "Rotação Máxima",
+      "Bucha de Redução",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "perfil",
+      "aplicacao",
+      "tipoCorte",
+      "diametro",
+      "diametro1",
+      "rotacaoMaxima",
+      "buchaReducao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "perfil": "Segmentado",
+        "aplicacao": "Serra Mármore",
+        "tipoCorte": "Seco",
+        "diametro": "110 mm",
+        "diametro1": "20 mm",
+        "rotacaoMaxima": "14.000 rpm",
+        "buchaReducao": "16 mm",
+        "embalagem": "10",
+        "ean": "7897451469738",
+        "dun": "17897451469735",
+        "codigo": "60973"
+      },
+      {
+        "perfil": "Segmentado",
+        "aplicacao": "Esmerilhadeira 5\"",
+        "tipoCorte": "Seco",
+        "diametro": "125 mm",
+        "diametro1": "22,2 mm",
+        "rotacaoMaxima": "12.200 rpm",
+        "buchaReducao": "16 mm",
+        "embalagem": "6",
+        "ean": "7897451421354",
+        "dun": "17897451421351",
+        "codigo": "62135"
+      },
+      {
+        "perfil": "Segmentado",
+        "aplicacao": "Esmerilhadeira 7\"",
+        "tipoCorte": "Seco",
+        "diametro": "180 mm",
+        "diametro1": "25,4 mm",
+        "rotacaoMaxima": "8.450 rpm",
+        "buchaReducao": "22,22 mm",
+        "embalagem": "3",
+        "ean": "7897451416183",
+        "dun": "17897451416180",
+        "codigo": "61618"
+      },
+      {
+        "perfil": "Segmentado",
+        "aplicacao": "Esmerilhadeira 9\"",
+        "tipoCorte": "Seco",
+        "diametro": "230 mm",
+        "diametro1": "25,4 mm",
+        "rotacaoMaxima": "6.500 rpm",
+        "buchaReducao": "22,22 mm",
+        "embalagem": "3",
+        "ean": "7897451416190",
+        "dun": "17897451416197",
+        "codigo": "61619"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "50 (impressa 98-99)"
+    }
+  },
+  {
+    "id": "diamantados-segmentado-eco",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Segmentado ECO",
+    "tagline": "Eficiência e economia para corte de concreto, alvenaria e blocos.",
+    "descricao": "O Disco Diamantado Segmentado Eco Cortag é indicado para corte a seco de concreto, alvenaria e blocos de concreto, oferecendo bom desempenho e ótimo custo-benefício. Com segmentos diamantados de alta resistência e diâmetro de 110 mm, proporciona cortes rápidos, precisos e estáveis, garantindo produtividade em pequenos reparos e obras residenciais.",
+    "destaques": [
+      "Ideal para uso em serra mármore, combina qualidade e acessibilidade."
+    ],
+    "imagem": "images/diamantados/segmentado-eco.jpg",
+    "colunas": [
+      "Perfil",
+      "Aplicação",
+      "Tipo de Corte",
+      "Diâmetro (Ø)",
+      "Diâmetro 1",
+      "Rotação Máxima",
+      "Bucha de Redução",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "perfil",
+      "aplicacao",
+      "tipoCorte",
+      "diametro",
+      "diametro1",
+      "rotacaoMaxima",
+      "buchaReducao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "perfil": "Segmentado",
+        "aplicacao": "Serra Mármore",
+        "tipoCorte": "Seco",
+        "diametro": "110 mm",
+        "diametro1": "20 mm",
+        "rotacaoMaxima": "14.000 rpm",
+        "buchaReducao": "16 mm",
+        "embalagem": "10",
+        "ean": "7897451416992",
+        "dun": "17897451416999",
+        "codigo": "61699"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "50 (impressa 98-99)"
+    }
+  },
+  {
+    "id": "diamantados-concreto-viga",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Concreto/Viga",
+    "tagline": "Alto desempenho e durabilidade para corte de concreto e asfalto.",
+    "descricao": "O Disco Diamantado Concreto/Asfalto Cortag é indicado para uso em cortadoras de piso, sendo ideal para corte de concreto e asfalto. Desenvolvido com segmentos diamantados de alto desempenho, garante cortes rápidos, precisos e estáveis, mesmo em condições intensas de trabalho.",
+    "destaques": [
+      "Disponível nas versões Premium e Plus, oferece durabilidade prolongada e excelente dissipação de calor."
+    ],
+    "imagem": "images/diamantados/concreto-viga.jpg",
+    "colunas": [
+      "Perfil",
+      "Aplicação",
+      "Tipo de Corte",
+      "Diâmetro (Ø)",
+      "Diâmetro 1",
+      "Rotação Máxima",
+      "Bucha de Redução",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "perfil",
+      "aplicacao",
+      "tipoCorte",
+      "diametro",
+      "diametro1",
+      "rotacaoMaxima",
+      "buchaReducao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "perfil": "Segmentado",
+        "aplicacao": "Esmerilhadeira 9\"",
+        "tipoCorte": "Seco",
+        "diametro": "230 mm",
+        "diametro1": "25,4 mm",
+        "rotacaoMaxima": "6.500 rpm",
+        "buchaReducao": "N",
+        "embalagem": "3",
+        "ean": "7897451465976",
+        "dun": "27897451465970",
+        "codigo": "60597"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "50 (impressa 98-99)"
+    }
+  },
+  {
+    "id": "diamantados-profissional-premium-concreto-asfalto",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Profissional Premium (Concreto/Asfalto)",
+    "tagline": "Alto rendimento e durabilidade para cortes severos em concreto e asfalto.",
+    "descricao": "O Disco Diamantado Concreto/Asfalto Profissional Premium Cortag é indicado para corte a seco de concreto e asfalto em cortadoras de piso, garantindo alto rendimento e estabilidade em aplicações severas. Com perfil segmentado que favorece a rápida remoção de detritos e eficiente dissipação térmica, proporciona cortes contínuos, menor aquecimento e maior vida útil do disco mesmo em uso intenso.",
+    "destaques": [
+      "Compatível com o cortador ZAPP, ideal para obras de pavimentação, infraestrutura e construção pesada."
+    ],
+    "imagem": "images/diamantados/profissional-premium-concreto-asfalto.jpg",
+    "colunas": [
+      "Perfil",
+      "Aplicação",
+      "Tipo de Corte",
+      "Diâmetro (Ø)",
+      "Diâmetro 1",
+      "Rotação Máxima",
+      "Bucha de Redução",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "perfil",
+      "aplicacao",
+      "tipoCorte",
+      "diametro",
+      "diametro1",
+      "rotacaoMaxima",
+      "buchaReducao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "perfil": "Premium",
+        "aplicacao": "Segmentado",
+        "tipoCorte": "Seco",
+        "diametro": "350 mm",
+        "diametro1": "25,4 mm",
+        "rotacaoMaxima": "4.400 rpm",
+        "buchaReducao": "3",
+        "embalagem": "6",
+        "ean": "7897451466676",
+        "dun": "17897451466673",
+        "codigo": "60667"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "51 (impressa 100-101)"
+    }
+  },
+  {
+    "id": "diamantados-profissional-plus-concreto-asfalto",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Profissional Plus (Concreto/Asfalto)",
+    "tagline": "Cortes estáveis e maior durabilidade em operações refrigeradas.",
+    "descricao": "O Disco Diamantado Concreto/Asfalto Profissional Plus Cortag é indicado para corte refrigerado de concreto e asfalto em cortadoras de piso, oferecendo excelente desempenho e controle térmico em operações prolongadas. Seu perfil segmentado aliado ao uso com refrigeração líquida reduz o desgaste por aquecimento, garantindo cortes estáveis, precisos e maior durabilidade do disco em serviços contínuos.",
+    "destaques": [
+      "Compatível com o cortador ZAPP, atende às demandas de manutenção viária, pavimentação e obras civis em geral."
+    ],
+    "imagem": "images/diamantados/profissional-plus-concreto-asfalto.jpg",
+    "colunas": [
+      "Perfil",
+      "Aplicação",
+      "Tipo de Corte",
+      "Diâmetro (Ø)",
+      "Diâmetro 1",
+      "Rotação Máxima",
+      "Bucha de Redução",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "perfil",
+      "aplicacao",
+      "tipoCorte",
+      "diametro",
+      "diametro1",
+      "rotacaoMaxima",
+      "buchaReducao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "perfil": "Plus",
+        "aplicacao": "Segmentado",
+        "tipoCorte": "Refrigerado",
+        "diametro": "350 mm",
+        "diametro1": "25,4 mm",
+        "rotacaoMaxima": "4.400 rpm",
+        "buchaReducao": "3",
+        "embalagem": "3",
+        "ean": "7897451466669",
+        "dun": "17897451466666",
+        "codigo": "60666"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "51 (impressa 100-101)"
+    }
+  },
+  {
+    "id": "diamantados-super-metal",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Super Metal",
+    "tagline": "Alta durabilidade e segurança no corte de metais ferrosos e não ferrosos.",
+    "descricao": "O Disco Diamantado Supermetal Cortag foi desenvolvido para corte a seco de metais em aplicações de construção civil e indústria metalúrgica, oferecendo alto desempenho, segurança e longa vida útil. Indicado para aço carbono, aço inoxidável, ferro fundido e metais não ferrosos, proporciona cortes precisos, com menor desgaste e sem faíscas excessivas.",
+    "destaques": [
+      "Disponível nos diâmetros de 115 mm e 180 mm, compatível com esmerilhadeiras profissionais."
+    ],
+    "imagem": "images/diamantados/super-metal.jpg",
+    "colunas": [
+      "Perfil",
+      "Aplicação",
+      "Tipo de Corte",
+      "Diâmetro (Ø)",
+      "Diâmetro 1",
+      "Rotação Máxima",
+      "Bucha de Redução",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "perfil",
+      "aplicacao",
+      "tipoCorte",
+      "diametro",
+      "diametro1",
+      "rotacaoMaxima",
+      "buchaReducao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "perfil": "Segmentado",
+        "aplicacao": "Esmerilhadeira 4.1/2\"",
+        "tipoCorte": "Seco",
+        "diametro": "115 mm",
+        "diametro1": "22,22 mm",
+        "rotacaoMaxima": "13.300 rpm",
+        "buchaReducao": "20 mm",
+        "embalagem": "6",
+        "ean": "7897451466577",
+        "dun": "17897451466574",
+        "codigo": "60657"
+      },
+      {
+        "perfil": "Segmentado",
+        "aplicacao": "Esmerilhadeira 9\"",
+        "tipoCorte": "Seco",
+        "diametro": "180 mm",
+        "diametro1": "22,22 mm",
+        "rotacaoMaxima": "8.450 rpm",
+        "buchaReducao": "20 mm e 16 mm",
+        "embalagem": "3",
+        "ean": "7897451466584",
+        "dun": "17897451466581",
+        "codigo": "60658"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "51 (impressa 100-101)"
+    }
+  },
+  {
+    "id": "diamantados-pedra-afiar-disco",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Pedra para Afiar Disco",
+    "tagline": "Essencial para manter o desempenho e a vida útil dos discos diamantados.",
+    "descricao": "A Pedra para Afiação Cortag é indicada para afiar discos diamantados, restaurando o poder de corte e o desempenho original da ferramenta. Seu uso regular remove resíduos e partículas metálicas que se acumulam durante o corte, mantendo o disco limpo, eficiente e com maior durabilidade. Recomendada para uso em todos os tipos de discos diamantados, sejam de corte, desbaste ou chanfro.",
+    "imagem": "images/diamantados/pedra-afiar-disco.jpg",
+    "colunas": [
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "embalagem": "3",
+        "ean": "7897451413571",
+        "dun": "17897451413578",
+        "codigo": "61357"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "51 (impressa 100-101)"
+    }
+  },
+  {
+    "id": "diamantados-corte-e-desbaste",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Corte e Desbaste",
+    "tagline": "Alta precisão e desempenho para corte e desbaste de materiais de alta dureza.",
+    "descricao": "Os Discos Diamantados de Corte e Desbaste Cortag são indicados para corte e/ou desbaste de cerâmica, porcelanato, mármore, granito e pedras naturais, garantindo velocidade, precisão e durabilidade em cada aplicação. Com perfil turbo segmentado, oferecem corte rápido e acabamento uniforme, além de reduzir vibrações e aquecimento, prolongando a vida útil do disco.",
+    "destaques": [
+      "Disponíveis nos diâmetros de 115 mm e 125 mm, ideais para uso profissional em esmerilhadeiras."
+    ],
+    "imagem": "images/diamantados/corte-e-desbaste.jpg",
+    "colunas": [
+      "Perfil",
+      "Tipo de Corte",
+      "Diâmetro (Ø)",
+      "Rotação Máxima",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "perfil",
+      "tipoCorte",
+      "diametro",
+      "rotacaoMaxima",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "perfil": "Turbo",
+        "tipoCorte": "Seco",
+        "diametro": "115 mm",
+        "rotacaoMaxima": "14.000 rpm",
+        "embalagem": "6",
+        "ean": "7897451421330",
+        "dun": "17897451421337",
+        "codigo": "62133"
+      },
+      {
+        "perfil": "Turbo",
+        "tipoCorte": "Seco",
+        "diametro": "125 mm",
+        "rotacaoMaxima": "8.450 rpm",
+        "embalagem": "6",
+        "ean": "7897451421347",
+        "dun": "17897451421344",
+        "codigo": "62134"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "52 (impressa 102-103)"
+    }
+  },
+  {
+    "id": "diamantados-turbo-chanfro-zapp",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Turbo Chanfro (Linha ZAPP)",
+    "tagline": "Corte de precisão em ângulo de 45°, com alto desempenho e acabamento profissional.",
+    "descricao": "O Disco Diamantado Chanfro 45° Cortag é indicado para corte em ângulo de 45° em cerâmicas, porcelanatos, mármores, granitos e pedras decorativas, proporcionando acabamento fino e preciso. Desenvolvido com segmentos diamantados de alta performance, garante durabilidade, estabilidade e resfriamento eficiente durante o corte.",
+    "destaques": [
+      "Disponível em modelos compatíveis com máquinas ZAPP, ideal para trabalhos de chanfro, bisote e acabamento técnico.",
+      "Atenção: não recomendado para cortes retos a 90°."
+    ],
+    "imagem": "images/diamantados/turbo-chanfro-zapp.jpg",
+    "colunas": [
+      "Perfil",
+      "Aplicação",
+      "Tipo de Corte",
+      "Diâmetro (Ø)",
+      "Diâmetro 1",
+      "Rotação Máxima",
+      "Bucha de Redução",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "perfil",
+      "aplicacao",
+      "tipoCorte",
+      "diametro",
+      "diametro1",
+      "rotacaoMaxima",
+      "buchaReducao",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "perfil": "Turbo",
+        "aplicacao": "ZAPP G2 / ZAPP Fit",
+        "tipoCorte": "Refrigerado",
+        "diametro": "200 mm",
+        "diametro1": "22,22 mm",
+        "rotacaoMaxima": "7.600 rpm",
+        "buchaReducao": "16 mm",
+        "embalagem": "1",
+        "ean": "7897451416817",
+        "codigo": "61681"
+      },
+      {
+        "perfil": "Turbo",
+        "aplicacao": "ZAPP Titan",
+        "tipoCorte": "Refrigerado",
+        "diametro": "254 mm",
+        "diametro1": "22,2 mm",
+        "rotacaoMaxima": "6.000 rpm",
+        "buchaReducao": "16 mm",
+        "embalagem": "1",
+        "ean": "7897451420159",
+        "codigo": "62015"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "52 (impressa 102-103)"
+    }
+  },
+  {
+    "id": "diamantados-turbo-best-quality-zapp",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Turbo Best Quality (Linha ZAPP)",
+    "tagline": "Desempenho superior e precisão no corte de porcelanatos e cerâmicas.",
+    "descricao": "O Disco Diamantado Porcelanato Best Quality é indicado para corte a seco ou refrigerado de porcelanatos e cerâmicas, garantindo alto desempenho, precisão e acabamento profissional. Seu perfil turbo segmentado proporciona cortes rápidos e contínuos, reduzindo vibrações e evitando lascas nas bordas do material.",
+    "destaques": [
+      "Disponível em modelo compatível com máquinas ZAPP."
+    ],
+    "imagem": "images/diamantados/turbo-best-quality-zapp.jpg",
+    "colunas": [
+      "Perfil",
+      "Aplicação",
+      "Tipo de Corte",
+      "Diâmetro (Ø)",
+      "Diâmetro 1",
+      "Rotação Máxima",
+      "Bucha de Redução",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "perfil",
+      "aplicacao",
+      "tipoCorte",
+      "diametro",
+      "diametro1",
+      "rotacaoMaxima",
+      "buchaReducao",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "perfil": "Turbo",
+        "aplicacao": "ZAPP G2 / ZAPP Fit",
+        "tipoCorte": "Refrigerado",
+        "diametro": "200 mm",
+        "diametro1": "25,4 mm",
+        "rotacaoMaxima": "7.500 rpm",
+        "buchaReducao": "16 mm",
+        "embalagem": "1",
+        "ean": "7897451421439",
+        "codigo": "62143"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "53 (impressa 104-105)"
+    }
+  },
+  {
+    "id": "diamantados-continuo-aletado-profissional-plus",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Contínuo Aletado Profissional Plus",
+    "tagline": "Alta precisão e durabilidade para cortes em porcelanatos, cerâmicas e pedras naturais.",
+    "descricao": "O Disco Diamantado Profissional Plus Cortag é indicado para corte refrigerado de cerâmica, azulejo, telha, tijolo, porcelanato, mármore, granito e pedras naturais, garantindo acabamento limpo e precisão profissional. Desenvolvido para uso no cortador elétrico ZAPP, oferece maior estabilidade, eficiência e vida útil prolongada, mesmo em cortes contínuos de alta exigência.",
+    "destaques": [
+      "Disponível em diâmetros de 180 mm, 200 mm e 254 mm."
+    ],
+    "imagem": "images/diamantados/continuo-aletado-profissional-plus.jpg",
+    "colunas": [
+      "Perfil",
+      "Aplicação",
+      "Tipo de Corte",
+      "Diâmetro (Ø)",
+      "Diâmetro 1",
+      "Rotação Máxima",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "perfil",
+      "aplicacao",
+      "tipoCorte",
+      "diametro",
+      "diametro1",
+      "rotacaoMaxima",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "perfil": "Contínuo",
+        "aplicacao": "ZAPP 180",
+        "tipoCorte": "Refrigerado",
+        "diametro": "180 mm",
+        "diametro1": "22,2 mm",
+        "rotacaoMaxima": "8.450 rpm",
+        "embalagem": "1",
+        "ean": "7897451464030",
+        "codigo": "60403"
+      },
+      {
+        "perfil": "Contínuo",
+        "aplicacao": "ZAPP G2 / ZAPP Fit",
+        "tipoCorte": "Refrigerado",
+        "diametro": "200 mm",
+        "diametro1": "25,4 mm",
+        "rotacaoMaxima": "7.500 rpm",
+        "embalagem": "1",
+        "ean": "7897451460575",
+        "codigo": "60570"
+      },
+      {
+        "perfil": "Contínuo",
+        "aplicacao": "ZAPP 600 / ZAPP Titan",
+        "tipoCorte": "Refrigerado",
+        "diametro": "254 mm",
+        "diametro1": "25,4 mm",
+        "rotacaoMaxima": "6.000 rpm",
+        "embalagem": "1",
+        "ean": "7897451415506",
+        "codigo": "61550"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "53 (impressa 104-105)"
+    }
+  },
+  {
+    "id": "diamantados-continuo-aletado-profissional",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Contínuo Aletado Profissional",
+    "tagline": "Desempenho profissional e precisão para cortes em cerâmicas, porcelanatos e pedras naturais.",
+    "descricao": "O Disco Diamantado Profissional Premium Cortag é indicado para corte refrigerado de cerâmica, azulejo, telha, tijolo, porcelanato, mármore, granito e pedras naturais, garantindo acabamento limpo e de alta precisão. Projetado para uso nos cortadores elétricos ZAPP, oferece fluidez no corte, excelente refrigeração e longa durabilidade, mesmo em aplicações de alta exigência.",
+    "destaques": [
+      "Disponível nos diâmetros de 180 mm, 200 mm e 254 mm."
+    ],
+    "imagem": "images/diamantados/continuo-aletado-profissional.jpg",
+    "colunas": [
+      "Perfil",
+      "Aplicação",
+      "Tipo de Corte",
+      "Diâmetro (Ø)",
+      "Diâmetro 1",
+      "Rotação Máxima",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "perfil",
+      "aplicacao",
+      "tipoCorte",
+      "diametro",
+      "diametro1",
+      "rotacaoMaxima",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "perfil": "Contínuo",
+        "aplicacao": "ZAPP 180",
+        "tipoCorte": "Refrigerado",
+        "diametro": "180 mm",
+        "diametro1": "22,2 mm",
+        "rotacaoMaxima": "8.450 rpm",
+        "embalagem": "1",
+        "ean": "7897451464214",
+        "codigo": "60421"
+      },
+      {
+        "perfil": "Contínuo",
+        "aplicacao": "ZAPP G2 / ZAPP Fit",
+        "tipoCorte": "Refrigerado",
+        "diametro": "200 mm",
+        "diametro1": "25,4 mm",
+        "rotacaoMaxima": "7.500 rpm",
+        "embalagem": "1",
+        "ean": "7897451413403",
+        "codigo": "61340"
+      },
+      {
+        "perfil": "Contínuo",
+        "aplicacao": "ZAPP 600 / ZAPP Titan",
+        "tipoCorte": "Refrigerado",
+        "diametro": "254 mm",
+        "diametro1": "25,4 mm",
+        "rotacaoMaxima": "6.000 rpm",
+        "embalagem": "1",
+        "ean": "7897451421446",
+        "codigo": "62144"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "53 (impressa 104-105)"
+    }
+  },
+  {
+    "id": "diamantados-turbo-durokort-zapp",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Turbo Durokort (Linha ZAPP)",
+    "tagline": "Cortes limpos e precisos em materiais duros e delicados.",
+    "descricao": "Os Discos Diamantados Cortag da linha Dureza Elevada / Porcelanato são indicados para corte a seco ou refrigerado de porcelanatos, cerâmicas e pedras naturais, oferecendo maior resistência, estabilidade e precisão. Perfil turbo que proporciona melhor ventilação e fluidez, com alta durabilidade e desempenho constante.",
+    "destaques": [
+      "Compatível com máquinas ZAPP."
+    ],
+    "imagem": "images/diamantados/turbo-durokort-zapp.jpg",
+    "colunas": [
+      "Perfil",
+      "Aplicação",
+      "Tipo de Corte",
+      "Diâmetro (Ø)",
+      "Diâmetro 1",
+      "Rotação Máxima",
+      "Bucha de Redução",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "perfil",
+      "aplicacao",
+      "tipoCorte",
+      "diametro",
+      "diametro1",
+      "rotacaoMaxima",
+      "buchaReducao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "perfil": "Turbo",
+        "aplicacao": "Zapp 180 BR / Esmerilhadeira 7\"",
+        "tipoCorte": "Seco",
+        "diametro": "180 mm",
+        "diametro1": "25,4 mm",
+        "rotacaoMaxima": "8.450 rpm",
+        "buchaReducao": "22,22 mm",
+        "embalagem": "1",
+        "ean": "7897451416145",
+        "dun": "-",
+        "codigo": "61614"
+      },
+      {
+        "perfil": "Turbo",
+        "aplicacao": "Zapp G2 / ZAPP Fit",
+        "tipoCorte": "Seco",
+        "diametro": "200 mm",
+        "diametro1": "25,4 mm",
+        "rotacaoMaxima": "7.500 rpm",
+        "buchaReducao": "22,22 mm",
+        "embalagem": "1",
+        "ean": "7897451416152",
+        "dun": "-",
+        "codigo": "61615"
+      },
+      {
+        "perfil": "Turbo",
+        "aplicacao": "Zapp 600 / Zapp Titan",
+        "tipoCorte": "Seco",
+        "diametro": "254 mm",
+        "diametro1": "25,4 mm",
+        "rotacaoMaxima": "6.000 rpm",
+        "buchaReducao": "22,22 mm",
+        "embalagem": "1",
+        "ean": "7897451416176",
+        "dun": "-",
+        "codigo": "61617"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "54 (impressa 106-107)"
+    }
+  },
+  {
+    "id": "diamantados-turbo-pedras-naturais-zapp",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Turbo (Pedras Naturais, Linha ZAPP)",
+    "tagline": "Desempenho e precisão para corte de mármore, granito e pedras decorativas.",
+    "descricao": "O Disco Diamantado Turbo Cortag é indicado para corte a seco de mármore, granito e pedras decorativas, garantindo alta performance e acabamento preciso. Com perfil turbo segmentado, oferece excelente ventilação e refrigeração, resultando em cortes rápidos e contínuos sem comprometer a durabilidade do disco.",
+    "destaques": [
+      "Compatível com máquinas ZAPP."
+    ],
+    "imagem": "images/diamantados/turbo-pedras-naturais-zapp.jpg",
+    "colunas": [
+      "Perfil",
+      "Aplicação",
+      "Tipo de Corte",
+      "Diâmetro (Ø)",
+      "Diâmetro 1",
+      "Rotação Máxima",
+      "Bucha de Redução",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "perfil",
+      "aplicacao",
+      "tipoCorte",
+      "diametro",
+      "diametro1",
+      "rotacaoMaxima",
+      "buchaReducao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "perfil": "Turbo",
+        "aplicacao": "ZAPP G2 / ZAPP Fit",
+        "tipoCorte": "Refrigerado",
+        "diametro": "200 mm",
+        "diametro1": "25,4 mm",
+        "rotacaoMaxima": "7.600 rpm",
+        "buchaReducao": "16 mm",
+        "embalagem": "1",
+        "ean": "7897451463507",
+        "dun": "-",
+        "codigo": "60350"
+      },
+      {
+        "perfil": "Turbo",
+        "aplicacao": "ZAPP 600 / ZAPP Titan",
+        "tipoCorte": "Refrigerado",
+        "diametro": "254 mm",
+        "diametro1": "25,4 mm",
+        "rotacaoMaxima": "6.000 rpm",
+        "buchaReducao": "16 mm",
+        "embalagem": "1",
+        "ean": "7897451420166",
+        "dun": "-",
+        "codigo": "62016"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "54 (impressa 106-107)"
+    }
+  },
+  {
+    "id": "diamantados-continuo-ceramica-zapp",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Contínuo (Cerâmica, Linha ZAPP)",
+    "tagline": "Corte suave e preciso para cerâmicas, azulejos, telhas e tijolos.",
+    "descricao": "O Disco Diamantado Contínuo Cortag é indicado para corte refrigerado de cerâmicas, azulejos, telhas e tijolos, oferecendo acabamento limpo e de alta precisão. Com borda contínua e design de alta durabilidade, proporciona fluidez no corte e redução de vibrações, garantindo resultados uniformes e sem lascas.",
+    "destaques": [
+      "Compatível com máquinas ZAPP."
+    ],
+    "imagem": "images/diamantados/continuo-ceramica-zapp.jpg",
+    "colunas": [
+      "Perfil",
+      "Aplicação",
+      "Tipo de Corte",
+      "Diâmetro (Ø)",
+      "Diâmetro 1",
+      "Rotação Máxima",
+      "Bucha de Redução",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "perfil",
+      "aplicacao",
+      "tipoCorte",
+      "diametro",
+      "diametro1",
+      "rotacaoMaxima",
+      "buchaReducao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "perfil": "Contínuo",
+        "aplicacao": "Zapp 180 BR / Esmerilhadeira 7\"",
+        "tipoCorte": "Refrigerado",
+        "diametro": "180 mm",
+        "diametro1": "25,4 mm",
+        "rotacaoMaxima": "8.450 rpm",
+        "buchaReducao": "22,22 mm",
+        "embalagem": "1",
+        "ean": "7897451416107",
+        "dun": "-",
+        "codigo": "61610"
+      },
+      {
+        "perfil": "Contínuo",
+        "aplicacao": "Zapp G2 / ZAPP Fit",
+        "tipoCorte": "Refrigerado",
+        "diametro": "200 mm",
+        "diametro1": "25,4 mm",
+        "rotacaoMaxima": "7.500 rpm",
+        "buchaReducao": "22,22 mm",
+        "embalagem": "1",
+        "ean": "7897451416114",
+        "dun": "-",
+        "codigo": "61611"
+      },
+      {
+        "perfil": "Contínuo",
+        "aplicacao": "Zapp 600 / Zapp Titan",
+        "tipoCorte": "Refrigerado",
+        "diametro": "254 mm",
+        "diametro1": "25,4 mm",
+        "rotacaoMaxima": "6.000 rpm",
+        "buchaReducao": "22,22 mm",
+        "embalagem": "1",
+        "ean": "7897451416138",
+        "dun": "-",
+        "codigo": "61613"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "54 (impressa 106-107)"
+    }
+  },
+  {
+    "id": "diamantados-desbaste-liso",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Desbaste Liso",
+    "tagline": "Alto desempenho e precisão no desbaste e acabamento de materiais de alta dureza.",
+    "descricao": "Os Discos de Desbaste Diamantados Lisos Cortag são a escolha ideal para trabalhos profissionais e precisos, oferecendo alta eficiência e versatilidade no desbaste de ardósia, arenito, concreto, granito, mármore, porcelanato, piso granilite e pedras decorativas. Compatíveis com esmerilhadeiras com rosca M14, garantem remoção rápida de material, acabamento uniforme e longa vida útil.",
+    "destaques": [
+      "G80: ideal para desbaste intensivo e remoção agressiva de materiais.",
+      "G100: indicado para desbaste intermediário e acabamento controlado.",
+      "G120: ideal para remoções finas e acabamento final de alta qualidade."
+    ],
+    "imagem": "images/diamantados/desbaste-liso.jpg",
+    "colunas": [
+      "Perfil",
+      "Tipo de Corte",
+      "Diâmetro (Ø)",
+      "Rotação Máx.",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "perfil",
+      "tipoCorte",
+      "diametro",
+      "rotacaoMaxima",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "perfil": "Contínuo",
+        "tipoCorte": "Seco",
+        "diametro": "100 mm - G80",
+        "rotacaoMaxima": "12.200 rpm",
+        "embalagem": "3",
+        "ean": "7897451429510",
+        "dun": "17897451429517",
+        "codigo": "62951"
+      },
+      {
+        "perfil": "Contínuo",
+        "tipoCorte": "Seco",
+        "diametro": "100 mm - G100",
+        "rotacaoMaxima": "12.200 rpm",
+        "embalagem": "3",
+        "ean": "7897451429527",
+        "dun": "17897451429524",
+        "codigo": "62952"
+      },
+      {
+        "perfil": "Contínuo",
+        "tipoCorte": "Seco",
+        "diametro": "100 mm - G120",
+        "rotacaoMaxima": "12.200 rpm",
+        "embalagem": "3",
+        "ean": "7897451429534",
+        "dun": "17897451429531",
+        "codigo": "62953"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "55 (impressa 108-109)"
+    }
+  },
+  {
+    "id": "diamantados-desbaste-turbo",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Desbaste Turbo",
+    "tagline": "Alto poder de remoção e desempenho no desbaste de materiais de alta dureza.",
+    "descricao": "Os Discos de Desbaste Diamantados Cortag são indicados para trabalhos em mármore, granito, pedras decorativas, concreto, alvenaria e materiais similares, garantindo eficiência e durabilidade em aplicações intensivas. Compatíveis com esmerilhadeiras angulares (rosca M14), oferecem remoção rápida de material e acabamento controlado, mantendo estabilidade e segurança durante o uso.",
+    "imagem": "images/diamantados/desbaste-turbo.jpg",
+    "colunas": [
+      "Perfil",
+      "Tipo de Corte",
+      "Diâmetro (Ø)",
+      "Rotação Máx.",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "perfil",
+      "tipoCorte",
+      "diametro",
+      "rotacaoMaxima",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "perfil": "Turbo",
+        "tipoCorte": "Seco",
+        "diametro": "115 mm",
+        "rotacaoMaxima": "13.000 rpm",
+        "embalagem": "6",
+        "ean": "7897451417531",
+        "dun": "17897451417538",
+        "codigo": "61753"
+      },
+      {
+        "perfil": "Turbo",
+        "tipoCorte": "Seco",
+        "diametro": "125 mm",
+        "rotacaoMaxima": "12.200 rpm",
+        "embalagem": "6",
+        "ean": "7897451461787",
+        "dun": "17897451461784",
+        "codigo": "60178"
+      },
+      {
+        "perfil": "Turbo",
+        "tipoCorte": "Seco",
+        "diametro": "180 mm",
+        "rotacaoMaxima": "8.500 rpm",
+        "embalagem": "6",
+        "ean": "7897451417555",
+        "dun": "17897451417552",
+        "codigo": "61755"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "55 (impressa 108-109)"
+    }
+  },
+  {
+    "id": "diamantados-desbaste-segmentado",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Desbaste Segmentado",
+    "tagline": "Alto poder de remoção e desempenho no desbaste de materiais de alta dureza.",
+    "descricao": "Os Discos de Desbaste Diamantados Cortag são indicados para trabalhos em mármore, granito, pedras decorativas, concreto, alvenaria e materiais similares, garantindo eficiência e durabilidade em aplicações intensivas. Compatíveis com esmerilhadeiras angulares (rosca M14), oferecem remoção rápida de material e acabamento controlado, mantendo estabilidade e segurança durante o uso.",
+    "imagem": "images/diamantados/desbaste-segmentado.jpg",
+    "colunas": [
+      "Perfil",
+      "Tipo de Corte",
+      "Diâmetro (Ø)",
+      "Rotação Máx.",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "perfil",
+      "tipoCorte",
+      "diametro",
+      "rotacaoMaxima",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "perfil": "Segmentado",
+        "tipoCorte": "Seco",
+        "diametro": "115 mm",
+        "rotacaoMaxima": "13.000 rpm",
+        "embalagem": "6",
+        "ean": "7897451417548",
+        "dun": "17897451417545",
+        "codigo": "61754"
+      },
+      {
+        "perfil": "Segmentado",
+        "tipoCorte": "Seco",
+        "diametro": "125 mm",
+        "rotacaoMaxima": "12.200 rpm",
+        "embalagem": "6",
+        "ean": "7897451461794",
+        "dun": "17897451461791",
+        "codigo": "60179"
+      },
+      {
+        "perfil": "Segmentado",
+        "tipoCorte": "Seco",
+        "diametro": "180 mm",
+        "rotacaoMaxima": "8.500 rpm",
+        "embalagem": "6",
+        "ean": "7897451417562",
+        "dun": "17897451417569",
+        "codigo": "61756"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "55 (impressa 108-109)"
+    }
+  },
+  {
+    "id": "diamantados-tipo-conico",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Rebolo Tipo Cônico",
+    "tagline": "Alto poder de desbaste e acabamento em mármore, granito e porcelanatos.",
+    "descricao": "Os Rebolos tipo Copo Cônico Cortag são indicados para uso em esmerilhadeiras angulares com rosca M14, ideais para desbaste e acabamento em pisos e revestimentos como mármore, granito, cerâmicas e porcelanatos. Com formato cônico, proporcionam melhor controle e desempenho uniforme, garantindo maior eficiência e durabilidade em trabalhos profissionais de nivelamento e acabamento.",
+    "destaques": [
+      "Disponíveis em grãos G-60, G-80 e G-120, para diferentes níveis de remoção e polimento."
+    ],
+    "imagem": "images/diamantados/tipo-conico.jpg",
+    "colunas": [
+      "Modelo",
+      "Diâmetro (Ø)",
+      "Altura",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "diametro",
+      "altura",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "G-60",
+        "diametro": "100 mm",
+        "altura": "50 mm",
+        "embalagem": "1",
+        "ean": "7897451417487",
+        "codigo": "61748"
+      },
+      {
+        "modelo": "G-80",
+        "diametro": "100 mm",
+        "altura": "50 mm",
+        "embalagem": "1",
+        "ean": "7897451417494",
+        "codigo": "61749"
+      },
+      {
+        "modelo": "G-120",
+        "diametro": "100 mm",
+        "altura": "50 mm",
+        "embalagem": "1",
+        "ean": "7897451417500",
+        "codigo": "61750"
+      },
+      {
+        "modelo": "G-60",
+        "diametro": "75 mm",
+        "altura": "50 mm",
+        "embalagem": "1",
+        "ean": "7897451421125",
+        "codigo": "62112"
+      },
+      {
+        "modelo": "G-80",
+        "diametro": "75 mm",
+        "altura": "50 mm",
+        "embalagem": "1",
+        "ean": "7897451421132",
+        "codigo": "62113"
+      },
+      {
+        "modelo": "G-120",
+        "diametro": "75 mm",
+        "altura": "50 mm",
+        "embalagem": "1",
+        "ean": "7897451421149",
+        "codigo": "62114"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "55 (impressa 108-109)"
+    }
+  },
+  {
+    "id": "diamantados-polimento-seco-umido",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Polimento Seco/Úmido",
+    "tagline": "Acabamento profissional e alto brilho para mármore, granito e pedras naturais.",
+    "descricao": "Os Discos Diamantados de Polimento Brilho D'Água – Úmido Cortag são indicados para acabamento e polimento de mármore, granito e pedras naturais, garantindo brilho intenso e acabamento uniforme. Podem ser utilizados com esmerilhadeira angular e disco de suporte (não incluso), adaptando-se a processos de polimento seco ou úmido.",
+    "destaques": [
+      "Diâmetro de 100 mm e furo central de 22,22 mm, disponíveis em diversas granulações do desbaste inicial ao acabamento final."
+    ],
+    "imagem": "images/diamantados/polimento-seco-umido.jpg",
+    "colunas": [
+      "Modelo",
+      "Cor",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "cor",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "G-50",
+        "cor": "Azul",
+        "embalagem": "10",
+        "ean": "7897451421453",
+        "dun": "17897451421450",
+        "codigo": "62145"
+      },
+      {
+        "modelo": "G-100",
+        "cor": "Amarelo",
+        "embalagem": "10",
+        "ean": "7897451421460",
+        "dun": "17897451421467",
+        "codigo": "62146"
+      },
+      {
+        "modelo": "G-200",
+        "cor": "Laranja",
+        "embalagem": "10",
+        "ean": "7897451421477",
+        "dun": "17897451421474",
+        "codigo": "62147"
+      },
+      {
+        "modelo": "G-400",
+        "cor": "Vermelho",
+        "embalagem": "10",
+        "ean": "7897451421484",
+        "dun": "17897451421481",
+        "codigo": "62148"
+      },
+      {
+        "modelo": "G-800",
+        "cor": "Verde",
+        "embalagem": "10",
+        "ean": "7897451421491",
+        "dun": "17897451421498",
+        "codigo": "62149"
+      },
+      {
+        "modelo": "G-1500",
+        "cor": "Verde Claro",
+        "embalagem": "10",
+        "ean": "7897451421507",
+        "dun": "17897451421504",
+        "codigo": "62150"
+      },
+      {
+        "modelo": "G-3000",
+        "cor": "Marrom",
+        "embalagem": "10",
+        "ean": "7897451421514",
+        "dun": "17897451421511",
+        "codigo": "62151"
+      },
+      {
+        "modelo": "Kit: 2xG-50 / 4xG-100 / 2xG-200 / 2xG-400",
+        "cor": "Azul, Amarelo, Laranja, Vermelho",
+        "embalagem": "1",
+        "ean": "7897451421576",
+        "dun": "–",
+        "codigo": "62157"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "56 (impressa 110-111)"
+    }
+  },
+  {
+    "id": "diamantados-polimento-4-passos",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Disco de Polimento 4 Passos",
+    "tagline": "Acabamento de alto brilho e precisão em apenas 4 etapas de polimento.",
+    "descricao": "Os Discos Diamantados de Polimento – 4 Passos Cortag são indicados para polimento de superfícies irregulares de pedras naturais e para ajustes finos em cortes de pisos de porcelanato, inclusive em ângulos de 45°. Seu sistema de 4 etapas progressivas (do desbaste ao brilho final) proporciona acabamento uniforme e de alta qualidade, reduzindo o tempo de trabalho e a necessidade de múltiplos discos.",
+    "destaques": [
+      "Compatíveis com esmerilhadeiras angulares, podem ser utilizados a seco."
+    ],
+    "imagem": "images/diamantados/polimento-4-passos.jpg",
+    "colunas": [
+      "Modelo",
+      "Tipo de Corte",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "tipoCorte",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Disco de Polimento - Passo 1",
+        "tipoCorte": "Seco",
+        "embalagem": "10",
+        "ean": "7897451428063",
+        "dun": "17897451428060",
+        "codigo": "62806"
+      },
+      {
+        "modelo": "Disco de Polimento - Passo 2",
+        "tipoCorte": "Seco",
+        "embalagem": "10",
+        "ean": "7897451428070",
+        "dun": "17897451428077",
+        "codigo": "62807"
+      },
+      {
+        "modelo": "Disco de Polimento - Passo 3",
+        "tipoCorte": "Seco",
+        "embalagem": "10",
+        "ean": "7897451428087",
+        "dun": "17897451428084",
+        "codigo": "62808"
+      },
+      {
+        "modelo": "Disco de Polimento - Passo 4",
+        "tipoCorte": "Seco",
+        "embalagem": "10",
+        "ean": "7897451428094",
+        "dun": "17897451428091",
+        "codigo": "62809"
+      },
+      {
+        "modelo": "Jogo Disco de Polimento - 4 Un.",
+        "tipoCorte": "Seco",
+        "embalagem": "1",
+        "ean": "7897451428100",
+        "dun": "–",
+        "codigo": "62810"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "56 (impressa 110-111)"
+    }
+  },
+  {
+    "id": "diamantados-jogo-7-pecas-polimento",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Jogo 7 Peças de Discos Diamantados de Polimento",
+    "tagline": "Acabamento profissional e brilho superior em um conjunto completo de 7 etapas.",
+    "descricao": "O Kit de Discos Diamantados de Polimento – 7 Peças Cortag oferece um acabamento altamente profissional e uniforme, ideal para polimento de mármore, granito, porcelanato e pedras naturais. Com diâmetro de 100 mm, os discos devem ser utilizados com refrigeração (polimento úmido), garantindo melhor dissipação de calor e maior durabilidade.",
+    "destaques": [
+      "Composição do Kit: G50 / G100 / G200 / G400 / G800 / G1500 / G3000.",
+      "Permite trabalho contínuo e progressivo, do desbaste até o brilho final."
+    ],
+    "imagem": "images/diamantados/jogo-7-pecas-polimento.jpg",
+    "colunas": [
+      "Discos Inclusos",
+      "Diâmetro (Ø)",
+      "Tipo de Corte",
+      "Emb. Padrão",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "discosInclusos",
+      "diametro",
+      "tipoCorte",
+      "embPadrao",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "discosInclusos": "G-50 / G-100 / G-200 / G-400 / G-800 / G-1500 / G-3000",
+        "diametro": "100 mm",
+        "tipoCorte": "Refrigerado",
+        "embPadrao": "7",
+        "ean": "7897451428032",
+        "dun": "17897451428039",
+        "codigo": "62803"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "57 (impressa 112-113)"
+    }
+  },
+  {
+    "id": "diamantados-polimento-buff",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Polimento \"BUFF\"",
+    "tagline": "Brilho final profissional para mármore, granito e pedras naturais.",
+    "descricao": "Os Discos Diamantados de Polimento Brilho D'Água – Úmido \"Buff\" Cortag são indicados para o acabamento final e polimento de mármore, granito e pedras naturais, proporcionando brilho intenso e uniforme (também conhecido como \"brilho d'água\"). Devem ser utilizados em esmerilhadeira angular com suporte de fixação (não incluso), em processo úmido, para garantir melhor dissipação de calor e acabamento superior.",
+    "destaques": [
+      "Disponíveis nas cores preto e branco, adequadas para diferentes tons e tipos de pedra."
+    ],
+    "imagem": "images/diamantados/polimento-buff.jpg",
+    "colunas": [
+      "Cor",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "cor",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "cor": "Preto",
+        "embalagem": "10",
+        "ean": "7897451421538",
+        "dun": "17897451421535",
+        "codigo": "62153"
+      },
+      {
+        "cor": "Branco",
+        "embalagem": "10",
+        "ean": "7897451421545",
+        "dun": "17897451421542",
+        "codigo": "62154"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "57 (impressa 112-113)"
+    }
+  },
+  {
+    "id": "diamantados-disco-flexivel-diamantado",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Disco Flexível Diamantado",
+    "tagline": "Eficiência, durabilidade e acabamento superior para suas superfícies.",
+    "descricao": "Os Discos Flexíveis Diamantados Cortag foram desenvolvidos para agilizar e aperfeiçoar os trabalhos de acabamento. Com tecnologia eletrodepositada, oferecem maior vida útil, precisão no desbaste e excelente desempenho em superfícies diversas. São ideais para quem busca qualidade, produtividade e segurança em cada etapa.",
+    "imagem": "images/diamantados/disco-flexivel-diamantado.jpg",
+    "colunas": [
+      "Modelo",
+      "Cor",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "cor",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "G-60",
+        "cor": "Vermelho",
+        "embalagem": "3",
+        "ean": "7897451431186",
+        "dun": "17897451431183",
+        "codigo": "63118"
+      },
+      {
+        "modelo": "G-120",
+        "cor": "Preto",
+        "embalagem": "3",
+        "ean": "7897451431193",
+        "dun": "17897451431190",
+        "codigo": "63119"
+      },
+      {
+        "modelo": "G-200",
+        "cor": "Verde",
+        "embalagem": "3",
+        "ean": "7897451431209",
+        "dun": "17897451431206",
+        "codigo": "63120"
+      },
+      {
+        "modelo": "G-400",
+        "cor": "Amarelo",
+        "embalagem": "3",
+        "ean": "7897451431216",
+        "dun": "17897451431213",
+        "codigo": "63121"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "57 (impressa 112-113)"
+    }
+  },
+  {
+    "id": "diamantados-disco-flap-diamantado",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Disco Flap Diamantado",
+    "tagline": "Eficiência e precisão no desbaste de materiais sensíveis.",
+    "descricao": "Os Discos Flap Diamantados para Desbaste Cortag foram desenvolvidos para proporcionar facilidade e qualidade no acabamento de cerâmicas, porcelanatos, pedras naturais, vidros e outros materiais delicados. Com tecnologia diamantada eletrodepositada, garantem maior vida útil e superfícies mais precisas, inclusive em cortes com ângulo de 45°.",
+    "imagem": "images/diamantados/disco-flap-diamantado.jpg",
+    "colunas": [
+      "Modelo",
+      "Cor",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "cor",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "BF G-60",
+        "cor": "Vermelho",
+        "embalagem": "1",
+        "ean": "7897451431223",
+        "codigo": "63122"
+      },
+      {
+        "modelo": "BF G-120",
+        "cor": "Preto",
+        "embalagem": "1",
+        "ean": "7897451431230",
+        "codigo": "63123"
+      },
+      {
+        "modelo": "BF G-200",
+        "cor": "Verde",
+        "embalagem": "1",
+        "ean": "7897451431247",
+        "codigo": "63124"
+      },
+      {
+        "modelo": "BF G-400",
+        "cor": "Amarelo",
+        "embalagem": "1",
+        "ean": "7897451431254",
+        "codigo": "63125"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "58 (impressa 114-115)"
+    }
+  },
+  {
+    "id": "diamantados-suporte-disco-polimento",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Suporte para Disco de Polimento",
+    "tagline": "Fixação segura e durabilidade para discos de polimento.",
+    "descricao": "O Suporte de Poliuretano Cortag é indicado para fixação dos discos diamantados de polimento, garantindo adesão firme, estabilidade e maior durabilidade durante o uso. Compatível com esmerilhadeiras angulares com rosca M14, possui diâmetro de 100 mm e estrutura resistente, que proporciona uniformidade e precisão no polimento.",
+    "imagem": "images/diamantados/suporte-disco-polimento.jpg",
+    "colunas": [
+      "Modelo",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Suporte",
+        "embalagem": "6",
+        "ean": "7897451421521",
+        "dun": "17897451421528",
+        "codigo": "62152"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "58 (impressa 114-115)"
+    }
+  },
+  {
+    "id": "diamantados-polimento-seco-umido-jogo8-suporte",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Polimento Seco/Úmido — Jogo 8 Peças e Suporte",
+    "tagline": "Kit completo para polimento profissional de superfícies naturais e porcelanatos.",
+    "descricao": "O Jogo 8 Peças e Suporte Ø100 mm Cortag reúne discos diamantados de polimento Brilho D'Água – Úmido e suporte de poliuretano, oferecendo praticidade e excelente acabamento em mármore, granito, porcelanato e pedras naturais. O conjunto permite realizar todas as etapas de polimento, do desbaste ao brilho final, com desempenho superior e longa durabilidade.",
+    "imagem": "images/diamantados/polimento-seco-umido-jogo8-suporte.jpg",
+    "colunas": [
+      "Modelo",
+      "Embalagem",
+      "EAN 13",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "embalagem",
+      "ean",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "Disco Diamant. Polimento Seco/Úmido Ø100 mm jogo 8 pç+suporte",
+        "embalagem": "1",
+        "ean": "7897451421583",
+        "codigo": "62158"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "58 (impressa 114-115)"
+    }
+  },
+  {
+    "id": "diamantados-fresa-reta-conica",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Fresa Diamantada Reta Cônica",
+    "tagline": "Acabamento profissional e alto brilho para mármore, granito e pedras naturais.",
+    "descricao": "As Fresas Diamantadas Cortag foram desenvolvidas para acabamentos em furos pré-existentes e para alargamento e polimento de bordas em cortes de porcelanatos, cerâmicas, mármores, granitos e pedras decorativas. Com formato cônico, facilitam o escarçamento de superfícies e o acabamento em ângulos de 45°, proporcionando resultados precisos e acabamento profissional.",
+    "destaques": [
+      "Indicadas para uso em esmerilhadeiras angulares, oferecem alto desempenho, produtividade e longa vida útil."
+    ],
+    "imagem": "images/diamantados/fresa-reta-conica.jpg",
+    "colunas": [
+      "Diâmetro (Ø)",
+      "Altura",
+      "Encaixe",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "diametro",
+      "altura",
+      "encaixe",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "diametro": "5,5 mm",
+        "altura": "77 mm",
+        "encaixe": "Rosca M14",
+        "ean": "7897451430035",
+        "dun": "17897451430032",
+        "codigo": "63003"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "59 (impressa 116-117)"
+    }
+  },
+  {
+    "id": "diamantados-fresa-reta",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Fresa Diamantada Reta",
+    "tagline": "Acabamento profissional e alto brilho para mármore, granito e pedras naturais.",
+    "descricao": "As Fresas Diamantadas Cortag foram desenvolvidas para acabamentos em furos pré-existentes e para alargamento e polimento de bordas em cortes de porcelanatos, cerâmicas, mármores, granitos e pedras decorativas. Indicadas para uso em esmerilhadeiras angulares, oferecem alto desempenho, produtividade e longa vida útil.",
+    "imagem": "images/diamantados/fresa-reta.jpg",
+    "colunas": [
+      "Diâmetro (Ø)",
+      "Altura",
+      "Encaixe",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "diametro",
+      "altura",
+      "encaixe",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "diametro": "20 mm",
+        "altura": "57 mm",
+        "encaixe": "Rosca M14",
+        "ean": "7897451462067",
+        "dun": "17897451462064",
+        "codigo": "60206"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "59 (impressa 116-117)"
+    }
+  },
+  {
+    "id": "diamantados-fresa-conica",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Fresa Diamantada Cônica",
+    "tagline": "Acabamento profissional e alto brilho para mármore, granito e pedras naturais.",
+    "descricao": "As Fresas Diamantadas Cortag foram desenvolvidas para acabamentos em furos pré-existentes e para alargamento e polimento de bordas em cortes de porcelanatos, cerâmicas, mármores, granitos e pedras decorativas. Com formato cônico, facilitam o escarçamento de superfícies e o acabamento em ângulos de 45°.",
+    "imagem": "images/diamantados/fresa-conica.jpg",
+    "colunas": [
+      "Diâmetro (Ø)",
+      "Altura",
+      "Encaixe",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "diametro",
+      "altura",
+      "encaixe",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "diametro": "2 mm",
+        "altura": "33 mm",
+        "encaixe": "Rosca M14",
+        "ean": "7897451462104",
+        "dun": "17897451462101",
+        "codigo": "60210"
+      },
+      {
+        "diametro": "35 mm",
+        "altura": "76 mm",
+        "encaixe": "Rosca M14",
+        "ean": "7897451462159",
+        "dun": "17897451462156",
+        "codigo": "60215"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "59 (impressa 116-117)"
+    }
+  },
+  {
+    "id": "diamantados-fresa-para-cantos",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Fresa Diamantada Para Cantos",
+    "tagline": "Versatilidade e precisão para desbaste e acabamento em cantos.",
+    "descricao": "A Fresa Diamantada para Cantos é uma solução versátil e durável, ideal para o dia a dia da obra. Seu formato inovador facilita o desbaste de revestimentos e remove material residual nos cantos após cortes para caixinhas de luz e tomadas, garantindo alta precisão e acabamento profissional. Indicada para cerâmicas e porcelanatos, oferece eficiência, resistência e longa vida útil.",
+    "imagem": "images/diamantados/fresa-para-cantos.jpg",
+    "colunas": [
+      "Diâmetro (Ø)",
+      "Altura",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "diametro",
+      "altura",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "diametro": "56 mm",
+        "altura": "120 mm",
+        "embalagem": "3",
+        "ean": "7897451428315",
+        "dun": "17897451428312",
+        "codigo": "62831"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "59 (impressa 116-117)"
+    }
+  },
+  {
+    "id": "diamantados-fresa-escariadora-furos",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Fresa Diamantada Escariadora de Furos",
+    "tagline": "Escareamento preciso e acabamento superior em porcelanatos e pedras naturais.",
+    "descricao": "A Fresa Diamantada para Escareamento foi desenvolvida para oferecer precisão, praticidade e desempenho no uso profissional. Possui encaixe superior com rosca ½\" BSP para furadeiras de bancada e encaixe inferior M14, ideal para esmerilhadeiras, garantindo versatilidade nas aplicações. O perfil contínuo proporciona escareamento suave e preciso, enquanto o rebaixo escariador facilita a remoção da ferramenta após o uso.",
+    "imagem": "images/diamantados/fresa-escariadora-furos.jpg",
+    "colunas": [
+      "Diâmetro (Ø)",
+      "Altura",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "diametro",
+      "altura",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "diametro": "32 mm",
+        "altura": "60 mm",
+        "embalagem": "1",
+        "ean": "7897451430905",
+        "dun": "-",
+        "codigo": "63090"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "59 (impressa 116-117)"
+    }
+  },
+  {
+    "id": "diamantados-esponjas-diamantadas",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Esponjas Diamantadas",
+    "tagline": "Qualidade e precisão para lixamento, desbaste e acabamento manual.",
+    "descricao": "As Esponjas Diamantadas Cortag são indicadas para lixamento, desbaste e acabamento de cerâmica, porcelanato, mármore, granito, vidro e outros materiais. Permitem acabamento manual preciso, com alto poder de polimento e remoção rápida de material. Oferecem qualidade, estabilidade e longa vida útil, sendo resistentes ao calor e à alta pressão.",
+    "imagem": "images/diamantados/esponjas-diamantadas.jpg",
+    "colunas": [
+      "Modelo",
+      "Cor",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "modelo",
+      "cor",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "modelo": "G-60",
+        "cor": "Vermelha",
+        "embalagem": "3",
+        "ean": "7897451466621",
+        "dun": "37897451466622",
+        "codigo": "60662"
+      },
+      {
+        "modelo": "G-120",
+        "cor": "Preta",
+        "embalagem": "3",
+        "ean": "7897451466638",
+        "dun": "37897451466639",
+        "codigo": "60663"
+      },
+      {
+        "modelo": "G-200",
+        "cor": "Verde",
+        "embalagem": "3",
+        "ean": "7897451431261",
+        "dun": "17897451431268",
+        "codigo": "63126"
+      },
+      {
+        "modelo": "G-400",
+        "cor": "Amarelo",
+        "embalagem": "3",
+        "ean": "7897451431278",
+        "dun": "17897451431275",
+        "codigo": "63127"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "60 (impressa 118-119)"
+    }
+  },
+  {
+    "id": "diamantados-disco-madeira-corrente-motosserra",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Disco para Madeira com Corrente de Motosserra",
+    "tagline": "Corte rápido, desbaste eficiente e entalhes precisos em madeira.",
+    "descricao": "O Disco para Madeira com Corrente de Motosserra é a solução ideal para cortes, entalhes e desbaste em peças de madeira. Desenvolvido para uso intenso, proporciona maior controle, velocidade e precisão, garantindo segurança e alta performance para profissionais exigentes.",
+    "imagem": "images/diamantados/disco-madeira-corrente-motosserra.jpg",
+    "colunas": [
+      "Diâmetro (Ø)",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "diametro",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "diametro": "115 mm",
+        "embalagem": "10",
+        "ean": "7897451429039",
+        "dun": "17897451429036",
+        "codigo": "62903"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "60 (impressa 118-119)"
+    }
+  },
+  {
+    "id": "diamantados-disco-tungstenio",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Disco Tungstênio",
+    "tagline": "Desempenho e precisão no corte de madeira, MDF e compensados.",
+    "descricao": "O Disco de Corte com Tungstênio Cortag foi especialmente desenvolvido para corte de madeira, MDF, aglomerado, compensado, pisos laminados e plásticos, garantindo alta precisão, durabilidade e acabamento limpo. Ideal também para uso na construção civil, suporta cortes em madeiras com pregos, resíduos de argamassa ou concreto, sem comprometer o desempenho. Fabricado com segmentos de carboneto de tungstênio de alta resistência.",
+    "imagem": "images/diamantados/disco-tungstenio.jpg",
+    "colunas": [
+      "Perfil",
+      "Aplicação",
+      "Tipo de Corte",
+      "Diâmetro (Ø)",
+      "Diâmetro 1",
+      "Rotação Máxima",
+      "Bucha de Redução",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "perfil",
+      "aplicacao",
+      "tipoCorte",
+      "diametro",
+      "diametro1",
+      "rotacaoMaxima",
+      "buchaReducao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "perfil": "Segmentado",
+        "aplicacao": "Serra mármore",
+        "tipoCorte": "Seco",
+        "diametro": "110 mm",
+        "diametro1": "20 mm",
+        "rotacaoMaxima": "14.000 rpm",
+        "buchaReducao": "16 mm",
+        "embalagem": "10",
+        "ean": "7897451413465",
+        "dun": "17897451413462",
+        "codigo": "61346"
+      },
+      {
+        "perfil": "Segmentado",
+        "aplicacao": "Serra mármore",
+        "tipoCorte": "Seco",
+        "diametro": "180 mm",
+        "diametro1": "22,2 mm",
+        "rotacaoMaxima": "8.450 rpm",
+        "buchaReducao": "20 mm e 16 mm",
+        "embalagem": "4",
+        "ean": "7897451466492",
+        "dun": "17897451466499",
+        "codigo": "60649"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "60 (impressa 118-119)"
+    }
+  },
+  {
+    "id": "diamantados-lamina-serra-circular-madeira",
+    "categoria": "diamantados",
+    "categoriaNome": "Diamantados",
+    "linha": "Lâmina de Serra Circular para Madeira",
+    "tagline": "Corte rápido, limpo e preciso em madeira, MDF e compensados.",
+    "descricao": "As Lâminas de Serra Cortag são projetadas para corte de madeira, MDF, aglomerados, compensados e derivados, oferecendo acabamento limpo, precisão e durabilidade. Produzidas em aço carbono de alta qualidade, com dentes de metal duro (vídia), garantem alta resistência ao desgaste e excelente estabilidade de corte, mesmo em longas jornadas de trabalho.",
+    "destaques": [
+      "Não são indicadas para o corte de metais ou madeiras impregnadas com cimento ou massa."
+    ],
+    "imagem": "images/diamantados/lamina-serra-circular-madeira.jpg",
+    "colunas": [
+      "Número de Dentes",
+      "Diâmetro (Ø)",
+      "Diâmetro 1",
+      "Rotação Máxima",
+      "Bucha de Redução",
+      "Embalagem",
+      "EAN 13",
+      "DUN 14",
+      "Código"
+    ],
+    "camposVariante": [
+      "numeroDentes",
+      "diametro",
+      "diametro1",
+      "rotacaoMaxima",
+      "buchaReducao",
+      "embalagem",
+      "ean",
+      "dun",
+      "codigo"
+    ],
+    "variantes": [
+      {
+        "numeroDentes": "12 dentes",
+        "diametro": "110 mm",
+        "diametro1": "20 mm",
+        "rotacaoMaxima": "12.100 rpm",
+        "buchaReducao": "16 mm",
+        "embalagem": "10",
+        "ean": "7897451413472",
+        "dun": "17897451413479",
+        "codigo": "61347"
+      },
+      {
+        "numeroDentes": "24 dentes",
+        "diametro": "110 mm",
+        "diametro1": "20 mm",
+        "rotacaoMaxima": "12.100 rpm",
+        "buchaReducao": "16 mm",
+        "embalagem": "10",
+        "ean": "7897451468649",
+        "dun": "17897451468646",
+        "codigo": "60864"
+      },
+      {
+        "numeroDentes": "36 dentes",
+        "diametro": "110 mm",
+        "diametro1": "20 mm",
+        "rotacaoMaxima": "12.100 rpm",
+        "buchaReducao": "16 mm",
+        "embalagem": "10",
+        "ean": "7897451468793",
+        "dun": "17897451468790",
+        "codigo": "60879"
+      },
+      {
+        "numeroDentes": "24 dentes",
+        "diametro": "185 mm",
+        "diametro1": "20 mm",
+        "rotacaoMaxima": "7.200 rpm",
+        "buchaReducao": "16 mm",
+        "embalagem": "10",
+        "ean": "7897451467536",
+        "dun": "17897451467533",
+        "codigo": "60753"
+      },
+      {
+        "numeroDentes": "36 dentes",
+        "diametro": "185 mm",
+        "diametro1": "20 mm",
+        "rotacaoMaxima": "7.200 rpm",
+        "buchaReducao": "16 mm",
+        "embalagem": "10",
+        "ean": "7897451414486",
+        "dun": "17897451414483",
+        "codigo": "61448"
+      },
+      {
+        "numeroDentes": "48 dentes",
+        "diametro": "185 mm",
+        "diametro1": "20 mm",
+        "rotacaoMaxima": "7.200 rpm",
+        "buchaReducao": "16 mm",
+        "embalagem": "6",
+        "ean": "7897451417661",
+        "dun": "17897451417668",
+        "codigo": "61766"
+      },
+      {
+        "numeroDentes": "24 dentes",
+        "diametro": "235 mm",
+        "diametro1": "25 mm",
+        "rotacaoMaxima": "5.700 rpm",
+        "buchaReducao": "16 mm",
+        "embalagem": "6",
+        "ean": "7897451417678",
+        "dun": "17897451417675",
+        "codigo": "61767"
+      },
+      {
+        "numeroDentes": "36 dentes",
+        "diametro": "235 mm",
+        "diametro1": "25 mm",
+        "rotacaoMaxima": "5.700 rpm",
+        "buchaReducao": "16 mm",
+        "embalagem": "6",
+        "ean": "7897451417685",
+        "dun": "17897451417682",
+        "codigo": "61768"
+      },
+      {
+        "numeroDentes": "48 dentes",
+        "diametro": "235 mm",
+        "diametro1": "25 mm",
+        "rotacaoMaxima": "5.700 rpm",
+        "buchaReducao": "16 mm",
+        "embalagem": "6",
+        "ean": "7897451417692",
+        "dun": "17897451417699",
+        "codigo": "61769"
+      },
+      {
+        "numeroDentes": "24 dentes",
+        "diametro": "250 mm",
+        "diametro1": "30 mm",
+        "rotacaoMaxima": "5.350 rpm",
+        "buchaReducao": "16 mm",
+        "embalagem": "6",
+        "ean": "7897451417708",
+        "dun": "17897451417705",
+        "codigo": "61770"
+      },
+      {
+        "numeroDentes": "36 dentes",
+        "diametro": "250 mm",
+        "diametro1": "30 mm",
+        "rotacaoMaxima": "5.350 rpm",
+        "buchaReducao": "16 mm",
+        "embalagem": "6",
+        "ean": "7897451417715",
+        "dun": "17897451417712",
+        "codigo": "61771"
+      },
+      {
+        "numeroDentes": "48 dentes",
+        "diametro": "250 mm",
+        "diametro1": "30 mm",
+        "rotacaoMaxima": "5.350 rpm",
+        "buchaReducao": "16 mm",
+        "embalagem": "6",
+        "ean": "7897451417722",
+        "dun": "17897451417729",
+        "codigo": "61772"
+      },
+      {
+        "numeroDentes": "24 dentes",
+        "diametro": "300 mm",
+        "diametro1": "30 mm",
+        "rotacaoMaxima": "4.450 rpm",
+        "buchaReducao": "16 mm",
+        "embalagem": "6",
+        "ean": "7897451417739",
+        "dun": "17897451417736",
+        "codigo": "61773"
+      },
+      {
+        "numeroDentes": "36 dentes",
+        "diametro": "300 mm",
+        "diametro1": "30 mm",
+        "rotacaoMaxima": "4.450 rpm",
+        "buchaReducao": "16 mm",
+        "embalagem": "6",
+        "ean": "7897451417746",
+        "dun": "17897451417743",
+        "codigo": "61774"
+      },
+      {
+        "numeroDentes": "48 dentes",
+        "diametro": "300 mm",
+        "diametro1": "30 mm",
+        "rotacaoMaxima": "4.450 rpm",
+        "buchaReducao": "16 mm",
+        "embalagem": "6",
+        "ean": "7897451417753",
+        "dun": "17897451417750",
+        "codigo": "61775"
+      },
+      {
+        "numeroDentes": "24 dentes",
+        "diametro": "350 mm",
+        "diametro1": "30 mm",
+        "rotacaoMaxima": "3.800 rpm",
+        "buchaReducao": "25 mm e 16 mm",
+        "embalagem": "6",
+        "ean": "7897451408379",
+        "dun": "17897451408376",
+        "codigo": "60837"
+      },
+      {
+        "numeroDentes": "36 dentes",
+        "diametro": "350 mm",
+        "diametro1": "30 mm",
+        "rotacaoMaxima": "3.800 rpm",
+        "buchaReducao": "25 mm e 16 mm",
+        "embalagem": "6",
+        "ean": "7897451408386",
+        "dun": "17897451408383",
+        "codigo": "60838"
+      },
+      {
+        "numeroDentes": "48 dentes",
+        "diametro": "350 mm",
+        "diametro1": "30 mm",
+        "rotacaoMaxima": "3.800 rpm",
+        "buchaReducao": "25 mm e 16 mm",
+        "embalagem": "6",
+        "ean": "7897451408393",
+        "dun": "17897451408390",
+        "codigo": "60839"
+      }
+    ],
+    "fonte": {
+      "arquivo": "Catálago Livro 2026.pdf",
+      "pagina": "61 (impressa 120)"
+    }
   }
 ]
